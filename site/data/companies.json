@@ -1,0 +1,793 @@
+{
+  "companies": [
+    {
+      "id": "taiwan_cement",
+      "name": "台灣水泥",
+      "short_name": "台泥",
+      "position": "upstream",
+      "role": "建材",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "asia_cement",
+      "name": "亞洲水泥",
+      "short_name": "亞泥",
+      "position": "upstream",
+      "role": "建材",
+      "x": 0.085,
+      "y": 0.34
+    },
+    {
+      "id": "taiwan_glass",
+      "name": "台灣玻璃",
+      "short_name": "台玻",
+      "position": "upstream",
+      "role": "建材",
+      "x": 0.119,
+      "y": 0.34
+    },
+    {
+      "id": "tung_ho_steel",
+      "name": "東和鋼鐵",
+      "short_name": "東鋼",
+      "position": "upstream",
+      "role": "鋼鐵",
+      "x": 0.154,
+      "y": 0.34
+    },
+    {
+      "id": "nippon_steel",
+      "name": "日本製鐵",
+      "short_name": "新日鐵",
+      "position": "upstream",
+      "role": "鋼鐵",
+      "x": 0.188,
+      "y": 0.34
+    },
+    {
+      "id": "crh",
+      "name": "CRH",
+      "short_name": "CRH plc",
+      "position": "upstream",
+      "role": "建材",
+      "x": 0.223,
+      "y": 0.34
+    },
+    {
+      "id": "vulcan_materials",
+      "name": "Vulcan Materials",
+      "short_name": "Vulcan",
+      "position": "upstream",
+      "role": "建材",
+      "x": 0.258,
+      "y": 0.34
+    },
+    {
+      "id": "caterpillar",
+      "name": "Caterpillar",
+      "short_name": "卡特彼勒",
+      "position": "upstream",
+      "role": "營建機械",
+      "x": 0.292,
+      "y": 0.34
+    },
+    {
+      "id": "saint_gobain",
+      "name": "Saint-Gobain",
+      "short_name": "聖戈班",
+      "position": "upstream",
+      "role": "建材",
+      "x": 0.327,
+      "y": 0.34
+    },
+    {
+      "id": "cathay_real_estate",
+      "name": "國泰建設",
+      "short_name": "國建",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.362,
+      "y": 0.34
+    },
+    {
+      "id": "huaku",
+      "name": "華固建設",
+      "short_name": "華固",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.396,
+      "y": 0.34
+    },
+    {
+      "id": "chong_hong",
+      "name": "長虹建設",
+      "short_name": "長虹",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.431,
+      "y": 0.34
+    },
+    {
+      "id": "highwealth",
+      "name": "興富發建設",
+      "short_name": "興富發",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.465,
+      "y": 0.34
+    },
+    {
+      "id": "ruentex",
+      "name": "潤泰新",
+      "short_name": "潤泰",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "kindom",
+      "name": "冠德建設",
+      "short_name": "冠德",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.535,
+      "y": 0.34
+    },
+    {
+      "id": "farglory",
+      "name": "遠雄建設",
+      "short_name": "遠雄",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.569,
+      "y": 0.34
+    },
+    {
+      "id": "huang_hsiang",
+      "name": "皇翔建設",
+      "short_name": "皇翔",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.604,
+      "y": 0.34
+    },
+    {
+      "id": "san_yuan",
+      "name": "三圓建設",
+      "short_name": "三圓",
+      "position": "midstream",
+      "role": "營建",
+      "x": 0.638,
+      "y": 0.34
+    },
+    {
+      "id": "dr_horton",
+      "name": "D.R. Horton",
+      "short_name": "DR Horton",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.673,
+      "y": 0.34
+    },
+    {
+      "id": "lennar",
+      "name": "Lennar",
+      "short_name": "Lennar",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.708,
+      "y": 0.34
+    },
+    {
+      "id": "pultegroup",
+      "name": "PulteGroup",
+      "short_name": "Pulte",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.742,
+      "y": 0.34
+    },
+    {
+      "id": "toll_brothers",
+      "name": "Toll Brothers",
+      "short_name": "Toll Brothers",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.777,
+      "y": 0.34
+    },
+    {
+      "id": "kb_home",
+      "name": "KB Home",
+      "short_name": "KB Home",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.812,
+      "y": 0.34
+    },
+    {
+      "id": "nvr",
+      "name": "NVR",
+      "short_name": "NVR Inc",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.846,
+      "y": 0.34
+    },
+    {
+      "id": "daiwa_house",
+      "name": "大和房屋",
+      "short_name": "大和房屋",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.881,
+      "y": 0.34
+    },
+    {
+      "id": "sekisui_house",
+      "name": "積水房屋",
+      "short_name": "積水房屋",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.915,
+      "y": 0.34
+    },
+    {
+      "id": "sumitomo_forestry",
+      "name": "住友林業",
+      "short_name": "住友林業",
+      "position": "midstream",
+      "role": "住宅建商",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "taiwan_cement",
+      "target": "cathay_real_estate",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "huaku",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "chong_hong",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "highwealth",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "ruentex",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "kindom",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "farglory",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "huang_hsiang",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "san_yuan",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "cathay_real_estate",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "huaku",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "chong_hong",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "highwealth",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "ruentex",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "kindom",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "farglory",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "huang_hsiang",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "san_yuan",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "cathay_real_estate",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "huaku",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "chong_hong",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "highwealth",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "ruentex",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "kindom",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_glass",
+      "target": "farglory",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "cathay_real_estate",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "huaku",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "chong_hong",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "highwealth",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "ruentex",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "kindom",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "farglory",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "huang_hsiang",
+      "strength": 2
+    },
+    {
+      "source": "tung_ho_steel",
+      "target": "san_yuan",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "daiwa_house",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "sekisui_house",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "sumitomo_forestry",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "dr_horton",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "lennar",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "pultegroup",
+      "strength": 2
+    },
+    {
+      "source": "crh",
+      "target": "dr_horton",
+      "strength": 2
+    },
+    {
+      "source": "crh",
+      "target": "lennar",
+      "strength": 2
+    },
+    {
+      "source": "crh",
+      "target": "pultegroup",
+      "strength": 2
+    },
+    {
+      "source": "crh",
+      "target": "toll_brothers",
+      "strength": 2
+    },
+    {
+      "source": "crh",
+      "target": "kb_home",
+      "strength": 2
+    },
+    {
+      "source": "crh",
+      "target": "nvr",
+      "strength": 2
+    },
+    {
+      "source": "vulcan_materials",
+      "target": "dr_horton",
+      "strength": 2
+    },
+    {
+      "source": "vulcan_materials",
+      "target": "lennar",
+      "strength": 2
+    },
+    {
+      "source": "vulcan_materials",
+      "target": "pultegroup",
+      "strength": 2
+    },
+    {
+      "source": "vulcan_materials",
+      "target": "toll_brothers",
+      "strength": 2
+    },
+    {
+      "source": "vulcan_materials",
+      "target": "kb_home",
+      "strength": 2
+    },
+    {
+      "source": "vulcan_materials",
+      "target": "nvr",
+      "strength": 2
+    },
+    {
+      "source": "caterpillar",
+      "target": "dr_horton",
+      "strength": 2
+    },
+    {
+      "source": "caterpillar",
+      "target": "lennar",
+      "strength": 2
+    },
+    {
+      "source": "caterpillar",
+      "target": "pultegroup",
+      "strength": 2
+    },
+    {
+      "source": "caterpillar",
+      "target": "toll_brothers",
+      "strength": 2
+    },
+    {
+      "source": "caterpillar",
+      "target": "daiwa_house",
+      "strength": 2
+    },
+    {
+      "source": "caterpillar",
+      "target": "sekisui_house",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "dr_horton",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "lennar",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "pultegroup",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "toll_brothers",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "kb_home",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "nvr",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "daiwa_house",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "sekisui_house",
+      "strength": 2
+    },
+    {
+      "source": "cathay_real_estate",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "cathay_real_estate",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "huaku",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "huaku",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "chong_hong",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "chong_hong",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "highwealth",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "highwealth",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "ruentex",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "ruentex",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "kindom",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "kindom",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "farglory",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "farglory",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "huang_hsiang",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "huang_hsiang",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "san_yuan",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "san_yuan",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "dr_horton",
+      "target": "xhb",
+      "strength": 2
+    },
+    {
+      "source": "dr_horton",
+      "target": "itb",
+      "strength": 2
+    },
+    {
+      "source": "lennar",
+      "target": "xhb",
+      "strength": 2
+    },
+    {
+      "source": "lennar",
+      "target": "itb",
+      "strength": 2
+    },
+    {
+      "source": "pultegroup",
+      "target": "xhb",
+      "strength": 2
+    },
+    {
+      "source": "pultegroup",
+      "target": "itb",
+      "strength": 2
+    },
+    {
+      "source": "toll_brothers",
+      "target": "xhb",
+      "strength": 2
+    },
+    {
+      "source": "toll_brothers",
+      "target": "itb",
+      "strength": 2
+    },
+    {
+      "source": "kb_home",
+      "target": "xhb",
+      "strength": 2
+    },
+    {
+      "source": "kb_home",
+      "target": "itb",
+      "strength": 2
+    },
+    {
+      "source": "nvr",
+      "target": "xhb",
+      "strength": 2
+    },
+    {
+      "source": "nvr",
+      "target": "itb",
+      "strength": 2
+    },
+    {
+      "source": "daiwa_house",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "daiwa_house",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "sekisui_house",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "sekisui_house",
+      "target": "xlre",
+      "strength": 2
+    },
+    {
+      "source": "sumitomo_forestry",
+      "target": "vnq",
+      "strength": 2
+    },
+    {
+      "source": "sumitomo_forestry",
+      "target": "xlre",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_vnq",
+      "name": "Vanguard Real Estate ETF",
+      "ticker": "VNQ",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "美國最大不動產 ETF，追蹤 MSCI US REIT Index"
+    },
+    {
+      "id": "etf_xlre",
+      "name": "Real Estate Select Sector SPDR",
+      "ticker": "XLRE",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "S&P 500 不動產類股 ETF"
+    },
+    {
+      "id": "etf_xhb",
+      "name": "SPDR S&P Homebuilders ETF",
+      "ticker": "XHB",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "美國住宅建商 ETF"
+    },
+    {
+      "id": "etf_itb",
+      "name": "iShares U.S. Home Construction ETF",
+      "ticker": "ITB",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "美國住宅建設 ETF"
+    }
+  ]
+}

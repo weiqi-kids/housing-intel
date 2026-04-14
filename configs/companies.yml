@@ -1,0 +1,557 @@
+companies:
+- id: taiwan_cement
+  name: 台灣水泥
+  aliases:
+  - Taiwan Cement
+  - 台泥
+  ticker: 1101.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 建材
+  description: 台灣最大水泥製造商
+  ir_url: https://www.taiwancement.com/tw/investor.html
+  downstream:
+  - cathay_real_estate
+  - huaku
+  - chong_hong
+  - highwealth
+  - ruentex
+  - kindom
+  - farglory
+  - huang_hsiang
+  - san_yuan
+- id: asia_cement
+  name: 亞洲水泥
+  aliases:
+  - Asia Cement
+  - 亞泥
+  ticker: 1102.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 建材
+  description: 台灣第二大水泥廠
+  ir_url: https://www.acc.com.tw/investor/
+  downstream:
+  - cathay_real_estate
+  - huaku
+  - chong_hong
+  - highwealth
+  - ruentex
+  - kindom
+  - farglory
+  - huang_hsiang
+  - san_yuan
+- id: taiwan_glass
+  name: 台灣玻璃
+  aliases:
+  - Taiwan Glass
+  - 台玻
+  ticker: 1802.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 建材
+  description: 台灣最大玻璃製造商，供應建築玻璃
+  ir_url: null
+  downstream:
+  - cathay_real_estate
+  - huaku
+  - chong_hong
+  - highwealth
+  - ruentex
+  - kindom
+  - farglory
+- id: tung_ho_steel
+  name: 東和鋼鐵
+  aliases:
+  - Tung Ho Steel
+  - 東鋼
+  ticker: 2006.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 鋼鐵
+  description: 台灣電爐鋼鐵大廠，供應建築用鋼筋
+  ir_url: null
+  downstream:
+  - cathay_real_estate
+  - huaku
+  - chong_hong
+  - highwealth
+  - ruentex
+  - kindom
+  - farglory
+  - huang_hsiang
+  - san_yuan
+- id: nippon_steel
+  name: 日本製鐵
+  aliases:
+  - Nippon Steel
+  - 新日鐵
+  ticker: 5401.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 鋼鐵
+  description: 全球最大鋼鐵製造商之一，供應建築用鋼材
+  ir_url: https://www.nipponsteel.com/ir/
+  downstream:
+  - daiwa_house
+  - sekisui_house
+  - sumitomo_forestry
+  - dr_horton
+  - lennar
+  - pultegroup
+- id: crh
+  name: CRH
+  aliases:
+  - CRH plc
+  ticker: CRH
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 建材
+  description: 全球領先建材公司，水泥、骨料、瀝青
+  ir_url: https://www.crh.com/investors
+  downstream:
+  - dr_horton
+  - lennar
+  - pultegroup
+  - toll_brothers
+  - kb_home
+  - nvr
+- id: vulcan_materials
+  name: Vulcan Materials
+  aliases:
+  - Vulcan
+  ticker: VMC
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 建材
+  description: 美國最大骨料生產商
+  ir_url: https://ir.vulcanmaterials.com/
+  downstream:
+  - dr_horton
+  - lennar
+  - pultegroup
+  - toll_brothers
+  - kb_home
+  - nvr
+- id: caterpillar
+  name: Caterpillar
+  aliases:
+  - CAT
+  - 卡特彼勒
+  ticker: CAT
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 營建機械
+  description: 全球最大營建與礦業設備製造商
+  ir_url: https://www.caterpillar.com/en/investors.html
+  downstream:
+  - dr_horton
+  - lennar
+  - pultegroup
+  - toll_brothers
+  - daiwa_house
+  - sekisui_house
+- id: saint_gobain
+  name: Saint-Gobain
+  aliases:
+  - 聖戈班
+  ticker: SGO.PA
+  market: Euronext
+  currency: EUR
+  position: upstream
+  role: 建材
+  description: 全球建材與高性能材料龍頭
+  ir_url: https://www.saint-gobain.com/en/investors
+  downstream:
+  - dr_horton
+  - lennar
+  - pultegroup
+  - toll_brothers
+  - kb_home
+  - nvr
+  - daiwa_house
+  - sekisui_house
+- id: cathay_real_estate
+  name: 國泰建設
+  aliases:
+  - Cathay Real Estate
+  - 國建
+  ticker: 2501.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 國泰集團旗下建設公司
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - taiwan_glass
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: huaku
+  name: 華固建設
+  aliases:
+  - Huaku Development
+  - 華固
+  ticker: 2548.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 台灣知名豪宅建商
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - taiwan_glass
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: chong_hong
+  name: 長虹建設
+  aliases:
+  - Chong Hong Construction
+  - 長虹
+  ticker: 5534.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 台灣營建業大廠
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - taiwan_glass
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: highwealth
+  name: 興富發建設
+  aliases:
+  - Highwealth Construction
+  - 興富發
+  ticker: 2542.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 台灣大型建商，推案量大
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - taiwan_glass
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: ruentex
+  name: 潤泰新
+  aliases:
+  - Ruentex Development
+  - 潤泰
+  ticker: 9945.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 潤泰集團建設開發
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: kindom
+  name: 冠德建設
+  aliases:
+  - Kindom Construction
+  - 冠德
+  ticker: 2520.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 台灣營建公司
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: farglory
+  name: 遠雄建設
+  aliases:
+  - Farglory Land Development
+  - 遠雄
+  ticker: 5522.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 遠雄集團建設公司，大型造鎮開發
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - taiwan_glass
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: huang_hsiang
+  name: 皇翔建設
+  aliases:
+  - Huang Hsiang Construction
+  - 皇翔
+  ticker: 2545.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 台灣營建公司
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: san_yuan
+  name: 三圓建設
+  aliases:
+  - San Yuan Construction
+  - 三圓
+  ticker: 4416.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 營建
+  description: 台灣營建公司
+  ir_url: null
+  upstream:
+  - taiwan_cement
+  - asia_cement
+  - tung_ho_steel
+  downstream:
+  - vnq
+  - xlre
+- id: dr_horton
+  name: D.R. Horton
+  aliases:
+  - DR Horton
+  ticker: DHI
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 住宅建商
+  description: 美國最大住宅建商
+  ir_url: https://investor.drhorton.com/
+  upstream:
+  - crh
+  - vulcan_materials
+  - caterpillar
+  - saint_gobain
+  - nippon_steel
+  downstream:
+  - xhb
+  - itb
+- id: lennar
+  name: Lennar
+  aliases: []
+  ticker: LEN
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 住宅建商
+  description: 美國第二大住宅建商
+  ir_url: https://investors.lennar.com/
+  upstream:
+  - crh
+  - vulcan_materials
+  - caterpillar
+  - saint_gobain
+  - nippon_steel
+  downstream:
+  - xhb
+  - itb
+- id: pultegroup
+  name: PulteGroup
+  aliases:
+  - Pulte
+  ticker: PHM
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 住宅建商
+  description: 美國大型住宅建商
+  ir_url: https://investors.pultegroupinc.com/
+  upstream:
+  - crh
+  - vulcan_materials
+  - caterpillar
+  - saint_gobain
+  - nippon_steel
+  downstream:
+  - xhb
+  - itb
+- id: toll_brothers
+  name: Toll Brothers
+  aliases: []
+  ticker: TOL
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 住宅建商
+  description: 美國豪宅建商
+  ir_url: https://investors.tollbrothers.com/
+  upstream:
+  - crh
+  - vulcan_materials
+  - caterpillar
+  - saint_gobain
+  downstream:
+  - xhb
+  - itb
+- id: kb_home
+  name: KB Home
+  aliases: []
+  ticker: KBH
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 住宅建商
+  description: 美國住宅建商，專注首購族
+  ir_url: https://investor.kbhome.com/
+  upstream:
+  - crh
+  - vulcan_materials
+  - saint_gobain
+  downstream:
+  - xhb
+  - itb
+- id: nvr
+  name: NVR
+  aliases:
+  - NVR Inc
+  - Ryan Homes
+  ticker: NVR
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 住宅建商
+  description: 美國住宅建商，輕資產模式
+  ir_url: https://www.nvrinc.com/investors/
+  upstream:
+  - crh
+  - vulcan_materials
+  - saint_gobain
+  downstream:
+  - xhb
+  - itb
+- id: daiwa_house
+  name: 大和房屋
+  aliases:
+  - Daiwa House Industry
+  - Daiwa House
+  ticker: 1925.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 住宅建商
+  description: 日本最大建設公司
+  ir_url: https://www.daiwahouse.co.jp/English/ir/
+  upstream:
+  - nippon_steel
+  - caterpillar
+  - saint_gobain
+  downstream:
+  - vnq
+  - xlre
+- id: sekisui_house
+  name: 積水房屋
+  aliases:
+  - Sekisui House
+  ticker: 1928.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 住宅建商
+  description: 日本大型住宅建商
+  ir_url: https://www.sekisuihouse.co.jp/english/ir/
+  upstream:
+  - nippon_steel
+  - caterpillar
+  - saint_gobain
+  downstream:
+  - vnq
+  - xlre
+- id: sumitomo_forestry
+  name: 住友林業
+  aliases:
+  - Sumitomo Forestry
+  ticker: 1911.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 住宅建商
+  description: 日本住宅建商，木造住宅專家
+  ir_url: https://sfc.jp/english/ir/
+  upstream:
+  - nippon_steel
+  downstream:
+  - vnq
+  - xlre
+etfs:
+- id: vnq
+  name: Vanguard Real Estate ETF
+  ticker: VNQ
+  market: NYSE
+  currency: USD
+  description: 美國最大不動產 ETF，追蹤 MSCI US REIT Index
+- id: xlre
+  name: Real Estate Select Sector SPDR
+  ticker: XLRE
+  market: NYSE
+  currency: USD
+  description: S&P 500 不動產類股 ETF
+- id: xhb
+  name: SPDR S&P Homebuilders ETF
+  ticker: XHB
+  market: NYSE
+  currency: USD
+  description: 美國住宅建商 ETF
+- id: itb
+  name: iShares U.S. Home Construction ETF
+  ticker: ITB
+  market: NYSE
+  currency: USD
+  description: 美國住宅建設 ETF
+supply_chain_positions:
+  upstream:
+  - 建材
+  - 鋼鐵
+  - 營建機械
+  midstream:
+  - 營建
+  - 住宅建商
+  downstream: []

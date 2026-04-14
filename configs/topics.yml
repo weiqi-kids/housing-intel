@@ -1,0 +1,135 @@
+topics:
+  housing_starts:
+    display: 新屋開工
+    keywords:
+    - housing starts
+    - 新屋開工
+    - building permits
+    - 建照
+    - 開工數
+    - 新建住宅
+    - residential construction
+    - housing construction
+    - 建築許可
+  mortgage_rates:
+    display: 房貸利率
+    keywords:
+    - mortgage rate
+    - 房貸利率
+    - mortgage interest
+    - home loan rate
+    - 貸款利率
+    - 央行利率
+    - fed rate
+    - 升息
+    - 降息
+    - 利率政策
+    - 30-year mortgage
+    - fixed rate mortgage
+    sentiment_keywords:
+      positive:
+      - 降息
+      - 利率下調
+      - rate cut
+      - rate decrease
+      negative:
+      - 升息
+      - 利率上調
+      - rate hike
+      - rate increase
+  land_price:
+    display: 土地價格
+    keywords:
+    - land price
+    - 土地價格
+    - 地價
+    - 標地
+    - 土地標售
+    - 地價指數
+    - land auction
+    - land transaction
+    - 土地交易
+    - 容積率
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 創新高
+      - price increase
+      - 標脫率高
+      negative:
+      - 下跌
+      - 流標
+      - price decline
+      - 土地降溫
+  construction_cost:
+    display: 營建成本
+    keywords:
+    - construction cost
+    - 營建成本
+    - 建材成本
+    - 工資上漲
+    - 鋼筋價格
+    - 水泥價格
+    - labor cost
+    - material cost
+    - building cost
+    - 工程造價
+    - 營造物價指數
+    sentiment_keywords:
+      positive:
+      - 成本下降
+      - cost decrease
+      - 價格回穩
+      negative:
+      - 成本上漲
+      - cost increase
+      - 缺工
+      - 缺料
+  reit_yield:
+    display: REIT 殖利率
+    keywords:
+    - REIT yield
+    - REIT 殖利率
+    - 不動產投資信託
+    - REITs
+    - dividend yield
+    - 配息率
+    - rental yield
+    - 租金收益率
+    - cap rate
+    sentiment_keywords:
+      positive:
+      - 殖利率上升
+      - yield increase
+      - 配息增加
+      negative:
+      - 殖利率下降
+      - yield decrease
+      - 配息減少
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測
+    - 下季預估
+    - housing outlook
+    - market forecast
