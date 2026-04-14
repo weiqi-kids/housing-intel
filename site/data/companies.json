@@ -7,7 +7,7 @@
       "position": "upstream",
       "role": "建材",
       "x": 0.05,
-      "y": 0.34
+      "y": 0.04
     },
     {
       "id": "asia_cement",
@@ -15,8 +15,8 @@
       "short_name": "亞泥",
       "position": "upstream",
       "role": "建材",
-      "x": 0.085,
-      "y": 0.34
+      "x": 0.23,
+      "y": 0.04
     },
     {
       "id": "taiwan_glass",
@@ -24,8 +24,8 @@
       "short_name": "台玻",
       "position": "upstream",
       "role": "建材",
-      "x": 0.119,
-      "y": 0.34
+      "x": 0.41,
+      "y": 0.04
     },
     {
       "id": "tung_ho_steel",
@@ -33,8 +33,8 @@
       "short_name": "東鋼",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.154,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.17
     },
     {
       "id": "nippon_steel",
@@ -42,8 +42,8 @@
       "short_name": "新日鐵",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.188,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.17
     },
     {
       "id": "crh",
@@ -51,8 +51,8 @@
       "short_name": "CRH plc",
       "position": "upstream",
       "role": "建材",
-      "x": 0.223,
-      "y": 0.34
+      "x": 0.59,
+      "y": 0.04
     },
     {
       "id": "vulcan_materials",
@@ -60,8 +60,8 @@
       "short_name": "Vulcan",
       "position": "upstream",
       "role": "建材",
-      "x": 0.258,
-      "y": 0.34
+      "x": 0.77,
+      "y": 0.04
     },
     {
       "id": "caterpillar",
@@ -69,8 +69,8 @@
       "short_name": "卡特彼勒",
       "position": "upstream",
       "role": "營建機械",
-      "x": 0.292,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "saint_gobain",
@@ -78,8 +78,8 @@
       "short_name": "聖戈班",
       "position": "upstream",
       "role": "建材",
-      "x": 0.327,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "cathay_real_estate",
@@ -87,8 +87,8 @@
       "short_name": "國建",
       "position": "midstream",
       "role": "營建",
-      "x": 0.362,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.35
     },
     {
       "id": "huaku",
@@ -96,8 +96,8 @@
       "short_name": "華固",
       "position": "midstream",
       "role": "營建",
-      "x": 0.396,
-      "y": 0.34
+      "x": 0.163,
+      "y": 0.35
     },
     {
       "id": "chong_hong",
@@ -105,8 +105,8 @@
       "short_name": "長虹",
       "position": "midstream",
       "role": "營建",
-      "x": 0.431,
-      "y": 0.34
+      "x": 0.275,
+      "y": 0.35
     },
     {
       "id": "highwealth",
@@ -114,8 +114,8 @@
       "short_name": "興富發",
       "position": "midstream",
       "role": "營建",
-      "x": 0.465,
-      "y": 0.34
+      "x": 0.388,
+      "y": 0.35
     },
     {
       "id": "ruentex",
@@ -124,7 +124,7 @@
       "position": "midstream",
       "role": "營建",
       "x": 0.5,
-      "y": 0.34
+      "y": 0.35
     },
     {
       "id": "kindom",
@@ -132,8 +132,8 @@
       "short_name": "冠德",
       "position": "midstream",
       "role": "營建",
-      "x": 0.535,
-      "y": 0.34
+      "x": 0.613,
+      "y": 0.35
     },
     {
       "id": "farglory",
@@ -141,8 +141,8 @@
       "short_name": "遠雄",
       "position": "midstream",
       "role": "營建",
-      "x": 0.569,
-      "y": 0.34
+      "x": 0.725,
+      "y": 0.35
     },
     {
       "id": "huang_hsiang",
@@ -150,8 +150,8 @@
       "short_name": "皇翔",
       "position": "midstream",
       "role": "營建",
-      "x": 0.604,
-      "y": 0.34
+      "x": 0.838,
+      "y": 0.35
     },
     {
       "id": "san_yuan",
@@ -159,8 +159,8 @@
       "short_name": "三圓",
       "position": "midstream",
       "role": "營建",
-      "x": 0.638,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.35
     },
     {
       "id": "dr_horton",
@@ -168,8 +168,8 @@
       "short_name": "DR Horton",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.673,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.65
     },
     {
       "id": "lennar",
@@ -177,8 +177,8 @@
       "short_name": "Lennar",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.708,
-      "y": 0.34
+      "x": 0.163,
+      "y": 0.65
     },
     {
       "id": "pultegroup",
@@ -186,8 +186,8 @@
       "short_name": "Pulte",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.742,
-      "y": 0.34
+      "x": 0.275,
+      "y": 0.65
     },
     {
       "id": "toll_brothers",
@@ -195,8 +195,8 @@
       "short_name": "Toll Brothers",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.777,
-      "y": 0.34
+      "x": 0.388,
+      "y": 0.65
     },
     {
       "id": "kb_home",
@@ -204,8 +204,8 @@
       "short_name": "KB Home",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.812,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.65
     },
     {
       "id": "nvr",
@@ -213,8 +213,8 @@
       "short_name": "NVR Inc",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.846,
-      "y": 0.34
+      "x": 0.613,
+      "y": 0.65
     },
     {
       "id": "daiwa_house",
@@ -222,8 +222,8 @@
       "short_name": "大和房屋",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.881,
-      "y": 0.34
+      "x": 0.725,
+      "y": 0.65
     },
     {
       "id": "sekisui_house",
@@ -231,8 +231,8 @@
       "short_name": "積水房屋",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.915,
-      "y": 0.34
+      "x": 0.838,
+      "y": 0.65
     },
     {
       "id": "sumitomo_forestry",
@@ -241,7 +241,7 @@
       "position": "midstream",
       "role": "住宅建商",
       "x": 0.95,
-      "y": 0.34
+      "y": 0.65
     }
   ],
   "links": [

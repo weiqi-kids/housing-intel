@@ -110,43 +110,19 @@ def main():
 
         # Position mapping: role → row
         role_to_row = {
-            "設備": "equip",
-            "材料": "material",
-            "EDA": "eda",
-            "IP": "eda",
-            "矽晶圓": "material",
-            "記憶體製造": "memory",
-            "利基記憶體": "memory",
-            "控制IC": "controller",
-            "記憶體模組": "module",
-            "代工": "foundry",
-            "封測": "osat",
-            "OSAT": "osat",
-            "GPU": "ai",
-            "GPU/CPU": "ai",
-            "AI 晶片": "ai",
-            "行動晶片": "ai",
-            "網通晶片": "ai",
-            "類比IC": "ai",
-            "功率半導體": "ai",
-            "車用晶片": "ai",
-            "系統": "system",
-            "消費電子": "system",
-            "CSP": "csp",
+            "建材": "upstream",
+            "鋼鐵": "upstream_1",
+            "營建機械": "upstream_2",
+            "營建": "midstream",
+            "住宅建商": "midstream_1",
         }
 
         row_y = {
-            "equip": 0.04,
-            "material": 0.13,
-            "eda": 0.22,
-            "memory": 0.34,
-            "controller": 0.43,
-            "module": 0.52,
-            "foundry": 0.61,
-            "osat": 0.70,
-            "ai": 0.80,
-            "system": 0.89,
-            "csp": 0.96,
+            "upstream": 0.04,
+            "upstream_1": 0.17,
+            "upstream_2": 0.3,
+            "midstream": 0.35,
+            "midstream_1": 0.65,
         }
 
         # Count companies per row
