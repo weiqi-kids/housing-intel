@@ -1,0 +1,151 @@
+{
+  "company_count": 27,
+  "topic_count": 7,
+  "alias_count": 72,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "taiwan_cement",
+      "short_name": "台灣水泥",
+      "tier": ""
+    },
+    {
+      "id": "asia_cement",
+      "short_name": "亞洲水泥",
+      "tier": ""
+    },
+    {
+      "id": "taiwan_glass",
+      "short_name": "台灣玻璃",
+      "tier": ""
+    },
+    {
+      "id": "tung_ho_steel",
+      "short_name": "東和鋼鐵",
+      "tier": ""
+    },
+    {
+      "id": "nippon_steel",
+      "short_name": "日本製鐵",
+      "tier": ""
+    },
+    {
+      "id": "crh",
+      "short_name": "CRH",
+      "tier": ""
+    },
+    {
+      "id": "vulcan_materials",
+      "short_name": "Vulcan Materials",
+      "tier": ""
+    },
+    {
+      "id": "caterpillar",
+      "short_name": "Caterpillar",
+      "tier": ""
+    },
+    {
+      "id": "saint_gobain",
+      "short_name": "Saint-Gobain",
+      "tier": ""
+    },
+    {
+      "id": "cathay_real_estate",
+      "short_name": "國泰建設",
+      "tier": ""
+    },
+    {
+      "id": "huaku",
+      "short_name": "華固建設",
+      "tier": ""
+    },
+    {
+      "id": "chong_hong",
+      "short_name": "長虹建設",
+      "tier": ""
+    },
+    {
+      "id": "highwealth",
+      "short_name": "興富發建設",
+      "tier": ""
+    },
+    {
+      "id": "ruentex",
+      "short_name": "潤泰新",
+      "tier": ""
+    },
+    {
+      "id": "kindom",
+      "short_name": "冠德建設",
+      "tier": ""
+    },
+    {
+      "id": "farglory",
+      "short_name": "遠雄建設",
+      "tier": ""
+    },
+    {
+      "id": "huang_hsiang",
+      "short_name": "皇翔建設",
+      "tier": ""
+    },
+    {
+      "id": "san_yuan",
+      "short_name": "三圓建設",
+      "tier": ""
+    },
+    {
+      "id": "dr_horton",
+      "short_name": "D.R. Horton",
+      "tier": ""
+    },
+    {
+      "id": "lennar",
+      "short_name": "Lennar",
+      "tier": ""
+    },
+    {
+      "id": "pultegroup",
+      "short_name": "PulteGroup",
+      "tier": ""
+    },
+    {
+      "id": "toll_brothers",
+      "short_name": "Toll Brothers",
+      "tier": ""
+    },
+    {
+      "id": "kb_home",
+      "short_name": "KB Home",
+      "tier": ""
+    },
+    {
+      "id": "nvr",
+      "short_name": "NVR",
+      "tier": ""
+    },
+    {
+      "id": "daiwa_house",
+      "short_name": "大和房屋",
+      "tier": ""
+    },
+    {
+      "id": "sekisui_house",
+      "short_name": "積水房屋",
+      "tier": ""
+    },
+    {
+      "id": "sumitomo_forestry",
+      "short_name": "住友林業",
+      "tier": ""
+    }
+  ]
+}
