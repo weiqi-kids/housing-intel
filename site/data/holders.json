@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T04:26:24.968487+00:00",
+  "updated_at": "2026-04-15T09:16:44.479205+00:00",
   "companies": {
     "taiwan_cement": {
       "name": "台灣水泥",
@@ -77,13 +77,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 59777,
           "pct_held": 0.01,
-          "value": 35680892
+          "value": 35746646
         },
         {
           "holder": "Coston, McIsaac & Partners",
           "shares": 360,
           "pct_held": 0.0,
-          "value": 214884
+          "value": 215280
         }
       ]
     },
@@ -297,13 +297,13 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 22900,
           "pct_held": 0.0,
-          "value": 1780245
+          "value": 1763757
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 7238,
           "pct_held": 0.0,
-          "value": 562682
+          "value": 557470
         }
       ]
     },
@@ -718,13 +718,13 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 48000,
           "pct_held": 0.01,
-          "value": 236400000
+          "value": 236016000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 4772,
           "pct_held": 0.0,
-          "value": 23502100
+          "value": 23463924
         }
       ]
     },
@@ -737,13 +737,13 @@
           "holder": "Steigerwald, Gordon & Koch, Inc.",
           "shares": 1,
           "pct_held": 0.0,
-          "value": 3533
+          "value": 3515
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 5198,
           "pct_held": 0.0,
-          "value": 18364534
+          "value": 18270970
         }
       ]
     },
@@ -756,7 +756,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 47448,
           "pct_held": 0.02,
-          "value": 68657256
+          "value": 68396292
         }
       ]
     }
