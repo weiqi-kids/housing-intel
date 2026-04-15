@@ -11,6 +11,7 @@ companies:
   role: 建材
   description: 台灣最大水泥製造商
   ir_url: https://www.taiwancement.com/tw/investor.html
+  rss_url: https://news.google.com/rss/search?q="Taiwan+Cement"&hl=en&gl=US&ceid=US:en
   downstream:
   - cathay_real_estate
   - huaku
@@ -33,6 +34,7 @@ companies:
   role: 建材
   description: 台灣第二大水泥廠
   ir_url: https://www.acc.com.tw/investor/
+  rss_url: https://news.google.com/rss/search?q="Asia+Cement"&hl=en&gl=US&ceid=US:en
   downstream:
   - cathay_real_estate
   - huaku
@@ -55,6 +57,7 @@ companies:
   role: 建材
   description: 台灣最大玻璃製造商，供應建築玻璃
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Taiwan+Glass"&hl=en&gl=US&ceid=US:en
   downstream:
   - cathay_real_estate
   - huaku
@@ -75,6 +78,7 @@ companies:
   role: 鋼鐵
   description: 台灣電爐鋼鐵大廠，供應建築用鋼筋
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Tung+Ho+Steel"&hl=en&gl=US&ceid=US:en
   downstream:
   - cathay_real_estate
   - huaku
@@ -97,6 +101,7 @@ companies:
   role: 鋼鐵
   description: 全球最大鋼鐵製造商之一，供應建築用鋼材
   ir_url: https://www.nipponsteel.com/ir/
+  rss_url: https://news.google.com/rss/search?q="Nippon+Steel"&hl=en&gl=US&ceid=US:en
   downstream:
   - daiwa_house
   - sekisui_house
@@ -134,6 +139,7 @@ companies:
   role: 建材
   description: 美國最大骨料生產商
   ir_url: https://ir.vulcanmaterials.com/
+  rss_url: https://news.google.com/rss/search?q="Vulcan+Materials"&hl=en&gl=US&ceid=US:en
   downstream:
   - dr_horton
   - lennar
@@ -153,6 +159,7 @@ companies:
   role: 營建機械
   description: 全球最大營建與礦業設備製造商
   ir_url: https://www.caterpillar.com/en/investors.html
+  rss_url: https://news.google.com/rss/search?q="Caterpillar"&hl=en&gl=US&ceid=US:en
   downstream:
   - dr_horton
   - lennar
@@ -171,6 +178,7 @@ companies:
   role: 建材
   description: 全球建材與高性能材料龍頭
   ir_url: https://www.saint-gobain.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Saint-Gobain"&hl=en&gl=US&ceid=US:en
   downstream:
   - dr_horton
   - lennar
@@ -192,6 +200,7 @@ companies:
   role: 營建
   description: 國泰集團旗下建設公司
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Cathay+Real+Estate"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -212,6 +221,7 @@ companies:
   role: 營建
   description: 台灣知名豪宅建商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Huaku+Development"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -232,6 +242,7 @@ companies:
   role: 營建
   description: 台灣營建業大廠
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Chong+Hong+Construction"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -252,6 +263,7 @@ companies:
   role: 營建
   description: 台灣大型建商，推案量大
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Highwealth+Construction"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -272,6 +284,7 @@ companies:
   role: 營建
   description: 潤泰集團建設開發
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Ruentex+Development"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -291,6 +304,7 @@ companies:
   role: 營建
   description: 台灣營建公司
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Kindom+Construction"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -310,6 +324,7 @@ companies:
   role: 營建
   description: 遠雄集團建設公司，大型造鎮開發
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Farglory+Land"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -330,6 +345,7 @@ companies:
   role: 營建
   description: 台灣營建公司
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Huang+Hsiang+Construction"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -349,6 +365,7 @@ companies:
   role: 營建
   description: 台灣營建公司
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="San+Yuan+Construction"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
@@ -367,6 +384,7 @@ companies:
   role: 住宅建商
   description: 美國最大住宅建商
   ir_url: https://investor.drhorton.com/
+  rss_url: https://news.google.com/rss/search?q="D.R.+Horton"&hl=en&gl=US&ceid=US:en
   upstream:
   - crh
   - vulcan_materials
@@ -386,6 +404,7 @@ companies:
   role: 住宅建商
   description: 美國第二大住宅建商
   ir_url: https://investors.lennar.com/
+  rss_url: https://news.google.com/rss/search?q="Lennar"+homebuilder&hl=en&gl=US&ceid=US:en
   upstream:
   - crh
   - vulcan_materials
@@ -406,6 +425,7 @@ companies:
   role: 住宅建商
   description: 美國大型住宅建商
   ir_url: https://investors.pultegroupinc.com/
+  rss_url: https://news.google.com/rss/search?q="PulteGroup"&hl=en&gl=US&ceid=US:en
   upstream:
   - crh
   - vulcan_materials
@@ -425,6 +445,7 @@ companies:
   role: 住宅建商
   description: 美國豪宅建商
   ir_url: https://investors.tollbrothers.com/
+  rss_url: https://news.google.com/rss/search?q="Toll+Brothers"&hl=en&gl=US&ceid=US:en
   upstream:
   - crh
   - vulcan_materials
@@ -443,6 +464,7 @@ companies:
   role: 住宅建商
   description: 美國住宅建商，專注首購族
   ir_url: https://investor.kbhome.com/
+  rss_url: https://news.google.com/rss/search?q="KB+Home"&hl=en&gl=US&ceid=US:en
   upstream:
   - crh
   - vulcan_materials
@@ -462,6 +484,7 @@ companies:
   role: 住宅建商
   description: 美國住宅建商，輕資產模式
   ir_url: https://www.nvrinc.com/investors/
+  rss_url: https://news.google.com/rss/search?q="NVR"+homebuilder&hl=en&gl=US&ceid=US:en
   upstream:
   - crh
   - vulcan_materials
@@ -481,6 +504,7 @@ companies:
   role: 住宅建商
   description: 日本最大建設公司
   ir_url: https://www.daiwahouse.co.jp/English/ir/
+  rss_url: https://news.google.com/rss/search?q="Daiwa+House"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - caterpillar
@@ -499,6 +523,7 @@ companies:
   role: 住宅建商
   description: 日本大型住宅建商
   ir_url: https://www.sekisuihouse.co.jp/english/ir/
+  rss_url: https://news.google.com/rss/search?q="Sekisui+House"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - caterpillar
@@ -517,6 +542,7 @@ companies:
   role: 住宅建商
   description: 日本住宅建商，木造住宅專家
   ir_url: https://sfc.jp/english/ir/
+  rss_url: https://news.google.com/rss/search?q="Sumitomo+Forestry"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   downstream:
