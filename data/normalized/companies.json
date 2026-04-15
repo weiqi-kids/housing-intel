@@ -6,8 +6,8 @@
       "short_name": "台泥",
       "position": "upstream",
       "role": "建材",
-      "x": 0.05,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.06
     },
     {
       "id": "asia_cement",
@@ -15,8 +15,8 @@
       "short_name": "亞泥",
       "position": "upstream",
       "role": "建材",
-      "x": 0.23,
-      "y": 0.04
+      "x": 0.248,
+      "y": 0.06
     },
     {
       "id": "taiwan_glass",
@@ -24,8 +24,8 @@
       "short_name": "台玻",
       "position": "upstream",
       "role": "建材",
-      "x": 0.41,
-      "y": 0.04
+      "x": 0.416,
+      "y": 0.06
     },
     {
       "id": "tung_ho_steel",
@@ -33,8 +33,8 @@
       "short_name": "東鋼",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.05,
-      "y": 0.17
+      "x": 0.584,
+      "y": 0.06
     },
     {
       "id": "nippon_steel",
@@ -42,26 +42,26 @@
       "short_name": "新日鐵",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.95,
-      "y": 0.17
+      "x": 0.752,
+      "y": 0.06
     },
     {
       "id": "crh",
       "name": "CRH",
-      "short_name": "CRH plc",
+      "short_name": "CRH",
       "position": "upstream",
       "role": "建材",
-      "x": 0.59,
-      "y": 0.04
+      "x": 0.92,
+      "y": 0.06
     },
     {
       "id": "vulcan_materials",
       "name": "Vulcan Materials",
-      "short_name": "Vulcan",
+      "short_name": "Vulcan Materials",
       "position": "upstream",
       "role": "建材",
-      "x": 0.77,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.28
     },
     {
       "id": "caterpillar",
@@ -70,7 +70,7 @@
       "position": "upstream",
       "role": "營建機械",
       "x": 0.5,
-      "y": 0.3
+      "y": 0.28
     },
     {
       "id": "saint_gobain",
@@ -78,8 +78,8 @@
       "short_name": "聖戈班",
       "position": "upstream",
       "role": "建材",
-      "x": 0.95,
-      "y": 0.04
+      "x": 0.92,
+      "y": 0.28
     },
     {
       "id": "cathay_real_estate",
@@ -87,8 +87,8 @@
       "short_name": "國建",
       "position": "midstream",
       "role": "營建",
-      "x": 0.05,
-      "y": 0.35
+      "x": 0.08,
+      "y": 0.36
     },
     {
       "id": "huaku",
@@ -96,8 +96,8 @@
       "short_name": "華固",
       "position": "midstream",
       "role": "營建",
-      "x": 0.163,
-      "y": 0.35
+      "x": 0.248,
+      "y": 0.36
     },
     {
       "id": "chong_hong",
@@ -105,8 +105,8 @@
       "short_name": "長虹",
       "position": "midstream",
       "role": "營建",
-      "x": 0.275,
-      "y": 0.35
+      "x": 0.416,
+      "y": 0.36
     },
     {
       "id": "highwealth",
@@ -114,8 +114,8 @@
       "short_name": "興富發",
       "position": "midstream",
       "role": "營建",
-      "x": 0.388,
-      "y": 0.35
+      "x": 0.584,
+      "y": 0.36
     },
     {
       "id": "ruentex",
@@ -123,8 +123,8 @@
       "short_name": "潤泰",
       "position": "midstream",
       "role": "營建",
-      "x": 0.5,
-      "y": 0.35
+      "x": 0.752,
+      "y": 0.36
     },
     {
       "id": "kindom",
@@ -132,8 +132,8 @@
       "short_name": "冠德",
       "position": "midstream",
       "role": "營建",
-      "x": 0.613,
-      "y": 0.35
+      "x": 0.92,
+      "y": 0.36
     },
     {
       "id": "farglory",
@@ -141,8 +141,8 @@
       "short_name": "遠雄",
       "position": "midstream",
       "role": "營建",
-      "x": 0.725,
-      "y": 0.35
+      "x": 0.08,
+      "y": 0.5
     },
     {
       "id": "huang_hsiang",
@@ -150,8 +150,8 @@
       "short_name": "皇翔",
       "position": "midstream",
       "role": "營建",
-      "x": 0.838,
-      "y": 0.35
+      "x": 0.248,
+      "y": 0.5
     },
     {
       "id": "san_yuan",
@@ -159,17 +159,17 @@
       "short_name": "三圓",
       "position": "midstream",
       "role": "營建",
-      "x": 0.95,
-      "y": 0.35
+      "x": 0.416,
+      "y": 0.5
     },
     {
       "id": "dr_horton",
       "name": "D.R. Horton",
-      "short_name": "DR Horton",
+      "short_name": "D.R. Horton",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.05,
-      "y": 0.65
+      "x": 0.584,
+      "y": 0.5
     },
     {
       "id": "lennar",
@@ -177,17 +177,17 @@
       "short_name": "Lennar",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.163,
-      "y": 0.65
+      "x": 0.752,
+      "y": 0.5
     },
     {
       "id": "pultegroup",
       "name": "PulteGroup",
-      "short_name": "Pulte",
+      "short_name": "PulteGroup",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.275,
-      "y": 0.65
+      "x": 0.92,
+      "y": 0.5
     },
     {
       "id": "toll_brothers",
@@ -195,8 +195,8 @@
       "short_name": "Toll Brothers",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.388,
-      "y": 0.65
+      "x": 0.08,
+      "y": 0.64
     },
     {
       "id": "kb_home",
@@ -204,17 +204,17 @@
       "short_name": "KB Home",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.5,
-      "y": 0.65
+      "x": 0.248,
+      "y": 0.64
     },
     {
       "id": "nvr",
       "name": "NVR",
-      "short_name": "NVR Inc",
+      "short_name": "NVR",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.613,
-      "y": 0.65
+      "x": 0.416,
+      "y": 0.64
     },
     {
       "id": "daiwa_house",
@@ -222,8 +222,8 @@
       "short_name": "大和房屋",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.725,
-      "y": 0.65
+      "x": 0.584,
+      "y": 0.64
     },
     {
       "id": "sekisui_house",
@@ -231,8 +231,8 @@
       "short_name": "積水房屋",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.838,
-      "y": 0.65
+      "x": 0.752,
+      "y": 0.64
     },
     {
       "id": "sumitomo_forestry",
@@ -240,8 +240,8 @@
       "short_name": "住友林業",
       "position": "midstream",
       "role": "住宅建商",
-      "x": 0.95,
-      "y": 0.65
+      "x": 0.92,
+      "y": 0.64
     }
   ],
   "links": [
@@ -758,36 +758,24 @@
   ],
   "etfs": [
     {
-      "id": "etf_vnq",
+      "id": "vnq",
       "name": "Vanguard Real Estate ETF",
-      "ticker": "VNQ",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "美國最大不動產 ETF，追蹤 MSCI US REIT Index"
+      "ticker": "VNQ"
     },
     {
-      "id": "etf_xlre",
+      "id": "xlre",
       "name": "Real Estate Select Sector SPDR",
-      "ticker": "XLRE",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "S&P 500 不動產類股 ETF"
+      "ticker": "XLRE"
     },
     {
-      "id": "etf_xhb",
+      "id": "xhb",
       "name": "SPDR S&P Homebuilders ETF",
-      "ticker": "XHB",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "美國住宅建商 ETF"
+      "ticker": "XHB"
     },
     {
-      "id": "etf_itb",
+      "id": "itb",
       "name": "iShares U.S. Home Construction ETF",
-      "ticker": "ITB",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "美國住宅建設 ETF"
+      "ticker": "ITB"
     }
   ]
 }
