@@ -1,11 +1,32 @@
 {
   "date": "2026-04-15",
-  "total_events": 1,
-  "by_company": {},
-  "by_topic": {
-    "earnings": {
+  "total_events": 10,
+  "by_company": {
+    "nippon_steel": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sumitomo_forestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": -0.05
     }
   },
   "baselines_used": {

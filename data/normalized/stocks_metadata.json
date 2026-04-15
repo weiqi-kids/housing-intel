@@ -1,152 +1,152 @@
 {
   "taiwan_cement": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "asia_cement": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "taiwan_glass": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "tung_ho_steel": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "nippon_steel": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 302
+    "count": 360
   },
   "crh": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "vulcan_materials": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "caterpillar": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "saint_gobain": {
-    "earliest": "2025-01-22",
+    "earliest": "2024-10-24",
     "latest": "2026-04-15",
-    "count": 313
+    "count": 374
   },
   "cathay_real_estate": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "huaku": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "chong_hong": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "highwealth": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "ruentex": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "kindom": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "farglory": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "huang_hsiang": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 293
+    "count": 355
   },
   "dr_horton": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "lennar": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "pultegroup": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "toll_brothers": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "kb_home": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "nvr": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "daiwa_house": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 302
+    "count": 360
   },
   "sekisui_house": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 302
+    "count": 360
   },
   "sumitomo_forestry": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-15",
-    "count": 302
+    "count": 360
   },
   "etf_vnq": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "etf_xlre": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "etf_xhb": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   },
   "etf_itb": {
-    "earliest": "2025-01-21",
+    "earliest": "2024-10-23",
     "latest": "2026-04-14",
-    "count": 309
+    "count": 368
   }
 }
