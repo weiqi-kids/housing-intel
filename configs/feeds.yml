@@ -1,0 +1,34 @@
+# Housing/construction industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: crh_news
+  name: CRH Corporate News
+  url: https://www.crh.com/feed/
+  description: CRH plc corporate news (building materials)
+
+# --- Industry media feeds ---
+- id: nahb_blog
+  name: NAHB Blog
+  url: https://www.nahb.org/blog/feed
+  description: National Association of Home Builders blog and press releases
+
+- id: housingwire
+  name: HousingWire
+  url: https://www.housingwire.com/feed/
+  description: Housing and mortgage industry news
+
+- id: construction_dive
+  name: Construction Dive
+  url: https://www.constructiondive.com/feeds/news/
+  description: Construction industry news and trends
+
+# --- Google News topic feeds ---
+- id: google_housing_market
+  name: Google News - Housing Market
+  url: https://news.google.com/rss/search?q=housing+market+homebuilder&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for housing market and homebuilders
+
+- id: google_construction
+  name: Google News - Construction
+  url: https://news.google.com/rss/search?q=construction+building+materials&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for construction and building materials

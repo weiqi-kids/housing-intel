@@ -115,6 +115,7 @@ companies:
   role: 建材
   description: 全球領先建材公司，水泥、骨料、瀝青
   ir_url: https://www.crh.com/investors
+  rss_url: https://www.crh.com/feed/
   downstream:
   - dr_horton
   - lennar
