@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-17",
+  "total_events": 3,
+  "by_company": {
+    "asia_cement": {
+      "count": 2,
+      "sentiment_avg": -0.88
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": -0.58
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
