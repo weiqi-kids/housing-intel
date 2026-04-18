@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T08:44:31.574376Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-04-18-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AE Wealth Management LLC Boosts Stock Position in Caterpillar Inc. $CAT - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "kb_home-2026-04-18-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KB Home moving HQ to Arizona highlights construction industry shift - Construction Owners Club",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CAT、KB Home相關動態：「AE Wealth Management LLC Boosts Stock Position in Caterpi...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AE Wealth Management LLC Boosts Stock Position in Caterpillar Inc. $CAT - Mar...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "KB Home moving HQ to Arizona highlights construction industry shift - Constru...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
