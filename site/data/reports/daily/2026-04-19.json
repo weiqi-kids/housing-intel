@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T08:51:55.497883Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-04-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement Corp stock (TW0001102002): Is Taiwan's construction rebound strong enough to drive upsid - AD HOC NEWS",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-04-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Oita FC - Veroskronos Tsuno, 19/04/2026 - Kyushu Soccer League - Match sheet - Transfermarkt",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "ruentex-2026-04-19-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ruentex Development stock (TW0009945006): Is its Taiwan real estate focus strong enough for global i - AD HOC NEWS",
+      "companies": [
+        "ruentex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "ruentex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Asia Cement、Nippon Steel、Ruentex Development相關動態：「Asia Cement Corp stock (TW0001102002): Is Taiwan's constr...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Asia Cement Corp stock (TW0001102002): Is Taiwan's construction rebound stron...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel Oita FC - Veroskronos Tsuno, 19/04/2026 - Kyushu Soccer League -...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
