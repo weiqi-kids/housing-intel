@@ -1,0 +1,159 @@
+{
+  "date": "2026-04-24",
+  "date_range": {
+    "start": "2026-04-18",
+    "end": "2026-04-24"
+  },
+  "generated_at": "2026-04-24T09:29:18.492596Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "dr_horton-2026-04-18-014",
+      "date": "2026-04-18",
+      "title": "D.R. Horton, KB Home, and NVR Stocks Trade Up, What You Need To Know - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 40,
+      "last_week": 15,
+      "week_over_week_change": "+167%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "caterpillar": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "asia_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ruentex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "taiwan_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "dr_horton": {
+      "event_count": 7,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "pultegroup": {
+      "event_count": 9,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "vulcan_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "toll_brothers": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 40,
+        "last": 15,
+        "change_pct": 166.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 9,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-18 ~ 2026-04-24）共 40 則事件，重點為「D.R. Horton, KB Home, and NVR Stocks Trade Up, ...」。事件量較上週增加 167%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pulte",
+        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
