@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:29:14.774782Z",
+  "updated_at": "2026-04-25T08:49:58.789673Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -231,14 +231,14 @@
       "name": "PulteGroup",
       "ticker": "PHM",
       "currency": "USD",
-      "ar": 252308000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 252308000,
       "ar_qoq": "N/A",
-      "inventory": 12905823000,
-      "inv_prev": 13351977000,
-      "inv_qoq": "-3%",
+      "inventory": 13301028000,
+      "inv_prev": 12905823000,
+      "inv_qoq": "+3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ruentex",
@@ -288,8 +288,8 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 189066000000,
+      "ar_qoq": "+2%",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",
