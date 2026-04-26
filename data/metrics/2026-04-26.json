@@ -1,9 +1,9 @@
 {
   "date": "2026-04-26",
-  "total_events": 10,
+  "total_events": 15,
   "by_company": {
     "caterpillar": {
-      "count": 3,
+      "count": 6,
       "sentiment_avg": 0.0
     },
     "kb_home": {
@@ -15,14 +15,18 @@
       "sentiment_avg": 0.0
     },
     "pultegroup": {
-      "count": 2,
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "toll_brothers": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 9,
-      "sentiment_avg": 0.0
+      "count": 13,
+      "sentiment_avg": 0.04
     },
     "guidance": {
       "count": 1,

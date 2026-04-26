@@ -1,11 +1,11 @@
 {
-  "total_raw": 467,
-  "dup_title": 240,
+  "total_raw": 947,
+  "dup_title": 486,
   "no_date": 0,
-  "too_old": 154,
-  "gate1_fail": 32,
-  "gate2_fail": 23,
-  "passed": 18,
+  "too_old": 322,
+  "gate1_fail": 62,
+  "gate2_fail": 48,
+  "passed": 29,
   "gate2_samples": [
     "Nippon Steel Setouchi Kure Disctric - Transfermarkt",
     "Texas: The Infrastructure Challenge and Opportunity",

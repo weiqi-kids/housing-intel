@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:59:07.474957Z",
+  "generated_at": "2026-04-26T14:10:09.373135Z",
   "top_events": [
     {
       "rank": 1,
@@ -127,13 +127,13 @@
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 9,
+      "today": 13,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.04,
       "sentiment_7d_avg": null
     },
     "guidance": {
@@ -159,15 +159,19 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 10,
+    "total_events": 15,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 10,
+      "positive": 1,
+      "neutral": 14,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "pultegroup",
         "count": 3
       },
       {
@@ -175,18 +179,18 @@
         "count": 2
       },
       {
-        "id": "pultegroup",
-        "count": 2
+        "id": "kb_home",
+        "count": 1
       },
       {
-        "id": "kb_home",
+        "id": "toll_brothers",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 9
+        "count": 13
       },
       {
         "id": "guidance",
@@ -199,14 +203,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 467,
-    "dup_title": 240,
-    "too_old": 154,
-    "gate1_blocked": 32,
-    "gate2_blocked": 23,
-    "passed": 18,
-    "pass_rate": "7.9%",
-    "gate2_block_rate": "10.1%",
+    "total_raw": 947,
+    "dup_title": 486,
+    "too_old": 322,
+    "gate1_blocked": 62,
+    "gate2_blocked": 48,
+    "passed": 29,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "10.4%",
     "gate2_samples": [
       "Nippon Steel Setouchi Kure Disctric - Transfermarkt",
       "Texas: The Infrastructure Challenge and Opportunity",
@@ -217,7 +221,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 10 則事件，焦點為CAT、DR Horton、Pulte相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為財報、展望、房貸利率，市場情緒中性。",
+    "summary": "今日共 15 則事件，焦點為CAT、Pulte、DR Horton相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Pot...（財報）",
