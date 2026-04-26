@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 466,
+  "dup_title": 251,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
-  "passed": 0,
-  "gate2_samples": []
+  "too_old": 156,
+  "gate1_fail": 29,
+  "gate2_fail": 27,
+  "passed": 3,
+  "gate2_samples": [
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+    "Vulcan Materials Co. stock outperforms competitors despite losses on the day - MarketWatch",
+    "Vulcan Materials Stock Slides as Valuation Fears Grow - TipRanks",
+    "Cramer’s Mad Dash: Caterpillar - CNBC"
+  ]
 }
