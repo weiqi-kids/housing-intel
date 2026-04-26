@@ -1,0 +1,155 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T03:23:13.990838Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Potential - News and Statistics - IndexBox",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVV2dkRfa3JPNkx5WThNS1RRVEVYWjQ1ZE5tZ1hsZURLb1pZV2JRNmREdW53WDZOc09iVFVKV1FaeTRYY0VyQVFXQV9WN0NzM213ZmVVS1pGemc1dFdZU21neXJzdkRZNlJFd0V2U25DV2YwRVBhNExKa3V5WU93bEQyX0JsNnBmd1JHbnlZUmx6eDF6?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kb_home-2026-04-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KB Home cuts guidance as Middle East instability adds to homebuyers’ caution - MSN",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQN2tzRHd5SW1MdXdNd3hxbmUyMVpaOWkxMGhPNGpxZjBkNEJaSTYxanA5UHJ3NW1TczU4am05N2tkTXhLa1hIZjF1N2JFZVJYb1NraHBKSDhhZXBKT3RwVFZ4WF9SRGZJeVozRFozeHJkVm5kMEhjZ01jMXFDdVl1WXoxZ3N5OHBhQm1tSTBsNUlrN0NDTGNJcFBVR19ZZUFZdW5BU0laZDRQNWk0cU9pOVdER2dEQ1lUal9yQ0FqZVdoOFo1QnBnMG91ZkhMcndxSTdjcWxXQUw0UmtPSXBhTjRKUVhLQVR2LWtHNGdsenl1Q0oxaHFUTnhCVEtfaVFoNkc0bFlpYW9xMzVpUHpPbENUcWtXSXprc2dwY2JSRE1UcmUybDg1dk1Ia2FiVnpnaVVsWUxCUUV2TzhpOXVLMG9PNlVqSXVETG1DdEJyQWcwTVdDa05kcV9oRWRVckR6NUdla0czdHJwSWh3X3dxYi03eGZSMmYxeWpFbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Housing demand shockingly positive even as the Iran war continues",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mortgage_rates"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.housingwire.com/articles/housing-demand-shockingly-positive-even-as-the-iran-war-continues/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為CAT、KB Home相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為財報、展望、房貸利率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Pot...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "KB Home cuts guidance as Middle East instability adds to homebuyers’ caution ...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
