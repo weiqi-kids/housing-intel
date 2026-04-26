@@ -1,16 +1,16 @@
 {
-  "total_raw": 466,
-  "dup_title": 251,
+  "total_raw": 467,
+  "dup_title": 240,
   "no_date": 0,
-  "too_old": 156,
-  "gate1_fail": 29,
-  "gate2_fail": 27,
-  "passed": 3,
+  "too_old": 154,
+  "gate1_fail": 32,
+  "gate2_fail": 23,
+  "passed": 18,
   "gate2_samples": [
+    "Nippon Steel Setouchi Kure Disctric - Transfermarkt",
     "Texas: The Infrastructure Challenge and Opportunity",
     "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
     "Vulcan Materials Co. stock outperforms competitors despite losses on the day - MarketWatch",
-    "Vulcan Materials Stock Slides as Valuation Fears Grow - TipRanks",
     "Cramer’s Mad Dash: Caterpillar - CNBC"
   ]
 }

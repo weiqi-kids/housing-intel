@@ -1,19 +1,27 @@
 {
   "date": "2026-04-26",
-  "total_events": 3,
+  "total_events": 10,
   "by_company": {
     "caterpillar": {
-      "count": 1,
+      "count": 3,
       "sentiment_avg": 0.0
     },
     "kb_home": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 2,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 2,
+      "count": 9,
       "sentiment_avg": 0.0
     },
     "guidance": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:23:13.990838Z",
+  "generated_at": "2026-04-26T08:59:07.474957Z",
   "top_events": [
     {
       "rank": 1,
@@ -53,29 +53,81 @@
     },
     {
       "rank": 3,
-      "event_id": "unknown-2026-04-26-003",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Housing demand shockingly positive even as the Iran war continues",
-      "companies": [],
+      "event_id": "caterpillar-2026-04-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Caterpillar’s Monarch Tractor Deal And CFO Shift At Caterpillar (CAT) Has Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "mortgage_rates"
+        "earnings"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://www.housingwire.com/articles/housing-demand-shockingly-positive-even-as-the-iran-war-continues/"
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPekJGaE9ZWTRzekJkckhBQnJtQkxnekY5S3NydEFxb1dwSGFkSGNFb1gzWGhvTkRvT3VjWFhMOG85LXUwYksydzlKQVNUQ1lxQ2cyRENtZVRBanh4d1hLaTlOZUlkdlFsUkFKWU05NUR6bVI0QUU4bmQ5MlM3M2NPUW84N2d6M2JteFhJUU02X3pJMkNtOU9ETjhVY0d1YzlNbjZ1aUlyOEkwMFpzdDA0NVQzcWZ4TnZVVm5POHAwUVVhR2M3eHJxS09SQknSAdIBQVVfeXFMT09zS292MzAwV0tVdmJ5QVNhSWJnQW82cjlJR2hQY1JoOXZ1dUg3cGlwWnBIYkVpNnRRZzRyTi1TdUJZdGd1R2lYaFZkbXJGQzdNeE1Wa3FES1B3Z0w1Z2lrZTNzYTVkT3JsdTItRHNIenFydHJCUWsxeHpicnhaSEdtQWhNQXpJenZPNTBuMHFXOE1XamJZLU10cWllVjBBTUVGdzIzdFZDaDNLcDZPTXFtRGUtMlN4RGNnemVLV3I3QmdUbWR0NU9DaHVYdUZxYkRn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-04-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Axecap Investments LLC Invests $961,000 in Caterpillar Inc. $CAT - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelR6LVBhbkQwX1JHalBqS2lFUUFmU2tSaHVxelJLdTFCWnVScjN5OEpxZkFFTnAzSm5FY0FEMGJZd0I5SFJBeFFfOUhKVW9SRmRIczAyOS14YWZkZ2JPVXQ4U3hacnEwVENJSGFsdnhGZjhSU1dWQWVqcFpVam9DLVdMazhkX09yR1F6bXZjQ2w0WlJpcEtVTVdMQUpfUFpGUFY5Z3UyQ2lEZ3l2UW42djUtM3laN0VzNTBwcUJ3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-04-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Overhyped Stocks: Hub Group, D.R. Horton, Credit Acceptance – Analysis April 2026 - News and Statistics - IndexBox",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXdIdDVlSDlQTVczeGtZTWx4Q3FWRUZ4Z3draFpYTHZsMjhTSDc2SjR2aldKLVd0MGZ6RFFmOGNDZ3h1VGJYQnk2dTBhS0pTakVFM2NuRXNvOVRhZjY2ejBfU3ZLenZZTUw3NGY1V2FJUFl4R08tWjl1ZFVFeE40ckx6d2dPbnpI?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 2,
+      "today": 9,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -107,16 +159,24 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 3,
+    "total_events": 10,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 3,
+      "neutral": 10,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "caterpillar",
-        "count": 1
+        "count": 3
+      },
+      {
+        "id": "dr_horton",
+        "count": 2
+      },
+      {
+        "id": "pultegroup",
+        "count": 2
       },
       {
         "id": "kb_home",
@@ -126,7 +186,7 @@
     "top_topics": [
       {
         "id": "earnings",
-        "count": 2
+        "count": 9
       },
       {
         "id": "guidance",
@@ -138,8 +198,26 @@
       }
     ]
   },
+  "filter_audit": {
+    "total_raw": 467,
+    "dup_title": 240,
+    "too_old": 154,
+    "gate1_blocked": 32,
+    "gate2_blocked": 23,
+    "passed": 18,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Nippon Steel Setouchi Kure Disctric - Transfermarkt",
+      "Texas: The Infrastructure Challenge and Opportunity",
+      "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+      "Vulcan Materials Co. stock outperforms competitors despite losses on the day - MarketWatch",
+      "Cramer’s Mad Dash: Caterpillar - CNBC"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "今日共 3 則事件，焦點為CAT、KB Home相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為財報、展望、房貸利率，市場情緒中性。",
+    "summary": "今日共 10 則事件，焦點為CAT、DR Horton、Pulte相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為財報、展望、房貸利率，市場情緒中性。",
     "signals": [
       {
         "text": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Pot...（財報）",
