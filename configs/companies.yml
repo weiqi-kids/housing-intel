@@ -22,6 +22,7 @@ companies:
   - farglory
   - huang_hsiang
   - san_yuan
+  fetch_mode: http
 - id: asia_cement
   name: 亞洲水泥
   aliases:
@@ -45,6 +46,7 @@ companies:
   - farglory
   - huang_hsiang
   - san_yuan
+  fetch_mode: http
 - id: taiwan_glass
   name: 台灣玻璃
   aliases:
@@ -66,6 +68,7 @@ companies:
   - ruentex
   - kindom
   - farglory
+  fetch_mode: http
 - id: tung_ho_steel
   name: 東和鋼鐵
   aliases:
@@ -89,6 +92,7 @@ companies:
   - farglory
   - huang_hsiang
   - san_yuan
+  fetch_mode: http
 - id: nippon_steel
   name: 日本製鐵
   aliases:
@@ -109,6 +113,7 @@ companies:
   - dr_horton
   - lennar
   - pultegroup
+  fetch_mode: http
 - id: crh
   name: CRH
   aliases:
@@ -128,6 +133,8 @@ companies:
   - toll_brothers
   - kb_home
   - nvr
+  ir_rss_url: https://www.crh.com/feed/
+  fetch_mode: rss
 - id: vulcan_materials
   name: Vulcan Materials
   aliases:
@@ -147,6 +154,7 @@ companies:
   - toll_brothers
   - kb_home
   - nvr
+  fetch_mode: http
 - id: caterpillar
   name: Caterpillar
   aliases:
@@ -167,6 +175,7 @@ companies:
   - toll_brothers
   - daiwa_house
   - sekisui_house
+  fetch_mode: http
 - id: saint_gobain
   name: Saint-Gobain
   aliases:
@@ -188,6 +197,7 @@ companies:
   - nvr
   - daiwa_house
   - sekisui_house
+  fetch_mode: http
 - id: cathay_real_estate
   name: 國泰建設
   aliases:
@@ -209,6 +219,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: huaku
   name: 華固建設
   aliases:
@@ -230,6 +241,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: chong_hong
   name: 長虹建設
   aliases:
@@ -251,6 +263,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: highwealth
   name: 興富發建設
   aliases:
@@ -272,6 +285,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: ruentex
   name: 潤泰新
   aliases:
@@ -292,6 +306,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: kindom
   name: 冠德建設
   aliases:
@@ -312,6 +327,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: farglory
   name: 遠雄建設
   aliases:
@@ -333,6 +349,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: huang_hsiang
   name: 皇翔建設
   aliases:
@@ -353,6 +370,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: san_yuan
   name: 三圓建設
   aliases:
@@ -373,6 +391,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: dr_horton
   name: D.R. Horton
   aliases:
@@ -394,6 +413,7 @@ companies:
   downstream:
   - xhb
   - itb
+  fetch_mode: http
 - id: lennar
   name: Lennar
   aliases: []
@@ -414,6 +434,7 @@ companies:
   downstream:
   - xhb
   - itb
+  fetch_mode: http
 - id: pultegroup
   name: PulteGroup
   aliases:
@@ -435,6 +456,7 @@ companies:
   downstream:
   - xhb
   - itb
+  fetch_mode: http
 - id: toll_brothers
   name: Toll Brothers
   aliases: []
@@ -454,6 +476,7 @@ companies:
   downstream:
   - xhb
   - itb
+  fetch_mode: http
 - id: kb_home
   name: KB Home
   aliases: []
@@ -472,6 +495,7 @@ companies:
   downstream:
   - xhb
   - itb
+  fetch_mode: http
 - id: nvr
   name: NVR
   aliases:
@@ -492,6 +516,7 @@ companies:
   downstream:
   - xhb
   - itb
+  fetch_mode: http
 - id: daiwa_house
   name: 大和房屋
   aliases:
@@ -512,6 +537,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: sekisui_house
   name: 積水房屋
   aliases:
@@ -531,6 +557,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 - id: sumitomo_forestry
   name: 住友林業
   aliases:
@@ -548,6 +575,7 @@ companies:
   downstream:
   - vnq
   - xlre
+  fetch_mode: http
 etfs:
 - id: vnq
   name: Vanguard Real Estate ETF
