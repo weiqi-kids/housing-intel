@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:27.300410Z",
+  "generated_at": "2026-04-27T03:36:55.241166Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -16,14 +16,14 @@
     "top_topics": []
   },
   "filter_audit": {
-    "total_raw": 477,
-    "dup_title": 238,
-    "too_old": 172,
-    "gate1_blocked": 34,
-    "gate2_blocked": 25,
-    "passed": 8,
-    "pass_rate": "3.3%",
-    "gate2_block_rate": "10.5%",
+    "total_raw": 955,
+    "dup_title": 478,
+    "too_old": 345,
+    "gate1_blocked": 65,
+    "gate2_blocked": 55,
+    "passed": 12,
+    "pass_rate": "2.5%",
+    "gate2_block_rate": "11.5%",
     "gate2_samples": [
       "Texas: The Infrastructure Challenge and Opportunity",
       "Texas: The Infrastructure Challenge and Opportunity",

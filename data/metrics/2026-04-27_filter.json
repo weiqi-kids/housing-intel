@@ -1,11 +1,11 @@
 {
-  "total_raw": 477,
-  "dup_title": 238,
+  "total_raw": 955,
+  "dup_title": 478,
   "no_date": 0,
-  "too_old": 172,
-  "gate1_fail": 34,
-  "gate2_fail": 25,
-  "passed": 8,
+  "too_old": 345,
+  "gate1_fail": 65,
+  "gate2_fail": 55,
+  "passed": 12,
   "gate2_samples": [
     "Texas: The Infrastructure Challenge and Opportunity",
     "Texas: The Infrastructure Challenge and Opportunity",
