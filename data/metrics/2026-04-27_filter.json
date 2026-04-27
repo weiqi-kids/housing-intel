@@ -1,0 +1,16 @@
+{
+  "total_raw": 477,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 34,
+  "gate2_fail": 25,
+  "passed": 8,
+  "gate2_samples": [
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
+    "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+    "Cramer’s Mad Dash: Caterpillar - CNBC"
+  ]
+}
