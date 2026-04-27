@@ -1,29 +1,200 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:36:55.241166Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T10:13:29.568144Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-04-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Godo Steel Details Capital and Business Relationship With Nippon Steel - TipRanks",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZTFnX0VKX2JhbHpiNUdBVU1GS2tweTNnd3ZoVmo2NDFSV0FiUjlpOWtObGVZS1h5MFpielE4ZG9wQVJybnFYb0tRVjljQ2pSa3pDZzg2Z3VQcjdCR2ptYTNLLXZxTHFuQVN6QS16UnB4NWZwNWFWX3U1b1ZQNU1ybGl0akJYSi0zT0VGOTBLaVZBYkdqdlBGa0t6bGxMS3kwYzllRlpXcDZybHpiT0kxRll1ZUNXV1JKUnVTTFFQbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-04-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wells Fargo Lifts PT on Caterpillar Inc. (CAT) And Raises 2026-2028 EPS - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenc2QjZCSHRMY2ZnZi16c2JvWkhMeWROcXRNNkt5SXR4b2NmNTNjYWYtem13c1l3OTFfNExFSXByRFctVDhvMWo0QzlBQ1BzUThZbXdrX0xxZTZVNGpWR1JkNEdZMnJlbloyZkFWQ2dOT19SOHJDeUNpNXJsWTl6MnVVQzJWWVV5MzQ3elZaa2s4T3ZfRFBVRmtWdjExZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-04-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Research Forecasts Increased Earnings for Caterpillar - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1lIR2pVMWcwbVdfZURmNVI3V3NUVHhhd1hvZHlfZEpoZUxzd0ZzbGFQeV9CclVrREdSYmZRbWVGZHFzZWRxcFNOX0JYdmFscXJTeENhNUtNcHpjWHNBY0hJcnExWWhaeGR5STQwZWdELUp4RXFYWGNWZ2phMUVUNjI2bmNpZFFRLVB0MFNlUTVUMUo3VlVsZXp4ZWJxZHNIUkhJTDBzaUFvdzhya2F6dEdkVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taipei upgrades status of Taiwan's first department store - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2dXF6dFZYeFJvMEFmZ0FsekFZdkExME0zZGZWRzRnd2lCZlYyejdpUVp5UEREQ1E4SHo1RmVkUWcwNmZpbVk0NlptZjBEbVVadURQam4yMDg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-04-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will Softer Earnings, Stronger Orders and Buybacks Change D.R. Horton's (DHI) Narrative - Yahoo Finance",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEdsRHBPZDlhLU8wLUl2bEtQZWh3akJqUDhiQ2xraTRkcEl1NHFTa3JYMG9yd3QyXzV2UnpwUlFjZG1Dblh2VlVVMmsxZ19QQmpaUWFnMHhKVEZ0aDVXMWtlQWFDOXFCb29USTVwRVR3TXU4SkVTbUVQWWNyc0d3VWV5aW9LbXpMWEVmTFRKUnhRMGFmYTNWanRvZDBUQjgwUXRHa2p0TVI?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 11,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 1,
+      "neutral": 10,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "dr_horton",
+        "count": 3
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "sekisui_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 955,
-    "dup_title": 478,
-    "too_old": 345,
-    "gate1_blocked": 65,
-    "gate2_blocked": 55,
-    "passed": 12,
-    "pass_rate": "2.5%",
-    "gate2_block_rate": "11.5%",
+    "total_raw": 1436,
+    "dup_title": 711,
+    "too_old": 515,
+    "gate1_blocked": 98,
+    "gate2_blocked": 84,
+    "passed": 28,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "11.6%",
     "gate2_samples": [
       "Texas: The Infrastructure Challenge and Opportunity",
       "Texas: The Infrastructure Challenge and Opportunity",
@@ -34,15 +205,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無房地產產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 11 則事件，焦點為CAT、DR Horton、Nippon Steel相關動態：「Godo Steel Details Capital and Business Relationship With...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "Godo Steel Details Capital and Business Relationship With Nippon Steel - TipR...（財報）",
+        "level": "yellow"
       },
       {
-        "text": "建議持續監控後續發展動態。",
-        "level": "green"
+        "text": "Wells Fargo Lifts PT on Caterpillar Inc. (CAT) And Raises 2026-2028 EPS - Yah...（財報）",
+        "level": "yellow"
       }
     ]
   },
