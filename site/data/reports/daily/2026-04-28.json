@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:12:23.024442Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-04-28-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Analyst Ratings France: RBC upgrades Saint-Gobain to Outperform, Morgan Stanley cuts Teleperformance - marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaVhLWm54RUNBclV4YUMyNm5lWDJ2TXp0TUJNVjVRQXRjLWxXWEYzS2oyM2ZXdmdKeE50LW1rQ0QwTmFRMWI5TnFrTDN5VndfcTJxR0ZwaVVNc2hudUNWYVJqbDBSbElBZmRrNEwyZWd0OTY3RlFoTUd5N24wWkwxTXQ2VG1yRHZSZTVvUXh4TXpGaDBaczFCcmRIVXZyQnowOGZMWDNpTW1BeFcwQzJac1RVcjQxekQ3TzNRMVpWWEhfMXRxdnhaNkI2VTlWRnVqcUd5U1ZhZ2huSkF2dUpGbXF2Uy1PQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pultegroup-2026-04-28-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "PulteGroup earnings show the housing market’s decline—and a silver lining. What it means for the stock. - MSN",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWp5dGs1QWc5aFgxZmFZT3pta3pGUW1fZjJVMkE2TEZ3SmpqQkhiLVlRdXhSdjV0V2FMZURCdFh4QVhxVTBCQ1lFbTRwTWtldHIyaGp6R0NEU3RDbFUtZEZPYnh4ZFBua3ByRWZpdG8zSmg3NDlNek1YR3F1S2s4aWZ2NXZZbWUzT0R6NkxqdlZUaDNvZVhnYkVtcjFGNkdVYS1JVnJxQlRubkFjV29FMk5keHN2UVNmTVJDaTB6elhPa3FyZHNrT2tvM3BnZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-04-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Nippon Steel India appoints Nobuo Okochi as chief financial officer - statement - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUElQMlpDOVBJTEx6R21NdXI0SzBXVU9DT0dCZ3R5X1JEY1R2dmdGVkNlYXMxRnUyZ19uQkJ4c3hWdUNEQ2JqYnhzMW9wal9kMTctbjhpNmJtUUVBeFRYMFdBOElnaTEyMkw2M1JxeE9xU0htYlI0TVRiR3pzRi1EZktpZm5zN3p4QnRRaTZPcHE3Qk4yRTh3dUhyUXNqNkN4b3dHWFY1c2c3dkNTYnNBSXRmeGhVV2VaT1FWLTlsNnhUejluT3lWWjFfZmNxMG5wanF1c0VRb091bnVy?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-04-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Colin still king? The best and worst chocolate caterpillar cakes - The Telegraph",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenJWa1VkUXlpa25xRmhrVlVXS1Zwc3J1bklLaUYxNzQwNUJ6MHVvYnBfd3A0Tng0a2pGbmRLOFViWmsxazM2VTlycVZxZVktZGQ0eHh4N3Q1VFBlMjlxWmFacWpvMUdfREhWTzhQakNaWlVsZWdzeXR4bHR2RUh4Smw3c3d5WFZlZm0wQnZWQ0M4R0NEVDFtaTEwOENJUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-04-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cie de Saint-Gobain stock upgraded by RBC on pricing power - Investing.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0tOamJ1YnpTQ3UtYURoYjdUbEY5T2VLT1ZEejNLYUVUbU5oZEVuT1NOLWRYdHRyTGZGWVNpYmFKcUZZX3FyZFB0cHpCM3lPZmtMNmxkNU13b2Z2YmJaVE55T2RQVFduX3lNOTNHTDNicWdEWkRUeElrQ3hlQ1U1U211QVRrcFZBR3d6bjFvTzB3djhTRl9zbllOOUhFSUdvQzF1aDRaVG91Mm92Y3BCcDVPbDJlNU5n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "dr_horton",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 476,
+    "dup_title": 214,
+    "too_old": 147,
+    "gate1_blocked": 37,
+    "gate2_blocked": 42,
+    "passed": 36,
+    "pass_rate": "13.7%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Texas: The Infrastructure Challenge and Opportunity",
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "AMNS India appoints Nobuo Okochi as CFO from July 1 - Devdiscourse",
+      "Texas: The Infrastructure Challenge and Opportunity",
+      "Vulcan Materials Company (VMC) Stock Price, News, Quote & History - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為聖戈班、CAT、DR Horton相關動態：「Analyst Ratings France: RBC upgrades Saint-Gobain to Outp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Analyst Ratings France: RBC upgrades Saint-Gobain to Outperform, Morgan Stanl...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "PulteGroup earnings show the housing market’s decline—and a silver lining. Wh...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 476,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 37,
+  "gate2_fail": 42,
+  "passed": 36,
+  "gate2_samples": [
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+    "AMNS India appoints Nobuo Okochi as CFO from July 1 - Devdiscourse",
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "Vulcan Materials Company (VMC) Stock Price, News, Quote & History - Yahoo Finance"
+  ]
+}

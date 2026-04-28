@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-28",
+  "date_range": {
+    "start": "2026-04-22",
+    "end": "2026-04-28"
+  },
+  "generated_at": "2026-04-28T10:12:23.095067Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "dr_horton-2026-04-22-017",
+      "date": "2026-04-22",
+      "title": "D.R. Horton, NVR, Taylor Morrison, M/I Homes earnings recap for mortgage lenders - National Mortgage News",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 55,
+      "last_week": 30,
+      "week_over_week_change": "+83%",
+      "sentiment_this_week": 0.04
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "caterpillar": {
+      "event_count": 19,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "dr_horton": {
+      "event_count": 13,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "pultegroup": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "vulcan_materials": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "toll_brothers": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sekisui_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 257,
+        "last": 193,
+        "change_pct": 33.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-22",
+      "event_count": 52,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 67,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 52,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 23,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 32,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 12,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-22 ~ 2026-04-28）共 257 則事件，重點為「D.R. Horton, NVR, Taylor Morrison, M/I Homes ea...」。聖戈班、Vulcan表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pulte",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
