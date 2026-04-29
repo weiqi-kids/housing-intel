@@ -1,0 +1,16 @@
+{
+  "total_raw": 478,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 37,
+  "gate2_fail": 37,
+  "passed": 40,
+  "gate2_samples": [
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "The Siam Cement PCL stock (TH0016010009): Why does its cement dominance matter more now for global i",
+    "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+    "Texas: The Infrastructure Challenge and Opportunity",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st"
+  ]
+}
