@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-30",
+  "total_events": 14,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "vulcan_materials": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

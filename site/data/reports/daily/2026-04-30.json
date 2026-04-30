@@ -1,0 +1,221 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:05:06.538414Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "VMC Q1 2026 Deep Dive: Data Center Demand and Public Infrastructure Drive Outperformance - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXJJd3dTYXU2a1ZJWEw2aEE4WXVFcC1CUzVQS0V1UVFKX2JYTHpwRWVQT3RNOExZWk1VNnh4bVpIU3dXdWJaeHF3aTFGX2tJbGxXYlpTSF8wZUxxUkc1dWxlYW1HTlkxV213QTlXamdFWEF1cUE0ZkNWMURrRUVIYTFkb0ZubmZZNmxWT3h4elRDQXF5cFJIYTFCT05wa25DRldKM1F0REVLVUUtOXVkQ0JXdVN2RUFxSmRVOGpOS3Z4RjgxVE54Yk5ZZnZSV3pUZGw4V3l4TFRSVzNJaTluM2dR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crh-2026-04-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRH Reports First Quarter 2026 Results",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel trader inks MOU with Malaysian fabricator - megaproject.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmw2MGxWX1BoSnE5MFZKOTJBNzV2ZGhiSzJWeGNxNWx4R01Qdk83NEJKU1ExQ0xsMk9FYkNpN0RZU2pQQ1UxTFVWcUNJN0tuZHUtWmpoT0gzc1R6V1EyZnc4VzZKY2ZJYTgzRl9FaC1UZlJfWUpxaU9wTTlXcldaZzFReUczZGhNNEgtZWdQQzdrQ28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-04-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Nippon Steel India inaugurates indigenous auto steel line to boost 'Make in India' - IANS LIVE",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0FfemRLSkFXcUgyd1RwMS02NW9Gc1QxdmVDdjN1ek9sWUxMY3FwRTVURm9STjduckgyQ0JuOEs3Tkx5dkM4RDduQ3VLZU9IU28zOEpTSnVtRXVsVlhQQmZIY05CMWVmNGlmZ1ZFMkx3ZDJSd2xwcG5tNHhJRU5WQ090V2tiOTFnTjJkTFZMV3B0QjRScG95b0RkUzBoenNVZ0l2RzhjM3V4WlNsNEZGdDNBcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-04-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials reports year-on-year boost in earnings - Construction & Demolition Recycling",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWNXaFhlUEdfelRzZ2d1Mk94SVVnZXh2MHBkU3VDNjVRMkMzek80c0V1Nkdqbk8zbUFXTEFlU184NHdWZXh6X2pVeXdRYW9lYklFYWxWREdBSjhmLV9XYnEtMVY3ZUx3T1pkeFRvcGNIOUREY1VPbk9SYk1DVmZjQ2dLS3h4M0k1MFR0c3JOYTBPU2hXeVFtOWZhTTU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 4
+      },
+      {
+        "id": "pultegroup",
+        "count": 3
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "crh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 479,
+    "dup_title": 195,
+    "too_old": 142,
+    "gate1_blocked": 38,
+    "gate2_blocked": 40,
+    "passed": 64,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+      "The Siam Cement PCL stock (TH0016010009): Why does its cement dominance matter more now for global i",
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "ArcelorMittal Nippon Steel India appoints Nobuo Okochi as Chief Financial Officer - ETLegalWorld.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Vulcan、Pulte、Nippon Steel相關動態：「VMC Q1 2026 Deep Dive: Data Center Demand and Public Infr...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "VMC Q1 2026 Deep Dive: Data Center Demand and Public Infrastructure Drive Out...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "CRH Reports First Quarter 2026 Results（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

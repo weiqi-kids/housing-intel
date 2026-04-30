@@ -1,5 +1,273 @@
 [
   {
+    "id": "crh-2026-04-30-001",
+    "date": "2026-04-30",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CRH Reports First Quarter 2026 Results",
+    "summary": "<p>Strong performance backed by our superior strategy, unmatched scale and connected portfolio Total revenues +9% YoY; good early-season project activity, disciplined commercial execution and acquisit",
+    "sources": []
+  },
+  {
+    "id": "nippon_steel-2026-04-30-002",
+    "date": "2026-04-30",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Steel trader inks MOU with Malaysian fabricator - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmw2MGxWX1BoSnE5MFZKOTJBNzV2ZGhiSzJWeGNxNWx4R01Qdk83NEJKU1ExQ0xsMk9FYkNpN0RZU2pQQ1UxTFVWcUNJN0tuZHUtWmpoT0gzc1R6V1EyZnc4VzZKY2ZJYTgzRl9FaC",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmw2MGxWX1BoSnE5MFZKOTJBNzV2ZGhiSzJWeGNxNWx4R01Qdk83NEJKU1ExQ0xsMk9FYkNpN0RZU2pQQ1UxTFVWcUNJN0tuZHUtWmpoT0gzc1R6V1EyZnc4VzZKY2ZJYTgzRl9FaC1UZlJfWUpxaU9wTTlXcldaZzFReUczZGhNNEgtZWdQQzdrQ28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-04-30-003",
+    "date": "2026-04-30",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal Nippon Steel India inaugurates indigenous auto steel line to boost 'Make in India' - IANS LIVE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0FfemRLSkFXcUgyd1RwMS02NW9Gc1QxdmVDdjN1ek9sWUxMY3FwRTVURm9STjduckgyQ0JuOEs3Tkx5dkM4RDduQ3VLZU9IU28zOEpTSnVtRXVsVlhQQmZIY05CMWVmNGlmZ1ZFMk",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0FfemRLSkFXcUgyd1RwMS02NW9Gc1QxdmVDdjN1ek9sWUxMY3FwRTVURm9STjduckgyQ0JuOEs3Tkx5dkM4RDduQ3VLZU9IU28zOEpTSnVtRXVsVlhQQmZIY05CMWVmNGlmZ1ZFMkx3ZDJSd2xwcG5tNHhJRU5WQ090V2tiOTFnTjJkTFZMV3B0QjRScG95b0RkUzBoenNVZ0l2RzhjM3V4WlNsNEZGdDNBcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-30-004",
+    "date": "2026-04-30",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials reports year-on-year boost in earnings - Construction & Demolition Recycling",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWNXaFhlUEdfelRzZ2d1Mk94SVVnZXh2MHBkU3VDNjVRMkMzek80c0V1Nkdqbk8zbUFXTEFlU184NHdWZXh6X2pVeXdRYW9lYklFYWxWREdBSjhmLV9XYnEtMVY3ZUx3T1pkeFRvcG",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWNXaFhlUEdfelRzZ2d1Mk94SVVnZXh2MHBkU3VDNjVRMkMzek80c0V1Nkdqbk8zbUFXTEFlU184NHdWZXh6X2pVeXdRYW9lYklFYWxWREdBSjhmLV9XYnEtMVY3ZUx3T1pkeFRvcGNIOUREY1VPbk9SYk1DVmZjQ2dLS3h4M0k1MFR0c3JOYTBPU2hXeVFtOWZhTTU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-005",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "VMC Q1 2026 Deep Dive: Data Center Demand and Public Infrastructure Drive Outperformance - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXJJd3dTYXU2a1ZJWEw2aEE4WXVFcC1CUzVQS0V1UVFKX2JYTHpwRWVQT3RNOExZWk1VNnh4bVpIU3dXdWJaeHF3aTFGX2tJbGxXYlpTSF8wZUxxUkc1dWxlYW1HTlkxV213QTlXam",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXJJd3dTYXU2a1ZJWEw2aEE4WXVFcC1CUzVQS0V1UVFKX2JYTHpwRWVQT3RNOExZWk1VNnh4bVpIU3dXdWJaeHF3aTFGX2tJbGxXYlpTSF8wZUxxUkc1dWxlYW1HTlkxV213QTlXamdFWEF1cUE0ZkNWMURrRUVIYTFkb0ZubmZZNmxWT3h4elRDQXF5cFJIYTFCT05wa25DRldKM1F0REVLVUUtOXVkQ0JXdVN2RUFxSmRVOGpOS3Z4RjgxVE54Yk5ZZnZSV3pUZGw4V3l4TFRSVzNJaTluM2dR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-30-006",
+    "date": "2026-04-30",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Vulcan Materials (VMC) Valuation After Q1 Earnings Beat And Raised EBITDA Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMldzS1BQLU1XN1A3a3BaSGVpcGZOV2xlLXJEZmhtVk5ra0YwT2wycFVzV3BJd0IwQ2I3T3NRZnR0OXpFbGUtaWdMOEFzSWRBSnF4dllQay1GSk5ESmdpSWV3NU5NN19zNjZhNGhaOT",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMldzS1BQLU1XN1A3a3BaSGVpcGZOV2xlLXJEZmhtVk5ra0YwT2wycFVzV3BJd0IwQ2I3T3NRZnR0OXpFbGUtaWdMOEFzSWRBSnF4dllQay1GSk5ESmdpSWV3NU5NN19zNjZhNGhaOTBYMmxLNzE1WlBDODJGWnlFVmxPNHZVa0FNdDZTNG9nUEo5OVhLRF9mb0ZNTENPUUhzdUdEN001LXJvLUswRDdVcFFjc29jU0xpWnYteW52T3NGblRlb0V6OC1Mck9MYXBwN21N0gHTAUFVX3lxTE0yV3NLUFAtTVc3UDdrcFpIZWlwZk5XbGUtckRmaG1WTmtrRjBPbDJwVXNXcEl3QjBDYjdPc1FmdHQ5ekVsZS1pZ0w4QXNJZEFKcXh2WVBrLUZKTkRKZ2lJZXc1Tk03X3M2NmE0aFo5MFgybEs3MTVaUEM4MkZaeUVWbE80dlVrQU10NlM0b2dQSjk5WEtEX2ZvRk1MQ09RSHN1R0Q3TTUtcm8tSzBEN1VwUWNzb2NTTGladi15bnZPc0ZuVGVvRXo4LUxyT0xhcHA3bU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-30-007",
+    "date": "2026-04-30",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co (VMC) Q1 2026 Earnings Call Highlights: Stro - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVN5VjRLaHVJMVNyYVAwQ25WMi1Qb09kNHFrTFU1SHhQdW1MODlQRW96UFVSN19NQkU0WHJXVnktQnNqS0U2bmlkTWMtWTVoWkEyaHZKZzlhMWNuaG9Oa3lyRV9qaGJXbjk2d1liZn",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVN5VjRLaHVJMVNyYVAwQ25WMi1Qb09kNHFrTFU1SHhQdW1MODlQRW96UFVSN19NQkU0WHJXVnktQnNqS0U2bmlkTWMtWTVoWkEyaHZKZzlhMWNuaG9Oa3lyRV9qaGJXbjk2d1liZnJ6Z1dkbjV5ZzhvLWxhaEN3VXZoeVlyOEc3WFVqajhRVHg2dzUtSWhmS05kR2E2UEtCUkZmanRXY0dNbUtVTmllRWRWSktIVlJlSVpRb0djS0JOLVdFb0FFeFA4Q0NKMHl4UFFJXzdTUVVZX3JHcUFuYlZVaEtZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-30-008",
+    "date": "2026-04-30",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Vulcan Materials Signals Confident Outlook Despite Cost Pressures - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1VJUDhFaGVVUXhZSDAwb3MzZG9IS09BMXF2S1VXRTZEbU8yS2cxS0pSY2hoZHhYaG1JLUo2OU5wSFhCbUZIZTRzRHJ5MGpIT1VIZHhLWTVKeHVxQWdjX0hoZDJfdlc2aHFrZWJTOW",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1VJUDhFaGVVUXhZSDAwb3MzZG9IS09BMXF2S1VXRTZEbU8yS2cxS0pSY2hoZHhYaG1JLUo2OU5wSFhCbUZIZTRzRHJ5MGpIT1VIZHhLWTVKeHVxQWdjX0hoZDJfdlc2aHFrZWJTOWptRGMwMGQ1RUhGdXF4WVJJRUpUbGRJTU1CbUhxX2RKaE9MUzUxTjJVT2RjRElmVlREWV8ySnUxQXpOZGMtX09CblJGLTdweG03?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-30-009",
+    "date": "2026-04-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canandaigua National Bank & Trust Co. Cuts Stake in Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLWpOMjlKTC1tRTY5eUJVR3BXLWdoRnp4aVByWFdSbFFaRWRlWEJmaHdJYlhQXzZWaHFyMExvOEhwS19DcndmMkJMM0FFNklKcWtvYkZlOG5nTXNFVnBpZ1FZVm9QTU5QVlROdWxmbk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLWpOMjlKTC1tRTY5eUJVR3BXLWdoRnp4aVByWFdSbFFaRWRlWEJmaHdJYlhQXzZWaHFyMExvOEhwS19DcndmMkJMM0FFNklKcWtvYkZlOG5nTXNFVnBpZ1FZVm9QTU5QVlROdWxmbktqTW9WLWVNUHh6Uzg5VldFOG1wTF9vdEtqMlJpcmU1VmZxVGc2Mms3REx3YzhmbkJJWHVXTGhMR3hYaU9PTUFrczhxbWl3UVZnWS16ZGxTaG5tazV5SkpwTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-30-010",
+    "date": "2026-04-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Norman Wack, Caterpillar VP and WWII Veteran, Passes at 97 | Oconomowoc Obituaries - GMToday.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTB4TzZwejlqM3U3SkNtNDJtTkxhX0VBSnJlOVlLUXFOSUt1YkpPMWFNanJ0MDhvMDRMSTdQTUhhUUVZNXZmcFhQZV9JVWwwMDlPWGJESDkwckpLcjE5ZDU3OXBvejB6cTZYMWVzdF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTB4TzZwejlqM3U3SkNtNDJtTkxhX0VBSnJlOVlLUXFOSUt1YkpPMWFNanJ0MDhvMDRMSTdQTUhhUUVZNXZmcFhQZV9JVWwwMDlPWGJESDkwckpLcjE5ZDU3OXBvejB6cTZYMWVzdFR4TjBTNWJseC1BY1BZdG4zMnM5WGh1bW9MUW11aTdYR0xSUXl4dGpfTTRZdUF0NWMybmx0OUFneHZ6ZmdrbVU3WWRrY0RDMmd1VVFRQ0oxbUl5RkNoMlc4V0VsTFBvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-30-011",
+    "date": "2026-04-30",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup (PHM) Research Report - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ODlPMFJFdi1iSE85ekF5eHJLdmczbERwUExHcnRCYlRXQ2liUm9KdEozZDRkOWw2MGlFZ0p6cTk0ZFM1bWNGS2M5d3d1b2x6UGw0?oc=5\" target=\"_blank\">PulteGroup (PHM",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ODlPMFJFdi1iSE85ekF5eHJLdmczbERwUExHcnRCYlRXQ2liUm9KdEozZDRkOWw2MGlFZ0p6cTk0ZFM1bWNGS2M5d3d1b2x6UGw0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-30-012",
+    "date": "2026-04-30",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup declares $0.26 dividend - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmxndjFQejFNNU9QM2ZSTTNGdTZrRGl2SWdkcHduN1g5N0tKUFo1aXBLTHMtZEI1YUtBZEx6R2doZGdOUlB4bmlXdTFqWEYyVW9WMXYwUHU2LVpzVDV0UWFjdFYxVUNTeWp0Ui1qaU",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmxndjFQejFNNU9QM2ZSTTNGdTZrRGl2SWdkcHduN1g5N0tKUFo1aXBLTHMtZEI1YUtBZEx6R2doZGdOUlB4bmlXdTFqWEYyVW9WMXYwUHU2LVpzVDV0UWFjdFYxVUNTeWp0Ui1qaUJsQUxXWmhhQklsdXZvQjgyX0poSkE3MmhsYldIT09udEotejNwU0J4V29mQUo1SUdqX0JTUWdmTFYwSzZUZ3ducE1BUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-30-013",
+    "date": "2026-04-30",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "5 Must-Read Analyst Questions From PulteGroup’s Q1 Earnings Call - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdTVSZ0JWb2JiVVp3LWR1RFlsY2FuaUZVVERPbUZLWkdQQWUxVTdfdXhBQkFBQnBGTFlTUExBLVI3cG04VEpJVk1PZ0hBRHR5MWJyU3ozMmxFZXNXOU1xNmVTbWZJMGhMbW11RUQwUG",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdTVSZ0JWb2JiVVp3LWR1RFlsY2FuaUZVVERPbUZLWkdQQWUxVTdfdXhBQkFBQnBGTFlTUExBLVI3cG04VEpJVk1PZ0hBRHR5MWJyU3ozMmxFZXNXOU1xNmVTbWZJMGhMbW11RUQwUGpLbjJfZk1uSlVWbWJ1NGNBZnNNRllFWnprdmxZWHVrN2dkSzMyOXVQQS1JYWN3bjZDT1lLcXBEUDZ2eWRUNnNSa3pNTllIVGhQelVpcFBCMS1kZWdvN0F3REdkVVpCdERidHZDVnNBODZQSGFBN19ZMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-04-30-014",
+    "date": "2026-04-30",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bear of the Day: KB Home (KBH) - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5haTZjdi11bVA2Z0RsdUJlZ0VxQUxkbEJmbW1pYW1PMkN5SmlYX0lMMWtnRUVhdDdjanI0NVRtUlF5SjROTnVPSXU3UDJ3NkxWUTJyaVgtQ3VINV9GVm1wYUJlS09SSURucHlGcWNEQn",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5haTZjdi11bVA2Z0RsdUJlZ0VxQUxkbEJmbW1pYW1PMkN5SmlYX0lMMWtnRUVhdDdjanI0NVRtUlF5SjROTnVPSXU3UDJ3NkxWUTJyaVgtQ3VINV9GVm1wYUJlS09SSURucHlGcWNEQnk5RFJXVk5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-29-001",
     "date": "2026-04-29",
     "companies": [],
@@ -193,6 +461,897 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWVCLVI1ZWlXUmlZeEc5TEM5Y3hHWlU0LXpHUF82RkI2QnlkTEVTdFI2N3VyQjhpR3JDWnJKV3hKT3dmcWg4Ylh5ZzdVc2N0RXR0YlYyUVI1aE9xcUpmNUVRNGQ3Y1N6a1dPeFVtSUUtUnp1c2l3eDZ0S3U1WGY0RUdYX3RBSGU2cXRua3FGbS1TbE5pTmg3Y0lURjkxZ1VOMHlyZzhoUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-04-29-011",
+    "date": "2026-04-29",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement (China) Sets 2026 AGM to Approve Dividend, Board Changes and Share Issuance Mandate - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGxjdFl0NGNBaXJpZ0NEUEZqZGQ3MUpzcmdtNXRNZVROSldReXJpWWFJRDBDTDJiOU1vZWRiYXgxQTNLRnpkRDRqUHRIS1hzQkgzOVotSmozZFNQU3JzUktQSjZXZGJSdGd0NWJRd0",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGxjdFl0NGNBaXJpZ0NEUEZqZGQ3MUpzcmdtNXRNZVROSldReXJpWWFJRDBDTDJiOU1vZWRiYXgxQTNLRnpkRDRqUHRIS1hzQkgzOVotSmozZFNQU3JzUktQSjZXZGJSdGd0NWJRd01KdUc4QnlLMlB4WTQwT2M2MDlLOGkwaFEtdDg5LWFIS3M2Zmt2b0x5WHpzaGV1TnZOMDFhdVBVN3dQN1BxWkxkVC1Fb1VwT21wYWVOQjVPUHV4STVzSU85UmFNQlZKRFFLak5OTFhnaTBpZUVW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-012",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "U. S. Steel Announces First-of-its-kind in the United States DRI Facility at Big River Steel Works - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeV9vYnVmcXByWUhEX2hzU0tBT2pKek9PQlRlTTR3SDhjOGNUUUloRndlYlFtWmVEWi1ZMFhEQkFYU2MyU1ZBY3haR2pYSE5LeHlCN1ZIbzRSUTBfQ0xCVk9zb0VfdXI0dHhRYlV2ZF",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeV9vYnVmcXByWUhEX2hzU0tBT2pKek9PQlRlTTR3SDhjOGNUUUloRndlYlFtWmVEWi1ZMFhEQkFYU2MyU1ZBY3haR2pYSE5LeHlCN1ZIbzRSUTBfQ0xCVk9zb0VfdXI0dHhRYlV2ZFZmdWdqNDRGYTFLV1prSEtRQjhxYlA4VVZmTmF0bkV0RHN0dVgweFBINy1NNWtnT3pwY1lVNWx6LWpRZm40cnU5TzI0QnJZUVdmUEZhajdhSnliM0FoS3RqNXdPQjRTbXpYSnV2ZkYwNmJqSE5TQ2N5WW9pelc2RldPcEg0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-013",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "USS to invest $1.9B to build DRI plant at Big River Steel Works - Steel Market Update",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTN6dkZiUkdyVV9XWkJYZ0htVG5jREZMb2l1MG14enR1ZzVoa1o5VDY4UVFxdFZvQzEyNGctM1pzRjZwY3hYVk5COEkybG1FQko4U0JkY2V6c3JMRDk4YjZ1VGZpeGdRV3BBZWFkWV",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTN6dkZiUkdyVV9XWkJYZ0htVG5jREZMb2l1MG14enR1ZzVoa1o5VDY4UVFxdFZvQzEyNGctM1pzRjZwY3hYVk5COEkybG1FQko4U0JkY2V6c3JMRDk4YjZ1VGZpeGdRV3BBZWFkWVNTQnpYcWJ4VGt4NjNBZXNxYjNoaXk0eXYtSmtHZ0xrSElaZ1pDODI2S1FQYl9QZGpEM21CQ25GTkxaU2V0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-014",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "New Big River Steel facility to cost $1.9B, support more than 200 jobs - The Arkansas Democrat-Gazette",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQTU4VWxKYnRrZGJ2Snp4amVNci1uX1Awamp6SkhuUjV2cUVqSzdEQ1FmbXo0N0d6Y0NJUi1iOXV3UFVReVdaYlJKQjZrYWl1UGUzeHVmWGdhVDZtZUg0TXk1U2RkZmc0NnJlaFd6TV",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTU4VWxKYnRrZGJ2Snp4amVNci1uX1Awamp6SkhuUjV2cUVqSzdEQ1FmbXo0N0d6Y0NJUi1iOXV3UFVReVdaYlJKQjZrYWl1UGUzeHVmWGdhVDZtZUg0TXk1U2RkZmc0NnJlaFd6TVdSTDVjWDNVZ192TUVYb2Q2d2pXU2RvNmg5YnZ2bVhxcGY3TThmbVEzQUV4Y25sZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-015",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials beats revenue estimates on strong demand for construction materials - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW0wZDF4NnR1TG5FRXhkN1M0bWdwcFFISnJ6c0xGYmZhSDg4bG5BQXE2c1FveWZSSjdZSWc1b2YxdmNvX1dWN0dXSHQ3QjI2UTZrV2NTeFp3TWc4bFNpM2hkaEp1cnlBNFVGSlkwVm",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW0wZDF4NnR1TG5FRXhkN1M0bWdwcFFISnJ6c0xGYmZhSDg4bG5BQXE2c1FveWZSSjdZSWc1b2YxdmNvX1dWN0dXSHQ3QjI2UTZrV2NTeFp3TWc4bFNpM2hkaEp1cnlBNFVGSlkwVmpsNDlRYnFybDgwdkxaQzQ5ZFY3eVpZbTNRbGlkUXFSSWpaSWpLZ3pWRVZwRFNGLXM0RkItc1hrMmRDRS13MU9tcVNDemVZd2NuaHFvTUlaMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-016",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Q1 2026 Earnings Transcript - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTBEUHZOaXNjR3NWdkEzWmxBUXVGaEFPbUJfbG4tT1VIR3ZoYzhNeGYxa1JjY0tVUjJzRUJVYmdzWHpTMWNFU3hCazNTZldfVF9WMmhhUzR3RHVRMllnVTNveFg3cmJpbVllZ2ltdG",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTBEUHZOaXNjR3NWdkEzWmxBUXVGaEFPbUJfbG4tT1VIR3ZoYzhNeGYxa1JjY0tVUjJzRUJVYmdzWHpTMWNFU3hCazNTZldfVF9WMmhhUzR3RHVRMllnVTNveFg3cmJpbVllZ2ltdGgtdFBoU2tvNGFUZUN6M1Q0eVlER2FOLUJHQTl3SExhTXVkRDB6SUMyN0VvSzFlS3l4ZDQ1WHFlQ254dXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-017",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company Q1 2026 Earnings Call Summary - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdnNlNU9KU2ZoNDhrdHBBMFRwSWltcm02RTFZbWp6YTdNY1EzNnJCVDNsMFB2amJ6V1ljTnRrTS1iQjVsa01TbjdSYzhlWVVpWE1uQm0wWk5pWTJ3d1puZ1lfcVc0aHQ0LS1ROXpoZV",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnNlNU9KU2ZoNDhrdHBBMFRwSWltcm02RTFZbWp6YTdNY1EzNnJCVDNsMFB2amJ6V1ljTnRrTS1iQjVsa01TbjdSYzhlWVVpWE1uQm0wWk5pWTJ3d1puZ1lfcVc0aHQ0LS1ROXpoZVVwOHVuWGplRElCV0p1YlhWWEhmdldsaTZVODkzYnU0RUctVmxPRnNGSE5wU2MtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-018",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials reports revenue growth, higher EBITDA in first quarter - Pit & Quarry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHVGallQcnhpYldzQXlka1ppUUFkZTNXd0VZSFlWc2RTS1F3ckZwZDlhMXlISmlsWlBmOXpFSFNWX1k2RllrOHNvZi05bGs5OWt2bGRXTUpIUjZyeThwaEtnTW94SkJKTHJldi0xcD",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHVGallQcnhpYldzQXlka1ppUUFkZTNXd0VZSFlWc2RTS1F3ckZwZDlhMXlISmlsWlBmOXpFSFNWX1k2RllrOHNvZi05bGs5OWt2bGRXTUpIUjZyeThwaEtnTW94SkJKTHJldi0xcDFIaDdxZEg4XzM3cV84Z0FZQTNzQTV0V2loYWJmNHZaZGlwZnlOcHpyeGdaUkx6b1lLR2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-019",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company 2026 Q1 - Results - Earnings Call Presentation (NYSE:VMC) 2026-04-29 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2lWN1dsUUZGMXEyN1E2SU9KaFhvSy1TQVJTT3I1NGhKdjJFZ1JmNDgteE10bEREV1Q0bG1UY0JJdllVRmVka25XNk1ock9XZHRYTW1CV1A5V1hYVWhRVmhWd2piS20xQzlMSXk3aG",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2lWN1dsUUZGMXEyN1E2SU9KaFhvSy1TQVJTT3I1NGhKdjJFZ1JmNDgteE10bEREV1Q0bG1UY0JJdllVRmVka25XNk1ock9XZHRYTW1CV1A5V1hYVWhRVmhWd2piS20xQzlMSXk3aGc1RU9tMEF2Unl2bmRYelpzMFZpTnZQckVhZW9lQXRxeWYzWklJWmFpQTdBYjJOVXlvVXBvUzl3WGlabS1f?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-020",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vanguard reports 5.4% stake in Vulcan Materials (NYSE: VMC) - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVl2RHQ2eFpqS3RYNE5Xekd2Y1ZxUXZEZnc0eFRrU0RnbGtvdE1DdWNVM0xZUEw4UHBwQ1FONVRjMmsyWlVNcjM0V3dxQ2FkMmlsRzNEQWhUdmFJNkxNam9kaGZCbzd6RnZVR1VVb3",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVl2RHQ2eFpqS3RYNE5Xekd2Y1ZxUXZEZnc0eFRrU0RnbGtvdE1DdWNVM0xZUEw4UHBwQ1FONVRjMmsyWlVNcjM0V3dxQ2FkMmlsRzNEQWhUdmFJNkxNam9kaGZCbzd6RnZVR1VVb3JjQ0pPUW81TVljR1JHY21xSjVocUhMeGpkRXBqUzhVRWNkOFQzekxYWGljU1lIb0o0azNJZE9PUmN2ZXd6aGdEbHJxWF91WGJnd2EwNlIxUTVpaUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-021",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials beats revenue estimates on strong demand for construction materials By Reuters - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUNHdHE4bTUtU012OGpEdnc0YUttTDNEUGZXSENPelpTWUVheVNCc2pTRVhvOE5vN2E2TlBaXzhyYXFWU21lN0t5RXBydUgtbTFFd0xzXzFDREhLQVZKeDJWZWtRaFUtRzVCN015WX",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUNHdHE4bTUtU012OGpEdnc0YUttTDNEUGZXSENPelpTWUVheVNCc2pTRVhvOE5vN2E2TlBaXzhyYXFWU21lN0t5RXBydUgtbTFFd0xzXzFDREhLQVZKeDJWZWtRaFUtRzVCN015WXlGM2JLRDdtZ0p6ZUw3cmtpWldkQ212bEg2a211ejBnbzRVa1VFWHhGWERERjFvcm05aXRvVXFRNzJFZm42MGE4U211R3lyWXBkLWZzZ2c3Wnk0a251cnFYaW4taEltcS1ZdC1sNkhmV3k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-022",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Delivers 19.5% Q1 2026 Upside, Revenue Up 7% - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOd29EbDh5cVZ6UVVFaXYwRldMX29vcXpiMmxMWjNaeGNHWXpyWHc2SHhKSFgxTC1mNnREQjJ1aWtfd3BnUzdjTVpkQWdqQmZZdU5hOHRhZ1k5WWJoZHRjUlBaTXdOWEFHcUw3cHRSNm",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd29EbDh5cVZ6UVVFaXYwRldMX29vcXpiMmxMWjNaeGNHWXpyWHc2SHhKSFgxTC1mNnREQjJ1aWtfd3BnUzdjTVpkQWdqQmZZdU5hOHRhZ1k5WWJoZHRjUlBaTXdOWEFHcUw3cHRSNmxGb0NINl9nMjdkVDhGMUQtWThzSnJpTG1CdmN0N0JDWEtXUdIBkgFBVV95cUxOd29EbDh5cVZ6UVVFaXYwRldMX29vcXpiMmxMWjNaeGNHWXpyWHc2SHhKSFgxTC1mNnREQjJ1aWtfd3BnUzdjTVpkQWdqQmZZdU5hOHRhZ1k5WWJoZHRjUlBaTXdOWEFHcUw3cHRSNmxGb0NINl9nMjdkVDhGMUQtWThzSnJpTG1CdmN0N0JDWEtXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-023",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (NYSE:VMC) Beats Expectations in Strong Q1 CY2026 - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVdsR2RPcmtiRmF0cElCdUxhUFFJdG9ZVkZKbjVXOXdUNU1FZzZiMDVhcmxSMEduVXZGTzdLQjNaeUNCVVR1SHZPX2p4S2NDM3JsMW1VNENmbXNWTnhLMEQ4bU03RTBWVzE5cTJIZk",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVdsR2RPcmtiRmF0cElCdUxhUFFJdG9ZVkZKbjVXOXdUNU1FZzZiMDVhcmxSMEduVXZGTzdLQjNaeUNCVVR1SHZPX2p4S2NDM3JsMW1VNENmbXNWTnhLMEQ4bU03RTBWVzE5cTJIZkNnaEVGOVZ4WW5TUW9mS2ZrNE1hNE9aNnNBLWFLN3BnU2JXWFVpbmJtZzJKYmdIWG1xYWpHY1Q4UlQySko0T0hTYzJqUExUOEI4UGhj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-024",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (NYSE: VMC) boosts Q1 EPS as aggregates volumes and margins climb - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNelhiUjZxOHJIZ1dsamFkbkZzdm14aHZKeUNMWVBoZ096azJQS0xRUFlTWW9pb0RSc1huRmlqMDZleC1kT0lQeXZQZURDcFB1eE1HMkJFR2kzMlBHWjBoOFo3NXMyXy1NTW9ESy15S0",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelhiUjZxOHJIZ1dsamFkbkZzdm14aHZKeUNMWVBoZ096azJQS0xRUFlTWW9pb0RSc1huRmlqMDZleC1kT0lQeXZQZURDcFB1eE1HMkJFR2kzMlBHWjBoOFo3NXMyXy1NTW9ESy15S0pLeFV2eHlCNkpESmN0UXNKOWlxMmktYjRBZ3BqbzFnNk5sSFY2dFRDMk9UZW94UVcyakhCYVRldTRtWXZuSlp6Wg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-04-29-025",
+    "date": "2026-04-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VULCAN MATERIALS ($VMC) Releases Q1 2026 Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUno4a01Hb2lOV1gyenhhZWUwbXpEbV9aN3YwV1hvbVdGazM2dHRZekVDR3hpbks1TklwVno2eVZQWDZ0MTk1S1ZYODhBS1BlTUg4N3hJWmQwLTJ0YWNxd2R2c0RubTBET3ZtNjlmTF",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUno4a01Hb2lOV1gyenhhZWUwbXpEbV9aN3YwV1hvbVdGazM2dHRZekVDR3hpbks1TklwVno2eVZQWDZ0MTk1S1ZYODhBS1BlTUg4N3hJWmQwLTJ0YWNxd2R2c0RubTBET3ZtNjlmTFN5dGh4ZTB3Z1o2VkRla3JmdkFXeWQzUWlUWFVScDR3c2ZGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-026",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cat 6040 Mining Shovel Boosts Efficiency by 15% - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdW5VT2tGYUl5Zk04VC1PSXRWZU4wdjAtclVhZEpIZk9QbkhldFhsZERLM08yVHZVaGQyaXJQNHFDVUdfMnM5UnhKWFF4bDl4ejF2ZDA4cFNWSnkyQjNrSVJVSXBYS2ZhVGc5czlFVi",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdW5VT2tGYUl5Zk04VC1PSXRWZU4wdjAtclVhZEpIZk9QbkhldFhsZERLM08yVHZVaGQyaXJQNHFDVUdfMnM5UnhKWFF4bDl4ejF2ZDA4cFNWSnkyQjNrSVJVSXBYS2ZhVGc5czlFVi1pTERpb0hmWlpKT19kSFE2SVVnYmc0YU9Scm9sb3NvRk5jSU5HdVY3WGRiNl9hNGE0LUQ5cFpSMktUUlhyWW5NQVRRQ3J6dUcxTGhhc2g0RGs1aHdzNUtuWUM4Y01VcWxtYW9XUXJVUEV5VU1Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-027",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PROPWR Secures Strategic Framework Agreement with Caterpillar Inc. - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSURkdFh0aC1BTFNnV1dnX1BicnNHam1HUU13V1BxNUFuNnJVaFI2a2w3NnRkdHNnYk1ZQnFWSEE0TzRpVTZ1d2EyMERpSVlVWERnYlJ2TjYtTV9FUzYzQTg5R1VZQUozSlhydUlkRH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSURkdFh0aC1BTFNnV1dnX1BicnNHam1HUU13V1BxNUFuNnJVaFI2a2w3NnRkdHNnYk1ZQnFWSEE0TzRpVTZ1d2EyMERpSVlVWERnYlJ2TjYtTV9FUzYzQTg5R1VZQUozSlhydUlkRHJzZjdCWWZWQ0dpakcyaHptT0hzaHBSTUFERmYyQ1luMl85S0lZVFRKb0g2cjJfVGRQc3ZORkpLQnN0aXpOeDJWb1JYM2gxTzZkUnNRTjF5aUl1ZWwz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-028",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PROPWR Secures Strategic Framework Agreement with Caterpillar Inc. - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlJ2UkVSZDltWGpxNnhadnhUZGVVaGIxQ3RhbnY4cHVIanFPbkZmN0VjQ3FzcHFqVmgwdlY1bDVmeE9vNGtCV2t3REZqUjFPR0hPZEt5eGoxLTU0cmxpV3RqV1RySkx0bVR1Q2d3Tm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlJ2UkVSZDltWGpxNnhadnhUZGVVaGIxQ3RhbnY4cHVIanFPbkZmN0VjQ3FzcHFqVmgwdlY1bDVmeE9vNGtCV2t3REZqUjFPR0hPZEt5eGoxLTU0cmxpV3RqV1RySkx0bVR1Q2d3Tmt2d0FieloyMThTdHphMU5VdnFUaktCOE1qbGptOF95Nno3cmFOMl8yeWxqUzZ1cWFfR0VVeW9KQnpsSjgxUWRsRFFpUVRoZ2hUc2QyYWVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-029",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Set to Report Q1 Earnings with Strong Expectat - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWM5S0JWUjFKdmVJWE8zRnJ1NjNpQmplTHlSSW4yTmxnb2dfSVBTNndkZHZvcFUxdVRZSmtrbkJNLVNsZ2w1cktzUUVtd3ZDOXlOLWlDRmlfLXQ3cWFXMmVEVTBZcktpUDM5c1ZreE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWM5S0JWUjFKdmVJWE8zRnJ1NjNpQmplTHlSSW4yTmxnb2dfSVBTNndkZHZvcFUxdVRZSmtrbkJNLVNsZ2w1cktzUUVtd3ZDOXlOLWlDRmlfLXQ3cWFXMmVEVTBZcktpUDM5c1ZreEYzS3lqYzVMVVVJRzVUT2hvOThRaFZ5Z1BzX3Rla3plaTRsMndOV0lFVG5vUlNKZWdZSjMxVllFVVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-030",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vanguard reports 34.8M Caterpillar shares (NYSE: CAT) — 7.47% stake - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWsyOG5CbmZLTEZZV1NVc3V2ZF92ZUZDTlBkUndGU3V5eEd0VWJCd1QwS3ZlNnFrZDFaZHBoTmRUTWUyQlVpMVFtV29Xd0lIZEZRRDV2bjlpV3JXTDI1YW9OLTFOdDNTdjVBalBMTm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWsyOG5CbmZLTEZZV1NVc3V2ZF92ZUZDTlBkUndGU3V5eEd0VWJCd1QwS3ZlNnFrZDFaZHBoTmRUTWUyQlVpMVFtV29Xd0lIZEZRRDV2bjlpV3JXTDI1YW9OLTFOdDNTdjVBalBMTmNIOUhaREQ3Z0x3b1l0MDNVRVZzWkVTeGMwRFMyOXJVMVozaUdYV2tEbWpnUWJsZDBaV3ZxNENCNHF4TkV1VVNGTFp1VjNzVHNkcTg2cDFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-031",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ProPetro inks deal for up to 2.1 GW of power generation from Caterpillar (PUMP:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX29obWI1T1hmU1BBd1ZieUhNemF6aFVrZGlXMWlwOUVmRzFIMEF6ZGFaTTBtazVJWU1FSXJ6WnJjMnpYcG1kWXNTV2ZUdEUzV0NLdmFHdzZ2MXBwYWRUb0dJNzVFV25UR3JGOUtSOE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX29obWI1T1hmU1BBd1ZieUhNemF6aFVrZGlXMWlwOUVmRzFIMEF6ZGFaTTBtazVJWU1FSXJ6WnJjMnpYcG1kWXNTV2ZUdEUzV0NLdmFHdzZ2MXBwYWRUb0dJNzVFV25UR3JGOUtSOEJJYjRMM192ejN3cDN4MnN1d0dNaTh6d1V6X2Q5QlFKNHZRc0x4YVBMNHN4SW1IU1dlbUVZcTIxS2ptR01iQTJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-04-29-032",
+    "date": "2026-04-29",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Compagnie de Saint-Gobain (OTCMKTS:CODYY) Rating Increased to Moderate Buy at Royal Bank Of Canada - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbzNOZUp1RkZZU1U4NmNkU2VhVUxDWTNDMmV2aGczUy1ENl9TRWdXYWdJdlcxdWdQWEExWDE0Q3czRTJtWTJjMHlWOTd5NkJUajFMWXZrVzV6NDNFeUNqc291VWtGN1RqMHhBYVZWNk",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbzNOZUp1RkZZU1U4NmNkU2VhVUxDWTNDMmV2aGczUy1ENl9TRWdXYWdJdlcxdWdQWEExWDE0Q3czRTJtWTJjMHlWOTd5NkJUajFMWXZrVzV6NDNFeUNqc291VWtGN1RqMHhBYVZWNkljS3lENERvby1tQ1V3UFdrSkpYVnhiYjFzdE9oNjRieERZSlNuVUItVFhPZTNQWjJ5eVVSaHJKdlJNQ3Z2UXhJQXZkalN3Y1lLSDlRbU0tV1VoYTQxbHRjSWw2ZkM2SDBFOFg1cUN6d3JiWkZBaTNBbEp5cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-04-29-033",
+    "date": "2026-04-29",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Inorganic Scintillators Market Is Going to Boom | Saint-Gobain, Hamamatsu Photonics, Landauer, Inc - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmFrU3ktb3RlZVRKbVkyMGc1d19XZnBDcFE4WktERUJTNEItTjg5U3ZvY0M5aFpRM08tZE5IVjF5QkpBTVl4Q1lDbjlZVWVSbDB4Zkxic3k4V0JxVkFVZ1JiR3RhcTNvS3N2elZuZU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmFrU3ktb3RlZVRKbVkyMGc1d19XZnBDcFE4WktERUJTNEItTjg5U3ZvY0M5aFpRM08tZE5IVjF5QkpBTVl4Q1lDbjlZVWVSbDB4Zkxic3k4V0JxVkFVZ1JiR3RhcTNvS3N2elZuZUplMXRZeXM0ZXp2MnZtUFd3UEhaVGRZRzRIQ3g2LW5LUnhjajdvbGp3N0l3V2E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-034",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "University of New Haven Professor Celebrated for Being an Impactful Literary Voice - University of New Haven",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNllYZlJENWlKaVk4X3FRdWZfU1NLQUJxZGt0NEdlTHotd1hEbVhYMFVmeWl2UFlMUUNYMUxYQUdqQ2wyUEtpZlpheHhNWDd1cWVqMEprend6MG90dFpyMXM0eW5mc0ZnMjBHRkwwTW",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNllYZlJENWlKaVk4X3FRdWZfU1NLQUJxZGt0NEdlTHotd1hEbVhYMFVmeWl2UFlMUUNYMUxYQUdqQ2wyUEtpZlpheHhNWDd1cWVqMEprend6MG90dFpyMXM0eW5mc0ZnMjBHRkwwTWsxUDE2VjM1NEM1aW1QWm9palhUOTBfaEVGbThoQ2d0LTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-04-29-035",
+    "date": "2026-04-29",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "D.R. Horton (DHI) Beats Annual Revenue Forecast Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjdtaWdTOElVYXdEczNkeXNsanBRODk5Qnh6bVBMTzFqdDhydDVXU2JNZ1k1Q2xFNTBaZUVlR19aNDU3dDFGOXVaWkt0TEJRQURfblRFVzdOSnRTSmx5Sjg5RHVHeFgzV3ZTTE5sSX",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjdtaWdTOElVYXdEczNkeXNsanBRODk5Qnh6bVBMTzFqdDhydDVXU2JNZ1k1Q2xFNTBaZUVlR19aNDU3dDFGOXVaWkt0TEJRQURfblRFVzdOSnRTSmx5Sjg5RHVHeFgzV3ZTTE5sSXpuTEsxcUNyQy04LVUzNHhQdVozdUYwYW00LThMT1N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-04-29-036",
+    "date": "2026-04-29",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vest Financial LLC Cuts Position in D.R. Horton, Inc. $DHI - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDlvamttZC1zT2NZc2RsVlB6Rzlocjg2MXhnZldRbThCX2ZvR1UyY3BTV2ZGLUd2R2psUExPbkJhd2VFTmQ1Uy1zMWZKUGNVeXJRZHI0MDAyeWhJRWxmS1J6ekQxWENkMm9HUElwUD",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDlvamttZC1zT2NZc2RsVlB6Rzlocjg2MXhnZldRbThCX2ZvR1UyY3BTV2ZGLUd2R2psUExPbkJhd2VFTmQ1Uy1zMWZKUGNVeXJRZHI0MDAyeWhJRWxmS1J6ekQxWENkMm9HUElwUDQ4R2dQTWJkLUpYYTFXdWdiZ0FIbTg3OHdWMEZ6WmQ4NUQyckRIVGVWTlRORV9HSkVjNEkxN3dtX21ncmVDdTlobzZnT0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-037",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup Announces Quarterly Cash Dividend of $0.26 Per Share - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcG1qRXkxZkh4RXVobnA5OEo3azJFc05pNjFmTzF5c1pqQnNrRmh1UHhrQzUxUGxrRWVERWlMbTU0bWxOejV3REtQRGU3cU1aeVdqS1VFeXVrSXVVTkthZS1QYWdocEZRLXV2NVM5WE",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcG1qRXkxZkh4RXVobnA5OEo3azJFc05pNjFmTzF5c1pqQnNrRmh1UHhrQzUxUGxrRWVERWlMbTU0bWxOejV3REtQRGU3cU1aeVdqS1VFeXVrSXVVTkthZS1QYWdocEZRLXV2NVM5WEpDNFJqdmNtYXVVSlhnMkpBT0JvNWVfb09UcGNZSUhLTlV5MlpGMjZ6ag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-038",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup declares $0.26 quarterly dividend for July payment - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWlKUi1WOFlHQVRKa1dpWGFDdGphWjRLbkh4VUNhLTVYdkx2YV9wanQ1eGdORDhxMnhSMlg3ODlXS253aWNubk5HcTRYeUZ4YXZlOVZMREJhd1FrYUhrUWw5b0JHYjBvU2ZlcVZra1",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWlKUi1WOFlHQVRKa1dpWGFDdGphWjRLbkh4VUNhLTVYdkx2YV9wanQ1eGdORDhxMnhSMlg3ODlXS253aWNubk5HcTRYeUZ4YXZlOVZMREJhd1FrYUhrUWw5b0JHYjBvU2ZlcVZra1B5Qk92cUUtemlSYU8tSGJNNlJrOWI0NnN4SEtXeDFZMEtaT0k4M2pKR0xYdWs3OGJmMzRBb3owcGxNR1BNVUVadGFMSDlQLTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-039",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup Inc (PHM) Stock Down 3.4% but Still Overvalued -- GF Score: 91/100 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFA5aW5QZU4zbDIwZzRlZzdPbFRhd0RoRDJrSGNxX3pzZFhFYVBiNXdLY2RHZDR2VWZCa3JVWlBuNTlHLXF3VHJiQmRrTTNuS3RNUnd1dFNhQW5KRXRRZUNLOUFrcTBDU01wLXU2Tm",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFA5aW5QZU4zbDIwZzRlZzdPbFRhd0RoRDJrSGNxX3pzZFhFYVBiNXdLY2RHZDR2VWZCa3JVWlBuNTlHLXF3VHJiQmRrTTNuS3RNUnd1dFNhQW5KRXRRZUNLOUFrcTBDU01wLXU2TmxCUnh5ajI5YXNhSjNsYW5EbG1CaTR6Vlp1RzFaSVRuZnU0LUlaczlET3BHWHMwTHh4R20wU2JfMmwxZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-040",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "PulteGroup Keeps Quarterly Dividend at $0.26 a Share, Payable July 2 to Shareholders of Record on June 16 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM0RuRFpSQWwxcllxT1NtbDhlUzFaWDk5SDY4aTd6S3M2VkJhX1U3eE95UW1OQXRwTi03LXIzaWc0LXpEZGNNMUN0UmIyc0RxcERMaUtHbS1ZS3JPUldwaFV4RGp2bVFLQXJrTGRyX2",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM0RuRFpSQWwxcllxT1NtbDhlUzFaWDk5SDY4aTd6S3M2VkJhX1U3eE95UW1OQXRwTi03LXIzaWc0LXpEZGNNMUN0UmIyc0RxcERMaUtHbS1ZS3JPUldwaFV4RGp2bVFLQXJrTGRyX21RSFNmRXBhQ056Q1NDdFc2UFVBeW0wamlDNHBjRUdNSnZJRGpOUXpyUF9uWTZHR1BVMlVCeFAwdWpjZVJUaFc3M254RGVweW1CSjhRU3lPRXRyNlM1aVFHZGZYc0REcHFZcS1ReW5ib01UWlk4dTF6VEFRNEFndw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-041",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Franklin Resources (NYSE: PHM) reports 7.8% stake in PulteGroup - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxObG9aMTIzWmFfaXJzSkFDVGtqUlZGYmJVNWRCMmJzZkUwRDB2X3dXTlNySk94dlpkQmVKdVNGY3JsYnpiTXJrUmNRZEVhUDRpaXpZTjFCV2dnZDU3VWV0c3UtTjJYYTNmN3NsVmJ4MG",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObG9aMTIzWmFfaXJzSkFDVGtqUlZGYmJVNWRCMmJzZkUwRDB2X3dXTlNySk94dlpkQmVKdVNGY3JsYnpiTXJrUmNRZEVhUDRpaXpZTjFCV2dnZDU3VWV0c3UtTjJYYTNmN3NsVmJ4MGZ1UzlmbU85a2xOelRsRk5wZkR1akI3aWgxWDhCQmZsLWZyR2VHcTdEVF9KbFpDT3hBMzNmNE85VnYzRnlydTUxcmptX1l0dUZ2MHVUOTFkM0V5dTBRQjBuTk9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-042",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is PulteGroup, Inc. (PHM) Among the Best Housing Stocks to Buy in 2026? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxON2M4aU1rOFhaVWZlYVVVX0J6N0ZELUZ0SjFFQzFRb0Vzd01seDJLM1pkdGJLMWV4TDZwdGQ4MmVhMEZzS0MzRzBDWWMzQzFMU0hicjA3UXpLbFhQZmZUNVpSNERWSGt6SFV5YVlkeW",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2M4aU1rOFhaVWZlYVVVX0J6N0ZELUZ0SjFFQzFRb0Vzd01seDJLM1pkdGJLMWV4TDZwdGQ4MmVhMEZzS0MzRzBDWWMzQzFMU0hicjA3UXpLbFhQZmZUNVpSNERWSGt6SFV5YVlkeWRmbUlSTDNVUkQ3enVGaDhKczlMX1hmUGxvSF9MRWtncXJJb0FxZE9abjJCaHd4d1UzZVhXTHhkV0VFeWVWX0FN0gG3AUFVX3lxTE1SUlkxcFMwb0hUUk9sRnl0LWxpRFY1ZXk0dldfYU5wMVc4VHlQODlVYTFBX2FZVFdQaHRRODhIaVprejNRWl9hZDkyaDZ0NlFVYWZ5angtQ1BaWGU2NUtaSS1UTWRZMzBoNV9pVm13b05kMVh0TXlwdlBJRHdiN3d5V1RNWWlzOEZPSU5oUGJmZGNvbDhvRDh1Rk9mWUctT3BnYTNKa3dJRXFoUnl0ME40X0VKOTBTWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-043",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pictet Asset Management Holding SA Trims Stock Holdings in PulteGroup, Inc. $PHM - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFExMW1Hb01yUDB5SnM1Z3NGMDQ4YUVveTNTOXE1LVp3aW0xV0k5NGhBMHBieXpLa19DZFRKcXlXelRYUkZEREYwalRHUjlYSFdOWDVIRnRCbHBpQUgzZWJ1Y2xrZWVReHNheWdWRU",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFExMW1Hb01yUDB5SnM1Z3NGMDQ4YUVveTNTOXE1LVp3aW0xV0k5NGhBMHBieXpLa19DZFRKcXlXelRYUkZEREYwalRHUjlYSFdOWDVIRnRCbHBpQUgzZWJ1Y2xrZWVReHNheWdWRU1EdzdodVE5NmVMSV9iOG9naVNleWpfSkQ0R19qQWN4Q0dWQUpUVS1ycl9UdTMwRnpNWS16ODlVdnplTHM4Tll4cmd2NWo5b2s5TGY5UDhXcTNWNFR1cDA2MERibzhTTWlMMlRDcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-044",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is PulteGroup, Inc. (PHM) Among the Best Housing Stocks to Buy in 2026? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFZ4TFp1dmNQSXQ2MmZhTzNNN1FmT3RiMFJLMHVrQnVwcWlQdFBWbFZYTjJCYXROYU84bW5BMHkwbXA4Y0tCUDNRanZuMlNnb09EbDcwNU5TeTNfeWtBYjBFU2swQjR5M0I0NVZ0cX",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFZ4TFp1dmNQSXQ2MmZhTzNNN1FmT3RiMFJLMHVrQnVwcWlQdFBWbFZYTjJCYXROYU84bW5BMHkwbXA4Y0tCUDNRanZuMlNnb09EbDcwNU5TeTNfeWtBYjBFU2swQjR5M0I0NVZ0cXAxX3ZyMDZHdlZZOTBZRzBCWVBtZUQ5TXJiU3Qtb1VUZ091UTZVeEtmd09B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-04-29-045",
+    "date": "2026-04-29",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces New Phase of Home Sites Now Open at Oakbridge Crossing in Flower Mound, Texas - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHJEakVlTGpfeWt5cmltTkZPdWJPdExILWFFa19KU0s3eFc2VEp0TnJWNzF0ZklBbnE1X3Q3VzBsb04zVmdidmZsWnZYc2d3Y3BJclNnN3NHdzRibFl0aEVOclZpSWxyR1lLLU5vbk",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHJEakVlTGpfeWt5cmltTkZPdWJPdExILWFFa19KU0s3eFc2VEp0TnJWNzF0ZklBbnE1X3Q3VzBsb04zVmdidmZsWnZYc2d3Y3BJclNnN3NHdzRibFl0aEVOclZpSWxyR1lLLU5vbklLNG4tZ2lfd2dSWUsyNi1vVTVUdmEybzdPOThB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-04-29-046",
+    "date": "2026-04-29",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers to Webcast Its Second Quarter 2026 Earnings Conference Call Live on May 20, 2026 at 8:30 a.m. (ET) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1ZBWnVuTmNVOHdJeDhNLXNVTTMyaEJ0ekdBVVZGV3ZaejloRExZeHhZczJPTDVCZFBrWnJCZHFyTXVLLXRST3FWSVo1Um9lTmlzemxwQ1JrbzlscnZGTlhLcUtRTzBQTTkzVi0wUF",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1ZBWnVuTmNVOHdJeDhNLXNVTTMyaEJ0ekdBVVZGV3ZaejloRExZeHhZczJPTDVCZFBrWnJCZHFyTXVLLXRST3FWSVo1Um9lTmlzemxwQ1JrbzlscnZGTlhLcUtRTzBQTTkzVi0wUFpnZHhMUnphQTNRRzN0UzQwQmx0R3JoUHZkUjVqRlh3VE9najRFSXdscWpCczdIWTVuZ2RZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-04-29-047",
+    "date": "2026-04-29",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "A Look at KB Home (KBH) After 4.0% Decline -- GF Value $60.23 vs Price $52.30 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGVBdXNjQXhyRGxFNUJaRzRjem1FWlVuMDNlQkViQngwRWppRmotRWJNZGg0N2hPUVB0NGpJWFlwR2pPbjB6TDhMWmF4V2x2QUhEQ3B1akpBSUlXelNfNTBnWXdHSS1NZDRGUDI2ck",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGVBdXNjQXhyRGxFNUJaRzRjem1FWlVuMDNlQkViQngwRWppRmotRWJNZGg0N2hPUVB0NGpJWFlwR2pPbjB6TDhMWmF4V2x2QUhEQ3B1akpBSUlXelNfNTBnWXdHSS1NZDRGUDI2ckpPZWFnNVlBeGs2TmJOQ1l4N0ZMblM4UURVZC1JLUpDd2dfek1pYTBXdndaMWFwQ3oyWjk0MXBMNks?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sekisui_house-2026-04-29-048",
+    "date": "2026-04-29",
+    "companies": [
+      "sekisui_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sekisui House Ltd stock (JP3420600003): Why its housing innovation edge matters more now for global - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVBuQk5IYlZ5T1Q2azUtMHF4ci1LQXh1aTBXcmlXd1VERTRLYmVyVVZnY1l0UGxIQXRvY3RMX0w0NFZUVXNDbG1VN0prT01ONnBVUVN1N3gyaU5ydnp5YXRCc3hPcnZkY1lxUjBTc3",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVBuQk5IYlZ5T1Q2azUtMHF4ci1LQXh1aTBXcmlXd1VERTRLYmVyVVZnY1l0UGxIQXRvY3RMX0w0NFZUVXNDbG1VN0prT01ONnBVUVN1N3gyaU5ydnp5YXRCc3hPcnZkY1lxUjBTc3c2blY4VlJLWm5rX05iZWR3SHdaTExaOXgtQ2g1ZkY0WUJmWFJITExxcEdWNjJIaEhlbkxfak9oYl9tUWhVWE5SdmMzbEtmZ2FJZWw2ZkkwcGVrNVdGRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sumitomo_forestry-2026-04-29-049",
+    "date": "2026-04-29",
+    "companies": [
+      "sumitomo_forestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japanese Firms to Frame 6% of US Homes After Sumitomo Forestry’s $4.5B Deal - Wood Central",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQejlKYTN6Sml0d1pYZkJ1SVo5WWlWVHhPY21UWFBRSnhmLVl5WlNFWEJUZzhoNHBlbVdENThLUXQ3MGk4UGEwMDEzTjNQZkc2cWtmMmFBTG44TnBzT1ZqWldyNEVGNVM0ZXpPbE45a2",
+    "sources": [
+      {
+        "name": "sumitomo_forestry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQejlKYTN6Sml0d1pYZkJ1SVo5WWlWVHhPY21UWFBRSnhmLVl5WlNFWEJUZzhoNHBlbVdENThLUXQ3MGk4UGEwMDEzTjNQZkc2cWtmMmFBTG44TnBzT1ZqWldyNEVGNVM0ZXpPbE45a2FKWlNOeWY2NDZBcGxmdTNIWjlEZHFPanlpRWhKUzNvQ3pLaXhYT1JKWnZ4NV9DMEhoNXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-050",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "housing_starts"
+    ],
+    "impact": "positive",
+    "title": "Home Building Shows Signs of Stabilization with Monthly Gain in Starts",
+    "summary": "Overall housing starts increased 10.8% in March to a seasonally adjusted annual rate of 1.5 million units, according to a report from the U.S. Department of Housing and Urban Development and the U.S. ",
+    "sources": [
+      {
+        "name": "nahb_blog",
+        "url": "https://www.nahb.org/news-and-economics/press-releases/2026/04/home-building-shows-signs-of-stabilization-with-monthly-gain-in-starts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-051",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "housing_starts"
+    ],
+    "impact": "negative",
+    "title": "Housing starts overachieved in March amid warning signs aplenty",
+    "summary": "March starts reached 1.5 million, single-family 1.03 million, while permits fell 10.8% and completions dropped 13.5% year over year.",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/housing-starts-accelerated-in-march-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-052",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CoStar Group, Homes.com surge in Q1 — CEO welcomes end of activist ‘distraction’",
+    "summary": "Homes.com revenue grew 58% to $26 million in the first quarter, with agent subscribers surging 205% to 35,175.",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/costar-group-homes-com-surge-in-q1-ceo-welcomes-end-of-activist-distraction/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-053",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US hotel construction pipeline down roughly 5% YOY in Q1 2026",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ErKYdvaeKseRyM-wFnUCyQQr04vQ_cuCypRQQfBxBKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc2NDM2NjIuanBn.web",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/hotel-construction-pipeline-q1-2026/818805/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-054",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Housing Market News and Commentary - HousingWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQVUlReU1JLWpJRld3aGxnc0g4UXFCZzZPczJUUVliLTR4QXRtLW0yT0N1UFB1ZUo1RWMwRmtqQ2RFZVRTMzFnZVRCZi1INVVodmlxb1NmdDJpaXRYQmlSVXJxYmhQZ1VWaDFwcWFxTE",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVUlReU1JLWpJRld3aGxnc0g4UXFCZzZPczJUUVliLTR4QXRtLW0yT0N1UFB1ZUo1RWMwRmtqQ2RFZVRTMzFnZVRCZi1INVVodmlxb1NmdDJpaXRYQmlSVXJxYmhQZ1VWaDFwcWFxTE5ZekVodENDbjhkWm1pUWlQcUEyN21rWDhmaEYxUHdvTEl4eGk3OGRkbVNSdnlBZFMxcW9VVXJFZEdxV0xOa21IZVZpU1RsS2RiQ2NoTUJYSUtQbEwxQmRyVXBRZTFyeU5ESVVibHVUR0M1NHh2clYyUWlrcEdmU3lsNnFDQUctOF9Od2piTUttb2h0M2ZLVmo2SFJSMkVORUh0OWtnUDlaNkNMeGlLOWU2Wk9xajc1U1A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-055",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "City of Boston Launches Building Material Reuse Study to Cut Waste and Emissions - Boston Real Estate Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGRSbThHbkdjSEg4aXhpa3huRWtoQUI3Sm9HdU9iTWx4N1RPQXFzbWhjVXdfaURaQ2JuNGxoR2FCcVR5Njg0OUVUV0paWkRIcUoxUkthdndaeVFzUmVuamNfcVowaE90VDZIWE5ZUF",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGRSbThHbkdjSEg4aXhpa3huRWtoQUI3Sm9HdU9iTWx4N1RPQXFzbWhjVXdfaURaQ2JuNGxoR2FCcVR5Njg0OUVUV0paWkRIcUoxUkthdndaeVFzUmVuamNfcVowaE90VDZIWE5ZUFBRV0tzZDNVQlhzdGppZHphV19Xc05SRm8xRU11S3RhZmpuUlFkWDZEenZNQnZLaVlZLW12WXlVZ29Ib2ZmZjBKMHlnVEt5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-056",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Green Building Materials Market to Accelerate as Low-Carbon - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONFZpb1NkZDh5QWhOSDdSV0tUd0RvU1pfMk5uQlU0OU12Qkg1Rm1tV2lZeGl3RmxIQWs4cFVtbFl6RjV2STFIVmRrQ1d6ck04cWZuc0hBODVUSVQ3dzhmUW1ISkJvZjNtYzdpeDdzY3",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFZpb1NkZDh5QWhOSDdSV0tUd0RvU1pfMk5uQlU0OU12Qkg1Rm1tV2lZeGl3RmxIQWs4cFVtbFl6RjV2STFIVmRrQ1d6ck04cWZuc0hBODVUSVQ3dzhmUW1ISkJvZjNtYzdpeDdzY3lCTWdvWnZyRkw4ckZPQVpHTjZXUXZGQk9Ddkx3b2sxVnpJQWpwdVBhY1B1Yw?oc=5",
         "type": "rss"
       }
     ]
@@ -905,6 +2064,26 @@
     ]
   },
   {
+    "id": "pultegroup-2026-04-28-038",
+    "date": "2026-04-28",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pulte buys West Palm Beach site for $8.8 million, plans townhouses - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMHRHS3Mwc2I0NHhFeHd1eGVTWjF5dWtMNUdrUW4tdXFFQ3FUcGlCSGNwSloteFgxWTRVLWhRbE5BNWt6VFZiV1J5ZXdLdHFJZXBmUFBWQkFQajBYUTBpUmNZV3B6dkZXcG5yQm1sY2",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHRHS3Mwc2I0NHhFeHd1eGVTWjF5dWtMNUdrUW4tdXFFQ3FUcGlCSGNwSloteFgxWTRVLWhRbE5BNWt6VFZiV1J5ZXdLdHFJZXBmUFBWQkFQajBYUTBpUmNZV3B6dkZXcG5yQm1sY2duaXVhZy1VWFBvN3JjbGpBc0pacUVQZ3JkLXZfVXFXdWcyaUZBbXlfZHctWXo2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nippon_steel-2026-04-27-001",
     "date": "2026-04-27",
     "companies": [
@@ -1577,6 +2756,46 @@
       {
         "name": "nvr",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmFfakVGTjBscTY1UXItRFY2WEZpWWtIMHEzTWdjYkdvVGNuenp3ZUIzU0FsNnU0MXB5SWdRaDlhV0Z2a2ZCNEI4TTk4TGtVRkFkd09NNGNoWjVXdnp5UndEbXNXYV9Pck1QV3VDN19XVTVUZ0ZqRV9FREdqOXZaMTVQQ05zU2dWeFZZU1A3QjctT19pc3ViSENxV2Y0ZFlJYkdNSi1icXcxeVEwcmVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cathay_real_estate-2026-04-27-036",
+    "date": "2026-04-27",
+    "companies": [
+      "cathay_real_estate"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cathay Real Estate says January-March net profit at T$1.4 bln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkZfTzlpVXhCOUJVM0VOUHFUMWhSMzB2QlJvSlZ6TmZEQldPNFZaa0dJOV9iVGdDang1T1FUdjhRa1BEb0tWOUE2QkFsakEyN1JBNExIMGkzYTFIUm5FUUpfazFpd0FyOVNxa2NLTz",
+    "sources": [
+      {
+        "name": "cathay_real_estate",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkZfTzlpVXhCOUJVM0VOUHFUMWhSMzB2QlJvSlZ6TmZEQldPNFZaa0dJOV9iVGdDang1T1FUdjhRa1BEb0tWOUE2QkFsakEyN1JBNExIMGkzYTFIUm5FUUpfazFpd0FyOVNxa2NLTzAzcEtKRmR2NE81N284d0pVSVd4MlRpQzdUWEdOZ21QMUQ4ZVlSam82eDN3ZXBTU0EyTHAydW52Z3Zod25VcXltYVFFd1M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-04-27-037",
+    "date": "2026-04-27",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Investors heavily search Toll Brothers Inc. (TOL): Here is what you need to know - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxQMGd4dEVlMlpDSDBjTnhZOVBibWNxeUxmbFlWT0x2WVVFOEJmbzA0dVYxZVpab3pJVUVFV3Nhc0Vibm5SUWZQMlhSSUQ4Z2Y5Nzh5WWZkcWdRT3hfTFZmZnB5cWN4UExqR19fbDJqSm",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQMGd4dEVlMlpDSDBjTnhZOVBibWNxeUxmbFlWT0x2WVVFOEJmbzA0dVYxZVpab3pJVUVFV3Nhc0Vibm5SUWZQMlhSSUQ4Z2Y5Nzh5WWZkcWdRT3hfTFZmZnB5cWN4UExqR19fbDJqSmhVeWcwSUdiNkN2T0dIckc1WDRRYk1jeC1jZFphM1VyU2ZDbzNLRm83TnJJQjZFREgtd2RhS1pINFhuTmFWSW5DVFJ5Z3QzUFpEY1dvdzNVNk9VZ0tsUmtVbHpXTEF4RU9iZmFxcDJ1dzRfa0p3VGtBUFR5SWxqX2FTaWlJQ2pwR1ljdU0tbkczd3pvSjU5YTdhTm9USVR6ZEtLbDd2RDZjX1FWSDdsS3BVeEJXUGgwMVhKa0hvaExGS0hPTHhiMTUzWEF4TTJoMi00cmY4WEh6OU5uSmx3N0hYbWltZnVVRVNzN29oY1RuMWFuZ21HeGFlTmZWWnFySi0wbG5Ycjg4RnZpa2Y1V3JoeVpqNnFMSk1jcUVmQVQ1THg2YUVXTTdHWnNCcQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3115,6 +4334,24 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORE1kNDVpakpZbmpKazU0cVdNcWFEeVJwcDY2Tl81cjZoZXlSZmhxSG53SjlZVmhnZG9nbTMzc25VQzdYam5zNkh5LXJVdV9KTVRqSzRyUDBzQ1VOLWg0WHgwNlBrVjB5bzFtN2kzRFpvX2kxV2dyQmVRdWFTME1xQUlyNW83QXRIQVlKaExhd3BERWFKSWxncmxVQjBkRWxxcGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-053",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "College Station City Council approves Greens Prairie Road rezoning, clearing the way for up to nearly 900 homes - KBTX News 3",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0FHcG95eXdia3FYSldCRXg4ZG5WYTEyU0pwQ3RMYXgyRkdJLVZGQl9UdjluMEp0MFBZMkE2UEhQUHJOaU1xNmgtSlFRb1RTNGtFSm0tbzZKLVBIbFF4ZlhpRURua3c4NlFyWlpwNW",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0FHcG95eXdia3FYSldCRXg4ZG5WYTEyU0pwQ3RMYXgyRkdJLVZGQl9UdjluMEp0MFBZMkE2UEhQUHJOaU1xNmgtSlFRb1RTNGtFSm0tbzZKLVBIbFF4ZlhpRURua3c4NlFyWlpwNWoxNWFYejZfTmJ1YmNtZDhUWkFtYXdJd2JkelZ6NnhNVWlwRnlFR1ZTdG5HODVTVy1sd2Qyb295VjZLMEN6Y0RNVkt2V2JxRm55TFU0Q1NGOGZDVUlHZnRvajlnembSAeABQVVfeXFMUFlMMDFGVXdmRklINUFzVVRpMlY1dVJZNTh1TEt1OFVxVnA5Y2FQRUNuN0tOMFVQMExMLXJEMFVneGtadFJicGNzUHBvcjhHYUJnOGJPcjh2b3pHOUF3cGt2M09WelRNQkc2aTFWZkF4ZXpha2NSbDl3M2dfdWd1VHhXTzZoOExIVFdldTRjdXMxa0tUZktyalU2UWtMLVlVeXRRcXJtUFR3dGpiN05nWlc1WURuUzYwUmx5Uy1LSHk3VmxENWRCNTZHTG1GZnMxd0Z1MkhvNlFfWjJkZmloNVU?oc=5",
         "type": "rss"
       }
     ]
