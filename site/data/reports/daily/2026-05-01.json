@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:44:35.332727Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel : U. S. Steel Announces Investment to Build a Direct Reduced Iron Plant at its Electric Arc Furnace Mini-Mill - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjFEOFdpa0Foak9WVlhteUN2YUNpeU10T0FyZmY2OXdaS3VLbzQzQkZ5aG1kX2ZZMGJWOGJ4VEViTmJrWHNSVGpMaHlWbl9oVWFwQ3dMbE5LaE5fU3hCUzBBa2tMdWxNVFVPTUVPeEdDNHg0V1pVSFBNeXk3Zm53aFRUdGhNdGp6YWdndkpHOVlYZE4zXzREd1RHZHBNcF9fSTFZMVZfV2dtMGZ3NWsxM3B2RjdZZVdRVWZhR2JxUFV3VTA2VFF0a1RUVFhudjM3dGlRT3BldFFtZDBrREtNcXB5NA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-05-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) TTM Margin Expansion Tests Bullish Profitability Narratives - simplywall.st",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQenJWUkNubl9hV203eFZkT3hGeWxJcTFnNnNfdkt1YUFsekZKT01Rd0NwT2FhSzdWNjdlb3NxREZaWW00eVJpajhabURJWjZCSEg3c3BGVVF4cVdrb1lhQ0dKdVVFWUZaMDVuUVBQbFk5LWxIMzM0bmh6Q0pISEE5S0JvLUxnWW5nOHZ4Q2c4ZEFxWF9NejhMRDZDVlRkSEVyckRpNU5SdU9haWhvQ0tuS3hyRWlRYkNmemU4T1pmZHozcjJEOHFTY3lLdDA0UdIB0wFBVV95cUxNSVdjZlM2S0RZUjJRTzIwSlF5MHRqdGd3elQzX3JVamJLb19TWmp5Nlp6dl9lMzl2UUNRZnFWWjZJY2lJeDBmSVJwQmhIOWc4YmpNMXJFVDVXQ1NFNFMtR2dVNGVaZWVaM2x5NENXWDdCN00wQTUyVDFwdGs4VldrMnctLUU0NFk2TGxJT2lsNWxWTHc2RjczQjM3cXY0S3gwcFNHVkI0LUlnRFpjendVak00MXZkOW5HcldTZ25TTzZscXNxSVFtMnFIRFJ5N21FOUhv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-05-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzlLTmV2YnpVMGNYSDFCcUstcncwY2dCY3R2QVUtNjd6TWN5Y2JEMWZuQURZQXZNaDBNa3pQY0pQbTByT18xX2NhakgzU3daRUZaU2lYX0ViclBfODRjdUUtWUJST1VmS2RYNmRkdVpza3psTld2UkhQdEhadkpQMk5aeEVlY2ZCcTlabmtCTWs0dVNLMm5QQnpiZ3BxSEdjakFlQ2lVaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-05-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley upgrades Caterpillar stock rating on strong results - Investing.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmNUTi05Sk1EWWM3U2ZqbnZGeGdBRERDOHBienlFVDYyRWFIb3Nybk1ya2R0T1dlMDljQ2M0RDNtNEhOUmJmYXdtallXdlhRX19rdGRQN0ZwVk9Sa0EtbmJHT2lEelFQT1JIQ2prTXNNMmJwZ1NjbVUtdHZfRWtHejRXbHlURmtoWUh6WFAwVVFSdk04d2drUklhZUtETTlUVHEwR21HWFV4Y3BHQ1dkOFlIYWVjM3E1VkdSQXI1M25pN0dS?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-05-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Margin Compression Challenges Bullish Earnings Growth Narrative In Q1 2026 - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUNYTGtoUFN6STQta3hRWmhrYldIeWJUbm5oaU0xaG0tamYtRHlVcnZ1Z3l0WU1ISkF4ajBwM2dNYWVHS3Zwb1poc0Z3ZEVEaW93bFhfRjA1b1pqWVQzSk94MmJ3QWFLRmVveFBRd25hVU1HNFRBQ0huV29KTERmX1VIV0dkcFBJNUJqbUNHdlkxbXVmd2JoOFVreWl5TTNOX1hjbWdxN3dDaTV5LWoyTHFzYUxGSVNMSU1raUhaN0hqSUpoM0MzZllqQXI0TWPSAdQBQVVfeXFMTWFtWmlMaEZic2N0Z2ltQjFWMHZtMW5lc3VIT0tHZkwtb0N6aEl5M2pqeVdXVThjWkszdnZxczZ0eXM1emFEd3luT21iQ3JWWHRxeTdzVU9vXy1rVmd1dnZ3OHpnLUVYc1QtdzNmZHhMZkVqS05FYzEzMmg1X056Q3JWa3h0T2gtSDBkV215eVlrTndXTGY5bE9RbmlCa1FaT0lra0JnV3ZISWg5NzlFZXVrLXVmRUZ1cWZ4aDdKUWhVMTFqVVN1clRJLU5USWRVbFlHZ0g?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "dr_horton",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "sekisui_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 483,
+    "dup_title": 203,
+    "too_old": 155,
+    "gate1_blocked": 36,
+    "gate2_blocked": 30,
+    "passed": 59,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+      "The Siam Cement PCL stock (TH0016010009): Why does its cement dominance matter more now for global i",
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "ArcelorMittal Nippon Steel India appoints Nobuo Okochi as Chief Financial Officer - ETLegalWorld.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為CAT、DR Horton、Nippon Steel相關動態：「Nippon Steel : U. S. Steel Announces Investment to Build ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nippon Steel : U. S. Steel Announces Investment to Build a Direct Reduced Iro...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials (VMC) TTM Margin Expansion Tests Bullish Profitability Narra...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

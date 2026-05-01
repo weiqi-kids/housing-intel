@@ -1,0 +1,169 @@
+{
+  "date": "2026-05-01",
+  "date_range": {
+    "start": "2026-04-25",
+    "end": "2026-05-01"
+  },
+  "generated_at": "2026-05-01T09:44:35.404164Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "pultegroup-2026-04-27-019",
+      "date": "2026-04-27",
+      "title": "Homebuilder Earnings: D.R. Horton Sticks Out as Pulte & NVR Sales Tank - MarketBeat",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "dr_horton",
+      "company_b": "pultegroup",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvr",
+      "company_b": "pultegroup",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 61,
+      "last_week": 40,
+      "week_over_week_change": "+52%",
+      "sentiment_this_week": 0.01
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "caterpillar": {
+      "event_count": 25,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "dr_horton": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "toll_brothers": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "kb_home": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "pultegroup": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 3
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "saint_gobain": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "sekisui_house": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "vulcan_materials": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 4
+    },
+    "crh": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 245,
+        "last": 267,
+        "change_pct": -8.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-25",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 39,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 40,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 62,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 50,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 11,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-25 ~ 2026-05-01）共 245 則事件，重點為「Homebuilder Earnings: D.R. Horton Sticks Out as...」。聖戈班、CRH plc表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Toll Brothers",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

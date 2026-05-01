@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T10:05:02.867699Z",
+  "updated_at": "2026-05-01T09:44:30.772686Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -63,14 +63,14 @@
       "name": "CRH",
       "ticker": "CRH",
       "currency": "USD",
-      "ar": 4296000000,
-      "ar_prev": 5641000000,
-      "ar_qoq": "-24%",
-      "inventory": 5251000000,
-      "inv_prev": 5019000000,
-      "inv_qoq": "+5%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 4380000000,
+      "ar_prev": 4296000000,
+      "ar_qoq": "+2%",
+      "inventory": 5058000000,
+      "inv_prev": 5251000000,
+      "inv_qoq": "-4%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "daiwa_house",
@@ -357,14 +357,14 @@
       "name": "Vulcan Materials",
       "ticker": "VMC",
       "currency": "USD",
-      "ar": 887700000,
-      "ar_prev": 1184800000,
-      "ar_qoq": "-25%",
-      "inventory": 680500000,
-      "inv_prev": 687100000,
-      "inv_qoq": "-1%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 965600000,
+      "ar_prev": 887700000,
+      "ar_qoq": "+9%",
+      "inventory": 695800000,
+      "inv_prev": 680500000,
+      "inv_qoq": "+2%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     }
   ]
 }
