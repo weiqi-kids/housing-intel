@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:04:16.866581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Nippon Steel India’s state-of-the-art automotive steel production line inaugurated by Japanese Ambassador - Chennai Patrika",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQXzlpT2U3SURKM0V5TERuRjU0ZHFCN3VDZ0lyeE1HU3AyZ2hXVmlkQnZQWHloQnphZG1idWJTazlZVVZwUks1d1pMMjAwTVVrV0dHcWtYbF9PeWp3ekplc0JVNVFhQkNmMHM0MmM4WFdiaG43Zm1jVVk5LXFXaGhqQVBheE1teFVIZXdtM2hEYWIxdi1ZU1R2UktrM1kzbHE3aEhfQkJ0dnRsVkhDOWlTQVFRaUQ3cWs1THFueWl2Ny1PY0dRUUpEb2VOdUtSdGhJMUdwajFYM2xUTE5kV3JYUUVEMlM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-05-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BofA sees more power behind Caterpillar shares - thestreet.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0g5dV9hNWpVQnJsTTQ1M3FqQlA1U0Y5bXRnZlNrUWY4bFpXT0tiSkNwdm90c3dtVndZbnE1b0JYUm5JeHVMQm1jZm5YTXZkOGM4dmstSkNPVEZ0VkNsb0dFZENGWGpJZU1uRjZUUTR5YzdHdndTb3ZsUjluLWE2ZkNraTBpdE5jNXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "kb_home-2026-05-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is KB Home’s (KBH) Meriden Expansion at Odds With Analyst Downgrades and Dividend Priorities? - simplywall.st",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS3FSWUYzUnIwYmFKQUMwNmUxMHRKSW9vNmdzazhJeENKeGhySjZnMUxDWEEyT3VFNmt1NlRCbGFVZmlDV1BJUzNyRjUyNmUySHp0dm9uOWkzSS1KUnRuY2VOT3lXLVlxS1MyWm1EVDQ4aE8zRk90T2JRSjRuQUc4bTRVWkNTV1NER1JEcGxBa2dBQ0dvR3JhUllFRGFZcV9LU3Y3b2Z3WGJ6NnRrRTZuaDNfVXpmMzA4UWVfaE0tWG1mYnF4U1RuUVctWTfSAdIBQVVfeXFMT19QRXpvOGllREJlaElIRDkwb21oSmNUTzFuaE5pY09ad0tnTHV4b2x5XzlWUDJDZ0dnMVJlanZtU045RS1mNDlvaXlvT21GaS1jZ2ZnLUxUTkR0d24tUzVORnVMc293cDA1ZXdXR1ZneDY1XzdPcUZaTUhKU3Y1VWxFR3hINU1mTTVOd0JsUXczLUtsOUs0Z25OMzlEWlRJbjRMeTAtMC1LeDVqakV0UVpUQ0hTX29hUE9UTnBfRjhDX3ZyQndNcVFDMUJwQndNanpR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 482,
+    "dup_title": 210,
+    "too_old": 158,
+    "gate1_blocked": 41,
+    "gate2_blocked": 31,
+    "passed": 42,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "Analysts Are Bullish on These Materials Stocks: Vulcan Materials (VMC), Alamos Gold (AGI) - The Glob",
+      "VULCAN REPORTS FIRST QUARTER 2026 RESULTS - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Nippon Steel、CAT、KB Home相關動態：「ArcelorMittal Nippon Steel India’s state-of-the-art autom...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ArcelorMittal Nippon Steel India’s state-of-the-art automotive steel producti...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "BofA sees more power behind Caterpillar shares - thestreet.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
