@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-07",
+  "total_events": 3,
+  "by_company": {
+    "vulcan_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

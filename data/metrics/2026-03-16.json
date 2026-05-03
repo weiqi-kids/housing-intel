@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-16",
+  "total_events": 4,
+  "by_company": {
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "nvr": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

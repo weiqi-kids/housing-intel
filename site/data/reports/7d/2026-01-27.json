@@ -1,0 +1,74 @@
+{
+  "date": "2026-01-27",
+  "date_range": {
+    "start": "2026-01-21",
+    "end": "2026-01-27"
+  },
+  "generated_at": "2026-05-03T02:39:43.325445Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-01-27-022",
+      "date": "2026-01-27",
+      "title": "M&A in Building Products: Making the Right Bets in a Cyclical Industry - Bain & Company",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 7,
+        "change_pct": -57.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-27",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

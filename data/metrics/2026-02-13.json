@@ -1,0 +1,21 @@
+{
+  "date": "2026-02-13",
+  "total_events": 6,
+  "by_company": {
+    "sumitomo_forestry": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

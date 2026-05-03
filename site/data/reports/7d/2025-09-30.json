@@ -1,0 +1,80 @@
+{
+  "date": "2025-09-30",
+  "date_range": {
+    "start": "2025-09-24",
+    "end": "2025-09-30"
+  },
+  "generated_at": "2026-05-03T02:39:36.629048Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "saint_gobain-2025-09-26-069",
+      "date": "2025-09-26",
+      "title": "Saint-Gobain has inaugurated the first 100% renewable electricity plasterboard plant in North America - Saint-Gobain",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 1,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-09-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-26",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-30",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

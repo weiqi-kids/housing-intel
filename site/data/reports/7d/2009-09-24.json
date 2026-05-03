@@ -1,0 +1,74 @@
+{
+  "date": "2009-09-24",
+  "date_range": {
+    "start": "2009-09-18",
+    "end": "2009-09-24"
+  },
+  "generated_at": "2026-05-03T02:39:26.156521Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2009-09-24-030",
+      "date": "2009-09-24",
+      "title": "A Dozen Years Forging a Successor｜Industry｜2009-09-24 - 天下雜誌",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2009-09-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2009-09-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2009-09-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2009-09-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2009-09-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2009-09-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2009-09-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

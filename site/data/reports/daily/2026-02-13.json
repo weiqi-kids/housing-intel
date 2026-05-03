@@ -1,0 +1,160 @@
+{
+  "date": "2026-02-13",
+  "generated_at": "2026-05-03T02:39:45.033712Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sumitomo_forestry-2026-02-13-177",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tri Pointe Homes to be acquired by Sumitomo Forestry in $4.5B deal - MSN",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "sumitomo_forestry-2026-02-13-178",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan's Sumitomo Forestry to acquire US builder Tri Pointe Homes for about $4.5 bln - Reuters",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "sumitomo_forestry-2026-02-13-183",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tri Pointe Homes Stock Is Up on Sale to Sumitomo Forestry - Barron's",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "sumitomo_forestry-2026-02-13-037",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tri Pointe Homes Signs Agreement and Plan of Merger With Sumitomo Forestry - TradingView — Track All Markets",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "sumitomo_forestry-2026-02-13-046",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sumitomo Forestry Agrees to Acquire Tri Pointe Homes in $4.5 Billion All-Cash Deal, Enhancing U.S. Housing Supply - Quiver Quantitative",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sumitomo_forestry",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  }
+}

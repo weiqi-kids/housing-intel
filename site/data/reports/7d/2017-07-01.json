@@ -1,0 +1,80 @@
+{
+  "date": "2017-07-01",
+  "date_range": {
+    "start": "2017-06-25",
+    "end": "2017-07-01"
+  },
+  "generated_at": "2026-05-03T02:39:28.069651Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "farglory-2017-07-01-096",
+      "date": "2017-07-01",
+      "title": "Taipei prosecutors ask to detain Farglory founder - Taipei Times",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "farglory": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2017-06-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2017-06-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2017-06-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2017-06-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2017-06-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2017-06-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2017-07-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2022-07-22",
+  "date_range": {
+    "start": "2022-07-16",
+    "end": "2022-07-22"
+  },
+  "generated_at": "2026-05-03T02:39:29.556126Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ruentex-2022-07-22-012",
+      "date": "2022-07-22",
+      "title": "Losses on Nan Shan stakes cause Ruentex to tumble - Taipei Times",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "ruentex": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2022-07-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-07-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-07-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-07-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-07-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-07-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-07-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

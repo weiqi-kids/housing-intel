@@ -1,0 +1,80 @@
+{
+  "date": "2025-11-20",
+  "date_range": {
+    "start": "2025-11-14",
+    "end": "2025-11-20"
+  },
+  "generated_at": "2026-05-03T02:39:39.172180Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "taiwan_glass-2025-11-15-019",
+      "date": "2025-11-15",
+      "title": "2025 Taiwan Glass Taifong Open purse, winner’s share, Asian Tour prize money payout - Golf News Net",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "taiwan_glass": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 9,
+        "change_pct": -66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
