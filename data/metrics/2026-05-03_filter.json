@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 38,
+  "gate2_fail": 38,
+  "passed": 14,
+  "gate2_samples": [
+    "Taiwan Cement marks 80th anniversary - Taiwan News",
+    "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+    "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+    "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+    "ArcelorMittal Nippon Steel India appoints Nobuo Okochi as Chief Financial Officer - ETLegalWorld.com"
+  ]
+}
