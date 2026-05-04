@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-04",
+  "total_events": 3,
+  "by_company": {
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

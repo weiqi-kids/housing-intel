@@ -1,5 +1,63 @@
 [
   {
+    "id": "unknown-2026-05-04-001",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3 High-Flying Stocks Strengthening Their Competitive Positions - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWk9wTG1yV0g0MFNtc0pNbFhMQ2RZOFJFOUMyRTdDWjNES2RBTmxOaUo2Qk05cG9ZdnZPc2F4SGgwZWxlQ2xnY3NSRFR5c0piNUhQV3FGb1plSEdhZkNWVmszMFJycGxldDJad0pBd3",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWk9wTG1yV0g0MFNtc0pNbFhMQ2RZOFJFOUMyRTdDWjNES2RBTmxOaUo2Qk05cG9ZdnZPc2F4SGgwZWxlQ2xnY3NSRFR5c0piNUhQV3FGb1plSEdhZkNWVmszMFJycGxldDJad0pBd3BqSUlTUDMyellPcnFjTHhRd3VzS3hSTzJuc0tJUXMwR251eEZSbk9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-05-04-002",
+    "date": "2026-05-04",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Baypointe Partners LLC Sells 40,782 Shares of D.R. Horton, Inc. $DHI - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWRKMmQ2bE1LWjFSTjh4RmJEQU9mc1lvZTFsdm9mOVNDT1p4Mkd5VFlkRmVjUGRHSWppazhqY2hEbDlnelNoRXdmbGd5YUN5S2trNnZFd0xJLW5pUkk1TnNEeFpxSVN5bjg4emZCME",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRWRKMmQ2bE1LWjFSTjh4RmJEQU9mc1lvZTFsdm9mOVNDT1p4Mkd5VFlkRmVjUGRHSWppazhqY2hEbDlnelNoRXdmbGd5YUN5S2trNnZFd0xJLW5pUkk1TnNEeFpxSVN5bjg4emZCMExHM05vT0tWaTJlNjZ1dGNCZDItbXdUNzdpTGJKTEdLYzJSU2x0alJiVXBWbjVVTmRTXzdCTFZHNDFWaXVNRW9FOHFGOHBRZG1tdWpRdUZQaDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-05-04-003",
+    "date": "2026-05-04",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Baypointe Partners LLC Has $2.37 Million Stock Holdings in Toll Brothers Inc. $TOL - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEJtQ1k1YUVGNUNTR1R4bzRGQ0lrNTFNcXNZaFFKUnRocTVtZzVuWTFLYlEzcUl3MTIwcmpmdWNnYmdWd0RVckZEdThhdUtDcGd5SlppOEZZV0RFdDRHRlA4ZWdjY0FqQ3BsVXRvUm",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEJtQ1k1YUVGNUNTR1R4bzRGQ0lrNTFNcXNZaFFKUnRocTVtZzVuWTFLYlEzcUl3MTIwcmpmdWNnYmdWd0RVckZEdThhdUtDcGd5SlppOEZZV0RFdDRHRlA4ZWdjY0FqQ3BsVXRvUmEtaUdNeWVfekMxNUZRRl9UVTNRLXBDMVRENFVTWnRpSHBiYTdjZnRFa1pmd1F1R1RKYVpXVUFSNTMzV2huWU1jNEMxcWJMVFhaTHo0OHhmRTNIZWZRSFBvbTF0U0xMR0VVa2tSYTh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "caterpillar-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -13,6 +71,102 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzJqY1VFY0ZGY2ZxN0xVajVGMjVCSW9tdWhVb2NmUUtNcVdoZmw4SnI5SGVVYmNNS1BySTl5LV85S1BzT0NQcVdfUXRnU1NaWC0xLTNUY1VQN0MyNEhWajVnenJQcmVOT0p0bHJPLUl6c1V2ZjNOWG41SFdFMTZPNE5FenpYLVZ2TG9zYkhJOFg2QUdLNnpJN2JFMTNvb0VHaVVlVHRxQmtva1A0NjhJRFlQODdFTEpnRzNjdVdDZFBNYW1PT2JxV0VhZ9IB0AFBVV95cUxNV3dMR05WZmZwSU43OWJxeVJWZU9tR2thaXUtR1VXTzhuTnMtQUNER1VSR2ZFcnRhUTlBdjR2VE42aXZSU0lBdnFPOXd0ekpaSTlOOVhOLW5odTUxTFNzaklmVXVFNWxodjVsNUdOX0p0UUt5dUlxOGlMeVBlS3BBd0tYZjQtZnNfSlRIZXZsQXNWcmEwRjVUa0hsV2JvTlBCcTdIbkIwaUtaQXNqX3lXeERxZnBwOEs5MDFDa3hUT3RpTkZ4Ty1ZNzZteUlKWDgt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-03-002",
+    "date": "2026-05-03",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock (CAT) Opinions on Q1 Earnings Beat - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNalppdkxYYkpLOXQtenYzX25GNXdqZm11NjlKRXptd25lQmdvam9rZUlQdUgwUGJsYmswSGN5ODVWeVhENUhXTnd6aHFBbC1tOHZVeVJxR0lrUjFNOGZxbG1rU0tzWmlxR1VlX0U2UW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNalppdkxYYkpLOXQtenYzX25GNXdqZm11NjlKRXptd25lQmdvam9rZUlQdUgwUGJsYmswSGN5ODVWeVhENUhXTnd6aHFBbC1tOHZVeVJxR0lrUjFNOGZxbG1rU0tzWmlxR1VlX0U2UWl1VkhjRWZKSUxKekU5ZTBlSDFQcjRJWlpqakFzMEc1RUFxeFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-05-03-003",
+    "date": "2026-05-03",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A Look At D.R. Horton (DHI) Valuation After Earnings Miss And Affordability Headwinds - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkUyWW1acE9la2tfOE9JSVhhTVdTVExQbWtkcmRSOHB3UG9GcUZGcmtrbW54VEluVGdsUS1vYXJCOWhZUl9GYWQ0SWN5UDQ3LXd1RnhXT05pczcwbmNtYnc3cklHQnlyQVFYTnUzWl",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkUyWW1acE9la2tfOE9JSVhhTVdTVExQbWtkcmRSOHB3UG9GcUZGcmtrbW54VEluVGdsUS1vYXJCOWhZUl9GYWQ0SWN5UDQ3LXd1RnhXT05pczcwbmNtYnc3cklHQnlyQVFYTnUzWlF0cGpaRTVaZGhyTTVPMDR5NzZWYjNpaVFkZFM4MEYzNlhaZHlJaUlvS3EwYXZCMUNjdnpUVldFck0ySzI5SVVjQUkyOGw1SE54Q2VtdDFsbFRZNTNJdzU1WEw4SGtzQW_SAdQBQVVfeXFMUDZGUm9aZmZkRkZySm9MWHUxNUJLTVVlWE5jd2dSTllwVHZQeFBiLV9WVjc0aWpKUW1UTFljdVJtcTJxSkVCdmlfRzBDakdmVVZlcEg0N2hVVHZ2aWFMV3N5ZndTMUtJalA3Nld3MHB1Q3NpeEluekVhdDJZOVFTMlJXSEFYbjB4V2pIZHhqdjVReVZhamlBcHJDR0lNU3ZrbW9XZmRkcG5HYkdGTDJRN3FMMGF5cVh2TmlxRHI1d0s5U2JNM0lfVmhyMUZaLXdCU3cyY1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-05-03-004",
+    "date": "2026-05-03",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup plans 80 townhomes in north Phoenix - KTAR News 92.3 FM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSWNrcDJpZk42ODNTRVM5RHV2N2JXM1dCNjNRRHNLaXhmbnBlUkU1dFlyYWZJaHNCLTZTZXRBNHA4RnAtaTlhRkppSFFEalZJVFRaeFpBV1MwRzZyT1hCX1JNdEh5OFZyYk9aQnNsX2",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSWNrcDJpZk42ODNTRVM5RHV2N2JXM1dCNjNRRHNLaXhmbnBlUkU1dFlyYWZJaHNCLTZTZXRBNHA4RnAtaTlhRkppSFFEalZJVFRaeFpBV1MwRzZyT1hCX1JNdEh5OFZyYk9aQnNsX2JPUGtZUnlfZWxlNEVpdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-05-03-005",
+    "date": "2026-05-03",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Home (NYSE:KBH) Looks Interesting, And It's About To Pay A Dividend - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1nOU5JckVYOXpfZTNkZ01FR1FwNUREcXZleTdnTTFna29ZakVSNVFkTWdFWTJLQ3c0alQ2c21JTWRlWmtnTEN1QUZLSkFWdHRkcHZacEc1NTdjaURxUlJ3eTN0bnNvMHV2Q05kOTFqa3",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nOU5JckVYOXpfZTNkZ01FR1FwNUREcXZleTdnTTFna29ZakVSNVFkTWdFWTJLQ3c0alQ2c21JTWRlWmtnTEN1QUZLSkFWdHRkcHZacEc1NTdjaURxUlJ3eTN0bnNvMHV2Q05kOTFqa3lQdVVoWVRLUnRwTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-05-03-006",
+    "date": "2026-05-03",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KB Home CFO Robert Dillard to resign this month",
+    "summary": "KB Home Executive Vice President and Chief Financial Officer Robert R. “Rob” Dillard will step down from his role effective May 8, 2026, the Los Angeles-based homebuilder disclosed in a Form 8-K filed",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/kb-home-cfo-robert-dillard-resigns-effective-may-8-2026/",
         "type": "rss"
       }
     ]
@@ -925,6 +1079,64 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOENMb2VWSFZ3ZC03WlYweko4VUd2a2pNOHIxeFdwQko1eGdCQjQzOUxKVWRhQmh1V3lnc3IwWVg1Y0hxV0czZk05TDU0dWhVNXJDY0NialZUaEZCcXFNT0VwX1pjOWpwQ25ra09Jc29wUUhWYnhQLTFHUlppLXNiUm02Z0Qta3U4dVlJNzdSNE1QT0JsQVdvN2VId2Vfb0oxZmdlRnNfX29xa19EbjFuQU9jVEVRVzlybDdtOTZBYzlmczN6cG5zSlNJeVpnUkdMXzNMQ2VLbGprakdfRy1nQkM2NnlKUF9pS1dV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-05-01-040",
+    "date": "2026-05-01",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co. stock underperforms Friday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmdnd0NDTzNDNXBsb3FWakJPMGZuZ2wwY094SXFoRksyRzR6SWpMRHlYSHFXdWEtbC1TeTBrLXJkZjVCWHJQaFB2d05BOVUwS0ZKeEc2WDRlWmJjelNRcVZWOThrNS1Hd2QwZlZRbH",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmdnd0NDTzNDNXBsb3FWakJPMGZuZ2wwY094SXFoRksyRzR6SWpMRHlYSHFXdWEtbC1TeTBrLXJkZjVCWHJQaFB2d05BOVUwS0ZKeEc2WDRlWmJjelNRcVZWOThrNS1Hd2QwZlZRbHZvSWdrWEFaVkdmNHJXbTVxNTlNcFlJcXVROVdYRUNNTEF2WjVwU2dZOU9sdXhZVU5KblF2ZU53MW5LOTg5dkNRb0NCXzVOX1JnTE9nMXowZTRqT2dmdkxOQU9UekQwRVpU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-05-01-041",
+    "date": "2026-05-01",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A Look At PulteGroup (PHM) Valuation After Recent Share Price Pullback - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEU1Q0k5VURUVTc2OHlWNm1hUGt2aHR1Y1BMYVByclVha0plWVlnTVZKVHRKN1NIU2lLY1dfeGM2WlpQem9NalR6XzR2X2tIZURUWVpJNlZHOTNPM2NQeVVRN01Ud1BIbXJVMjZLMC",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEU1Q0k5VURUVTc2OHlWNm1hUGt2aHR1Y1BMYVByclVha0plWVlnTVZKVHRKN1NIU2lLY1dfeGM2WlpQem9NalR6XzR2X2tIZURUWVpJNlZHOTNPM2NQeVVRN01Ud1BIbXJVMjZLMC1VdUhwczJCcGRYMnhhODJISUFEMjlwN3FsNUtTaUg4LVZTa1pfLV9uM0VaN3gzdnBWb2N3Z09sN05Mdm5xV3FmcENib0Zsc3VwUVJkWlpSR2V4ZnRZdlhEeXBxQV95YU1BSXfSAdcBQVVfeXFMTVVhOHJDLTBBZkJfREFTbTNWdWJmOFdDZnRHS0dod3ZOMlJ4ZDVOMkVHNGFfcDlHV1h6eEltT01sTENOcGt5bGhBQzkxaUJIQjBiNlB6ZnN5LW5mbEZtemdaTnA0ankta1otOGdxYU1tN3M3bFYyQ1VFeTN6ZkNBakZJZGw1cmU5UmJRZ0FmUzVKREJJSndEXzFtbUFCS2wzYkRmcmZLcUgtUDZQd1pLd0FoYy10bVJWeDNhLTVBZ3V3Sy1UVXlwZjNzX2pnbURQbW02ZlBnMHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-05-01-042",
+    "date": "2026-05-01",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KBH SEC Filings - KB Home 10-K, 10-Q, 8-K Forms - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jSFZTQkp2T0xCSDNNWDBVcWlmZ05iSUNQcjJEeW9yV19JRjNKa251ZzJ1UEpWZzd5bGg3Q2oxdzBMay1icENZSERRY2M5R1VIYnZ6OE5RVFVvNS1oTnpHN0F1VGI?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jSFZTQkp2T0xCSDNNWDBVcWlmZ05iSUNQcjJEeW9yV19JRjNKa251ZzJ1UEpWZzd5bGg3Q2oxdzBMay1icENZSERRY2M5R1VIYnZ6OE5RVFVvNS1oTnpHN0F1VGI?oc=5",
         "type": "rss"
       }
     ]
@@ -2104,6 +2316,46 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdG5sNHBWU19aVnQyeWRId0tZRFRJMlI0MnpoSG5VRkhhMUllWDR2TUgxQXlvQUZiTl9ZdVh1akVfRzlRTEc4ZVYwMDh1YnZpQ2lGc0lQWFVjSlE5QzRoNUxtLTlOV2I5TU9HZ0RUNkFxdjNyaVJmMTBDdVlmRHcxWUVHbkdIV1JZdEN5T3BoS1lLYl9W?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-04-30-062",
+    "date": "2026-04-30",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces New Luxury Condo Community Coming Soon to Danbury, Connecticut - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNEdSZVVXZU1IU2xyVG9DMEY4ZWo1YXo5ZWZqbWFUS1VTdkhhUnFPZXE1ZXhYbEhPMXRyZlZ0QW8xTzlwM21lX1NfYmNCMVBTQlRoazRkSHJEODAzNDBEX091WDZaZHQ0MnR5Tk9vQk",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNEdSZVVXZU1IU2xyVG9DMEY4ZWo1YXo5ZWZqbWFUS1VTdkhhUnFPZXE1ZXhYbEhPMXRyZlZ0QW8xTzlwM21lX1NfYmNCMVBTQlRoazRkSHJEODAzNDBEX091WDZaZHQ0MnR5Tk9vQkNYdmkzM1BISElGSjlsNGdYeVM5SVZHS3RkNlZXN0ZzRm83a29Zam5UdExUVkphVEZYdTl2THNiTlpjTWduc1hiWFJLTkNTNm5vVEQ4Zl9VSVhyRHUtRUxFbUF5ZDMwUGZUaEtwdkx4VV9NVWc4ZzBLdDdHbjgteHpYWVo5U3k5S29uZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-04-30-063",
+    "date": "2026-04-30",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces Grand Opening of Toll Brothers at Oakhill Reserve in Tomball, Texas - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQME1rcVpIN0lCZTBhSEFiR05hZkZSWEU1QnE5WjFBU09XdlpIZ2ZqQ2R1b3N4Uk5Ga055ZVY3dURIRFJaNlhROHZ1SzBKN3NiRWQzV0RYblRaYVpFVTFLVjVrQUw0WEQ2blVvaXVIen",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQME1rcVpIN0lCZTBhSEFiR05hZkZSWEU1QnE5WjFBU09XdlpIZ2ZqQ2R1b3N4Uk5Ga055ZVY3dURIRFJaNlhROHZ1SzBKN3NiRWQzV0RYblRaYVpFVTFLVjVrQUw0WEQ2blVvaXVIenNQMWRYbzE5V0kxZzVHSGpCRnc2bmxRZkVhNjV4N25VWDYzZ25KamFBelVyeUFQMGM5UVlrVk9yS3l0cEVBbW5NRjBVY2lfQzMtekRhb2FoZnctLS1pOEU0VWhPR3hsQy1ZT19aNFNCY2VzQTNtSE9aUUU0cFVrdm1XUzN6eXFUVkpjd1lCQmNoQg?oc=5",
         "type": "rss"
       }
     ]
@@ -3367,6 +3619,46 @@
       {
         "name": "ruentex",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wdHhDdTVmSVhSTTdrRmQ3NGtfMHF0ZWxYQzFZWG5Na2xsZVhTWmRBUEpLVVNGYl9lTTQyenpsRWJHZGlyOUY5ekh6MFpPeXpTWVpDMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-066",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PROPWR Secures Strategic Framework Agreement with Caterpillar Inc. - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOOS10N3hEZkJEMGdVMUNnSWhXbmhCZGF2WUhIX3kzLWItcGUtYkd3b1Q3TVF0MXNpbUxObThvY2NnSElmeHZaRDVUejM2b2VJUGFPNU8yYVRXekMxdmZOTWFpTWRlNTFEbUJzdkZpWD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOS10N3hEZkJEMGdVMUNnSWhXbmhCZGF2WUhIX3kzLWItcGUtYkd3b1Q3TVF0MXNpbUxObThvY2NnSElmeHZaRDVUejM2b2VJUGFPNU8yYVRXekMxdmZOTWFpTWRlNTFEbUJzdkZpWDl4TldVQUJnUVFkNG4wUk0yLXo0WTZFbU5ILVVjeWRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-04-29-067",
+    "date": "2026-04-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup Announces Quarterly Cash Dividend of $0.26 Per Share - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjZoWlRVMUVKcjFDTlNZTXloS1V2YnZMMzNIa3VNWXgwelRJSmdPUDZnNE9MLTVmbldqZWdnVUFuUGFRZG5rVTQ5VEFwRUY3dXJiVGNnMlVNNFZQUTZrWGFlQ3lUYUlyLUdEUXBhdG",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjZoWlRVMUVKcjFDTlNZTXloS1V2YnZMMzNIa3VNWXgwelRJSmdPUDZnNE9MLTVmbldqZWdnVUFuUGFRZG5rVTQ5VEFwRUY3dXJiVGNnMlVNNFZQUTZrWGFlQ3lUYUlyLUdEUXBhdGN6OFBhZ2pJbXdIOWRCbmZiblNfeEF6eVdsYkJTVGVUWk5ydjNTWVM0U3AwdWlFQjJYN3hhdFlXd0FmamZ3RlhoeVRKeThrVVowYkxHRnpjdw?oc=5",
         "type": "rss"
       }
     ]
