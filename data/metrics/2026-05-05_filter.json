@@ -1,0 +1,16 @@
+{
+  "total_raw": 480,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 34,
+  "gate2_fail": 36,
+  "passed": 32,
+  "gate2_samples": [
+    "Taiwan Cement marks 80th anniversary - Taiwan News",
+    "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+    "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+    "Jim Cramer on Caterpillar: “It’s Got a Ton of Business From the Data Center Build-Out” - Yahoo Finan",
+    "Broadcom, Google And Caterpillar Lead AI Charge On Must-See List - Investor's Business Daily"
+  ]
+}

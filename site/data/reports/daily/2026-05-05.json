@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:01:10.648653Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dr_horton-2026-05-05-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Lennar and D.R. Horton Stocks Trade Down, What You Need To Know - StockStory",
+      "companies": [
+        "dr_horton",
+        "lennar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnBPM00wS0xkbFlJVVZVTU9rcXRSX0Q0ZldPMVpWNkw1Q0R6SkI5QmVxY1RYQk9KdUw3OFV2M2NxVy1EMFBnekNNaXQ2MUFTdVlaWmxEMktEMUNRRTNQNHNqS0hlQWdVbmVQenhjUmhwQmVZZEhaNkRQeXhSMWtoblU5cGk5d3dXODAtY2FHb2ZXa3ZGVnZrZzdTZWVxYks0ZWxUZVlxWG9MY3BWTExmUjVnNkFvN0FnOXkw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's TCC plots European listing as green revenues overtake home market - digitimes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkc2SEJhOGh3ek93d3J6bllQQW1raUNWMVBqRXNuLUtUWTVjbmxIV3FSOTk1dmVNTENqLWZkT0RUNTQ0SUNVUEFvZ1p4RmdEU0dHSEtLQUluU1RXdVp6VGl1TUNsSHN3NXRKZEt6OTJ4bHBjdUh6cDJkWWpmZGptbklxZlQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Plans $1 Billion Investment in India Amid Growth Shift. - News on Projects",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdll5WHBrbjUxYXZPUlVBM3FtczctN2t0d0hIT283bW95YmQzOTdoOVRmMENnV3BkSEV1YWxXSXZkaVlUQ3AwYXI2cVZydFlCazF0OGxjekZqWml4RXJXZkpXb3YxWjI2LTFHeXV2ODZFZUxxV2pKYmVnR1lJd3gyRkNNWlo0UVc0LXRFcUFXRDY0dTNIR1ZCcjlJaEZnY0k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "kb_home-2026-05-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KB Home and LGI Homes Shares Plummet, What You Need To Know - StockStory",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTJ6WGtCRHEtc0IwaTg2M25FbUFrRE96OXhBMEZvQ3ZzNnFlTGk2dUFXM2RHNkh3OFY5UGpaOFRLdi1wU1FnOFJsdmNBbVNJVFJmSkZsc2NMcTNZbnFza1IySTV5Q212MDRSUEtyVjU0MV9hUzl1cDc5eTc3d0V6UHo2Z1dtV0JpMnRBWUlTaUw2RU9CRU50ekNkTVY2dnlacWFuTFFDM0tHOUJFN0Vrb3JRLVRGR0JV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Inside the 2026 housing market outlook: Key trends shaping homebuilders, capital and strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.housingwire.com/articles/2026-housing-outlook-builders-capital-strategy/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 480,
+    "dup_title": 219,
+    "too_old": 159,
+    "gate1_blocked": 34,
+    "gate2_blocked": 36,
+    "passed": 32,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Taiwan Cement marks 80th anniversary - Taiwan News",
+      "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Jim Cramer on Caterpillar: “It’s Got a Ton of Business From the Data Center Build-Out” - Yahoo Finan",
+      "Broadcom, Google And Caterpillar Lead AI Charge On Must-See List - Investor's Business Daily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為聖戈班、DR Horton、Lennar相關動態：「Lennar and D.R. Horton Stocks Trade Down, What You Need T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lennar and D.R. Horton Stocks Trade Down, What You Need To Know - StockStory（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan's TCC plots European listing as green revenues overtake home market - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
