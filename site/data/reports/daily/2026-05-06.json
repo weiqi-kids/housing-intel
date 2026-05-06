@@ -1,9 +1,34 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:34.554177Z",
+  "generated_at": "2026-05-06T10:15:05.020861Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "pultegroup-2026-05-06-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Earnings call transcript: PulteGroup’s Q1 2026 results show revenue decline - Investing.com",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOVJhQzhwcGhqcnRpQk1qVVdGY3hqZ1piVzNNdzBCMjhoU183NndZbk9Ia3FTMWZRejM5cndOT0VST21tTTNJbHRDekpNVkh6LXZkdG9UZVp5TFlBbVd5Ni1xUi1IQUlQaFJucGZ1WGl3d0hab29NZmZwWXRhMV9VLTNpckJVLTVnUjZxWGpvbDhuMXRZa3dIVi1LN2gwU1FhNEJKd2pvNkpNb01qLXRUY3p3SEFWRV9GRWFrd1R6NWpXcUJsX0R4ZmY1NWFTMUZJa3JF?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "caterpillar-2026-05-06-001",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -27,7 +52,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZfLVhueGlHbDdOcnE3d1k0MGpJRldVN2lPcGRDV1otb3dscnhrSFNZVklPQ2Vid01MQ0tNVEtwZGZ5NThKa21XZmtFZ1dxcDlTREpGTDlBWkxzRjZwWG40MnpVMnNGYUpaZXlJc0hKNW5BU0dIQkxBQmE2YmtGaWFsOEM2NW9SX1JNdGlkdnBnSVhHYlF5Z3dseTdvRVdVZ3JNb1J4SzJGQ0psZ3lIODI5STE?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "event_id": "saint_gobain-2026-05-06-002",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -51,7 +76,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc1Bna3hqQWVFTkVSR1JhaDFmWXhNUFJQMDgwbHVweGtUbWpQMHluOU03SmFVLUpvN2tWMzRMdjVLOF9Udzh2aVNpdk5uV0lKOXZ1eGkteWZSZVdNdmhYdlVyU2F2VHlUNzJzY2FDRXFJcEFRTXE0R1B4dkVjQ1B2eTdGX1p2aU5wQnAxOEdzYjRNODJBdV9ybXBQZnZBNTF6c2p2UGdlcW41cUNITUkxS1dOektiM2JmTEE1aTEyenQ0endBaFFwOUp2dFI?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "unknown-2026-05-06-003",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -71,12 +96,46 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjdCRUp1dVRVb2x6Mm9ZdXBGSEZNYXh2ZTlRaWpCMFNvM1pfb1JvOVhoYlp6bWNPQVBvTXFycnduT2hqby1hTjJlR1JJREE1LV9lVUFkOWRqall1M2ZWVUs0eFdHWDZuTFZyVHBKQnNiYjVZQ2hnYUEzcXk3U3lUd0hDNHdPR0dOUkhZNHNHSHNBYW9NMHNEY3VSYnZ2ZnNjRFk4Nm9lS0Q0cXZKSG5xRGVR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-05-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "5 Insightful Analyst Questions From Vulcan Materials’s Q1 Earnings Call - StockStory",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUF2c0ZYcC0zbXlDeVczal9qZENBVWgzdW5HVGgyeUFmQ1pySGViekVJbHNhQWJXaUQzcU83ckRrbzdLdVhmcnZ4RFI3MnlqaUVIVXM1STdoMGNFQ1gwWXV2dExJeGd2VWtHdkd6MDFFTGRWNmFELWM2MW81UmJOQlZYTERBbEFVTnpwamNoUzBKYVdfOVU0VHFMTElBX0VXUmVYT1pPT3B3WGdvODdvVTNrUjlweTdfM0V6T3R5VnBhRnN6Q3dtWHhDSQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 3,
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -88,38 +147,54 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 3,
+    "total_events": 8,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 3,
+      "positive": 1,
+      "neutral": 7,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "caterpillar",
-        "count": 1
+        "count": 2
+      },
+      {
+        "id": "pultegroup",
+        "count": 2
       },
       {
         "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 3
+        "count": 7
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 481,
-    "dup_title": 214,
-    "too_old": 151,
-    "gate1_blocked": 38,
-    "gate2_blocked": 32,
-    "passed": 46,
-    "pass_rate": "17.2%",
-    "gate2_block_rate": "12.0%",
+    "total_raw": 960,
+    "dup_title": 468,
+    "too_old": 303,
+    "gate1_blocked": 75,
+    "gate2_blocked": 63,
+    "passed": 51,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "12.8%",
     "gate2_samples": [
       "Taiwan Cement marks 80th anniversary - Taiwan News",
       "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
@@ -130,14 +205,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 3 則事件，焦點為CAT、聖戈班相關動態：「Insiders Make Bold Moves With Caterpillar Stock - TipRanks」。主要關注主題為財報，市場情緒中性。",
+    "summary": "今日共 8 則事件，焦點為CAT、Pulte、聖戈班相關動態：「Earnings call transcript: PulteGroup’s Q1 2026 results sh...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "Insiders Make Bold Moves With Caterpillar Stock - TipRanks（財報）",
-        "level": "yellow"
+        "text": "Earnings call transcript: PulteGroup’s Q1 2026 results show revenue decline -...（財報）",
+        "level": "red"
       },
       {
-        "text": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - ...（財報）",
+        "text": "Insiders Make Bold Moves With Caterpillar Stock - TipRanks（財報）",
         "level": "yellow"
       }
     ]

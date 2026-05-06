@@ -1,11 +1,11 @@
 {
-  "total_raw": 481,
-  "dup_title": 214,
+  "total_raw": 960,
+  "dup_title": 468,
   "no_date": 0,
-  "too_old": 151,
-  "gate1_fail": 38,
-  "gate2_fail": 32,
-  "passed": 46,
+  "too_old": 303,
+  "gate1_fail": 75,
+  "gate2_fail": 63,
+  "passed": 51,
   "gate2_samples": [
     "Taiwan Cement marks 80th anniversary - Taiwan News",
     "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
