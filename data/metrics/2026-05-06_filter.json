@@ -1,0 +1,16 @@
+{
+  "total_raw": 481,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 38,
+  "gate2_fail": 32,
+  "passed": 46,
+  "gate2_samples": [
+    "Taiwan Cement marks 80th anniversary - Taiwan News",
+    "Taiwan Cement Corp stock (TW0001101004): Why does its Asia infrastructure edge matter more for U.S. ",
+    "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+    "Analysts Are Bullish on These Materials Stocks: Vulcan Materials (VMC), Alamos Gold (AGI) - The Glob",
+    "Research Alert: CFRA Maintains Sell Opinion On Shares Of Vulcan Materials Company - Moomoo"
+  ]
+}
