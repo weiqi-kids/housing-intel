@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:23:20.749332Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toll_brothers-2026-05-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Danske Bank A S Sells 8,628 Shares of Toll Brothers Inc. $TOL - MarketBeat",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVRVc1VVakFCajlpb0RwdnZtclVGUHMyeC1oMkhMX3RsSXZ5MkRVR1gyU2llcUlsRkJNaEpmWjkyVGo2NVZ0NUExOEhSRlNXQnMtenVzTmpGUnc4TC1SajcxSE1qczNIUERtZUtMRFgzNEo1aVo0UnIzaTdoOUo1MkxyQ25JaXlZeWNUYjJTVU9uVldoVkRMSUlpQWVPTXF4djcxRXJSeWNiWlZqQ2tLdDdRekpFZU92NWtN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sumitomo_forestry-2026-05-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sumitomo Forestry Secures 835 Billion Yen Bridge Loan for Tri Pointe Homes Acquisition - marketscreener.com",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakdmczdqeGU3Z2lTWGtYOEdHUjk1OEdyaFJudF9ZM0xPaTEzSXJLN3dZVWNsNy1ralBkbkRJX2Zqb3hOQzg3NjdhQUpNWWcxb0t1NVdEQk9PUERlVHJQMzRxU2JmTmRxdjNPRXp2MlZ6cmtlZU1CMXoxQmZDQUxLWF9KZDBkaFowOEJnWmxXbXhXYTBKcHd1bkR4OF9aQXkwQ3pMTEI5RVA3TnpHSjNBSGhlQTlXM2Y4X3NMRXNkZ1U0dDFyeE1IY25XcUFYLUlha08yT2h3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Building materials go through the roof - eKathimerini.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGVMaVI2QWl1OGx2M1hkZkFCWm1iWlUydnF4N3ZMU1kyZERucTd6NXpUUkdEcGxYMWZFZ2FOQ1BOVklhbXlPTy1oWDk3NU90OUIxeDY5TFlUSGtjcl9CUEZEaWRaZEV2TzZ3Qm1BQlVxWTRQd2p6eUxHZEowTW9wNWVKUWtpYWN0d3AzYQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-05-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar Inc. $CAT Holdings Reduced by Alecta Tjanstepension Omsesidigt - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOam01MFo1VTlrbFVKSlBndXh4MmhoTXZRVHVfclVGMHRrVmRQMkF1M05rd0kyanNrMW10RnluTXA5RjVla1hjcnoyUTlhcVhQMHMxRXlWbHRKLVpiUkxDOUNFNVpNU1JmWHJiVk1CRXZad0NFTk1VX3lIUko3YjhaMks1MERKdU5EWW1iNUxRZHdCQUxPV3JqTjlVeWZIRHl6ai1MUjJ4RWNuX21GT3Fzb0dFVlhGN25iblBORERaZVNmNGlKNndlU1pVMGdFdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      },
+      {
+        "id": "sumitomo_forestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 482,
+    "dup_title": 227,
+    "too_old": 159,
+    "gate1_blocked": 40,
+    "gate2_blocked": 31,
+    "passed": 25,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Taiwan Cement marks 80th anniversary - Taiwan News",
+      "Great American Road Trip",
+      "Analysts Are Bullish on These Materials Stocks: Vulcan Materials (VMC), Alamos Gold (AGI) - The Glob",
+      "DA Davidson Raises Caterpillar (CAT) Target Following Better-Than-Expected Quarter - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為CAT、Toll Brothers、Sumitomo Forestry相關動態：「Danske Bank A S Sells 8,628 Shares of Toll Brothers Inc. ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Danske Bank A S Sells 8,628 Shares of Toll Brothers Inc. $TOL - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sumitomo Forestry Secures 835 Billion Yen Bridge Loan for Tri Pointe Homes Ac...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

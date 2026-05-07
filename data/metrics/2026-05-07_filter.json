@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 40,
+  "gate2_fail": 31,
+  "passed": 25,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Taiwan Cement marks 80th anniversary - Taiwan News",
+    "Great American Road Trip",
+    "Analysts Are Bullish on These Materials Stocks: Vulcan Materials (VMC), Alamos Gold (AGI) - The Glob",
+    "DA Davidson Raises Caterpillar (CAT) Target Following Better-Than-Expected Quarter - Yahoo Finance"
+  ]
+}
