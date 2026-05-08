@@ -1,0 +1,16 @@
+{
+  "total_raw": 478,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 40,
+  "gate2_fail": 33,
+  "passed": 31,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Taiwan Cement marks 80th anniversary - Taiwan News",
+    "Great American Road Trip",
+    "Vulcan Materials Co. stock outperforms competitors despite losses on the day - MarketWatch",
+    "Vulcan Materials Co. stock rises Wednesday, still underperforms market - MarketWatch"
+  ]
+}

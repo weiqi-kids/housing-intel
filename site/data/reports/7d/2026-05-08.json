@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-08",
+  "date_range": {
+    "start": "2026-05-02",
+    "end": "2026-05-08"
+  },
+  "generated_at": "2026-05-08T09:17:30.603359Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "dr_horton-2026-05-02-007",
+      "date": "2026-05-02",
+      "title": "Homebuilder earnings: DR Horton sticks out as Pulte & NVR sales tank - MSN",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 23,
+      "last_week": 61,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "caterpillar": {
+      "event_count": 7,
+      "sentiment_avg": -0.21,
+      "rank": 1
+    },
+    "kb_home": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "dr_horton": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "toll_brothers": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "lennar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "vulcan_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "pultegroup": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "sumitomo_forestry": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 141,
+        "last": 314,
+        "change_pct": -55.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-02",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 40,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-02 ~ 2026-05-08）共 141 則事件，重點為「Homebuilder earnings: DR Horton sticks out as P...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週情緒偏負面（-0.2），共 7 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
