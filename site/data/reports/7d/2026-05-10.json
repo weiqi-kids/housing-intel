@@ -1,0 +1,150 @@
+{
+  "date": "2026-05-10",
+  "date_range": {
+    "start": "2026-05-04",
+    "end": "2026-05-10"
+  },
+  "generated_at": "2026-05-10T09:27:35.035791Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toll_brothers-2026-05-04-018",
+      "date": "2026-05-04",
+      "title": "Toll Brothers, NVR, and PulteGroup Shares Plummet, What You Need To Know - The Globe and Mail",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 31,
+      "last_week": 47,
+      "week_over_week_change": "-34%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "dr_horton": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "toll_brothers": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "lennar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "caterpillar": {
+      "event_count": 11,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "vulcan_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pultegroup": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "sumitomo_forestry": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 195,
+        "last": 289,
+        "change_pct": -32.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-04",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 43,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 41,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 34,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 18,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-04 ~ 2026-05-10）共 195 則事件，重點為「Toll Brothers, NVR, and PulteGroup Shares Plumm...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Pulte",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

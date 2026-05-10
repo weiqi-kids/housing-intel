@@ -1,0 +1,162 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:27:34.972933Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-05-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Caterpillar Could Be the AI Stock of the Year - The Motley Fool",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHQ5bHR2Qm5xMGs1ZXJUV0hLN1djbkFoQWw0elpxQzVLMjNmbjdWNk5TTHoxenkwZllkQWNDcE9oeW1iV0NieU0xejdScE9WRG9yQ3JoY08teEFTVElXM1pLZkRVU2VaQUU4RXBaTGtpclhrR0FyWHlDZXJtTG1LeDZOR3ZjTndaeU5TOXJHb2tSOWRvWldn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-05-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Caterpillar Could Be the AI Stock of the Year - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODdSMmE5U2VzTlBiNTdQN0JHTExNcTY3R0Q5aFZLMU5tQ21DeWJvQWt3ejlSNmRzUEdoN0FYLVJnTmZseFUxZ0xEQzZwNDdISzRHcEVBRVUwR3VQM2g3bFl3cUxfSTlUTHJQQzdpWHJDY3pSZzN2X05jUG1YdFA3dER3OGZGWkhwaTVwZ2U0WmRaaUc3Nmp4eURnNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tradies face breaking point as building supply costs rise again - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSEVWSzVCVzhVNXJOZklISlg3NGZqYTR4WHduam9RQmtNQnZ2U0VYRTE5UERvS0pMc1RZU1RnR2ttWnB6Y2QwMmNIRVJsMGVUQ0QyQ1FmUmpONHlqX2JoRE9jUF8zSmUwcVNIcUprd3VpZnpVcUVRejVBSE1CT2hZNTVDZHpWOE5PbXF5TmJCMS03aUdzWHhRUWdaaDltd0VId25Wbk1xeWFOdUFIbUVyYzdZVFNMbDFrV1FXY2d5d3I?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-05-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar: A Compelling AI Infrastructure Investment - Intellectia AI",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1BxRVM5S0llbEF6dUxqelY1eV8tdXBwRjZpQi1SQW5KQzFBaHF3bERvUm1DZUJTT1laX1ZSZTVzSFhWT1ZwZEluMzE0MHF3bUE0RDJCSG5VaWg4dUtGUjljOHRScGppWlhaS2tQZW5mWnhubXZSOHV0MnRKSWhTQkRZZy1TLXdqYkUwNUJBY0g?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 477,
+    "dup_title": 238,
+    "too_old": 139,
+    "gate1_blocked": 33,
+    "gate2_blocked": 41,
+    "passed": 26,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "17.2%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Taiwan Cement marks 80th anniversary - Taiwan News",
+      "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+      "Great American Road Trip",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為CAT相關動態：「Why Caterpillar Could Be the AI Stock of the Year - The M...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Caterpillar Could Be the AI Stock of the Year - The Motley Fool（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Caterpillar Could Be the AI Stock of the Year - Yahoo Finance（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
