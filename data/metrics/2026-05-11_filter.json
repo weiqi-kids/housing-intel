@@ -1,0 +1,16 @@
+{
+  "total_raw": 478,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 32,
+  "gate2_fail": 33,
+  "passed": 16,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+    "Great American Road Trip",
+    "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance"
+  ]
+}
