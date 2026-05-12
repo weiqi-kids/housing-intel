@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-12",
+  "date_range": {
+    "start": "2026-05-06",
+    "end": "2026-05-12"
+  },
+  "generated_at": "2026-05-12T10:30:07.948651Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "pultegroup-2026-05-06-007",
+      "date": "2026-05-06",
+      "title": "Earnings call transcript: PulteGroup’s Q1 2026 results show revenue decline - Investing.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 40,
+      "last_week": 41,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.04
+    },
+    "mortgage_rates": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "caterpillar": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "vulcan_materials": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "dr_horton": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "pultegroup": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "toll_brothers": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sumitomo_forestry": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "kb_home": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "taiwan_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 10
+    },
+    "highwealth": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nvr": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "daiwa_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 182,
+        "last": 275,
+        "change_pct": -33.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-06",
+      "event_count": 30,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 44,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 33,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 10,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-06 ~ 2026-05-12）共 182 則事件，重點為「Earnings call transcript: PulteGroup’s Q1 2026 ...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pulte",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

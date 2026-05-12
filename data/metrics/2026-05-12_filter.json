@@ -1,0 +1,16 @@
+{
+  "total_raw": 475,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 41,
+  "gate2_fail": 36,
+  "passed": 40,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+    "NIPPON STEEL KAMAISHI SEAWAVES vs SECOM RUGGUTs（NTT JAPAN RUGBY LEAGUE ONE 2025-26 D2/D3 Promotion/R",
+    "HIGHLIGHTS | NIPPON STEEL KAMAISHI SEAWAVES vs SHIMIZU KOTO BLUE SHARKS｜NTT JAPAN RUGBY LEAGUE ONE 2"
+  ]
+}

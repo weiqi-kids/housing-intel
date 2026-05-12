@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:30:07.874235Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-12-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals strong momentum - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXRmdkpobEkyQi1IbjNQYm91T212VnhXTDMwNlcxSVFtb1EyMU1FaTFBWVRDN1RWQlhGVERXN3d0NXpkNVJnMnZndVVsUVdSTklRSmczX3lPWTdJTFVVVkJicEZVTW0xTlNwYkdWQ2RpN2FyUFVEY3pvc3NsdWhobTdOUkhwSmd6VmRidW8tSFg5SkxvYy1jZ2FuZkFLZ2VtZ0RiYnFkaFVUeVVaSGloeWNfSzc4eWJCOXN4X3Mxb3ZXWGU0MGd1VA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan chemical companies report solid first-quarter earnings - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fcmZRSkJ1UUZYS1JQdWtMZjJMdktsOWdVMDhCOUIwRHBwNGRZUzYxU1R1Y25SeVJIYnhuZFdkS2hDdTFNOS04aHB3NnJLUkV1NE80VnNSZXM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-05-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Is Up 5.9% After Strong Q1, Data Center Power Deal And Buyback Update – Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVVyYnotekotZlhzT25LRDhJLVhlQXJSOWFMYUhLUFZvQ2ZTQjNhSVlYcWFpOUhTY0dieXRjU0pwR3FjcFhBX29HbWRVTzNGSXZpNTluX1FMaDduQjFTenZocS1ybEZCeWpnY0g0NV80Q0hEdkNSLTQ5ekw3Y1JMN2N3Y2RwN0JqZkRmd2Nuai1WM25CTEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "highwealth-2026-05-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Highwealth Construction stock (TW0002542008): Taiwan builder navigates infrastructure demand - AD HOC NEWS",
+      "companies": [
+        "highwealth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT0xGVEJETUpkWDJpbkw1Mk1qUENCSk9GLXhGa1Vwa09Ial92Y0p5bW5TdmxVMXJvN1JnbXpYNUNoWmwxZnVlb1VKdHpQNXZaRnpqb3hWSHlDMEs1bm5jbVJkc2lYVEdxenVpYXZTanRSTFFmWHY1eVpnSTZUUWpDdkFUWXVnaUNnUnhodUlja0FwNThIQ1BURUFIX1Y5UFVxRjhHVXVHdTlqV1hlT1p4cWFxUjJaMmNzeFYyQlNTa1ZCWlk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-05-12-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Wall Street Bullish or Bearish on D.R. Horton Stock? - Yahoo Finance",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFV0X2Q1Sm1uUDJ4aVR4eDBZQlJ6Z3VSS29LNGplODJkV3NYYjMtS2JxSl9SWE9yeWhneVIyRmc2M0tLNTJ2ZHJ5aGNXTmVPMzZZeTZaTGdBTS1TZ0RjNGp2ZEdUZlA1ZVQ0OFcxMHk3a0hNXzJ3eVRLSDBnTmlpb1BkM1I2dFlrUzdWdUdoa3dSMEJNbngtcmR3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "taiwan_glass",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "highwealth",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 475,
+    "dup_title": 204,
+    "too_old": 154,
+    "gate1_blocked": 41,
+    "gate2_blocked": 36,
+    "passed": 40,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+      "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+      "NIPPON STEEL KAMAISHI SEAWAVES vs SECOM RUGGUTs（NTT JAPAN RUGBY LEAGUE ONE 2025-26 D2/D3 Promotion/R",
+      "HIGHLIGHTS | NIPPON STEEL KAMAISHI SEAWAVES vs SHIMIZU KOTO BLUE SHARKS｜NTT JAPAN RUGBY LEAGUE ONE 2"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Taiwan Glass、Nippon Steel、CAT相關動態：「Nippon Steel stock (JP3381000003): Record $66.7B revenue ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals st...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan chemical companies report solid first-quarter earnings - Taiwan News（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-12",
+  "total_events": 10,
+  "by_company": {
+    "taiwan_glass": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "highwealth": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvr": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "daiwa_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
