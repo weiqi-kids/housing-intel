@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-13",
+  "total_events": 21,
+  "by_company": {
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "farglory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nvr": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "daiwa_house": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "sekisui_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 20,
+      "sentiment_avg": 0.03
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
