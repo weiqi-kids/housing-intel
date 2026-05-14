@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-14",
+  "total_events": 16,
+  "by_company": {
+    "asia_cement": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ruentex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "daiwa_house": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "sumitomo_forestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": -0.11
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

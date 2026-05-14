@@ -1,0 +1,223 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:13:42.139824Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-14-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nippon Steel stock (JP3381000003): FY2025 profit plunges 95% amid U.S. Steel integration - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVBuT2x0WlNoU0FJTjBBb05oV25ueFVERktLVWlHUHp0ckFkdEhMLVdvbjZFR1ZDeFJ3QU1vX09GNU5mUnpCSm5IdTBudE5YSERCbmVZR2xaelNxMjQzQjdxcXR1YkZXaDZEb2lTZFB0dk5MbXZmcU56cC1hZmdySldSQXhIeUxiV1VKdVNSaUI0WkhMTGRqZkVtTHZFWFpUem9DNVNLOEQyV3hFUFpocVNaNUt1ZDFucHR4eHJERnVpM1cxcGpV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-05-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement 1Q Net Profit NT$1.79B Vs NT$1.79B - Moomoo",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUxGQ2VXdjFZaFoyRlhQWmFua3Z5dUgwaUgyXzRvbkpxRDBGUVFqTjdHVGNpZkZFWE1Rdm5oaHhkcjlwSDVVWDl6b0E1WGZvSnR1SzNDRnE1eXRzT1UyWmdtbC0tbHktTk1ESk9HeGVvOEllZjBpV0hwWW94Y1ZtanRnaG85S2tyY0NidlpTbzlDUExDR0xOeHJRRjBwNWVNM2RMcWUtMmZkWTJtSXE3Y0xZbmtUdzFW?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "asia_cement-2026-05-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement reports 38% rise in Q1 net profit - cemnet.com",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjhKc2s2bFkxaVRPTlNFMGItUlFCZ1NwRlpkejlFX0FfNjlFNFIwSW1ib1V2aHdNNHltTWswZzViRVA1SXRqOHFXd2Iwb2VyZnV6dFZHZ2c0Nk4zUE41MGI5aHhuMVNuSlF5RG9CMEpDVVFiV09FVWR4eTd5LWNjdFdkcHJIWjBqV3lnRjZ2cDJYZV8w?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-05-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Nippon Steel (TSE:5401) Valuation After Recent Share Price Softness And Mixed Profitability - simplywall.st",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1MwUW5JWmhoVlFZYUpsanRhTTJmTm9jZmtfeEZKSTNkNkZRd2ljcXAxNjhCbGFjNnRiZEwtM1Q3N2lhRHBwbnFKNXZMYVhOb005NGVneDVSUWVJazdiSDY0RmJZQkpEZVFHNTJpN0JFaEpiRFAzWTl6OEFwZ2VkQ0hFc0wwZzNuSzdDRGRDRTJRaXFMQUNka1RkcXdheWdRWFNXcUQzTXIzRlB0VThNbmRSUURpMl94UXFqcGV0SGpneXB4SWhYUkU3Rkw4ei000gHWAUFVX3lxTFBhZnV3Nkp2Z04tRWxqQUx2SF9fN2t6SWl2MlhuczVzTzZvU3JCTVZGSzJjS09zZUZCZFBqZm1wQnRnTW5DTHFlUzc1TlFBRUo4aElUSDZTUzBoVFE3T3dWVnRNMTJ6WXU0amQ2czJ0LVVTUXFiaW1GZ0lrcEtFVFhIbkZ3NXFBY3VKcERFX2NLaVItTERuSmMyVzBXSUJMTFFWZUFyTGFteURNX0ZIdGVFMzhJNkxZRHZDcHBsT0dsQ0gzV2k3OUlZOV9lVUtySndlTWlIeXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-05-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel: Carbon-neutral steelmaking by 2050 drives major investments, innovation, and GX Steel market creation - TradingView",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNU2p1LWN3SHVZUW1neTNzSFk0eHBsOHI1T0dOVEFseVpqcnEyMkNWendiVTY2U3R1aGZTd0hGZm0wWVhWLXN4X01oVmtONVR4Y01uVm9iY0FyMDJoRTQ5aWNWSlRRZ18zcS1vZ1ZsVE02UC1HRVI2cllGUVdxVUEtS1dYYnJWLVBpa0IwcEhobjZ6ZzM0dm9aN3dWU05qMXdKekZTdkQ4WUpIUlgtMkRaNnd1WWFEOEIxdUttbWJNNHVnNVZyYUFtejRva3N5M2JCTE1GWnRTSDhXdVh4T0RUOTRLM3pWZDVjNGgwZnNXUWlseVBEbUJEZkp4bWhlcVJ1aU11ZjItUG9OYXJuYkxyaE1ZQU82NVRjMW9zSk04Z1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 4
+      },
+      {
+        "id": "nippon_steel",
+        "count": 4
+      },
+      {
+        "id": "daiwa_house",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "ruentex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 478,
+    "dup_title": 204,
+    "too_old": 140,
+    "gate1_blocked": 32,
+    "gate2_blocked": 38,
+    "passed": 64,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+      "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+      "Weathering Steel Market to Rise at CAGR of 7.41% | NIPPON STEEL - openPR.com",
+      "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+      "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Asia Cement、Nippon Steel、Daiwa House Industry相關動態：「Nippon Steel stock (JP3381000003): FY2025 profit plunges ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nippon Steel stock (JP3381000003): FY2025 profit plunges 95% amid U.S. Steel ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Asia Cement 1Q Net Profit NT$1.79B Vs NT$1.79B - Moomoo（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

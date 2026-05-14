@@ -1,0 +1,16 @@
+{
+  "total_raw": 478,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 32,
+  "gate2_fail": 38,
+  "passed": 64,
+  "gate2_samples": [
+    "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+    "Weathering Steel Market to Rise at CAGR of 7.41% | NIPPON STEEL - openPR.com",
+    "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors - MarketWatch"
+  ]
+}
