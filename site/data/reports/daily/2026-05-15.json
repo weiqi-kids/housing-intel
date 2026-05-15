@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:21:08.920930Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel profits slump in fiscal year 2025 - Recycling Today",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajI0XzdtN2NZTmUwb1BhV1YzOHZiN2xsR3Qzb3Z3c1FVQmVndlJGNEJMdU9MYVN0ZFFoVExKMUlvcFluYk1sUXF0SmFVZl9XMWlmREIyRTJ0NVJYdnI0UjM2OTJXcFN2NE9IeGZHbURlUzJOMndkMEdLak8xeVRMZGRySjZSbUE5SUpuT2lFSWN1dG1YZnoybk03UnpSdVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-05-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Forecasts Sharp Profit Rebound to 220 Billion Yen After Challenging Year - IndexBox",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2F4UEF4Q3QwMVhpekVoOUl0ZHRiVEZuUlVjRXdIbG5majVaZ0Flc29VWTZuNkxxdXdiUkNXb001V3pQeXN4TnVEdVd6R2hSd2M1bXVjQWdUbU1Ydmh5UFpkWFlFVVhDRUZlS0Nna3U4d09DTTFzYU9jSnk1emticlV1ano2eGY3bTJFbEVJWDFmbmVhbTRzSlZTY25lR3lUMFloaXpjLUpNMlZ6VU5KYmpjd3NfUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-05-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Sekurit India Recommends A Dividend Of 2.5 Rupees Per Equity Share - TradingView",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWjN5bkFTUElMcXFtWURISlZuY29oR1FxaHphcTI2eDh3c01CTEpJVm1PVGF1WWdKZjEycmxkMWhnR092b01HeS10MkZwZlZId2hRRjc1bjA4T3NwWW1zSndlTzdQbzluQ2k3dndwcEx3TkZTZ2JTellJT1FqbFBlQWd1djd6VHVKZnplS0NaSmE2MTZtZnZrWE5yMGhUWFlQUnpwaDRpbVhJZF95UkNnbHdwLXYwdEgzdkdkOUZsV04yNGM3LS16N1lDRHAyVGtjelg0WlF6MnRzMTF1ZGRxQ3VwSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-05-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Shares Slide to €74.82: Deutsche Bank Lowers Target - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzRBZjJoZHVidlJxLWJSWTV2U2NnT1VZcTI0dHNoTWdSak5pUUJrV3p3Nkhmd2VwdmlEM2x1bkQ3N1pqcTJzTTR5YU5PbEtPZXFUaUQ3THRNOUtOWENCampyN2FDdmdnZV9QRzVtSk1ic2NmSm56Zm1VN3duWVIxYkRYQzVHckZza1VwQ0s5aDljc3dNc21lS1ZuUEs5TllCa1BmNm5ZeFIwWmJvNy13ZjE3T3pUNHV2SkJ0UHU0a2o?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lennar-2026-05-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lennar Corporation stock (US5260571048): Housing demand, margins and the latest catalyst - AD HOC NEWS",
+      "companies": [
+        "lennar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU85S3ZwcEpXNE44RnBEQks0eHRHYVo3YU5VbkNNMVBFVnltRzJGXzN3ZUdtR3ZKdE5VVzlSTUVGNzN4Y3IzdFppY29HWl9Ic29HVzNFRmF0aUlOUnkzZ3BTM1pYSHgwWW5CSHJNUHBPRUtJSjk1ZEVyRkpjZjVlYnQ1bGplSm84c1NabTRkclpqRW44RFdlckJWN3ZDUXpSaDh1UmtFTVd3d3hyUVcySEcwQWxjd0U2Q19QRVFIOHRieUJoOGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 481,
+    "dup_title": 220,
+    "too_old": 132,
+    "gate1_blocked": 34,
+    "gate2_blocked": 40,
+    "passed": 55,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+      "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+      "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+      "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+      "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Nippon Steel、聖戈班、Lennar相關動態：「Nippon Steel profits slump in fiscal year 2025 - Recyclin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nippon Steel profits slump in fiscal year 2025 - Recycling Today（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel Forecasts Sharp Profit Rebound to 220 Billion Yen After Challeng...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

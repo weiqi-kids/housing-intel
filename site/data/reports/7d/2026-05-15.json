@@ -1,0 +1,189 @@
+{
+  "date": "2026-05-15",
+  "date_range": {
+    "start": "2026-05-09",
+    "end": "2026-05-15"
+  },
+  "generated_at": "2026-05-15T10:21:09.052824Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-05-11-030",
+      "date": "2026-05-11",
+      "title": "CEO Kaz Nejatian says Opendoor has fixed its ‘fatal flaw’",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 67,
+      "last_week": 23,
+      "week_over_week_change": "+191%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.07
+    }
+  },
+  "company_7d_summary": {
+    "caterpillar": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "dr_horton": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "pultegroup": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 7
+    },
+    "vulcan_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "toll_brothers": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "kb_home": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "taiwan_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "nippon_steel": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "highwealth": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "nvr": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "daiwa_house": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 3
+    },
+    "asia_cement": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "farglory": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sekisui_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "ruentex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "lennar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 236,
+        "last": 205,
+        "change_pct": 15.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-09",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 35,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 70,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 58,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-09 ~ 2026-05-15）共 236 則事件，重點為「CEO Kaz Nejatian says Opendoor has fixed its ‘f...」。NVR Inc、Taiwan Glass表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pulte",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
