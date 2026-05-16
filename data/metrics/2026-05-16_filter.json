@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 37,
+  "gate2_fail": 46,
+  "passed": 41,
+  "gate2_samples": [
+    "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+    "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+    "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya"
+  ]
+}
