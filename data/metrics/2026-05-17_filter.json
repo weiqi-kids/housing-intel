@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 38,
+  "gate2_fail": 39,
+  "passed": 21,
+  "gate2_samples": [
+    "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+    "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya",
+    "Director George Willis of Vulcan Materials (VMC) granted 617 RSUs in equity award - Stock Titan"
+  ]
+}
