@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-18",
+  "total_events": 15,
+  "by_company": {
+    "vulcan_materials": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lennar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvr": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": -0.04
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

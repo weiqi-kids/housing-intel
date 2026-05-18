@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-18",
+  "date_range": {
+    "start": "2026-05-12",
+    "end": "2026-05-18"
+  },
+  "generated_at": "2026-05-18T11:43:19.162780Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-05-12-003",
+      "date": "2026-05-12",
+      "title": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals strong momentum - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 74,
+      "last_week": 35,
+      "week_over_week_change": "+111%",
+      "sentiment_this_week": -0.04
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.08
+    }
+  },
+  "company_7d_summary": {
+    "taiwan_glass": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "nippon_steel": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "caterpillar": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 3
+    },
+    "highwealth": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "dr_horton": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "nvr": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "daiwa_house": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "asia_cement": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "farglory": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sekisui_house": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ruentex": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "saint_gobain": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 5
+    },
+    "lennar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "taiwan_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "vulcan_materials": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "pultegroup": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "toll_brothers": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 258,
+        "last": 225,
+        "change_pct": 14.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-12",
+      "event_count": 39,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 76,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 63,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 32,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 15,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-12 ~ 2026-05-18）共 258 則事件，重點為「Nippon Steel stock (JP3381000003): Record $66.7...」。Taiwan Glass表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nippon Steel",
+        "reason": "本週出現 17 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 38,
+  "gate2_fail": 40,
+  "passed": 25,
+  "gate2_samples": [
+    "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Leading producer of cement and construction materials - AD ",
+    "Tag: Nippon Steel Slovakia - EUROMETAL",
+    "Director George Willis of Vulcan Materials (VMC) granted 617 RSUs in equity award - Stock Titan"
+  ]
+}
