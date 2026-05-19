@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 40,
+  "gate2_fail": 37,
+  "passed": 51,
+  "gate2_samples": [
+    "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+    "Taiwan Cement Corp stock (TW0001101004): Steady operations amid Taiwan market highs - AD HOC NEWS",
+    "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Director George Willis of Vulcan Materials (VMC) granted 617 RSUs in equity award - Stock Titan"
+  ]
+}
