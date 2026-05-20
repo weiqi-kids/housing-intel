@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:49:18.457002Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toll_brothers-2026-05-20-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Toll Brothers stock holds Market Outperform at Citizens on earnings beat - Investing.com Canada",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTlGcFZhY2FhbThfelNYWVMtVzJtbHJlelM1X3NlLWJzSWxVWjFNOE45d0RlWHRkeXdxOEVySnMxWXZpdUphZDBvSHRUU2VDUm9LaU5CdFRvRTRmcEJoNmJTWVNyQkFOUnY1aG5PdUhNT19BeE5CRi05eWl0QTNyWk5KM2k2N01LWkJhWW5MT0ZOTHpsOGkwNWExOGQwYW5tanpFVUJ5cGp3WGRzRjdGYkpLd2dwMEtXX3B4MXhjRmpyLVNVLWU3Uk9sZjA5Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon to join EU steelmaking elite - EUROMETAL",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40cjAzRXNpNENqYVd0RGRoZnF5TEQtbVRWa2dLaUFVNXFWUzZXb0h4b0tNWWp1Q3QxcEhEYnZvSGx1bW1ZQTR2dUw4RVI3NW9sOFdVLWhfTndDWkZfTW91czQ4RlVqQ2d4bUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan_materials-2026-05-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "North Dakota State Investment Board Acquires Shares of 4,534 Vulcan Materials Company $VMC - MarketBeat",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc2ZMaVNNWXdFYV9EU0FPcUVxRXZobFk3MV9KeEZzQlZwQ0o5T3EzeEI3Y2gzOWQ4TllKc2IyTGhXQjZqR2ROUHR3VnJWTGhzNXEzMExNdHREMGVua3NpVWN0bW1BVlkzbjhfdk1KWl9EaW9jZ203bkM1RUFLek5IVnlZcFVtM2ZhdDA3NF85TDJuaTVwSTBzdl9TTXdfTy1TXzRBdjZfNzFxTmdtVi1iT2JIZVBFVDVQTjJrc01oZDFuZEM0UjhsV3FmWUNjWXNfRjc5OUJPdlFjaFRJZGVTNVFjTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Unpacking Q1 Earnings: Martin Marietta Materials (NYSE:MLM) In The Context Of Other Building Materials Stocks - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb004bnhzTHFsblU1NmhCWWp3V0Z2SllldmVmajhQeXJRekZmeTJSUE9TODBYUElrdGdpS2hyM3QwWUF2WTRIZkZtUWhhdUFuY3VMc2J1RDlDVnN2bFNiXy1jdFVORkFFN1BEZzNJbXNTNG9aVUNqcGwtYlpQSGZnbGFyVFhCRWhCSlB6M1plVmtHSmRLcG5vLTNFalh1UTY2RjR6QkJiUTk4b3NvVzcyLWtMY2d1c2NVQnBFb0xxZldIMm9IQjFXcUxETktaSjNaWi13TzZoYURtZENFaVJKMmV4bDlDb01lRWFEUEdTYW9lTlk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-05-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock (US9291601097): earnings momentum and US infrastructure demand in focus - AD HOC NEWS",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMk5Jb0RBNzlDYktIMUNteGpVM3JfbEhraHF4dm01YUs4V21XMmtZWm1XbDA5UWFDVHU1cXBEcGxvNG8wNG1hUHFCNE0yQzZVRkNBWExtU3Z1REZfeUFCdXk3N3h4Z3pYdW16Y080SDZSZWtTVHphSHc5NjFCaFVzczIyZnBvMmJ1TTBkYWVCdU1GYTh3eTNxVThEVnIzYnYyNUU4WU1tRnJYcWRkeDRfRVBGc2dZRFEyTlBr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toll_brothers",
+        "count": 4
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "dr_horton",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 485,
+    "dup_title": 220,
+    "too_old": 134,
+    "gate1_blocked": 40,
+    "gate2_blocked": 31,
+    "passed": 60,
+    "pass_rate": "22.6%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+      "Top 10 Steel Slag Companies to Watch in 2026 - Fortune Business Insights",
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Vulcan Materials christens new pushboat - WorkBoat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Toll Brothers、聖戈班、Vulcan相關動態：「Toll Brothers stock holds Market Outperform at Citizens o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Toll Brothers stock holds Market Outperform at Citizens on earnings beat - In...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Nippon to join EU steelmaking elite - EUROMETAL（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

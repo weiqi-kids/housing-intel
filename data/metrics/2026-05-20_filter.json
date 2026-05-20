@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 40,
+  "gate2_fail": 31,
+  "passed": 60,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+    "Top 10 Steel Slag Companies to Watch in 2026 - Fortune Business Insights",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat"
+  ]
+}

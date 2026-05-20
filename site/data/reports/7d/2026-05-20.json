@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-20",
+  "date_range": {
+    "start": "2026-05-14",
+    "end": "2026-05-20"
+  },
+  "generated_at": "2026-05-20T10:49:18.593559Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-05-14-008",
+      "date": "2026-05-14",
+      "title": "Nippon Steel stock (JP3381000003): FY2025 profit plunges 95% amid U.S. Steel integration - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 74,
+      "last_week": 53,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": -0.03
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 5,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "asia_cement": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nippon_steel": {
+      "event_count": 9,
+      "sentiment_avg": -0.22,
+      "rank": 2
+    },
+    "caterpillar": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "ruentex": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "daiwa_house": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 6
+    },
+    "sumitomo_forestry": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 12
+    },
+    "saint_gobain": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lennar": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "taiwan_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "sekisui_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "vulcan_materials": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "dr_horton": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "pultegroup": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "toll_brothers": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "nvr": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 254,
+        "last": 267,
+        "change_pct": -4.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-14",
+      "event_count": 67,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 32,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 34,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 44,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 51,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 20,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-14 ~ 2026-05-20）共 254 則事件，重點為「Nippon Steel stock (JP3381000003): FY2025 profi...」。Nippon Steel、NVR Inc情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Nippon Steel",
+        "reason": "本週情緒偏負面（-0.2），共 9 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "NVR Inc",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Asia Cement",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
