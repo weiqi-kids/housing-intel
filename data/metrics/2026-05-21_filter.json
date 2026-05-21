@@ -1,0 +1,16 @@
+{
+  "total_raw": 480,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 37,
+  "gate2_fail": 29,
+  "passed": 50,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Taiwan Cement Corp stock (TW0001101004): Global cement leader with Asia focus - AD HOC NEWS",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains "
+  ]
+}
