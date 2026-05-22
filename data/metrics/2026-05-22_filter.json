@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 43,
+  "gate2_fail": 28,
+  "passed": 42,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "How Investors May Respond To Nippon Steel (TSE:5401) Rejecting Activist-Backed Listed Subsidiary Ove",
+    "Nippon Steel Corporation Opposes the Shareholder Proposal from Strategic Capital - marketscreener.co",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat"
+  ]
+}
