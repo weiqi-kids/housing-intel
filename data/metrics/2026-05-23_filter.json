@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 44,
+  "gate2_fail": 27,
+  "passed": 25,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Nippon Steel Corporation - Britannica",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Vulcan Materials (VMC) Research Report - StockStory"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:50:25.186589Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-05-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Futures Contracts for ASIA CEMENT CORP. FUTURES (Jul 2026) - TradingView",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkN1Q1FHWmFHU19jNXdhSk1TQlNySFp1VGYxZmVKUkRFbUJxMHFxYU0wR05BMjNXdXNKQkh0WWxFY3VPbjBUclBVOVhXTlNNVGhHY3RMWF9RbnFfNW52VnBRQlE4dWFNOXZWb0NVWGprd3JIckNRelBxRWlMc1hYQThlbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-05-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DOJ requires Taiheiyo to divest three concrete plants in $712M Vulcan Materials deal - MSN",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTURkalBxcFc5eEVTQVdhYjZ3VUtnemltTEFMWExtX1hjQnd2VGxXMXh5c2lGT1gxbWhqQVVPYklVYzFfQ2htVl9hU0JvaTVjY0RZVGo0NDhBLV8yOUQyNzBkV2R5Qk5IUkc2b29PWDc0eGRjd2RFTzkydVJNTWxjbUR1aFBweEFsQUxleFAyUENzUjhRNEpZR2dhVkNUV1hZbWFQUFE0OFZkTFJ2WUpKOWtaTTljX1dQRGdKZW95Nk9Hd1hMeThOV1ZOUEdfLWFwS3ZTODdJakM3b3FlWUZ4TkszYkhwa3RxTlF3ME1MMVVxNm5pbFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-05-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Valuation Check As PROPWR Power Deal Expands Data Center And Energy Infrastructure Opportunity - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW9ndURPeUpSb3VBRlFjbE5mVHFyV1dudWtmNm1fUXdRY3h6bzRqcEFMV2pwRzhDaE0zY2hmUU81VlV0bkYtZXc5U01qcy1CUzY0eFVWWFAtc2dFV2RHY1ktVzYycVV0b1BPeEw1OUhnSmptNHZveHZXazE4N1lGQXJrZVU2RU1FTHVVcDhZY0pFeGJFbGdJb0RRaEQ3alA1SUp0WXh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-05-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Compagnie de Saint-Gobain S.A. stock (FR0000121501): Q1 2026 slip tests pricing power and U.S. momen - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWQzQ3B6NW1DZVBWaDdsS0d5cE5qMF95MHo3UGptTkk2a2ZLUDl1a3hTY1JzX3NCbUM4UkZhYzFnWEFnRWV5NzdrUmJLa1FtTGJqMzJiUGR0clBRODRESDVQakFHQmEtdnpqbjMwMDg0M2NNMzBQcklmSVNNYVk3VE11YXBQT3QzVEZBbnZtZXdRaGVXam9CbE91eDl6MHJJM1k4Q2l6RFFjWk5QQTVRbGxYWXFhX0tJV19HY0J1V0VDbjU2?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toll_brothers-2026-05-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KBW Maintains Toll Brothers(TOL.US) With Hold Rating, Cuts Target Price to $158 - 富途牛牛",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1A1bzVtTk13eFRfNVN2X0U4YTZ6NzlUNVd4Z0t0QUNRZHBtbHJVRlBYWndKelFDaXhaMHlNVmRONW5xNmJySEFnVllKRDhTSlBXaUhDUzFKTnR6M1h6ekFhdjE0TXR0NVZhNWNCY19NRkdXdVVNUG5CSmhSUTFRN1cwNEhwREZ5RkpyenRUekgyRVNxRlpnbkJxQ2FRUURYb1pTbmF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 486,
+    "dup_title": 242,
+    "too_old": 148,
+    "gate1_blocked": 44,
+    "gate2_blocked": 27,
+    "passed": 25,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Nippon Steel Corporation - Britannica",
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Vulcan Materials christens new pushboat - WorkBoat",
+      "Vulcan Materials (VMC) Research Report - StockStory"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Asia Cement、Vulcan、CAT相關動態：「Futures Contracts for ASIA CEMENT CORP. FUTURES (Jul 2026...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Futures Contracts for ASIA CEMENT CORP. FUTURES (Jul 2026) - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "DOJ requires Taiheiyo to divest three concrete plants in $712M Vulcan Materia...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
