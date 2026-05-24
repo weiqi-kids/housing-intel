@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:52:52.077695Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Steel: Strengthening Supply Chain With $1.9bn Investment - Supply Chain Digital",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXp3bkU4cDN0dUVrdk9DVzdPeGU5d2cwbUF4UXpXcm1QQkdKclN1VVFsVmQtUlJ2S3RWeE5YTVROUE5sem1Vc0Qwc2dVUzhYUnE2bUpCeTV4TmFLd3E1LUtPQ3M0b2RpWm42RDNoR2RaVmdTbVV1TGFrUzNuSnJtN3RYZ2dPVVBMWWtocWpBc0NqblVCdl9tTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-05-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000125007): focus on Q1 sales trends and construction cycle - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTB0a3NCQUxhMHJSdnhfZTV5Zll4X1U0Y3p2RTVhVHBDNWlIRmpTemgybDlvSmdBUjBtUjRPZHAzc2hQMWQ1dmg3V29SeHFGelVXNUEzRWtoUmJ2VUFIa0hfWWprQ3hzMnZGaDZfekFaaGRmdEYwRWFrSU5PYk5RSTcyQnFXTEtwY2RfLXp0a1BmU1NfZDZBaXVqSkc3SjQxZ2RuY3lsT3hGWldRczZhVWYwdGZoNWVEc2hn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toll_brothers-2026-05-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Toll Brothers (TOL) Valuation After Earnings Beat And Raised Guidance - Yahoo Finance",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xvTWVFSHJGUUMzVmJtMWFTbnNIb0t2TUdpaTB0ekhGMm0zSVZ3MVlPR3UySjdfbmF2TVk4TDRRSWVDU01pWVpTMWFQTk50c1I1QjVHLWI0WVJlRHlGbm9na2N2QUlpX0FObjMwTWg4T2lqdV92MHZILWxsN2gyNWh4Y2ZqVFNnRnVkM2RjdWNveUJ6dU01UXhHYWtwUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 254,
+    "too_old": 144,
+    "gate1_blocked": 39,
+    "gate2_blocked": 29,
+    "passed": 18,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Nippon Steel Corporation Opposes the Shareholder Proposal from Strategic Capital - marketscreener.co",
+      "Omiya SC (Morioka) - Nippon Steel Kamaishi FC, 24/05/2026 - Tohoku Soccer League (Div.2 North) - Mat",
+      "How Investors May Respond To Nippon Steel (TSE:5401) Rejecting Activist-Backed Listed Subsidiary Ove",
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班、Toll Brothers相關動態：「US Steel: Strengthening Supply Chain With $1.9bn Investme...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "US Steel: Strengthening Supply Chain With $1.9bn Investment - Supply Chain Di...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saint-Gobain stock (FR0000125007): focus on Q1 sales trends and construction ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

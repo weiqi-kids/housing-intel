@@ -1,5 +1,64 @@
 [
   {
+    "id": "unknown-2026-05-24-001",
+    "date": "2026-05-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US Steel: Strengthening Supply Chain With $1.9bn Investment - Supply Chain Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONXp3bkU4cDN0dUVrdk9DVzdPeGU5d2cwbUF4UXpXcm1QQkdKclN1VVFsVmQtUlJ2S3RWeE5YTVROUE5sem1Vc0Qwc2dVUzhYUnE2bUpCeTV4TmFLd3E1LUtPQ3M0b2RpWm42RDNoR2",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXp3bkU4cDN0dUVrdk9DVzdPeGU5d2cwbUF4UXpXcm1QQkdKclN1VVFsVmQtUlJ2S3RWeE5YTVROUE5sem1Vc0Qwc2dVUzhYUnE2bUpCeTV4TmFLd3E1LUtPQ3M0b2RpWm42RDNoR2RaVmdTbVV1TGFrUzNuSnJtN3RYZ2dPVVBMWWtocWpBc0NqblVCdl9tTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-05-24-002",
+    "date": "2026-05-24",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock (FR0000125007): focus on Q1 sales trends and construction cycle - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTB0a3NCQUxhMHJSdnhfZTV5Zll4X1U0Y3p2RTVhVHBDNWlIRmpTemgybDlvSmdBUjBtUjRPZHAzc2hQMWQ1dmg3V29SeHFGelVXNUEzRWtoUmJ2VUFIa0hfWWprQ3hzMnZGaDZfek",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTB0a3NCQUxhMHJSdnhfZTV5Zll4X1U0Y3p2RTVhVHBDNWlIRmpTemgybDlvSmdBUjBtUjRPZHAzc2hQMWQ1dmg3V29SeHFGelVXNUEzRWtoUmJ2VUFIa0hfWWprQ3hzMnZGaDZfekFaaGRmdEYwRWFrSU5PYk5RSTcyQnFXTEtwY2RfLXp0a1BmU1NfZDZBaXVqSkc3SjQxZ2RuY3lsT3hGWldRczZhVWYwdGZoNWVEc2hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-05-24-003",
+    "date": "2026-05-24",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Toll Brothers (TOL) Valuation After Earnings Beat And Raised Guidance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xvTWVFSHJGUUMzVmJtMWFTbnNIb0t2TUdpaTB0ekhGMm0zSVZ3MVlPR3UySjdfbmF2TVk4TDRRSWVDU01pWVpTMWFQTk50c1I1QjVHLWI0WVJlRHlGbm9na2N2QUlpX0FObjMwTW",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0xvTWVFSHJGUUMzVmJtMWFTbnNIb0t2TUdpaTB0ekhGMm0zSVZ3MVlPR3UySjdfbmF2TVk4TDRRSWVDU01pWVpTMWFQTk50c1I1QjVHLWI0WVJlRHlGbm9na2N2QUlpX0FObjMwTWg4T2lqdV92MHZILWxsN2gyNWh4Y2ZqVFNnRnVkM2RjdWNveUJ6dU01UXhHYWtwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "asia_cement-2026-05-23-001",
     "date": "2026-05-23",
     "companies": [
@@ -95,6 +154,84 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1A1bzVtTk13eFRfNVN2X0U4YTZ6NzlUNVd4Z0t0QUNRZHBtbHJVRlBYWndKelFDaXhaMHlNVmRONW5xNmJySEFnVllKRDhTSlBXaUhDUzFKTnR6M1h6ekFhdjE0TXR0NVZhNWNCY19NRkdXdVVNUG5CSmhSUTFRN1cwNEhwREZ5RkpyenRUekgyRVNxRlpnbkJxQ2FRUURYb1pTbmF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-05-23-006",
+    "date": "2026-05-23",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Nippon Steel (TSE:5401) Valuation After Shareholder Proposal And New Earnings Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0pWdndjV2M3MERGcWJNbjE1U2s2dG9lQ0h5QU1DMXJWUks3WWEta0xzd011Nm9HalEza0JsbHVnUVVodU5PcTBxbUpoLURVS0ttSnRpNzZKUGQwdXg4UHk5UnhiN3VBOWdsTzVkYj",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0pWdndjV2M3MERGcWJNbjE1U2s2dG9lQ0h5QU1DMXJWUks3WWEta0xzd011Nm9HalEza0JsbHVnUVVodU5PcTBxbUpoLURVS0ttSnRpNzZKUGQwdXg4UHk5UnhiN3VBOWdsTzVkYjcydHZTUzd4RExRLXl4eGNWaWdDeGdVbGtYcl9uWVl3ZHBWVjF1OUxFTlk1RFFoMm1wekdTS1ZRV3U5ZkFpTURWZXNyZXo1U2tFNnN1RTduNklJaU9NVVZPcjhXTGxYTkxXemfSAdcBQVVfeXFMUDNabnlhbldNTkRnSmFvU2lqWTRUVC1LZXh1aDRsSy1ySFBMSXREYURjM3UzcVdGME1WNEdUeF94ODVHRFlLcTBPMmFuU0Vsc2JUOGVjbmZ6NlhtZ2ZFd2ZhZ0MyOThwTTc0bk5YWVl0MUk5a2xlbjVEVFhScHFtU2VCMHdQZzdyZkNteGhqLXhRaUFuRzdRd3BkNW9UNW90SnpvSVUxYm1kSzEwWVZqUTBkVVJmWVVwNHBsbXM5ZnNRUmhuTUVOYUFmMHNMdXE3VTl2Y21RWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-05-23-007",
+    "date": "2026-05-23",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Is Vulcan’s CEO Transition and Reaffirmed 2026 EBITDA Outlook Reshaping the Case for VMC? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDRWVjFJVl9zbGhodFJlalRDUmUwcWI0T2hkZUdsQjdXeGpqcXJZaFVUNjdVSHNZRlB3enBZUmZEUUV6c3FvTGttNlUxN1daRENqamstekdqenFTSnBBUGlXNk1oLWxweU5KbkhWQm",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDRWVjFJVl9zbGhodFJlalRDUmUwcWI0T2hkZUdsQjdXeGpqcXJZaFVUNjdVSHNZRlB3enBZUmZEUUV6c3FvTGttNlUxN1daRENqamstekdqenFTSnBBUGlXNk1oLWxweU5KbkhWQmhuYW9PN0FkNGE0Ym96dklPN0ZUSHNGZ21vR2wwektwV1NobW9fbm52NDZfLTdJMzAtNXlXQnF6b0g1RGpISmhmTDlmc3QtZ3NkZndBRW1OWlh1VUQ3ZVVTUE4xblQtd9IB0wFBVV95cUxPampEaHZzOHVMOVNKVDF3YlVjVDNiTXAzSFZyYWRuRDhRY1hkeWxTVVZsVTczNUtMbVl0NUNpTVBMOUp3Z1VheUtsZElBbXFCdGpZTWMtaDByUjBvMzJKekJ4TndNcnZIWV9jZVFRT1d4aHFUb0haY3FfcVd3QnBOWkFWajN6RWlMcERKZW9FWFFvQlVzMzlkWEtvMlNFWGFwOEpSTWFzcnVqVk9yMVRFaVd5SVIzQmlvUTVMVGpaTGNjT09DZHp2QzZsQlhrMHR1NEww?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-05-23-008",
+    "date": "2026-05-23",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Results: Toll Brothers, Inc. Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYTFyMFJTTG1EbUptdlpaX1NBQllzd3oxYW5pbXVienFZT2VtM0x6aHoyazN0SGo3S3llNWpmZklJV0FQVUktQVpHR2J5b0dfcFY2QzFEOFlta240bVJrcEo2U3oydkYxX0gzLXNOcD",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYTFyMFJTTG1EbUptdlpaX1NBQllzd3oxYW5pbXVienFZT2VtM0x6aHoyazN0SGo3S3llNWpmZklJV0FQVUktQVpHR2J5b0dfcFY2QzFEOFlta240bVJrcEo2U3oydkYxX0gzLXNOcDNWMFNNZjdvNWZQYVBmWkE1TlBSZy1WOTRLakFKMjd6d19PTmtXWm1TRURBNTZaZzV3aktoNkwyZ3lFS0JMTzI0aGMwZVJYRTgxTDdpSGpFOW9hZ19CVmUwTldxam9EV3Jod0dKdFdWQdIB3AFBVV95cUxOSElLaEg2aHhVWl9GT1JyVjBjQXc3aC1qTjAzeWU1MzhGUDJRU3hzRVkzdFB0c3RjVmNkX2QxSjYyVVNzWnRNdW4weTlkczROQmhhR3NsUzEyUjZxZEdudzllOVBqNTBTS2djUVZ2OUFCTFVVNXQtaVdicy1MLTNQTnV6cUhqdGttU24xdm4zd1Z2OVd3OFNaVGhaVGdpMTAxMlB3ejhHZ3lkX0JOOFNSLTJRN1FvYnlfdlpPaGozbDU1M3NaR1FLMV9CZjJlQ0tYay1Zb0Rnc3BNa2dD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-009",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Building the Future With Less Carbon: Why Sustainable Materials Are Reshaping Construction - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQalBvM1FBZ3lUazRqTmVpV2N6RlNSdU1rbEZ3Y2dmdnpveWQ1OVVTek5QR3JjX3dpTEIzNG9ZRjEwbDJEY0tVU0xocHdBTVNvZlh6LUtWekIyLWQ2YVRRZjFEY1VLTFpLRm9IbUVoMj",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalBvM1FBZ3lUazRqTmVpV2N6RlNSdU1rbEZ3Y2dmdnpveWQ1OVVTek5QR3JjX3dpTEIzNG9ZRjEwbDJEY0tVU0xocHdBTVNvZlh6LUtWekIyLWQ2YVRRZjFEY1VLTFpLRm9IbUVoMjg1dE5oTzFJU1V4NjJ0V3dyLUxMZmF5RWg3bWhqbXAzMmZBM1ZtazVqSWF2TWlrVFVZLXVKQkV2TjJFWXpnZW03dm5JT19TMzNvVlE?oc=5",
         "type": "rss"
       }
     ]
@@ -620,6 +757,44 @@
       {
         "name": "google_construction",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRmstWWM2TXFaaFViOVZWeTBwR0tFVjZGNFo0dG1XVnl5UjRXTzVleGhnelFQZ181NUFaVXZjOUxBMTh5YjZBR3JNY2ExSndTOEhocl8tSTQwbnV3X0Z3SWQtWVgzREZnczNQdkpmWkxtX2N4b3dxUVFUSEFCOWJZQ1RFX3JaZUpseV9xVEJYY2swYURPam5ZTGU4ZGt4VWVkaWt5bXcwUHc1cnNMQjRQNk8za01YOU9kaWJob0p3a3Nndw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-05-22-028",
+    "date": "2026-05-22",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HIGHLIGHTS | NIPPON STEEL KAMAISHI SEAWAVES vs SAYAMA SECOM RUGGUTs｜NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2/D3 Promotion/Relegation Match R1 | VIDEO - league-one.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5N08tX2twSGIzTkZEMHpjNF9sZ29CZTVoV1N6NEs5ZTVobWNSSWpZWUNIQ3FFTFpndzhETENWUzdWOURfM1I3Y3FR?oc=5\" target=\"_blank\">HIGHLIGHTS | NIPPON STEEL K",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5N08tX2twSGIzTkZEMHpjNF9sZ29CZTVoV1N6NEs5ZTVobWNSSWpZWUNIQ3FFTFpndzhETENWUzdWOURfM1I3Y3FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-05-22-029",
+    "date": "2026-05-22",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KB HOME OPENS SUNSET RIDGE: NEW HOMES FROM THE LOW $500Ks IN DESIRABLE SPANAWAY, WASHINGTON - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjVNdS1IeUlZc0hSWlpxRzd1YXdyeWg5Q0hsTU8xS1ByZ0lOdktjUnduakUwOHc1UWNycXBuanpDMEg3blR1RXo3ZWxYelg5bGxLa2hWX0VrWGkzN00tOFFNTkpkTFlxeG5IUlBZNE",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjVNdS1IeUlZc0hSWlpxRzd1YXdyeWg5Q0hsTU8xS1ByZ0lOdktjUnduakUwOHc1UWNycXBuanpDMEg3blR1RXo3ZWxYelg5bGxLa2hWX0VrWGkzN00tOFFNTkpkTFlxeG5IUlBZNEh6T1hkMm1Hb0wzWkVURjViY2dDbS0tcC1VdGFYSDNqcmk0OWg1ZnlmSEcxOA?oc=5",
         "type": "rss"
       }
     ]
@@ -1501,6 +1676,103 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFBNaDZfYTBmalFQMWE3Vkwxb21MVV9GSk9GRHRoRlROaEMzd3ZyMk55SnR2Qmw0MkxpdEVRUV95V2ZNVWlhblJlcC1adGZTX3pubTRIVkRoYUxEendoTWlxRmVlTS1GcHNwWDZUWmxhWjdCRzZZdVNSNGt0ODBBVWc4eDlsTWRnMTdSclpZNjRjei1vZS1YUF9neXdIbk1mdzNRMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-05-21-047",
+    "date": "2026-05-21",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Vulcan Materials (VMC) Remains Closely Tied to Public Construction Demand - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRXUzWEJFbjZ4dGdxRFl5b3ZkR0w2TkY3cDMyQzczYmNzaUYzUkFDX0NPV1YxUk1jdGNIQUFGclhhc3FhNHBSN2hJeks2YnZMZWtFaGpjdmc5NlhCcDA5Z19qc2hoTXFQR2pqd09tYk",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXUzWEJFbjZ4dGdxRFl5b3ZkR0w2TkY3cDMyQzczYmNzaUYzUkFDX0NPV1YxUk1jdGNIQUFGclhhc3FhNHBSN2hJeks2YnZMZWtFaGpjdmc5NlhCcDA5Z19qc2hoTXFQR2pqd09tYkVCeWdmZkxLTHFrcWF5UExneENZOFNGX3lwUjlETU1XWnp0cmJQLVU0MWxEeElnZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-05-21-048",
+    "date": "2026-05-21",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "mortgage_rates",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is D.R. Horton Poised for a Spring Rebound as Mortgage Rates Dip - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQam9acUdIcWh2dWxvc3pqazZ0d2U5MzFWbl8wekktaUcxdlgzVkJOVXZ5VlpUUjNvX25HV0RST3dmaUZvWFZjNGphaDZZYVRjXzMtSTQ1cFpYcVhDMUNkc3U4aFNPRHVBZ1A5WWthdD",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQam9acUdIcWh2dWxvc3pqazZ0d2U5MzFWbl8wekktaUcxdlgzVkJOVXZ5VlpUUjNvX25HV0RST3dmaUZvWFZjNGphaDZZYVRjXzMtSTQ1cFpYcVhDMUNkc3U4aFNPRHVBZ1A5WWthdDlXVnR6TGF2MWhvQVpnQ3FBN29pSmY1amVTV3VCNW9RREowanJxZDZKZklCNjc3dk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-05-21-049",
+    "date": "2026-05-21",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup’s Second Quarter 2026 Earnings Release and Webcast Conference Call Scheduled for July 22, 2026 - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmw5SGdfb241SXk2eVNBRmVIMDJ2SWZZcGRpUUpoZ0NvNk5ZczZ5RkhxcXB0cHpmeFd1TXNNV2loWXZiZlBlbkhUNlEwWHo5cnNCMmt0bEd1S0MzQXpvYjhXbHI0b3pSalFPbEhQLU",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmw5SGdfb241SXk2eVNBRmVIMDJ2SWZZcGRpUUpoZ0NvNk5ZczZ5RkhxcXB0cHpmeFd1TXNNV2loWXZiZlBlbkhUNlEwWHo5cnNCMmt0bEd1S0MzQXpvYjhXbHI0b3pSalFPbEhQLU53NVo2OU9ySGQ1cjRFdjZpLVFDZG9mOFFnM21ZVmxfOHd6N2NzeUxBcUY1c2ZJMnJTOGwzX0RHbzN6Vlc4b1R6VnZubF82WlF1VzNWTVZhc2l3SGJtNnlkRnhab2lqaDVWYVAzM2szeGQ3Nl9mRDNva250SnVSajBvT3owT2VfaXE3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-05-21-050",
+    "date": "2026-05-21",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces Cedar Terrace Community Now Open in Chantilly, Virginia - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdGdFRm9la2tsMmx4QmQ1eEQ4VDk0Y21BYWQxQ2k1NWU5eUw5cTBhYTR6d2c2WlBqNXpZZkd6NkxsbHk0TFR6ZDA3YnJaVWxEbHlUaG9oMlEwQkszZlZISUwweXFqUG1XOVZkcl95bj",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdGdFRm9la2tsMmx4QmQ1eEQ4VDk0Y21BYWQxQ2k1NWU5eUw5cTBhYTR6d2c2WlBqNXpZZkd6NkxsbHk0TFR6ZDA3YnJaVWxEbHlUaG9oMlEwQkszZlZISUwweXFqUG1XOVZkcl95bjNXWXc4d0Roa29ZU0h1MnNJQlVPUmRKVTJVUldqMVo5VXhyUWJHUXp6WTdpTDUxVGVwbmNRbTIwNXhadFNxZmd0MW02eGlVamk0aWxlOFhBQ3U4UmJoOFVBY2tEMjNIMHc3V3ktSDdhRThBeFZ3T0VHTUR6Wlg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-05-21-051",
+    "date": "2026-05-21",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces Final Opportunity to Purchase a New Luxury Home at Tesoro Club in Port St. Lucie, Florida - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjUwNUthclAxWWZuN1o4X2FSWGwyaHFmZDIzMUM2ZTlONFI4TzlPUnh3NHlLZlJnQmZTclhGWEd6Y01yeTFsT0FMUTZKd0xpV2gxdG1aaC1OT05RN2ZFOVk3ZkFzTDhOWHplZm5qbV",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjUwNUthclAxWWZuN1o4X2FSWGwyaHFmZDIzMUM2ZTlONFI4TzlPUnh3NHlLZlJnQmZTclhGWEd6Y01yeTFsT0FMUTZKd0xpV2gxdG1aaC1OT05RN2ZFOVk3ZkFzTDhOWHplZm5qbV9oSE5henlDREc2SDJmY3QtS2UwU0U0QndLUENoR1hsUTE0TDd3Um9IMnlrZXNUMDRwNzFVTGdTbTI4T2RwU3VYc0FXQzcxZ1E0ZklIQTlPLW9nd2YwdFZ6TG5tbENFZmV6aUtKS1dqTXNZMG5WMS13VjVpZnk0WkgxRW92QnQyYUNXaElYMTlTTEpuaGhWc25OU1BoUmphaTN1RHBtV0pkag?oc=5",
         "type": "rss"
       }
     ]
@@ -2531,6 +2803,42 @@
       {
         "name": "dr_horton",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmloZ0w2NmtpWTVnaHBIYW54R3ZnamcxZXdwS2JEQWJtRlItYTQ1TmVmS2xJRW9DdnBxX1RKdXZpWUdGZGJ3OWVhWXVxLUFYZzFtOTZTY0w0YnhfZTJsNDc2eXZwQXc3NzlUM0JYcVdiZnlNVWFSWElHNGo0R2h5ZFZhWllHNFYta0dsVUZhNDdpYXY0VW1UZ3ZjQmJkMjBCcXFJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-054",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Man dies after surface mine incident - WYMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdE1FQVdodUVIS2RkV1doTkhJWVZkZkVfMkVHUEwwQXgwMUxSanBDdmQ3QnpKWmh0aFNYclRCQV9mOHJUV19rQUdWUU9sTnFrMGVIT0dZLTV6aHV4bUo4U0FUZ3VHTC1MX3g0NUp6VG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdE1FQVdodUVIS2RkV1doTkhJWVZkZkVfMkVHUEwwQXgwMUxSanBDdmQ3QnpKWmh0aFNYclRCQV9mOHJUV19rQUdWUU9sTnFrMGVIT0dZLTV6aHV4bUo4U0FUZ3VHTC1MX3g0NUp6VG1DMUtRRFE2VA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-055",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Another Headache for Home Builders: Lawsuits - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUhfOVk0cHFxV0xVTjNjN0hPai0xd0tVS0ItWkFhMk9tQjUzbVNOTzZPYm1XY013WDY0S0w5UFVqVUtlbW1DR280WS1HdHNLdFNGMTc0dlFlc2JFeVVWaDFfZUNnYXMzY3VYYi13Sn",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUhfOVk0cHFxV0xVTjNjN0hPai0xd0tVS0ItWkFhMk9tQjUzbVNOTzZPYm1XY013WDY0S0w5UFVqVUtlbW1DR280WS1HdHNLdFNGMTc0dlFlc2JFeVVWaDFfZUNnYXMzY3VYYi13SndkV3VySW12SnpFRkUzOTQ3cy1OeUdza2EtU3BEQw?oc=5",
         "type": "rss"
       }
     ]
@@ -3570,6 +3878,46 @@
       {
         "name": "google_construction",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHVBYWM3SGxDZE1QMFdSREdWamQ1MUtOb21SNUFBbEhyYktWZXNpQUFnSHJ5Vmc1VXlOZktQYUVSQnliUF9LcWdZZFZ4N0gyaGJRVmVqNHNnSVRzTUF4SEJwdWVVNC1GcDVWYlB4SUdQVmdsTUItOUJsUkdXTkc2c3BNSWtxbWs0cjZoNGpZdWxHbkZseEtzVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-05-19-054",
+    "date": "2026-05-19",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "D.R. Horton, Inc. to Release 2026 Third Quarter Earnings on July 21, 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXFESFdPdXRLby1DekNmSU9oUDFWOEx5Wkc4MGk1RENjdUltT1hRVi1Iakx6b21OTWJpUFRTWE14bG5rcWU0cE5PQWVLMG93eUJldlA1S1M5dnpOclZKSVM5WkxYeEpkWXFmUzFYem",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOXFESFdPdXRLby1DekNmSU9oUDFWOEx5Wkc4MGk1RENjdUltT1hRVi1Iakx6b21OTWJpUFRTWE14bG5rcWU0cE5PQWVLMG93eUJldlA1S1M5dnpOclZKSVM5WkxYeEpkWXFmUzFYem4tWjA3bFltSWE4dDFOdGl2WHp3N1VwaVdCZGRHTUNoY1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-05-19-055",
+    "date": "2026-05-19",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers (NYSE:TOL) Reports Bullish Q1 CY2026 - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmFTOE4xVkRGV0tuaUpvOGFGQzZ5ZERXbkdPOF9kZHBuTkwtbFZMN3QzQjVRYVhlWF9GSW5Bb3c5RFNhd05rcGNKa1dlZy1mcE9XalU0amRUY29yS3dkZXp4RDhGZm9PNE01aGd6ST",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmFTOE4xVkRGV0tuaUpvOGFGQzZ5ZERXbkdPOF9kZHBuTkwtbFZMN3QzQjVRYVhlWF9GSW5Bb3c5RFNhd05rcGNKa1dlZy1mcE9XalU0amRUY29yS3dkZXp4RDhGZm9PNE01aGd6STloLXRyMS15TUFJdTN3eGxKZnlQSnhtTEd6RDhzQVBLNTJLaEJPdk9EUnBxd3lUWnBJSnM1RFF3?oc=5",
         "type": "rss"
       }
     ]

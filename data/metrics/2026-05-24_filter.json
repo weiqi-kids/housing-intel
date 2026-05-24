@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 254,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 39,
+  "gate2_fail": 29,
+  "passed": 18,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Nippon Steel Corporation Opposes the Shareholder Proposal from Strategic Capital - marketscreener.co",
+    "Omiya SC (Morioka) - Nippon Steel Kamaishi FC, 24/05/2026 - Tohoku Soccer League (Div.2 North) - Mat",
+    "How Investors May Respond To Nippon Steel (TSE:5401) Rejecting Activist-Backed Listed Subsidiary Ove",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future"
+  ]
+}
