@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 251,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 38,
+  "gate2_fail": 26,
+  "passed": 11,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials (VMC) Research Report - StockStory",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains "
+  ]
+}
