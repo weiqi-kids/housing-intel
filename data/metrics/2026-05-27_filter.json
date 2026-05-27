@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 36,
+  "gate2_fail": 23,
+  "passed": 35,
+  "gate2_samples": [
+    "ArcelorMittal Nippon Steel India becomes world’s first steelmaker to produce API 5L X100 pipes - ET ",
+    "Vulcan Materials Co (VMC) Shares Surge 3.2% -- What GF Score of 95 Tells Investors - GuruFocus",
+    "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains ",
+    "Caterpillar Price Target Maintained at $989 as Energy Infrastructure Upcycle Supports Buy Rating - T"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:37:08.393352Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-05-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar 926-14 For Sale (88344202) from Altorfer Cat [2090] in Cedar Rapids, IA - Construction Equipment Guide",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFpDSTBEMW1Rem9SR3ZWZnFUb3ZvLWF1R3MwZi1fVjJ1TERmdmNwQ1VlMzc4R3RXTHdQYTlJbmcxM1o2cWVCTmVTSlFIaXREZnZYd1ljQVlIb09KSGNtVzY4QlhjS1NGYjFLNUpLLUhyeDlSQmt0b1pOUjAxcEZWSy00d0lfV0VrMG5aU29GS1ktTk5YcHJsalhGbjRMS2dhYmtXZg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 486,
+    "dup_title": 232,
+    "too_old": 160,
+    "gate1_blocked": 36,
+    "gate2_blocked": 23,
+    "passed": 35,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "ArcelorMittal Nippon Steel India becomes world’s first steelmaker to produce API 5L X100 pipes - ET ",
+      "Vulcan Materials Co (VMC) Shares Surge 3.2% -- What GF Score of 95 Tells Investors - GuruFocus",
+      "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+      "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains ",
+      "Caterpillar Price Target Maintained at $989 as Energy Infrastructure Upcycle Supports Buy Rating - T"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為CAT相關動態：「Caterpillar 926-14 For Sale (88344202) from Altorfer Cat ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Caterpillar 926-14 For Sale (88344202) from Altorfer Cat [2090] in Cedar Rapi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "CAT為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
