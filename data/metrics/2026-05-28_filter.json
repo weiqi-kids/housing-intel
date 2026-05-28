@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 30,
+  "gate2_fail": 31,
+  "passed": 39,
+  "gate2_samples": [
+    "Long term debt to total assets ratio of Asia Cement (China) Holdings Corp – OTC:AACEY - TradingView",
+    "Asia Cement (China) Holdings Corp Cash Flow – OTC:AACEY - TradingView",
+    "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+    "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+    "A Very Lonely Caterpillar, Possibly the Last of Its Kind, Has Died - The New York Times"
+  ]
+}
