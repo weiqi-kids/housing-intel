@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 37,
+  "gate2_fail": 37,
+  "passed": 20,
+  "gate2_samples": [
+    "Long term debt to total assets ratio of Asia Cement (China) Holdings Corp – OTC:AACEY - TradingView",
+    "Asia Cement (China) Holdings Corp Cash Flow – OTC:AACEY - TradingView",
+    "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+    "S&P Affirms Nippon Steel at BBB on Slower Recovery in Key Metrics - marketscreener.com",
+    "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com"
+  ]
+}
