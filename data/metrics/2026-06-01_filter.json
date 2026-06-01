@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 39,
+  "gate2_fail": 33,
+  "passed": 29,
+  "gate2_samples": [
+    "Should Nippon Steel’s Rejection of an Outside-Led Subsidiary Review Committee Require Action From Ni",
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+    "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+    "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo"
+  ]
+}
