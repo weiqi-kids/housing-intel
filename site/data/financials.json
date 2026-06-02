@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T13:35:29.445116Z",
+  "updated_at": "2026-06-02T12:03:26.636555Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -348,9 +348,9 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": 189066000000,
-      "ar_qoq": "+2%",
-      "ar_period": "QoQ",
+      "ar_prev": 197953000000,
+      "ar_qoq": "-2%",
+      "ar_period": "YoY",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",
@@ -398,17 +398,17 @@
       "name": "Toll Brothers",
       "ticker": "TOL",
       "currency": "USD",
-      "ar": 156278000,
-      "ar_prev": 157948000,
-      "ar_qoq": "-1%",
+      "ar": 156721000,
+      "ar_prev": 156278000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 11203529000,
-      "inv_prev": 11099429000,
-      "inv_qoq": "+1%",
+      "inventory": 11377712000,
+      "inv_prev": 11203529000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "tung_ho_steel",

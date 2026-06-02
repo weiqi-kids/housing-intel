@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 36,
+  "gate2_fail": 36,
+  "passed": 28,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "Should Nippon Steel’s Rejection of an Outside-Led Subsidiary Review Committee Require Action From Ni",
+    "ArcelorMittal Nippon Steel India Secures First PM-SETU Approval for Visakhapatnam ITI Cluster in And",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer "
+  ]
+}
