@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 36,
+  "gate2_fail": 36,
+  "passed": 28,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+    "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+    "Watch a caterpillar enjoy a tiny playground built just for bugs - Boing Boing"
+  ]
+}
