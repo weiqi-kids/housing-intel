@@ -1,0 +1,16 @@
+{
+  "total_raw": 488,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 33,
+  "gate2_fail": 41,
+  "passed": 32,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "Greene County residents concerned over Vulcan rezoning proposal - WJHL",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+    "Caterpillar BEPU makes going electric as easy as swapping an engine - Electrek"
+  ]
+}

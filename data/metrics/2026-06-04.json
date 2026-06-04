@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-04",
+  "total_events": 10,
+  "by_company": {
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sekisui_house": {
+      "count": 4,
+      "sentiment_avg": 0.31
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.21
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "mortgage_rates": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
