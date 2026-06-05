@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-05",
+  "total_events": 8,
+  "by_company": {
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sekisui_house": {
+      "count": 2,
+      "sentiment_avg": 0.08
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.03
+    },
+    "reit_yield": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

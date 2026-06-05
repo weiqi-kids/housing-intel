@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 36,
+  "gate2_fail": 38,
+  "passed": 28,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "Greene County residents concerned over Vulcan rezoning proposal - WJHL",
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR"
+  ]
+}
