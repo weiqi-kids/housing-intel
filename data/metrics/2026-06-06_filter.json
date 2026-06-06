@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 30,
+  "gate2_fail": 42,
+  "passed": 28,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "HIGHLIGHTS | SAYAMA SECOM RUGGUTs vs NIPPON STEEL KAMAISHI SEAWAVES｜NTT JAPAN RUGBY LEAGUE ONE 2025-",
+    "Greene County residents concerned over Vulcan rezoning proposal - WJHL",
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "Trump Just Gave Caterpillar Stock a Boost. What to Know. - Yahoo Finance"
+  ]
+}
