@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T10:02:18.708135Z",
-  "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
+  "updated_at": "2026-06-07T10:27:23.639134Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
   "companies": [
     {
       "id": "asia_cement",
@@ -330,17 +330,17 @@
       "name": "積水房屋",
       "ticker": "1928.T",
       "currency": "JPY",
-      "ar": 203890000000,
-      "ar_prev": 175101000000,
-      "ar_qoq": "+16%",
+      "ar": 188646000000,
+      "ar_prev": 203890000000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 1533116000000,
-      "inv_prev": 1520335000000,
-      "inv_qoq": "+1%",
+      "inventory": 1647142000000,
+      "inv_prev": 1533116000000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "sumitomo_forestry",
@@ -348,9 +348,9 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": 189066000000,
-      "ar_qoq": "+2%",
-      "ar_period": "QoQ",
+      "ar_prev": 197953000000,
+      "ar_qoq": "-2%",
+      "ar_period": "YoY",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",

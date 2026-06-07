@@ -1,0 +1,16 @@
+{
+  "total_raw": 488,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 29,
+  "gate2_fail": 39,
+  "passed": 17,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "Greene County residents concerned over Vulcan rezoning proposal - WJHL",
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "After a 160% AI-Fueled Rally, Can Caterpillar Stock Keep Climbing? - Morningstar",
+    "Trump Just Gave Caterpillar Stock a Boost. What to Know. - Yahoo Finance"
+  ]
+}
