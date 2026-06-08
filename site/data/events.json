@@ -1,5 +1,211 @@
 [
   {
+    "id": "nippon_steel-2026-06-08-001",
+    "date": "2026-06-08",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "S Santhana Krishnan Joins ArcelorMittal Nippon Steel India as Head of Procurement - hrtoday.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQanNqWHNBY3FEVkJTSTRiaVplTHZHZkpkTnpXY3dJc1BLZl9SMDFZZFV3QmcwdDNCNmQ3VVBnMC10RzNJNE1sbDJmcVBERkZMQ1RBdndibVR4aVdKMzZudS1aUC1UVzBITk1UcVVkRG",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanNqWHNBY3FEVkJTSTRiaVplTHZHZkpkTnpXY3dJc1BLZl9SMDFZZFV3QmcwdDNCNmQ3VVBnMC10RzNJNE1sbDJmcVBERkZMQ1RBdndibVR4aVdKMzZudS1aUC1UVzBITk1UcVVkRGtiSFVDMnItOUkzb0g0YXNvbmljZmRZbjBHcUpXV19rY2YxNU15bnR2NlVMLVNXVU5rX1Bz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-06-08-002",
+    "date": "2026-06-08",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials completes California exit, Colorado acquisition - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2VicTJZN2Ixay1oOGRnTDlFSDZvVzF0OV9GQjNtdVdqTjdrNmNxeUt0aU1ta05yN1k0YW1FV1ZuUUNiZTNybHhWdmV6VHpsTnhZNU9rSXdySEl4OGJ5Q1VlSWVWRlRXVmNiZ216VV",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2VicTJZN2Ixay1oOGRnTDlFSDZvVzF0OV9GQjNtdVdqTjdrNmNxeUt0aU1ta05yN1k0YW1FV1ZuUUNiZTNybHhWdmV6VHpsTnhZNU9rSXdySEl4OGJ5Q1VlSWVWRlRXVmNiZ216VVN5aFNuQnBtMTBoeHJ2X01kX3gtaEVrMWdRekIxdEVvWGVVUGZwUTEwYU5iVUpiTk9nVGdUYTZJcHlPbDEwakV0WWxjWTVRX2ZFR3NWNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-06-08-003",
+    "date": "2026-06-08",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials Divests California Concrete Business to Expand Aggregates in Texas and Colorado - geneonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMk91eDAxZnJvbDNEbXBhZEg0S3d6TXdJX29XQjU0c2tGRjFiOTBRbklSSkpSdGFTTExpZEZVYUJvZ3RtX054NFVjQVRtZVFRME9TUkRUQWgzajBvckFoUDlDNUktMFRFTk1Eek1YQU",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMk91eDAxZnJvbDNEbXBhZEg0S3d6TXdJX29XQjU0c2tGRjFiOTBRbklSSkpSdGFTTExpZEZVYUJvZ3RtX054NFVjQVRtZVFRME9TUkRUQWgzajBvckFoUDlDNUktMFRFTk1Eek1YQUtyZUtZRHZreTYzT3NETXpFTG9yZ215U09USE5SOVpabmU4azZhWS1wYWRET3dtb2dzaE43TTJEMXY0VGhXeE8xQWJacDdDTXQ1T0thSW9MZjNfQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-06-08-004",
+    "date": "2026-06-08",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-FORT WORTH AND INTO COLORADO - The AI Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalVNdTRsRmM4NjdWNm92MmxnZ1l6aDdHMHExdnJONXp1N1NiOFVRclFXWGZVWG9tX1ZxM3lwRGp1NWZ5TUVNQ0NUc2dvbHQ0ZDhNN29UMGNZMmE4Q1ZsU255MU85NkJ2bTJmYWFmSF",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalVNdTRsRmM4NjdWNm92MmxnZ1l6aDdHMHExdnJONXp1N1NiOFVRclFXWGZVWG9tX1ZxM3lwRGp1NWZ5TUVNQ0NUc2dvbHQ0ZDhNN29UMGNZMmE4Q1ZsU255MU85NkJ2bTJmYWFmSFduS1R5cF9vT3BFLXYtWFB3QTM1a3F2Z3E2RG10NEhPNDdNZllNdUltdDlrRUV6QlYxR3lSejRsY28xZ0p6MDR1TnRBOHItYV80QnBTQU5mY1I1RUVLR0txem5FbXVGQnNUYnhVLUtQRG5WQUZ3VE9IeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-08-005",
+    "date": "2026-06-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Should You Buy Caterpillar (CAT) Amidst The Data Center Build Out? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxON3FtWFhLQU5DcTBITmc1UFRCb3dCTjhTdXBJdkJQN1l0U3FEQm8zRzJfYUFTS0k4WVJXc1U0M2tQX3M3ZF91ME5KTnJNUWJkUXJVZVVtbWlDUDVZaWZwUkNSamE5bF9wczk3Ql9kX1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3FtWFhLQU5DcTBITmc1UFRCb3dCTjhTdXBJdkJQN1l0U3FEQm8zRzJfYUFTS0k4WVJXc1U0M2tQX3M3ZF91ME5KTnJNUWJkUXJVZVVtbWlDUDVZaWZwUkNSamE5bF9wczk3Ql9kX1hfNTJlVFdfeG1EWkV2UnRJcW95b3BOUU9wZXBkMXVIVnpKbWlxdkVOSzBlMTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-08-006",
+    "date": "2026-06-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Valuation Check As Tariff Cuts And Data Center Demand Support Recent Momentum - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdndkTjhROTk5UWoxM2hnakhuWUNvSlkzVFFBSkxob0NETG5IVG0wUk1SaDN5WTN4Zy16b1l0alpNa1M2dFAwZGxUUElrNy1QMmh5ZXpYNlAzb2h3UU5aNW1HLWdOVnZVdERfaEtoRG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdndkTjhROTk5UWoxM2hnakhuWUNvSlkzVFFBSkxob0NETG5IVG0wUk1SaDN5WTN4Zy16b1l0alpNa1M2dFAwZGxUUElrNy1QMmh5ZXpYNlAzb2h3UU5aNW1HLWdOVnZVdERfaEtoRGcteElXY1c2TXRmOGxsSjhiY3ZuY0ZuQV9hZ2JUV2wwMWx2bUZKcUxaV0RhaDlkdXMxWHdPT3NVaVpfTDNYN0dCZFZBSklNWGxkclFydGpic2otU01oei1ULWlIQkjSAdIBQVVfeXFMUGlCWVJldnZwdmxMQWFqamRaUGhVSWhaU2xmNG9vM2FRNlc4WVA4bTE1VWxXTlRRS1ZCS2lBLVNiaTYxSnFpQkpxSW9HRzFtVUJVNE5wRjlZUEVqemtPMVp1eFNHTk1nZThUMklTSloxV0IwM20zWHMyVnVMTFlKdGZXYVFEbGNZRnJ5ZmNNLUxyQm03bGJEOHc2Z0o3Zm10azZjNTFoQjNWaTVIRTI0M2hfUXdQOURvbE56bXI5QmJUZXBMTUd5d3p0N0taQ2VjY1VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-06-08-007",
+    "date": "2026-06-08",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "D.R. Horton stock (US23331A1097): Homebuilder rides resilient US housing demand after latest earning - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXp0NVpUQWtJSTFNc3dNanlwN051OHBOQjRJaUJQb1lsb3lMeVZuWDZmY3VwY2VpOXFoT2NHby1VOFdzcUlUNTlFM1ZhNUJrcGE2WTZybHJfSEhNR2VsdjdwSGdzakZaWjV5UkFmWi",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXp0NVpUQWtJSTFNc3dNanlwN051OHBOQjRJaUJQb1lsb3lMeVZuWDZmY3VwY2VpOXFoT2NHby1VOFdzcUlUNTlFM1ZhNUJrcGE2WTZybHJfSEhNR2VsdjdwSGdzakZaWjV5UkFmWi1pUWtoeXkwWW5YbDl6a09XTkVxeGxaSDE2UndjR3hWTnNCQWJqQm9KcEhrX1d1b3B5UkxSMk5rc0ZfZHVGZDZScGFRWjcxSGNwWjVhalRaNDhzY0JMbVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-008",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Kookmin Bank Cuts Variable Mortgage Preferential Rate by 0.2% - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDhmUlJ5cGxSTElWY3hvSmxYQ3RJQlYxTE5GTWUxd1F1VGdSbDlQSnVIUXo3ZVdpUjRYZWhPeWp1ZTE1U3ZhbGNKZ2Etb01xM3U1R3l1WmpjQ0tkZXl6aG1iZXVYeW5URnNwMFhjaE",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDhmUlJ5cGxSTElWY3hvSmxYQ3RJQlYxTE5GTWUxd1F1VGdSbDlQSnVIUXo3ZVdpUjRYZWhPeWp1ZTE1U3ZhbGNKZ2Etb01xM3U1R3l1WmpjQ0tkZXl6aG1iZXVYeW5URnNwMFhjaEFmZ01UWUo3clo3cXZxYVVfelJlNFIzUmNZLURDOTVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-06-08-009",
+    "date": "2026-06-08",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lennar elevates two of its longterm operating leaders to C-suite",
+    "summary": "MIAMI — Jim Parker has been promoted to chief operating officer and David Grove to executive vice president of homebuilding at Lennar Corp., the company announced June 5. The appointments are effectiv",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/lennar-jim-parker-coo-david-grove-evp-homebuilding/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-010",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Building Materials Stocks Q1 In Review: Resideo (NYSE:REZI) Vs Peers - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlRSVnNJVkdQM2FGaGJkWFo3VU55VmxNVkNxcGtrRm5iaGRMLTd4WEk5YV9jaE82S0VHbG8tMHlxeDVFVTFaUHdiWW1LTlhiWFpRS3lHQXIzb0ludm1DMmg3M29vYUFDUHp0TkJLSm",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlRSVnNJVkdQM2FGaGJkWFo3VU55VmxNVkNxcGtrRm5iaGRMLTd4WEk5YV9jaE82S0VHbG8tMHlxeDVFVTFaUHdiWW1LTlhiWFpRS3lHQXIzb0ludm1DMmg3M29vYUFDUHp0TkJLSmwydkduVnFHV01iZ0MzNlhsUENIMGdqeDVZNEUzRDdaRHZ1RndlbHBZUE5ub2FvTUlyaHRWdTEyUFlMWURaZ2pjNmdHc1NfTkpZWjZXS0RWOVFZQ3ZO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-011",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nigeria Encourages Green Construction Practices Through New Partnership - nigeriahousingmarket.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkJ4TzAyTVAyZl9tWFI3MWtoWEhzNkFfOFNIaHl2eVJOTWs4eUtqUUR1RWEweV9UalBScGJ6TWNaRm5CZDFOZkV6bFcxUGJISDQ1N1JCdndDZWV0UjZvNlVUT2hNQnVpUG5zbWZ5b1",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkJ4TzAyTVAyZl9tWFI3MWtoWEhzNkFfOFNIaHl2eVJOTWs4eUtqUUR1RWEweV9UalBScGJ6TWNaRm5CZDFOZkV6bFcxUGJISDQ1N1JCdndDZWV0UjZvNlVUT2hNQnVpUG5zbWZ5b1RONGQtMjU0NWwtQllBQzBmc3k2R181YUlzbVFmTVk0X2dVYzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "caterpillar-2026-06-07-001",
     "date": "2026-06-07",
     "companies": [
@@ -56,6 +262,159 @@
       {
         "name": "dr_horton",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1JwZHF3NmVkVjZFR0RWU0stR0RNeFNuQXdhbmxUQlVIRXhhMjRRb1ZLNFNCMjVaS0szcDNKckQ4ZGQ4bTFKLWpuc3dnRWxWb2laQWRTTDd4ZHhTMEdlTmc3TWp0MVdIanVJWEVoQ0hPRlFrUnZYMTFpdVpoUUMxbXZ6ckdZUlla?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-004",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Building Materials Stocks Q1 In Review: Resideo (NYSE:REZI) Vs Peers - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUxxc0ZjVExVZ1M1TzFjRFhPNGVyM09JQlViRy03VlFoeDBETENTVXp4cjBQSjBHbXRmaUdRSVNjNW5vcHU5dXJiRlNlVXVRUS1vV2o0a0tQNmNNVkNBSURqZHFJM0p3Ty1SM3RWaF",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUxxc0ZjVExVZ1M1TzFjRFhPNGVyM09JQlViRy03VlFoeDBETENTVXp4cjBQSjBHbXRmaUdRSVNjNW5vcHU5dXJiRlNlVXVRUS1vV2o0a0tQNmNNVkNBSURqZHFJM0p3Ty1SM3RWaFp0YkhmZ0dubTVjcElQT0V6bWxKSnFTWXVhVkdsNjJZQzlCVTZMQzRzRkJ3aU9QZlFJd3JvZFpTSWE0V01CSUYwZVUxeW1KLUtjWVBKbjln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-07-005",
+    "date": "2026-06-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Berlin shuts parks and sports sites over toxic caterpillars - Euronews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGlvLS14WC1qd1RwaTdqZjFzeG80b3QyUVBuUjR2X0xQTkR1UGdLcHZhSjZQUmRzTnA0Smpqb2lEaHRxMUNzVE9nTk1kSHRSZUM5Q2NIOXNCVEJ3QUFTV0RlSFpSNmdxcG1CU0g3RW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGlvLS14WC1qd1RwaTdqZjFzeG80b3QyUVBuUjR2X0xQTkR1UGdLcHZhSjZQUmRzTnA0Smpqb2lEaHRxMUNzVE9nTk1kSHRSZUM5Q2NIOXNCVEJ3QUFTV0RlSFpSNmdxcG1CU0g3RWdHMHZyNmtCb1Vad3Y2dktzWGVEMmdmclFEdHBEaHN4UEIxazR4ZjJNUFdvRVpZcTNSa3VwWldZdGJGZEN1bG9ocFEzeWZLQjcwVURJbjNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-07-006",
+    "date": "2026-06-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Invasive browntail moth caterpillars in Maine are getting killed off by fungi and viruses - Bangor Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjNBYW43QzY2cV94ZldfZTlzcURkVDNMakFIRUVTRnF3TkZaYnE5dmp2Wjc0WDdMSXZWRTZIMGZGUlduSGVmdEZjT0JQbTNNaTdRRmtaMEFjZkhBY05TaldCbjdLc3pnU1ZEWGhyNV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjNBYW43QzY2cV94ZldfZTlzcURkVDNMakFIRUVTRnF3TkZaYnE5dmp2Wjc0WDdMSXZWRTZIMGZGUlduSGVmdEZjT0JQbTNNaTdRRmtaMEFjZkhBY05TaldCbjdLc3pnU1ZEWGhyNVNVQmI1Q3REVWdJTElBRFlJREVwQjB4WXRoQkdCbDNTczBBQlNQYjdoR0V1NUluVTNsU0hkRVdQQ2FBMzRnX0NCcFNEc2duY2VZQVpQNnhKd3Jyako5dTh2NHJtdmRERG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-007",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Methanol Fuel Retrofit Developed for Inland and Coastal Marine - Marine News Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWpqcWNfUTVPNEJfOEkyR0NTNjVWcTVOUmhsRGJmNU1wNEs0a1M5aDhjWk0xZFpjNlRXV0pTT0ZnZmI3T3NxMHVNNWUybVl5eUhkX0FubTQxakZ0ZVE2UENOQm83Y1ZHMW9LaWNvNk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWpqcWNfUTVPNEJfOEkyR0NTNjVWcTVOUmhsRGJmNU1wNEs0a1M5aDhjWk0xZFpjNlRXV0pTT0ZnZmI3T3NxMHVNNWUybVl5eUhkX0FubTQxakZ0ZVE2UENOQm83Y1ZHMW9LaWNvNk9XNDFNNjFBVFJjRkRwQ2I2aUlFNFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-07-008",
+    "date": "2026-06-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Is Caterpillar Stock Undervalued at $904? A $63 Billion Backlog and 30% EPS Growth Make the Case - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFpHVWd2RGRkZ04waEFFYS1lOXdqdkJsY3dLVmxyR0poTnpTcllMS1pkSzNYYzA4cm9sVDBFVTJpSU9RV3oxVkRqcTVUZDUtRXRuZ2N0Z3BEdUlCT2dJQzFuU1duc2pXWW9hb2xWQT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFpHVWd2RGRkZ04waEFFYS1lOXdqdkJsY3dLVmxyR0poTnpTcllMS1pkSzNYYzA4cm9sVDBFVTJpSU9RV3oxVkRqcTVUZDUtRXRuZ2N0Z3BEdUlCT2dJQzFuU1duc2pXWW9hb2xWQTBRNi1ZRXFJdlprZDFZWWROS2NDS1c3czYwaFo1Qkh1Wnpiejh5YXZzdEdYR1ZPMWdqNnRQRmlBdW5mTVQ0azZablFqclNfTnpXdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-06-07-009",
+    "date": "2026-06-07",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Assessing PulteGroup (PHM) Valuation After Mixed Share Performance And DOJ Antitrust Probe Concerns - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVlid0tXSEc2czM5aUVINGQzWjRjZklNOFQ2QmFQNDM5NDBnd192VGtTRFlhU0hRTWVyOFIzQWtSWS01T3ZFenFDQm4xRzFJa1AxamZwek1KX3pvSEgwZC1vV3k5di1wSTluRDJoVW",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVlid0tXSEc2czM5aUVINGQzWjRjZklNOFQ2QmFQNDM5NDBnd192VGtTRFlhU0hRTWVyOFIzQWtSWS01T3ZFenFDQm4xRzFJa1AxamZwek1KX3pvSEgwZC1vV3k5di1wSTluRDJoVWJCR1ctSk9ReE9YblJqYmpTbXUxN0tHd2xKM3EtbUFKNXZYUUNRTnU0RTl1dlZQUnJBN0RMTW9oU01FZy1PZjVRNzR3X0pTTlpjM3MxMmlSWUNvblVhVy14Sm93XzRiYUNj0gHWAUFVX3lxTE82OGFFamVrbkNrRzBXM2dqQjA5UW5rUFBWQkl6em9wTkFKeTBnWGNfdEdEX2ZNT0gzZFpwMU9YNndxTkNkUlphbzl4ZUxCODJwdkN2czlvRWRBSDROTmktY0lreHBPYWwyQjI3RlY5VUVIUXJDR3l5RlZ5UGJldTJFQTNTOGFUeXE1LUhrOTJqQ2Jxb2NIVTEzRHRTdWowdC1BSXR6VlVMbk8xTk4yUXF5SXRzakRHYkNLUEtMdzVDVmkwMGNCLTAwMmk2MHpRd1ZlSmtlLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-06-07-010",
+    "date": "2026-06-07",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Toll Brothers (TOL) Valuation After Strong Earnings Beat And Raised Full Year Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHpNcERJNDJra2ZfYjFGaU8xbTVvUjRxZFpZUVI4ekRtX3lmeURkQ1Bia0Z5bXI5bFdRTzQxU1VweFB4ZWtNOEloNVFxcGhkaUJ3SnJfYXlFb3pCYjFxQUJmTTNBc0lOaVpHWkNYd0",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHpNcERJNDJra2ZfYjFGaU8xbTVvUjRxZFpZUVI4ekRtX3lmeURkQ1Bia0Z5bXI5bFdRTzQxU1VweFB4ZWtNOEloNVFxcGhkaUJ3SnJfYXlFb3pCYjFxQUJmTTNBc0lOaVpHWkNYd0ZFWHNmWm9Na1A5cnlIb2RNb0VOOWxTbTdVN2RQZ0VUOWszVllXSmt5V1AtNDBCLXR2Q3pxdW5VS2lNSUx6S2ota0Nkam1WcXRkS18tLW0zWks0aWhwNmJnbG1rSFZQeEtMSHUw0gHYAUFVX3lxTE1WZXJCRHd5ZUx5M05PaFJSVkd2SlJzTVVCMTlQV2p6ZndRbnhjNnF5djdwekY3UjRJLVRqOEFaNXZrT0xlNHZzSEhtb2IzRHEtc0ZpUVRLRm83NjJLV2JjM1k3N3JWUnpNems5WTB3cURVeFZ2aTVEWWNxa3RFUnFhbXNwbXFaQkVUZlhqYWJ2Q1dvN3dfY2dUN25rU0FVNnpzY3F2YmtHUG04TXFkNEZXaG1FVEl5TTBUQVR6Y1dVWDJadkxIbzZZMHVrZnBLSVdtMjZMaWtvVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-011",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "neutral",
+    "title": "Continued Iran conflict raises mortgage rate risk into late 2026",
+    "summary": "If the Iran conflict lasts five to six more months, the peak mortgage rate could run 0.375% to 0.435% above 6.75% despite better spreads.",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/iran-conflict-mortgage-rates/",
         "type": "rss"
       }
     ]
@@ -190,6 +549,44 @@
       {
         "name": "housingwire",
         "url": "https://www.housingwire.com/articles/housing-demand-positive-as-mortgage-rates-near-2026-highs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-06-008",
+    "date": "2026-06-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UBS Lifts PT on Caterpillar (CAT) Stock - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQalZVY3htR3NBZDlleEJmRXY0SjNVZnBxUDJCX1hHX0lqd3lKNmNSUmJJYnJtYU0wdG9rdGxCT2xXSTZOZzZRWjlKa29HQ2NkMElPSkg0WmxFZUFBSXQtMWFpWjVqYWw2aW00akZiQ2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalZVY3htR3NBZDlleEJmRXY0SjNVZnBxUDJCX1hHX0lqd3lKNmNSUmJJYnJtYU0wdG9rdGxCT2xXSTZOZzZRWjlKa29HQ2NkMElPSkg0WmxFZUFBSXQtMWFpWjVqYWw2aW00akZiQ2Q2Mjl0NjlOQTQ2ZG5wbjBONHo3Y3F1djQzamxfTWp5eENKaHV3dEptWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-009",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "PHM Technical Analysis & Stock Price Forecast - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncElncTBYd1NCLVN6aW5JclFCSlZYaEZiU2Rnc2ZYVm1QSVJsMklOYi1QaGVkb2tkYi11ODVrY2RVQnFFNnpXa2ttU21UNThJUW15dFIzd2s?oc=5\" target=\"_blank\">PHM Tech",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncElncTBYd1NCLVN6aW5JclFCSlZYaEZiU2Rnc2ZYVm1QSVJsMklOYi1QaGVkb2tkYi11ODVrY2RVQnFFNnpXa2ttU21UNThJUW15dFIzd2s?oc=5",
         "type": "rss"
       }
     ]
@@ -772,6 +1169,24 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkxiOFh3WngwZTdnWW5oWkNCWnBWakhOR2kzdEZsYUdHcnRTalh0NURmdzNMNFRuR1o5S0wxN1A1UkZocm5rU2pUWnV2RkhCNUU1T25id2M2ZldOYnd4bTRNNVdYLWZpQ1J2MlhiYzhKbzVTOFpWVkRSSWNoQVRLTzdXZDhYLWRndUd1SWwza295X01SamxiYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-06-05-031",
+    "date": "2026-06-05",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lennar names Jim Parker COO, David Grove EVP homebuilding - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObDlORmNmOUZfMGJ3Y3NQYm5CeUw3Um15YThSSTJld05ySkp0U3JzaWVzN01kM1Z5SDNvYzk3c2QtaXk0Z0RFQWVYSzZ2VG9Ya0hvdU1RQUF4MFUzRkZYcjZpekV6V3NSakI5WXdBUD",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDlORmNmOUZfMGJ3Y3NQYm5CeUw3Um15YThSSTJld05ySkp0U3JzaWVzN01kM1Z5SDNvYzk3c2QtaXk0Z0RFQWVYSzZ2VG9Ya0hvdU1RQUF4MFUzRkZYcjZpekV6V3NSakI5WXdBUDlzT0t1ZHlRbzZ3UmlqalpMUEhCa0hITm13ZkVVdzNieHhkaWMtRmhxN1h6WktUUlJ3bk9ONm5uckYxQjZOZmZ4bEpkNA?oc=5",
         "type": "rss"
       }
     ]
@@ -1431,6 +1846,24 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzBscTdDaEhPQ3pXOEQ0RXFqSF9rVExPQzJ6dmtaLWJjQjBwWW9FMFh4ZFFsTWYta2RMOXNxMTA4c2did3RJN19UUlJpRkNuUEJMS0RLYUJpZEpjMDlpNkN2OXBieG5EYlJKZ240Sm1NZWl3NlJYTS1LN2o4MXFqdzMzNFAwMWp3N0EwZ2kzeFV5bC1BN0FiTVpsU2tyTlRGbER3c09B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-04-035",
+    "date": "2026-06-04",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Saint-Gobain to End Alumina-Zirconia-Silica Production at New York Facility - USGlass Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGd6OVBwR3FCNHNsLUZyYndPWVdGWjBCWjA5ajhPOVNsVUlkcWpKd0ZMRnpfVDRIU0JPaFVyQzBycjllR3N2LTZBVmYxUUdXSm1NYXZIaDRPQ09YTmJ4Wlhpd3IyblpZOWxLckQ0Yz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGd6OVBwR3FCNHNsLUZyYndPWVdGWjBCWjA5ajhPOVNsVUlkcWpKd0ZMRnpfVDRIU0JPaFVyQzBycjllR3N2LTZBVmYxUUdXSm1NYXZIaDRPQ09YTmJ4Wlhpd3IyblpZOWxLckQ0YzNaMWNYQXRyU1d6S3V3a01rYkxNbUgtQlhCT1FuU0NfWjB0ak4tcngwSktHQ0Q5Y3hOU0hLdGNB?oc=5",
         "type": "rss"
       }
     ]

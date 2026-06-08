@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 31,
+  "gate2_fail": 31,
+  "passed": 23,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings stock (HK0743000215): Hong Kong shares gain ground at start of week - A",
+    "Vulcan exits California concrete, adds Colorado quarry and Dallas-Fort Worth yard - Stock Titan",
+    "Greene County residents concerned over Vulcan rezoning proposal - WJHL",
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "After a 160% AI-Fueled Rally, Can Caterpillar Stock Keep Climbing? - Morningstar"
+  ]
+}
