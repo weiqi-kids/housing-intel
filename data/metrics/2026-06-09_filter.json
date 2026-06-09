@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 41,
+  "gate2_fail": 36,
+  "passed": 38,
+  "gate2_samples": [
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize",
+    "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+    "A Look at Vulcan Materials Co (VMC) After 4.0% Decline -- GF Value $277.29 vs Price $269.98 - GuruFo",
+    "Why is Vulcan Materials stock sliding today? - Investing.com"
+  ]
+}
