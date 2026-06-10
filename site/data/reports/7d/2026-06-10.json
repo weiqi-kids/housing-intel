@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-10",
+  "date_range": {
+    "start": "2026-06-04",
+    "end": "2026-06-10"
+  },
+  "generated_at": "2026-06-10T11:37:58.294328Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toll_brothers-2026-06-09-023",
+      "date": "2026-06-09",
+      "title": "KBW cuts Lennar to Underperform, upgrades Toll Brothers on housing market divide - Investing.com",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 37,
+      "last_week": 49,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.07
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.15
+    },
+    "mortgage_rates": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.38
+    },
+    "reit_yield": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "asia_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "pultegroup": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "toll_brothers": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sekisui_house": {
+      "event_count": 6,
+      "sentiment_avg": 0.23,
+      "rank": 4
+    },
+    "caterpillar": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "dr_horton": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lennar": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nippon_steel": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "vulcan_materials": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 172,
+        "last": 166,
+        "change_pct": 3.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-04",
+      "event_count": 35,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 34,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 35,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 34,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-04 ~ 2026-06-10）共 172 則事件，重點為「KBW cuts Lennar to Underperform, upgrades Toll ...」。Sekisui House、Vulcan表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Pulte",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Toll Brothers",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Sekisui House",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

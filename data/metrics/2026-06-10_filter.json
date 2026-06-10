@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 40,
+  "gate2_fail": 35,
+  "passed": 37,
+  "gate2_samples": [
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize",
+    "Why is Vulcan Materials stock sliding today? - Investing.com",
+    "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+    "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index"
+  ]
+}
