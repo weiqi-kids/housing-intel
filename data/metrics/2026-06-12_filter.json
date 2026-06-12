@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 42,
+  "gate2_fail": 37,
+  "passed": 41,
+  "gate2_samples": [
+    "The Real Constraints Shaping Data Center Growth",
+    "Nippon Steel to invest up to US$2.5bn in US Steel - Just Auto",
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Howard Lutnick, commerce secretary, talks U.S. Steel and \"golden share\" - CBS News"
+  ]
+}
