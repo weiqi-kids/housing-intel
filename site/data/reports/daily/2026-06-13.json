@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:26:51.692214Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sekisui_house-2026-06-13-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sekisui House (TSE:1928) Stock After Strong Q1 Results Is The Low P/E Signalling An Opportunity Or A Warning - simplywall.st",
+      "companies": [
+        "sekisui_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZFA5ci1hOUtjdGFIekozMTlXMHhnN0s2cktMUFVTRTNGcElTVTVhRmZMZmVtRkVlUi1LcmpzU3ViTEJudmRkTjdKSEp5LWRndGtuNVk3NFFzNS1ldk12MzdjNzU2NGdEanpaX1lOdUFpY0Jkd1VWZHBkQmp4eXgwUGxPTDk1QUJ3elY2bDVDdE8zTFJKRzVMSjVpRVo3d2I4QTdIdjRiUkUtOEcwM1ZBVnBIYVpoYXV4TUU2cGVWaGU0bF9nelE4RzVMVDM5Mjdia05fWnlLb0VaZEM1T2fSAeMBQVVfeXFMUGRJSTh6c19kWGp4a1FkODRTT2V2M2REVjBtSlFjWGRUdDYxZ3dPQ2xWWndVTzFEaGtlNGc1ODZjZ2dsYmptU25BaHgzeFZMS3V1QTZIMUM0eDVUV2F6OUF5aEpJMGx5VXhKd3lNQlhPZTFYcHo4SmdPcEQwU2RGVXUzb2xxUFVlSTJKVUhyV21uV0h6WTRhanZIZXRHc2wzbkVMX0FDRUVDa1lONF9HOTkySDQyN2ZwMlkwRHlaNGlPYVFmdnRqd3lGNnNObzZscGhrMmJndTAxd1huNW1iTGEtUHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pultegroup-2026-06-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PulteGroup (PHM) dips more than broader market: What you should know - MSN",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPbm5rSGx6Y2ZSUjFUSlZvaUZ6TUpNX1prdzdWb1lyQzJhVExWVkNBTVZnU1ZCbkFfT3BYd1FGMW40MnoyWm1BODFPRk9tU3BtQ1dQREpfck41WWNRRlBERDVVNWJVd2dZRHJhVlg3bWVaUHp0TGdscHFycHBMUEJMVXlFZnN6ZEJPODAwOV9VMUNWby0wRHRuZEpDaEtJMTdlNjVEdUh3Q3dXekw2cjlWNnJIN1ZHMDVXb1pnYzdfc1lYM1J1SlZmczhmd2xpTXdwMGw5djgxZ1NzOENORENYb2lCSUdOc09hNHdZdWhQclNjQjZaeVAybHJoNklhMkk1dldUUjVmaGFxa3lYQjJvU2REeWhDQTBMZWRhTkpydmlOZlpCTjhnWlBNZ0FTQ05SY0pHeUtTT3NKcWhCb1Q4ckt4bVJLcms4MC1CNmVEZzU5dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar Says Startup Ripped Off Autonomy Tech Patents - Law360",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGdvYU1HTllrVkxiamN5eWVNNWhPX01wUEhIVU1WdTVoaExOZXozWWVqR3VpOTByU0QxbDhuVGhnMFFuU3VOMlUxbUhHM0ZGVnFBck84UnkyNzFyZF9jOWxxb0duN3pNa2xoTjJTaFg3TlpkLXc3T3dib2Rfd1VkdzJjVFhJNjIwMk5aODhLTGxKSDAtbXQzS0dKbjN3UdIBVkFVX3lxTE4xY2JYR3dWOVVsSjMtQ0MwaXZpVk1Ga0FNdk1adzNuV1RXZm9qQXo1MlROa01DbUxHYzBzdE01cVh6RzYxTWM2d3dKMDJPOVBndndoUmd3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "sekisui_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 239,
+    "too_old": 132,
+    "gate1_blocked": 41,
+    "gate2_blocked": 42,
+    "passed": 30,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "17.1%",
+    "gate2_samples": [
+      "The Real Constraints Shaping Data Center Growth",
+      "Nippon Steel to invest up to US$2.5bn in US Steel - Just Auto",
+      "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+      "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+      "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為CAT、Pulte、Sekisui House相關動態：「Sekisui House (TSE:1928) Stock After Strong Q1 Results Is...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sekisui House (TSE:1928) Stock After Strong Q1 Results Is The Low P/E Signall...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "PulteGroup (PHM) dips more than broader market: What you should know - MSN（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

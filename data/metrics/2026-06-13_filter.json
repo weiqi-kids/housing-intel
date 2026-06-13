@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 41,
+  "gate2_fail": 42,
+  "passed": 30,
+  "gate2_samples": [
+    "The Real Constraints Shaping Data Center Growth",
+    "Nippon Steel to invest up to US$2.5bn in US Steel - Just Auto",
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize"
+  ]
+}
