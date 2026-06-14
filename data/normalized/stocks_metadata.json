@@ -1,138 +1,138 @@
 {
   "taiwan_cement": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "asia_cement": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "taiwan_glass": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "tung_ho_steel": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "nippon_steel": {
-    "earliest": "2009-05-20",
+    "earliest": "2009-02-19",
     "latest": "2026-06-12",
-    "count": 4194
+    "count": 4253
   },
   "crh": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "vulcan_materials": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "caterpillar": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "saint_gobain": {
-    "earliest": "2009-05-13",
+    "earliest": "2009-02-12",
     "latest": "2026-06-12",
-    "count": 4373
+    "count": 4434
   },
   "cathay_real_estate": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "huaku": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "chong_hong": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "highwealth": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "ruentex": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "kindom": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "farglory": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "huang_hsiang": {
-    "earliest": "2009-06-01",
+    "earliest": "2009-03-03",
     "latest": "2026-06-12",
-    "count": 4172
+    "count": 4232
   },
   "dr_horton": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "lennar": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "pultegroup": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "toll_brothers": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "kb_home": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "nvr": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "daiwa_house": {
-    "earliest": "2009-05-20",
+    "earliest": "2009-02-19",
     "latest": "2026-06-12",
-    "count": 4194
+    "count": 4253
   },
   "sekisui_house": {
-    "earliest": "2009-05-20",
+    "earliest": "2009-02-19",
     "latest": "2026-06-12",
-    "count": 4194
+    "count": 4253
   },
   "sumitomo_forestry": {
-    "earliest": "2009-05-20",
+    "earliest": "2009-02-19",
     "latest": "2026-06-12",
-    "count": 4194
+    "count": 4253
   },
   "etf_vnq": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "etf_xlre": {
     "earliest": "2015-10-08",
@@ -141,13 +141,13 @@
     "history_complete": true
   },
   "etf_xhb": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   },
   "etf_itb": {
-    "earliest": "2009-05-15",
+    "earliest": "2009-02-17",
     "latest": "2026-06-12",
-    "count": 4296
+    "count": 4358
   }
 }
