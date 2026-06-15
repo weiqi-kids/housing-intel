@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-15",
+  "total_events": 20,
+  "by_company": {
+    "caterpillar": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sekisui_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 15,
+      "sentiment_avg": -0.03
+    },
+    "mortgage_rates": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "construction_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
