@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 40,
+  "gate2_fail": 35,
+  "passed": 48,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "The Real Constraints Shaping Data Center Growth",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "Nippon Steel to invest up to US$2.5bn in US Steel - Just Auto",
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet"
+  ]
+}

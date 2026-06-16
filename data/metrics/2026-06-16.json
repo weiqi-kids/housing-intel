@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-16",
+  "total_events": 19,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "caterpillar": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "highwealth": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sumitomo_forestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 16,
+      "sentiment_avg": 0.03
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
