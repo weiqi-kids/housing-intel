@@ -1,0 +1,16 @@
+{
+  "total_raw": 489,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 38,
+  "gate2_fail": 36,
+  "passed": 35,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "The Real Constraints Shaping Data Center Growth",
+    "Michael Stelzig: Nippon Steel is Delivering. Upcoming Labor Talks Should Not Disturb This Momentum. ",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "Nippon Steel to invest up to US$2.5bn in US Steel - Just Auto"
+  ]
+}
