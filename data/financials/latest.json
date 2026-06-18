@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T12:14:55.588016Z",
+  "updated_at": "2026-06-18T11:49:33.617320Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "大和房屋",
       "ticker": "1925.T",
       "currency": "JPY",
-      "ar": 498566000000,
-      "ar_prev": 474790000000,
-      "ar_qoq": "+5%",
+      "ar": 552672000000,
+      "ar_prev": 498566000000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 2794588000000,
-      "inv_prev": 2571635000000,
-      "inv_qoq": "+9%",
+      "inventory": 3179639000000,
+      "inv_prev": 2794588000000,
+      "inv_qoq": "+14%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "dr_horton",
@@ -348,9 +348,9 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": 189066000000,
-      "ar_qoq": "+2%",
-      "ar_period": "QoQ",
+      "ar_prev": 197953000000,
+      "ar_qoq": "-2%",
+      "ar_period": "YoY",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",

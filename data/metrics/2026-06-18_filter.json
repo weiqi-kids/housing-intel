@@ -1,0 +1,16 @@
+{
+  "total_raw": 467,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 36,
+  "gate2_fail": 29,
+  "passed": 50,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel takeover - TribLIVE.com",
+    "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - TradingView"
+  ]
+}
