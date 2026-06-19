@@ -1,0 +1,16 @@
+{
+  "total_raw": 469,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 36,
+  "gate2_fail": 29,
+  "passed": 37,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "Scaling Next-Generation Cementitious Materials"
+  ]
+}

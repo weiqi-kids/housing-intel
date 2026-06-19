@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-19",
+  "total_events": 9,
+  "by_company": {
+    "nippon_steel": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
