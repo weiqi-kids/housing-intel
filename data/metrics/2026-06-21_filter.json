@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 32,
+  "gate2_fail": 29,
+  "passed": 18,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "Asia Cement Stock - background and business model overview - AD HOC NEWS",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "Michael Stelzig: Nippon Steel is Delivering. Upcoming Labor Talks Should Not Disturb This Momentum. "
+  ]
+}
