@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:33:42.532475Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crh-2026-06-22-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infrastructure Products for $8.5B",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-06-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "High early strength in heavy-duty projects - Asia Cement’s Type I Portland Cement in focus - AD HOC NEWS",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0tjYW1UMWFCbU5aaF95ZXQydllOMVQ1VUhmeVdSMHpvSkVxVWtJR1NBQkI3SnFxY1JteXNuSjlHU3g2c05vRnhQTWFwNUZwdU1JWS1pRURwQnJzUm44T0ItMkJkYlpLWTJ6RDFYLTRPeFNpdnJISHNaa251Vlp0QVZKeFdYMWNGay1TTXBSY01ISERTUHdYU0EtUVZsTWFhempSWG51R0NlbWV5RHdfT1ZBclFTVWlrSEttVWRFaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-06-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Steel, One Year In: Nippon Steel Deal Starts to Deliver - JAPAN Forward",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWEpPSGdxQ1ZGRlAwVmFxQkc0dnNMMS1mMDk5QllzM3NsMmVPVFA4aXR2OHRURmZsamo4MzNGNThxaFNnY3NtWXFHUWZUbHpaWmEyT1NoVE5RVHZzZjduMzJUX0RDcThweHpuUFJMUi1wN2E4QVpvbFdHNE1XVTEtNk94SDRCQUJVUTFn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How has US Steel changed since Nippon took over a year ago? - Times West Virginian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS09pT1Mxc1hJU0xVS3ZuOTRRYnYyT3JWT3dScEFqc1RJMlNsbHN5RDM2MDc0bTZiTHF1NlJkaFdfZWNJaGNMZ1hEVVpxa1FFczlvaVlJUFotQmJHSTktT2dCd3FpYkR2MnFEQjVYRHMxamg1eWNhemwwZllyZ1VjQ3pSMEVUcXVTeFZHVzZwZ1lSRVVEbzJfYl9PUW01a0VxVDJiTTRsa0o3NGR5VHlCdFoyMmtpR3IxdkFJRjBjN056OWQzUFhRTm54Q0t2TkhaSzNfNVNLRVJ4ZUl0VnM4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-22-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "2 Profitable Stocks Worth Investigating and 1 Facing Challenges - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmlFUE9EUEdSNTRhelUwcXZ3ejUteWxRdDJaSTJxUmV5RlRkU19BSlZURHVTbGNzVG5QUGRHSzBWX3NpZGpfRFgzaWVuYllqSjhlY0p6a3ozcWlmZjlnNHJtQkJTYzNTWXRydi1uWGgwT2hxQzNsbS1EOHJPUlkyUjZhMHNjckFJVXpRZzROMm5nSnJYTVBHNW42eVg3Q210OG5STVkzbktuNUROdlNuUmdBV0ZjVkdVQTZ3QjM1Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "kb_home",
+        "count": 2
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 491,
+    "dup_title": 253,
+    "too_old": 157,
+    "gate1_blocked": 34,
+    "gate2_blocked": 23,
+    "passed": 24,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Scaling Next-Generation Cementitious Materials",
+      "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - AD HOC NEWS",
+      "Asia Cement Stock - background and business model overview - AD HOC NEWS",
+      "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+      "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為CAT、KB Home、CRH plc相關動態：「CRH to Acquire Arcosa; Leading U.S. Provider of Aggregate...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infra...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "High early strength in heavy-duty projects - Asia Cement’s Type I Portland Ce...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

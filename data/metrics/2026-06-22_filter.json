@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 253,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 34,
+  "gate2_fail": 23,
+  "passed": 24,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - AD HOC NEWS",
+    "Asia Cement Stock - background and business model overview - AD HOC NEWS",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi"
+  ]
+}
