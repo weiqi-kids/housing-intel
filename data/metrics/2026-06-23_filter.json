@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 30,
+  "gate2_fail": 27,
+  "passed": 25,
+  "gate2_samples": [
+    "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - AD HOC NEWS",
+    "Asia Cement Stock - background and business model overview - AD HOC NEWS",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "Japan’s Nippon Steel adjusts conversion prices on 2029 and 2031 bonds - marketscreener.com",
+    "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize"
+  ]
+}
