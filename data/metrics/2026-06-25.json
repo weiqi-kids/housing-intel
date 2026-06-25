@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-25",
+  "total_events": 7,
+  "by_company": {
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lennar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "daiwa_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
