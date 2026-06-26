@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:49:14.872797Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-06-26-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Baird Adjusts Price Target on Caterpillar to $1,200 From $1,165, Maintains Outperform Rating - marketscreener.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcWdTT2FJZXBSUkNGSHZxbHZ2bEhBYld6b2dzZU5lZm5CcjZIdjNtTDQ2aTFyV2dlWm9QSVVtbUtmbHFZdUstdnZYRmNnNUFYQWxFLVVZeDBENmwxRGNJc2JhSmZTemFsMldHUFVTMmFCSUM2Y2VGWnVJNFJtRDc4eHFTbWxvd3F4LTIzbkh4NHFWU29PZ293aXMwT3FaUV8zZGFxSDFzQ1MzNGc5Q2RqY08xYms3U0ZDR0dDbVEzcVZqdElUQkd5eHZHdExFRmE4LXdaYjhzTVpEdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-06-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Asia Cement (China) Holdings Corp. – HKEX:743 - TradingView",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHJia3NEc0Z6MUdyYnRqY1U1aW5QLVl6SlNLcHJFS1Y3Q2psZlotMGRGdlpLdVl5SXNELTVpWTAwNlhQUEl4TFNyUGI2YzF2Q1RBT1lHV01mc3g5MGYxU2JlOEI0cnFLd3VUa195TUEzRmNGR20tYlRCUHZ3aUJLX1ppWU10VFpFeDNWc0Jsd0dfRE1IbUsyQkdvaUtDNkhvN2dCR0xoekk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-06-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hybrid Glass Furnace Cuts Fossil Fuel Use 66% in First Year, Saint-Gobain, AGC Report - megaproject.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjEyQ0FMdXY1QkpWVkN1bHNiTHQySTR1eHZnM1B0ZFVzSTZiLWVRNGlfcTdpZjFsTWdwTHUxTEJfOTN6VzVXdGdXSzM1MTAxUnNfSTQ4WnB3MmV3d0RMNnlRLUhKbjFiUk02VGFDVmdEQmFKbFBELXJVVDFIN3p4cFRSblREd3VfdUpQcmRXUWxhOVdCU0hmTDZDSXlXcnRvWGNGbE5fUGFDcktrY1pBY0l0NEdYMEcwYWlsdg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dr_horton-2026-06-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of D.R. Horton, Inc. – NYSE:DHI - TradingView",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaktMRFJPX2twMWdmMFl0bzVKOC10dGJHQlZ0SXY3RjlFQW90c1ktUkR5SlUwOVBicGNGUURXSHpKbTVlcXhkVEdKTldweDVPRUFBcVpoNEtjSDAtdVJaZVNndUFLTGlqRnJJVGpfb0ctSUJXRlJSczdXblBKQkhtVDhmaXQ5dXVDYnlzNV9nUmVRSk84bHF3WXd0ZVZ5Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-06-26-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton sets earnings pace into summer, shares in S&P 500 homebuilder spotlight - Ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDVvWVBJT2RFaUpVbXBqcV9FY21uRnYtdURQVGwyUTlDclhxbjl0dU9Ob3pabHhBY1dSTUx5UFFtdl9WejNLNDBSNnFjVHlMNGNRRklUWHNqMElNX3BfeVl3anNfZkYtN1dEVjhiZkItaXcyNVVkLW9XUmFkanpiY0VLbV9LRVF0c2ZTejlMSmxzeTRzcjNRVmZ2TlVMZDlIQkhWQm9WMTdvaWh0NUFjME1WUzQyNHQ1N2tvRmlTRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "dr_horton",
+        "count": 2
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "highwealth",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "construction_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 496,
+    "dup_title": 216,
+    "too_old": 157,
+    "gate1_blocked": 40,
+    "gate2_blocked": 36,
+    "passed": 47,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - Ad-hoc-news.de",
+      "Asia Cement Stock - background and business model overview - Ad-hoc-news.de",
+      "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+      "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+      "Caterpillar (CAT) Stock Near $984 After Big Rally Is There Still Upside Potential - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為CAT、DR Horton、Asia Cement相關動態：「Baird Adjusts Price Target on Caterpillar to $1,200 From ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Baird Adjusts Price Target on Caterpillar to $1,200 From $1,165, Maintains Ou...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Enterprise value to revenue forward of Asia Cement (China) Holdings Corp. – H...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "營建成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

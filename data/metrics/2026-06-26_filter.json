@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 40,
+  "gate2_fail": 36,
+  "passed": 47,
+  "gate2_samples": [
+    "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - Ad-hoc-news.de",
+    "Asia Cement Stock - background and business model overview - Ad-hoc-news.de",
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+    "Caterpillar (CAT) Stock Near $984 After Big Rally Is There Still Upside Potential - Yahoo Finance"
+  ]
+}
