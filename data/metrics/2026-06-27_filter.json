@@ -1,0 +1,16 @@
+{
+  "total_raw": 499,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 37,
+  "gate2_fail": 39,
+  "passed": 46,
+  "gate2_samples": [
+    "Asia Cement Corporation Actuals & Estimates (TWSE:1102) - TradingView",
+    "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - Ad-hoc-news.de",
+    "Price to book forward of Tung Ho Steel Enterprise Corp. – TWSE:2006 - TradingView",
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "Nippon Steel Oita FC - Mitsubishi Heavy Industries Nagasaki SC, 27/06/2026 - Kyushu Soccer League - "
+  ]
+}
