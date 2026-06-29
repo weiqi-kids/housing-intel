@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 35,
+  "gate2_fail": 38,
+  "passed": 22,
+  "gate2_samples": [
+    "Asia Cement Co Ltd - Reuters",
+    "Asia Cement Corporation Actuals & Estimates (TWSE:1102) - TradingView",
+    "Price to book forward of Tung Ho Steel Enterprise Corp. – TWSE:2006 - TradingView",
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "Enterprise value to EBITDA forward of NIPPON STEEL CORP. – MUN:NPS - TradingView"
+  ]
+}

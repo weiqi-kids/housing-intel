@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:29:40.974968Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-06-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Resources Top 5: Oklahoma backs Iondrive as Calix lands East Asia cement deal - Stockhead",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTm1QYVdIc2ZBXzVRM0tnRVhnYUplcE56YThtRkZ6Wmlfb01NTTh6M1pJVHBWaldEbklpUFo5Wm9rdmtpUmZTOURFTmI0OU9VT3JDVnIzUi1yVVZpanFhQ3FQRFdGV3l6NWhIMUNTa09TdVZPSG41LWVDVGZ5OU5oRkZ6SExnUF9OZFJYRWNZYmgtTDlxaGZldU40dmk3am0yaHZKNHp0YUlZWjlZbzNtU1p3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A year after US Steel was sold, communities push for clean investment - Canary Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1URDBTVGhIZEZhMVlzZnpPczNZOUg0T3JqQ3RobGhIbWxZOFktU1pJRjB0MHhvRVQwT2tRT3c1RVZGUndpVXNzRHVrdHp6Mjdsc3VyeC1HeWN1S1lEQzQ2el9qSlZ6Yl9PSzliLUhFcUxvN1o1dU96UGoyNFBUQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "House of the Dragon Season 3: Helaena’s “Strange” Comment Hints at a Major Fan Theory - IGN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRE1XVVNkSklNMWFXWmZTcUVMeWNld3R1Z2xMbHdtcUN2R1drelVwbHdKVGFlS2Etb3RHUVkyQkQ1cTRuRTcyVXVKSFBNZGx3MktaaTQ4V0dTbERTcDA1dUpXOGZCc1VBSkNucFJHYUttM1FGYTdxOU9vcllvSmU2ZlFKMnF6UU9hb2tkd2x4c1pkQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "pultegroup-2026-06-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Pulte Smart Home Premium Package from PulteGroup Inc. - connected features now standard in many - AD HOC NEWS",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdkdtMFJZQ21yaHl0aDF5QXNMbmRjYU9JNktpOUZwOFJQbXJMU0staTVheWRRNGRXRXV5QjZKWE9zeVVuaUM2TXNKZHV0V0tDTVRKXzVqOUM5ckowak1iQ2tBN0ctMXdYdzVWVG9ISFRLY210Zm9wRDdQZ29MV2trZy1oYk5TNlBZNExmWVlLTWpHWXI5WVBpdldkRDhqT3ZBTGFYSkswRlBIanUwMUV4d1ZPNlk3bHpHUXhUMGRwOVk3VmM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-29-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Evergrove, a New Approximately 2,000-Homesite Community, Coming Soon to Fort Bend County - 24-7 Press Release Newswire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkJ2YlVoTEwwWG4zY1p0QnR2dUdlR2E2dTU3UWRBdG94QTJHaW0wMmFLbTk2T0RhMmlQNTRobERHTHpCYmpCbU5PUG91WFFmRHNidkxfbnBLQ0NGT2VZYWpZZl9FQ1FzdWp1akxGOWFvMHBTaXRVLUg2eFN0SGp3YmJzZnF1WUJwRklkV0tVM1RXSjNOejRfbzltSFU5X21BZzJueW83MXlRRldDekprVWZfbHUzMkdTdzRlNG8tcjA3OWc1bEdoLTdNeTVSS1gtNkQ1dnFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pultegroup",
+        "count": 2
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 493,
+    "dup_title": 248,
+    "too_old": 150,
+    "gate1_blocked": 35,
+    "gate2_blocked": 38,
+    "passed": 22,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Asia Cement Co Ltd - Reuters",
+      "Asia Cement Corporation Actuals & Estimates (TWSE:1102) - TradingView",
+      "Price to book forward of Tung Ho Steel Enterprise Corp. – TWSE:2006 - TradingView",
+      "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+      "Enterprise value to EBITDA forward of NIPPON STEEL CORP. – MUN:NPS - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Pulte、Asia Cement、Nippon Steel相關動態：「Resources Top 5: Oklahoma backs Iondrive as Calix lands E...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Resources Top 5: Oklahoma backs Iondrive as Calix lands East Asia cement deal...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "A year after US Steel was sold, communities push for clean investment - Canar...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
