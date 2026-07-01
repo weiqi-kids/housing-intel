@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 33,
+  "gate2_fail": 42,
+  "passed": 34,
+  "gate2_samples": [
+    "Asia Cement Co Ltd - Reuters",
+    "ETFs Investing in Asia Cement (China) Holdings Corp. Stocks - TradingView",
+    "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - AD HOC NEWS",
+    "Asia Cement Corporation Actuals & Estimates (TWSE:1102) - TradingView",
+    "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView"
+  ]
+}

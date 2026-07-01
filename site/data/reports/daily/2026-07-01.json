@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:22:04.172116Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-07-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement Wins 2026 AREA Social Empowerment Award and Silver Emblem of Sustainability - PR Newswire",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHU4blRPTnZRWlZJVjQ2NWh5Ni1aRmxQaWpJVUVFU1F1bmVlNGxTNVF0Q2Z6UjAtb0hVZ1JFSWFhMlpNTWtnUnlqMWg4dUE2LVBEV1ZnanZYSVNLbEp5MjBualNYUnFDYllvbTQ4YTNJUmdpS3c2cHhyNi11a2RJTFAta2hUYVBwRXRyUHhKNTZlaEFVSmY1d3YxcTI3XzlFTTBUclQ3V1NpTVdLOEY5ZktyT3ljXy1XRUotSmR3QnhtWEFIcmlGVHJHTVRpcTlUSW9VZWRMN1RTaGs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning's Glass Bridge Targets CPO Pain Points; Taiwan FAU Makers Unfazed, Cite Different Ecosystems, Not Competition - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5dGw4aTR1V3YtVXlDX0diYlp5TUFWTjJRQUdlU0RCdzE5MlBKN0hLMkZ3Q2l3Qzh2RHdrSm5icTA5c194dTVsRHNRZVZTVjhkeUtHQ3dMRlVoSTAwdE96cXlweFFRd0NKc1l3RnRFRHZUMGtPTXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-07-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel's US Steel Deal Turns One: Slow Investment, Rising Debt - Seoul Economic Daily",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0tDSUg0dFBkdzdRM2JHVlVwZnQyWGc0cHN4WnFHZkF1aVN4M3Z2bjJPZWpmbGxBUGE0VVBaOGZXVXBJbWZrbkdfeDdqNmpuOGhwNDF3UmF0aGRqNzNkVEo4R2s0SVdFRmUwVnNEb2ttUHJNRHJtTVJxZmljUmpZcjROYnhTQ3VGN09jY0M0R0g0QU9PRXJSR1k1UWJSMnExcXlZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan_materials-2026-07-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Vulcan Materials Company (Holding Company) – NYSE:VMC - TradingView",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdThTYkJCMFlpWjBqS1VBRXNISXBBSjNuazJEX1JDRWhpYXB2VzF1MEVzVjM3NTRoZnY2U3pfVGhqdHIzdjhhUEd4TlZ0MTdCSTF4TVlUSTZjSWlnTVdyWWQzZ1Q1djBOZ0RzNFo2ODFpR3Y0Rjg4UEw2YVRQS1p3XzdsVGR1Y3FXdlg3aF9oVUVmUFVHMkZMd282YUl3QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-07-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC): Buy, Sell, or Hold Post Q1 Earnings? - TradingView",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVo1QWFTNWpMZGRpQV9BY0xwWXo1Sk5GdjhlUndycS1EMmVJai1GNnRCS0xfYWprZjhzd1hWQWszd0xFb1NqWk1pVU1PSzhSVkdiQlZ0Mllfcl85c0pscTBMeWxZYUFkREd1N0RJZGdfTk0tUmlzcWJlWmVxU3Z4M3JENW4yalFkUFdlUXNYQTR2ZUd0STBtSWI2VHI3eEkwYXVucUN2R3o1Y3AxdGMyZkpKV1p2Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 2
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 491,
+    "dup_title": 237,
+    "too_old": 145,
+    "gate1_blocked": 33,
+    "gate2_blocked": 42,
+    "passed": 34,
+    "pass_rate": "13.4%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "Asia Cement Co Ltd - Reuters",
+      "ETFs Investing in Asia Cement (China) Holdings Corp. Stocks - TradingView",
+      "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - AD HOC NEWS",
+      "Asia Cement Corporation Actuals & Estimates (TWSE:1102) - TradingView",
+      "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為CAT、Vulcan、Asia Cement相關動態：「Asia Cement Wins 2026 AREA Social Empowerment Award and S...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Asia Cement Wins 2026 AREA Social Empowerment Award and Silver Emblem of Sust...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Corning's Glass Bridge Targets CPO Pain Points; Taiwan FAU Makers Unfazed, Ci...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T10:55:43.158029Z",
+  "updated_at": "2026-07-01T11:21:59.200075Z",
   "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
   "companies": [
     {
@@ -228,17 +228,17 @@
       "name": "Lennar",
       "ticker": "LEN",
       "currency": "USD",
-      "ar": 1306260000,
-      "ar_prev": 1310019000,
-      "ar_qoq": "-0%",
+      "ar": 1473804000,
+      "ar_prev": 1306260000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 12334945000,
-      "inv_prev": 11841255000,
-      "inv_qoq": "+4%",
+      "inventory": 12584262000,
+      "inv_prev": 12334945000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "nippon_steel",
