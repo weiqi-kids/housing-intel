@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 34,
+  "gate2_fail": 29,
+  "passed": 33,
+  "gate2_samples": [
+    "ETFs Investing in Asia Cement (China) Holdings Corp. Stocks - TradingView",
+    "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - AD HOC NEWS",
+    "Asia Cement Corporation Actuals & Estimates (TWSE:1102) - TradingView",
+    "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+    "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-dr"
+  ]
+}
