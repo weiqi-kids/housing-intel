@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 34,
+  "gate2_fail": 28,
+  "passed": 28,
+  "gate2_samples": [
+    "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - Ad-hoc-news.d",
+    "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+    "NSSOL Public Shareholders Support Proposals Seeking to Prohibit and Require Greater Transparency Reg",
+    "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+    "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-dr"
+  ]
+}
