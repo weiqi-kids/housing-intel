@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:07:08.361855Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daiwa_house-2026-07-04-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Is Daiwa House Industry (TSE:1925) Undervalued As Earnings Beat Expectations? - simplywall.st",
+      "companies": [
+        "daiwa_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONUNtcmliYUo5Mzh4Z1F2cnQtTXNkLTVnYUtqelNjbjFOYk9KeHRMVTkzeG5lUW5wOVNsNXVaREJzR2E4WDM5LVo0MXIyRjZCVWg2eTJNMWN6amhwbTZGSy1ZVGxROEFPWlJzY0U3a3ZoUXgwUlBjSHZkUVJ6dFFGRi1hcDZKb3E0QjNXdlV4dHktcjJYcmRWWlYwcDJtbHVLTjdVYWNnUEFRS2RnNF90TmxzTHVsSDNyc0RXNDNweXYzR3l5V3dEUnVhWkdVdy1jdm5xSTZNdG1lOVlXUWtnVjhfU1RudnR1cGVpblp6dzFGQjBYWVZKMTFhSXFLLVRYYjU2TlEwSETSAYgCQVVfeXFMTjVDbXJpYmFKOTM4eGdRdnJ0LU1zZC01Z2FLanpTY24xTmJPSnh0TFU5M3huZVFucDlTbDV1WkRCc0dhOFgzOS1aNDFyMkY2QlVoNnkyTTFjempocG02RkstWVRsUThBT1pSc2NFN2t2aFF4MFJQY0h2ZFFSenRRRkYtYXA2Sm9xNEIzV3ZVeHR5LXIyWHJkVlpWMHAybWx1S043VWFjZ1BBUUtkZzRfdE5sc0x1bEgzcnNEVzQzcHl2M0d5eVd3RFJ1YVpHVXctY3ZucUk2TXRtZTlZV1FrZ1Y4X1NUbnZ0dXBlaW5aencxRkIwWFlWSjExYUlxSy1UWGI1Nk5RMEhE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-07-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "If You Invested $1,000 in Vulcan Matrls (VMC) - Stock Titan",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTbjRLNlY3TV9UTUQxMmdpWTgzckRyQ0h0WEQwU0tFbXN5ZFFvZnVwR1Z3eDFaX1dMRTZjVWE5UklsQ3JrOTk0bXZPWU8tSXR0T3RvUVM4ZThhWW90M2xlUTlGQXBvRlBETnBDSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "kb_home-2026-07-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Weaker Results And New Housing Revenue Guidance At KB Home (KBH) Has Changed Its Investment Story - simplywall.st",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZnE2S3hTVXI5T2xrMFBwU01qalZQOXRDMVYzdDV6VkZZcDdRWjB6ZHQ1Yl9RakFJVWFjUmZkV3VmcTFTVVJLcXRiVmdLM2tUVGc2SGFjV05tOUdnRXFqNnpXSXphdVp3Y1IyT2hTa05TWUUyS0p5SU1Qa1VFUWkzbmZOaEMyMHlGSjZ2Yk5hVnp6WXNFV0V3anBRN0h3Z0VmdlRKQTF5bnFEQWRxZ1RNbmFSWEdsRU1uVDF2Z01DMDNvRFo5b1ZFME5fdmHSAdIBQVVfeXFMT2pPRGhXNVNUeGlGQ1gxUU95ZUlGY3RLVm1oQ3RFYWZrS0xxcndMSzJ2eTlZOTRELWd5ZHM0aXFGMktUUTUwMGE2eERvSjF1NmkwRVk1bG9iNWY4Um5uMmYySG1YbVlyODhvMWd1TjE1dDhqbzVDWTltNURoWEVmWVY5Y1JXQUdIdk9EVEFTS1BaVS1XOG0zaGFzQWlFY2MyTmxzY3dSdVB0d2hGMDBBRm5vZkU1RTk1eEp1Z0haT0xPZ2NJT0doeHZqeUVnMTNGNDZR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dr_horton-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "D.R. Horton focuses on homebuilding scale as investors weigh long-term housing demand - Ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVBJeE1XbnVpY05MQlR6ZTZCdzQySlUwcXJiZ0dENWVHb215b0VtcC0wc09CRzZkNTM1eEE2czBDYzl2M3NfZmhxZFFrRl9MQnZPRzFSREZZbi03c0hfejJBZTdyczgxd0ttV3p0QUxlR2xjTFZTeERSRm5WNndMdWJLQVlqRndFUW1OZ1ZkWUNOdm1fS3VfOGJPZUhaaGhBV1pxVzBtbTcyRmlCcFlSM0JkcHFwS05zRFh4T0pmZG1IbVRxVXJB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      },
+      {
+        "id": "daiwa_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 489,
+    "dup_title": 240,
+    "too_old": 174,
+    "gate1_blocked": 34,
+    "gate2_blocked": 23,
+    "passed": 18,
+    "pass_rate": "7.2%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - Ad-hoc-news.d",
+      "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+      "NSSOL Public Shareholders Support Proposals Seeking to Prohibit and Require Greater Transparency Reg",
+      "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+      "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Vulcan、DR Horton、KB Home相關動態：「Is Daiwa House Industry (TSE:1925) Undervalued As Earning...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Daiwa House Industry (TSE:1925) Undervalued As Earnings Beat Expectations?...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "If You Invested $1,000 in Vulcan Matrls (VMC) - Stock Titan（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
