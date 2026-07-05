@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 30,
+  "gate2_fail": 30,
+  "passed": 19,
+  "gate2_samples": [
+    "Taiwan Cement stock leans on core cement business - AD HOC NEWS",
+    "Asia Cement stock follows a focus on operations - AD HOC NEWS",
+    "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - AD HOC NEWS",
+    "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+    "NSSOL Public Shareholders Support Proposals Seeking to Prohibit and Require Greater Transparency Reg"
+  ]
+}

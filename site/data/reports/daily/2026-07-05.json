@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:10:14.109286Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan_materials-2026-07-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ETFs Investing in Vulcan Materials Company Stocks - TradingView",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ESUtNanVEc2JLc2JvQko3bVhZb0ZJWk51aTBiWHpwclJMWVNYNXlYQTFjSWRicFJRUFBSbTB3REhIcktlajk2V284XzBNQ2g3azRsRUZBXzdRU3hLU0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "pultegroup-2026-07-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to sales forward of PulteGroup, Inc. – DUS:PU7 - TradingView",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGZEbG1scVZwbGFLQ1NfNHBXaFdWdGZJa1lrVmVMVWdSTGZtUFRrOVUtSFczQkd0VzMwcy1zT2ZGWlE1d2hGSDVjOHF4djQ5Tl80ZU5vb19Wdy15cGgxaEI0SkFvYjVWUjF6NUV5TkxmdWk1Rzg1c1VtWDFjNjdNOXJqQUVlSDF5QldfNF9QaXk0VndkWHc1dQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "daiwa_house-2026-07-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Daiwa House Standard Rental Housing - A long-running pillar in Japan’s urban rental market - AD HOC NEWS",
+      "companies": [
+        "daiwa_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlhEb1Zzd05BQ3JLUTZfTjFaTGY0OS1WVTVKVUtFMW5icTZ0VGhvLXBfWUcwMTE4VUpVMFZQbWhJNERZdTV1OHNxTG9RbG1oU25STnI4WTZWVmFkbXd5LU41aFctaHNzTXd4WWJDYjRUaHJtS0NzYlVKc2NuZFJvcDBRdkhGenZYeGlhM0FMekE5dV9VMlQzeUxmcnpDN1V0TXp1R0NBNG1rQm9pOFdVbzQxTWNrVkZZZ092SV9uQWJoY0Zja3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lennar-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lennar Corporation focuses on its U.S. homebuilding business as housing demand shapes outlook - AD HOC NEWS",
+      "companies": [
+        "lennar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlNObWdpYlZzemlha0piNXJBNnZtbVFWS0twN0hnNnVrY1l5QmY3alVqM1JMRDE3bmx0ZU9haFJYVTk5UGR0LUdiWnE5UnNaeGMtWS0wbHh0bVE5UmhoS2ZlSFVGRDdrTmhMNGFTcTdEckN3bUp4Zmw1X0lULVpyRmRIbXlOYVhMQUwzMkxmTWVxRWNrYWN0OXBfcEZxWWNCVlFNRnBWdGd1aW9oLU1GYjNaaFppTGxhSURTRThtOWVmMDdVRmViMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "daiwa_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 486,
+    "dup_title": 231,
+    "too_old": 176,
+    "gate1_blocked": 30,
+    "gate2_blocked": 30,
+    "passed": 19,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Taiwan Cement stock leans on core cement business - AD HOC NEWS",
+      "Asia Cement stock follows a focus on operations - AD HOC NEWS",
+      "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - AD HOC NEWS",
+      "Price to book forward of Taiwan Glass Industry Corp. – TWSE:1802 - TradingView",
+      "NSSOL Public Shareholders Support Proposals Seeking to Prohibit and Require Greater Transparency Reg"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Vulcan、Lennar、Pulte相關動態：「ETFs Investing in Vulcan Materials Company Stocks - Tradi...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ETFs Investing in Vulcan Materials Company Stocks - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to sales forward of PulteGroup, Inc. – DUS:PU7 - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
