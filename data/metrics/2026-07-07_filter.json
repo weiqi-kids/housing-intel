@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 39,
+  "gate2_fail": 24,
+  "passed": 32,
+  "gate2_samples": [
+    "Taiwan Cement stock leans on core cement business - AD HOC NEWS",
+    "Asia Cement stock follows a focus on operations - AD HOC NEWS",
+    "Asia Cement clinker from Asia Cement Co. - steady kiln output for China construction - AD HOC NEWS",
+    "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC), Alcoa (AA) and Air Products "
+  ]
+}
