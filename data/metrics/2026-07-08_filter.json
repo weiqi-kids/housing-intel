@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 31,
+  "gate2_fail": 28,
+  "passed": 36,
+  "gate2_samples": [
+    "Taiwan Cement stock leans on core cement business - AD HOC NEWS",
+    "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+    "Asia Cement stock follows a focus on operations - AD HOC NEWS",
+    "$8B company takes small NJ borough to court over quarry plan - Central New Jersey News",
+    "VMC - Vulcan Materials Co Volatility & Greeks - Finviz"
+  ]
+}
