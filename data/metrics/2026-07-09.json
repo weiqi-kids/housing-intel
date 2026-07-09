@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-09",
+  "total_events": 13,
+  "by_company": {
+    "vulcan_materials": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 4,
+      "sentiment_avg": -0.5
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "lennar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": -0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

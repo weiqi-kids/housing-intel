@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 32,
+  "gate2_fail": 29,
+  "passed": 61,
+  "gate2_samples": [
+    "Taiwan Cement stock leans on core cement business - Ad-hoc-news.de",
+    "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+    "Asia Cement stock follows a focus on operations - Ad-hoc-news.de",
+    "Toa Pharmaceutical, Nippon Steel, and others (additional) Rating - 富途牛牛",
+    "Vulcan Materials Co (VMC) Stock Down 4.4% but Still Overvalued -- GF Score: 94/100 - GuruFocus"
+  ]
+}
