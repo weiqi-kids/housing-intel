@@ -1,0 +1,16 @@
+{
+  "total_raw": 488,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 32,
+  "gate2_fail": 29,
+  "passed": 44,
+  "gate2_samples": [
+    "Taiwan Cement stock leans on core cement business - AD HOC NEWS",
+    "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+    "Asia Cement stock follows a focus on operations - AD HOC NEWS",
+    "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance Singapore",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors - MarketWatch"
+  ]
+}
