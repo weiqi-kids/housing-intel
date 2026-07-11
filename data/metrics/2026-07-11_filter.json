@@ -1,0 +1,16 @@
+{
+  "total_raw": 489,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 37,
+  "gate2_fail": 44,
+  "passed": 41,
+  "gate2_samples": [
+    "Taiwan Cement stock leans on core cement business - ad-hoc-news.de",
+    "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+    "Asia Cement stock follows a focus on operations - ad-hoc-news.de",
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st"
+  ]
+}

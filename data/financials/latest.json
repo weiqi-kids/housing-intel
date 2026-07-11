@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T10:51:08.576542Z",
-  "quarter": "2025-12-31, 2026-02-28, 2026-03-31",
+  "updated_at": "2026-07-11T09:26:04.593675Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
       "id": "asia_cement",
@@ -194,17 +194,17 @@
       "name": "KB Home",
       "ticker": "KBH",
       "currency": "USD",
-      "ar": 2968000,
-      "ar_prev": 5569000,
-      "ar_qoq": "-47%",
+      "ar": 2342000,
+      "ar_prev": 2968000,
+      "ar_qoq": "-21%",
       "ar_period": "QoQ",
-      "inventory": 5703970000,
-      "inv_prev": 5670802000,
+      "inventory": 5732557000,
+      "inv_prev": 5703970000,
       "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "kindom",
