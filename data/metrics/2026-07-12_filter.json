@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 38,
+  "gate2_fail": 38,
+  "passed": 15,
+  "gate2_samples": [
+    "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+    "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Vulcan Materials: This Vulcan Bleeds Green Too (NYSE:VMC) - Seeking Alpha",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors - MarketWatch"
+  ]
+}
