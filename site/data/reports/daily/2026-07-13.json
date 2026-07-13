@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:57:55.020472Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-07-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "First Five-Bt Protein Soybean Shows Strong Protection Against Major Caterpillar Pests - Farms.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdGU2dDB4REltejdCQ2RESlFyQmgyeEJEYUFPVHh2TWRPcWFRanFaSW9PZUlGbHlhN1dhR1dVeUh2c2padXV6VjVMZWVtUkIzaGJlZDJKbDRxdGwtX3BPWnF0TXRNLU13cG5QN29xQzBuT2pSX0RlRmxJZFJPLWlPLXhzc0dpZVZ2QUlIeWNpMkRzcXc3cUJyTWhtZTl0NWNMazJhZzJGZEtvZFNObVNITUwwNWEwLUZSOHJkLThSaGtad3dCX2dudllHOEdCa3pqMjZERWhiUjBkZDNrSWh1aFZVY1N3a2tOWE83ag?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dr_horton-2026-07-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton stock reflects the homebuilder’s scale and U.S. housing exposure - ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT2tmMDB2NnNrY2RSZUV3Q0NXbExDRmlDU01GS3Q5cUljNFFoVjR4SlhtQ2dlTjFCMGxvUFgtcmVBYTJ5dzlET2laMHhjYlNzbjdaajFqNXZCNFE4MGppZ1ROZ05RbkZjXzlXMW9LQmNxR0Y2R0dyb25ZY2FsMmhkX2JBWF9mTk84T2NNekxXVHhxNlNiR3N4N3poMl9ZblM4Q3JmelRwWVhMcklfR1dCR25yU2hhbUxxREhXS0YweHg4dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvr-2026-07-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NVR stock reflects a steady U.S. homebuilding business in a cautious housing market - ad-hoc-news.de",
+      "companies": [
+        "nvr"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjcxQ1p2TkFpYTEyVTNhalFPUlM3eTJXYUNnQ2dWd3NIMHRXblczY0NEQW1sbjZITFJTUTkzalVHYksybkp6LU9LbkdJbVVkdG1yZVlwRlVPQ0RROW5XR3VlUVpVbVhtdXpkUHlEaG1idW9VcVJhSWhVZEJZVHVjeTZ6MHVyTjB2dno3SHRnYjFtQXhGRjBYRjJOSGxDVVZOamdoSVNveTNtNDNDVldSb3c1SGRFWWtkVUtMNy01MThxV2tC?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nippon Steel Logistics Indonesia launches bonded logistics center - Yieh Corp.",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEJZWE1BNlBvQWRraXYxWGxRSk1lVENNVkd0b1A3dTg4RWlKZWFiUE5QZ2JFOFZqcTRLYTMzRzk2YU9jOG9uVjV1d0NCTHBSVFpHX2JaclJ4TWc0bk9rVFRrT1M1RVNBZzNXckJFaGpSVkFkUmJ5clJHbHdZMGtkUHoxOWtJOTNjeWVMSXliOEFuV3dUam9wME9SSU5rZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "nvr",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 490,
+    "dup_title": 247,
+    "too_old": 160,
+    "gate1_blocked": 34,
+    "gate2_blocked": 34,
+    "passed": 15,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+      "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors - MarketWatch",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Nippon Steel、CAT、DR Horton相關動態：「First Five-Bt Protein Soybean Shows Strong Protection Aga...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "First Five-Bt Protein Soybean Shows Strong Protection Against Major Caterpill...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "D.R. Horton stock reflects the homebuilder’s scale and U.S. housing exposure ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
