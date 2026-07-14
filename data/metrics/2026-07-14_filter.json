@@ -1,0 +1,16 @@
+{
+  "total_raw": 470,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 40,
+  "gate2_fail": 37,
+  "passed": 30,
+  "gate2_samples": [
+    "Asia Cement (China) Sets August Board Meeting to Review Interim Results - TipRanks",
+    "Asia Cement (China) Calls EGM to Approve Supplemental Agreements - TipRanks",
+    "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+    "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News"
+  ]
+}
