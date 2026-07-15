@@ -1,0 +1,208 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:00:08.044174Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-07-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Tops World in Profit Per Ton of Steel - Seoul Economic Daily",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWdQTzIxOWpqaG5lVlJOX2lLclJrSDFRY1Q4MjM2UW5CWTNHRk5KakcwRlU4VE1fSHBUd0lIWVhvNDBBY1ozbUJIbVo2UXJpamxydTltZkIzbTdLMGd0ektuZHFLZFVfY1J5ZDJmYk5xS0RpR25WS3VUa3pTbkZqVjhpek1xVGQxcG95WTFRQmk3QzZCdF9odHFYSl8xRlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-07-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan: Nippon Steel keeps Jul'26 stainless steel contract prices unchanged - BigMint",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWxSYXdaV0RoV3JLYWN5WUxUTkJJQWJJSHZVY2ZTajlDZ1NBZ2dGbHVxQ2hwWW55Rk5nV2tHSTItQUFiblB2ZnpZeE9OeFJZS2tHOXFsOEpoYXhoaXY2NTc2MTl5cElMV2VfRWlnTUtNWThZQXozemdYOTdBRVU5NDdVaThvRkFaNm5ubTBFdTZSM1I2bzhPbkNLX3VERTYwYTlxUkVQczBLZnNNcHZkemozZnIyZ3lRYWZB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-07-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Launches $5 Million Texas Workforce Initiative - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlVKSjNET2NGSzdUc1JTSUlldjluMVo5TTZCWXBHQnZvOGYyV3NmdXJralhlNUVEdld3R1UtNUxMczFuZU5NMmxhVndydVduUGxJdThXZ0hfaXZvYV9KMmVzS0dHMzRtaTBmNU14ZDV6bGhSSnE4eGhTR1hDU09vSHJCTDBqQ3dfWmRlS05JWC1nRHRnSGc0eWE4UTZQWGxl?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-07-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Egypt CEO: Our investments strengthen local manufacturing, positioning Egypt as a regional export hub - Ahram Online",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzJhTGEzekRLbXhpT3Bwanp2UUpTRVExY3FybEJnQTFvdEpfSVp4WmkwVUJpSUVGTGQtTUotZXJQTGNVZXhjVEVJdzR5SUZRY2xhNGplR3NRZnBCQ2g1MHRGcHJWaTI5dFBRMHNfdW5WblJQWmV1UV9MLVdNMExFNGlvV2lWNjJlRE9KR21yb0xZMzlYdTJmQU4yS3ZmMkZFUGEzQXNRNnNfZzVNaXNVbGhtMVVYM2I0Rl9lRTZ0X1BRemdnZ25UZlVuUFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-07-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton stock reflects the homebuilder’s scale in a shifting US housing market - Ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmVvZE5hMnZzaHAzRTJDQ2hudWhZRl83U0xXM1VNdG93d0tWbFBNMW9JeHpCQTUxcXRCLXByWHNHNkM1Y3VwT1RkaDlRYlB1SlF1T0hsM3lnbHNkSXo2MllYNzQ1ZmNDdTdjMmdEbnc3QUJYc2FzVThZVGRVZlBqdFloeGlpSW9WMy1hUUNpVE54NEdaaElOSlIzRURZT19Kd19SdHoxbFN4SmZiN2M4QTZoM2xHS2pGSVdob1djRW5LZFk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "daiwa_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 489,
+    "dup_title": 222,
+    "too_old": 162,
+    "gate1_blocked": 40,
+    "gate2_blocked": 29,
+    "passed": 36,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Asia Cement and Halla Cement to Fully Supply Cement for 2026 'Building Hope' Project - 아시아경제",
+      "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+      "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Nippon Steel、CAT、聖戈班相關動態：「Nippon Steel Tops World in Profit Per Ton of Steel - Seou...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Steel Tops World in Profit Per Ton of Steel - Seoul Economic Daily（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Japan: Nippon Steel keeps Jul'26 stainless steel contract prices unchanged - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
