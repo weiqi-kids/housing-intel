@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:05:59.696791Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock holds steady as global building materials demand supports long-term growth outloo - Ad Hoc News",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejVFTjdNWmREQmcyczhfWDRfUEZyQ0tqM0FwOGo2SHdCU1ptcklHQjNWdkQ3bkdZWFhtMHFsa21SdjhxNnFGTzYybXFMcW1vRjBleEdBMmc4c3dxd0laaE0tc0Z0VGlZVFdpR3dXbVI3RnJPWERCcVVCWklmcDJHY28yMjFvZVYxa2pOQ24tZ1VpekRuMjl1TjJyRlNCZXl3b3hzb29oMExDWmR1UlNxMkx5N0lXX1N3ZG9mQ2xYZ3BsMTlf?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock holds steady as global construction demand shapes long-term outlook - Ad Hoc News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmlXaVFPWVFFRkF3UWpocy0yWUxDZkk2dnNyWGZtSlFPLXZPT05CUnoxb1U1ZVNrWVNmVkUzSlNhOTZiWFlueThkS3h3U3VIVGFwaU1xNU9QVk9FVk96bXQtVWpxTzdiQ25GQlNQV2pFS2thZG1PZHVyR3ZJSVg4Wk1LM2kzWFhvbEl1LVpuVDl1cVVDOFdCclRwWDV1TDJBVW1XY0lRdTRYZmd1OUx4S1UyRmsxTDNNWERuZ2lZOHZQWTdCRVdn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 489,
+    "dup_title": 223,
+    "too_old": 166,
+    "gate1_blocked": 43,
+    "gate2_blocked": 30,
+    "passed": 27,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+      "Foundation Supports Venezuela Earthquake Relief - Caterpillar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為聖戈班相關動態：「Saint-Gobain stock holds steady as global building materi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Saint-Gobain stock holds steady as global building materials demand supports ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials stock holds steady as global construction demand shapes ...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

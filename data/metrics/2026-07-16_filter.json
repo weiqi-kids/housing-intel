@@ -1,0 +1,16 @@
+{
+  "total_raw": 489,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 43,
+  "gate2_fail": 30,
+  "passed": 27,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+    "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+    "Foundation Supports Venezuela Earthquake Relief - Caterpillar"
+  ]
+}
