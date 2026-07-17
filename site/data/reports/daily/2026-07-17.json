@@ -1,0 +1,221 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:54:39.058688Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "pultegroup-2026-07-17-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "PulteGroup stock trades near record levels as housing demand supports earnings - ad-hoc-news.de",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWs1WFFLeFZpMjZYUFpyR3pieFNuUFhBb2sxRFFaamxXTlVyWTRxaWRLMGVKR2I2eXBzbm5yTldIblhfdF9GWW5yeHBVM3pOWFhuVDhpSWhoT0JHMG40eVIyLTNSSGx6cGlXZHc3VnJnQ3QwRUphYWk2M1hGZ29QdVFVSTlKTUxjQkhmdlhrUTJ1WDZHdTMwRlhSZ01IWXc2bC1BcU9qbElCVWJWZERHMExxT3E5QzZqTUFydVpPelBDaE9kX1VB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvr-2026-07-17-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "NVR stock trades near record levels as homebuilder delivers strong margins - ad-hoc-news.de",
+      "companies": [
+        "nvr"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUt6NkxSMmNGa2JKeFM4VkRVWi1mTHQ4UlRNSk8yWVB4YURvQ1pOZU96Rmp6VnJMSEcweW5yZXNwT1dfOFQ2NXlCb0hNakhENFFIOFp5cVRrQWVQcFI5Z1U4QkNwT2Fra1dhcnN2dkR1aGp0WjZTYlpLNUdUQ2NkWGIwQ3NzN0huTi04N2t5cUI5TFNnNE16NmJSci13MDduY2ItWVk0ZEVhTGNycnIweVVaaFFWRFplOHh4LUFnTGF3QVBqWkdwQ2tpR01vQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan_materials-2026-07-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades steadily as aggregates demand supports earnings outlook - ad-hoc-news.de",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVlKZnBoUTd2N1JWeVpXa0ExajhUOEFydEltLVNXVzlzOEowaUQyU0ViZ19rWkRRTWRrM0VsTjBYYlJ4Wi04eFFNbmpyQWRpZnM5bW5DTTltcFdsYjllVUNUNmlfNVFOM0tOeDVFV3NnVUI2YlAtZ0lMRG9RbmZ2OE5OalRLV3h5bGxFMzhzeTlOMGlwemM0QXdMWlFHNElEU0pKSDFndG1uZHFCTkhVaU5CWTB3ZEQ3ZnFra3RET09WWjVfSHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dr_horton-2026-07-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton (DHI) Faces New Questions As Forestar Cash Burn Raises Land Pipeline Risk - Yahoo Finance",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmsyRERxV2VwV29OdFhsc0NKckNIWHdSamJYNm1QVEJ0YTU4Sjd4UWdpVlhZSmpUcjdGNXJFZ1F4ZW5udEZ5LTVyWTZ0cjdaUTRHdmoweVJVTXRFUlRySEVETTFUbG9CeHBNZTFVVkljOFhDeVQ4TXFzUy1DVGFRbmRmNTVfeGVCenc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-07-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton stock trades steady as strong homebuilding demand supports earnings and backlog - ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVklpMnRocFlPN212YnZPc1ZGSE9OOGNWdEJPeXh2RkVlMTd3TTdGNWFpam5jZlloeHJHWENQOUdsTkdIWHdsV1V3VmZaM20wZ0U2d2FmMF9aZTZCZkRZbFhjaC1ITWJfRGNqVUFjanFUaS13VklndWxlRVNFV2xQMzlQTkVEa2tiR3hKT0RnMXMxTm14bFlhWFVCLURtWlhOczRJWVBsdGxaYmhRQjFqVVlFZkZQd3Y5RE1oQ0ZLZzlFTDhPb0tz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "dr_horton",
+        "count": 2
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "nvr",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 490,
+    "dup_title": 208,
+    "too_old": 171,
+    "gate1_blocked": 43,
+    "gate2_blocked": 29,
+    "passed": 39,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+      "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+      "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Before The Surge, CAT Stock Was Sending A Power-Grid Sized Signal - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為DR Horton、Vulcan、Pulte相關動態：「PulteGroup stock trades near record levels as housing dem...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "PulteGroup stock trades near record levels as housing demand supports earning...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "NVR stock trades near record levels as homebuilder delivers strong margins - ...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

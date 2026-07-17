@@ -1,0 +1,16 @@
+{
+  "total_raw": 490,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 43,
+  "gate2_fail": 29,
+  "passed": 39,
+  "gate2_samples": [
+    "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+    "Vulcan Materials (VMC) Stock Loses Russell 1000 Index Spot - Yahoo Finance",
+    "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Before The Surge, CAT Stock Was Sending A Power-Grid Sized Signal - Trefis"
+  ]
+}
