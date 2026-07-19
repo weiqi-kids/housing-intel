@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 36,
+  "gate2_fail": 27,
+  "passed": 24,
+  "gate2_samples": [
+    "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+    "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+    "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+    "Caterpillar (NYSE: CAT) Now Makes Up 11% of the Dow. Could a Stock Split Come Before Year-End? - Yah",
+    "SpaceX vs. Caterpillar: Which Stock Is a Better Buy in 2026, the Aerospace Innovator or the Construc"
+  ]
+}
