@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:49:39.923939Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dr_horton-2026-07-20-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "D.R. Horton stock trades near record levels as strong homebuilding demand supports earnings momentum - ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemtpMDFsdWQyc0V2dEdUV0Vza0V6dW1mQ3E2Wi05OVE3ZnJVNHNnbXdUMUM3bDV6dV9KY19nNVpwNG0wT015WkFhYlp4NzNENzVSZGJpaEFCMml3Q2xrX0Y3NjZhRmVIMndUcFRCNzYwa2dacFFJeENXMlhzYzVucDRtZ1ZxcHNvODFXLVJyY1hnM1NyWmpMSmRnSXBFMHo5MDJTRTZZY05qZjBtZU41a0dyN2tza2huR2JQRkVLeVFSOUJzbHU4UjQzcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VMC4506867 Bond Risk Profile - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdGdmMm9rM0pmczVNMFdiRFZmTk5VVmRSWk1XVHBkNVhYNFpuODVaTUZpckR6VUpzODJqSjBDY1FYRFFTX2ZkSVZDUFU4WTF6bnZDN0Q1OWVzVnNyUlhOT1U2MHdoeDRCd2FUWDVHT3pmRzVfeHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan_materials-2026-07-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades near recent highs as aggregates demand supports earnings - ad-hoc-news.de",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWdod0FBYzA1RS1EUkF2d2t1Vk9oNFpQYW1lck5EZUMwR01LRFNDQXhWaEFBc0FhTkFpQmZmN1Vmek5EYm54R3MxQkNpWlVqVzRwQU1jSnlOWk9Bc2VnNmRLX1pnUkc0bjVZN0NsUlR0NzBSX1lDYTNCRC1UamZmOTB5Q0kwRXZXcEpLN1JxV2V6bHYwM3ItcjdGZzJwckxUOHQ1bmR5RVdDUy02OWpXMExBVlo0MFNITDZNdmpnOEh6NGhCdmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-07-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (NYSE:CAT) Posts Strong Volume in Dow Jones - Kalkine Media",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3Zaakl1Z05jN0UxWHRraGFxYnRWVV9YU19uODRiLWJKUzB2ZzZYc2piaVNCd0NNc01NRElrQ2VhZDZ6LW1uSXRyWlRieTRsTXh5NVQzWGtDRU5sVlNCa2p4VWIyLTZLVnpHWjhfajN4V3ctRXNfRW5qTXY5X2k2NUtnZUY4RnpOV2JCM2F6Wm9pSXRZcUs5T3A3QjJYSDA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-07-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steady as margin focus grows after strong 2024 earnings - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEx6SWcxWXYycjZMeW8tUjZzbGhLTm5pTHc4SGJTTHVLdDE5M2M2Ymx2bzduY2NFQWtfQXdpTUZEeFFqNjdxRVFlMzExZHVXMGtaUTlNbkNIZmlQU1BXbnZpSm9YYlJWamRkeTdDeWk3OUlaX2hEellLVnFaX2tsSEpvZmpibjJ6blMtX3laX2NsVWt2RmZjUlk0VnV4UkhxTG5yd1ZwbWRPTWVPMkY5N0lfWWRoQkV2OUdEU2hvRFlqVzRiNmE3TDZObw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dr_horton",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "cathay_real_estate",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 229,
+    "too_old": 173,
+    "gate1_blocked": 37,
+    "gate2_blocked": 25,
+    "passed": 20,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+      "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+      "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+      "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+      "Caterpillar (NYSE: CAT) Now Makes Up 11% of the Dow. Could a Stock Split Come Before Year-End? - Yah"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為DR Horton、Vulcan、CAT相關動態：「D.R. Horton stock trades near record levels as strong hom...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "D.R. Horton stock trades near record levels as strong homebuilding demand sup...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "VMC4506867 Bond Risk Profile - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,221 @@
 [
   {
+    "id": "unknown-2026-07-20-001",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VMC4506867 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdGdmMm9rM0pmczVNMFdiRFZmTk5VVmRSWk1XVHBkNVhYNFpuODVaTUZpckR6VUpzODJqSjBDY1FYRFFTX2ZkSVZDUFU4WTF6bnZDN0Q1OWVzVnNyUlhOT1U2MHdoeDRCd2FUWDVHT3",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdGdmMm9rM0pmczVNMFdiRFZmTk5VVmRSWk1XVHBkNVhYNFpuODVaTUZpckR6VUpzODJqSjBDY1FYRFFTX2ZkSVZDUFU4WTF6bnZDN0Q1OWVzVnNyUlhOT1U2MHdoeDRCd2FUWDVHT3pmRzVfeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-07-20-002",
+    "date": "2026-07-20",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock trades near recent highs as aggregates demand supports earnings - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWdod0FBYzA1RS1EUkF2d2t1Vk9oNFpQYW1lck5EZUMwR01LRFNDQXhWaEFBc0FhTkFpQmZmN1Vmek5EYm54R3MxQkNpWlVqVzRwQU1jSnlOWk9Bc2VnNmRLX1pnUkc0bjVZN0NsUl",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWdod0FBYzA1RS1EUkF2d2t1Vk9oNFpQYW1lck5EZUMwR01LRFNDQXhWaEFBc0FhTkFpQmZmN1Vmek5EYm54R3MxQkNpWlVqVzRwQU1jSnlOWk9Bc2VnNmRLX1pnUkc0bjVZN0NsUlR0NzBSX1lDYTNCRC1UamZmOTB5Q0kwRXZXcEpLN1JxV2V6bHYwM3ItcjdGZzJwckxUOHQ1bmR5RVdDUy02OWpXMExBVlo0MFNITDZNdmpnOEh6NGhCdmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-20-003",
+    "date": "2026-07-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (NYSE:CAT) Posts Strong Volume in Dow Jones - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3Zaakl1Z05jN0UxWHRraGFxYnRWVV9YU19uODRiLWJKUzB2ZzZYc2piaVNCd0NNc01NRElrQ2VhZDZ6LW1uSXRyWlRieTRsTXh5NVQzWGtDRU5sVlNCa2p4VWIyLTZLVnpHWjhfaj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3Zaakl1Z05jN0UxWHRraGFxYnRWVV9YU19uODRiLWJKUzB2ZzZYc2piaVNCd0NNc01NRElrQ2VhZDZ6LW1uSXRyWlRieTRsTXh5NVQzWGtDRU5sVlNCa2p4VWIyLTZLVnpHWjhfajN4V3ctRXNfRW5qTXY5X2k2NUtnZUY4RnpOV2JCM2F6Wm9pSXRZcUs5T3A3QjJYSDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-20-004",
+    "date": "2026-07-20",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock trades steady as margin focus grows after strong 2024 earnings - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEx6SWcxWXYycjZMeW8tUjZzbGhLTm5pTHc4SGJTTHVLdDE5M2M2Ymx2bzduY2NFQWtfQXdpTUZEeFFqNjdxRVFlMzExZHVXMGtaUTlNbkNIZmlQU1BXbnZpSm9YYlJWamRkeTdDeW",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEx6SWcxWXYycjZMeW8tUjZzbGhLTm5pTHc4SGJTTHVLdDE5M2M2Ymx2bzduY2NFQWtfQXdpTUZEeFFqNjdxRVFlMzExZHVXMGtaUTlNbkNIZmlQU1BXbnZpSm9YYlJWamRkeTdDeWk3OUlaX2hEellLVnFaX2tsSEpvZmpibjJ6blMtX3laX2NsVWt2RmZjUlk0VnV4UkhxTG5yd1ZwbWRPTWVPMkY5N0lfWWRoQkV2OUdEU2hvRFlqVzRiNmE3TDZObw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cathay_real_estate-2026-07-20-005",
+    "date": "2026-07-20",
+    "companies": [
+      "cathay_real_estate"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Cathay Real Estate Development Co., Ltd. – TWSE:2501 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1VSaldyelN6Uy1mTWtiMHpkQXZjTkVIY1BtVDNQQnhvWlRRcVJqdHdUSjRNM2FCbFdXTjB3YjVGQl9Sc2JYc1JqMjlUVDR2aVlFamFWMWJMN082bDdob3Z2MWxOUXpGY1pCS2N3Zk",
+    "sources": [
+      {
+        "name": "cathay_real_estate",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1VSaldyelN6Uy1mTWtiMHpkQXZjTkVIY1BtVDNQQnhvWlRRcVJqdHdUSjRNM2FCbFdXTjB3YjVGQl9Sc2JYc1JqMjlUVDR2aVlFamFWMWJMN082bDdob3Z2MWxOUXpGY1pCS2N3ZkFjblU0dEROWXVBX3UwREdjRUJGMFU2eTNDUUNaWUMxV0VwVmRFR1hua2k1WERkZTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-07-20-006",
+    "date": "2026-07-20",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "D.R. Horton (DHI) Q2 Earnings Report Preview: What To Look For - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5USGRYNnpCMDFuLVJIQ3B3eE1TbXlpdkdjNVVjSUo0aDhUX0lrMFdxcGFLUmQ4dXRjTTd0ZEljQ2RfRE1UVlpJeFZHR1lNdm5jd0NUempkX1A4Q011WV9ZWWtuVDJoTkxLX0t6TWlmc3",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5USGRYNnpCMDFuLVJIQ3B3eE1TbXlpdkdjNVVjSUo0aDhUX0lrMFdxcGFLUmQ4dXRjTTd0ZEljQ2RfRE1UVlpJeFZHR1lNdm5jd0NUempkX1A4Q011WV9ZWWtuVDJoTkxLX0t6TWlmc3Nfa3Z1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-07-20-007",
+    "date": "2026-07-20",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "D.R. Horton stock trades near record levels as strong homebuilding demand supports earnings momentum - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPemtpMDFsdWQyc0V2dEdUV0Vza0V6dW1mQ3E2Wi05OVE3ZnJVNHNnbXdUMUM3bDV6dV9KY19nNVpwNG0wT015WkFhYlp4NzNENzVSZGJpaEFCMml3Q2xrX0Y3NjZhRmVIMndUcFRCNz",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemtpMDFsdWQyc0V2dEdUV0Vza0V6dW1mQ3E2Wi05OVE3ZnJVNHNnbXdUMUM3bDV6dV9KY19nNVpwNG0wT015WkFhYlp4NzNENzVSZGJpaEFCMml3Q2xrX0Y3NjZhRmVIMndUcFRCNzYwa2dacFFJeENXMlhzYzVucDRtZ1ZxcHNvODFXLVJyY1hnM1NyWmpMSmRnSXBFMHo5MDJTRTZZY05qZjBtZU41a0dyN2tza2huR2JQRkVLeVFSOUJzbHU4UjQzcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-07-20-008",
+    "date": "2026-07-20",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lennar stock trades steady as housing demand supports recent earnings momentum - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWY5MXJqMW1xQlprNTNjWUlSejZ6ODdFa2YxejA5LTRHZmlNaS1MVFBsYXM3OXJSZ1lEWXhja2lMaTA2R3V3RzNtLVEwQlRHV2hoUGx1S0szVWcySzRsVnF0aVFOY3NPZ2xHTWI0LT",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWY5MXJqMW1xQlprNTNjWUlSejZ6ODdFa2YxejA5LTRHZmlNaS1MVFBsYXM3OXJSZ1lEWXhja2lMaTA2R3V3RzNtLVEwQlRHV2hoUGx1S0szVWcySzRsVnF0aVFOY3NPZ2xHTWI0LTRRYWdLdGxkdDRQZVNOWFhZVVVEMENvYkVGakllRlk3NjdDV2F0WS1rSGU5bVU1LVUxTUVuLUJlMDBkanZDT0NCTUpvcXJsbjlDd2ZfUUU1SlM2YnduM3JF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-20-009",
+    "date": "2026-07-20",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is KB Home (KBH) Fairly Valued After New Community Openings And Buyback Updates? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOMkl1QlNzT0FiTkpVT0hGLTNDczkyakFSZDJsUGRvTjNvOEJXTEJtS2tpQTZXc1ZyRUl2Q2VDT3QyVGJEbEtFckFXVmpVUHEzZTN3dWYwcWZCMlBCZnBPRTBMRGctQ1IzbjVYZ1p5bV",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMkl1QlNzT0FiTkpVT0hGLTNDczkyakFSZDJsUGRvTjNvOEJXTEJtS2tpQTZXc1ZyRUl2Q2VDT3QyVGJEbEtFckFXVmpVUHEzZTN3dWYwcWZCMlBCZnBPRTBMRGctQ1IzbjVYZ1p5bVhtbVoxSGlEOW4zUXMwMHZOY3V4UUFiaHNfczdLZDU1QUYzOUJKMFBZRng1ZkxRU0MxNWFxcmp0WHFDMGk4TU9QakxZTmYtbGllcjRMYWNqX2FNRndLMGlkd2psX3HSAdIBQVVfeXFMTlVlalp2WWFsSE1QUHN4bEkzNTE0VTVzTVJQN1dVbmYtTV82WTYtUkV1aWRaU1pwZEpyclRHcDdsOFd2aWdQVzlnMHFROXczMjN4ZHhBTUF2dGxqRE93cTdsUEFTOE1vQ2dZQnhob05DYlpNYUZ6WXZheTg4RENFdndnNzRrSnYyMWpLd19xbDh6dDBMU2t5U2taTm42TnE0SHZSREs4SDdPY3Z5d050QkhPX0dMeFdKOE53NHlrZjROcGpnNVhzZ3NMSmlBd1V6RnFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-07-20-010",
+    "date": "2026-07-20",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "D.R. Horton (DHI) Q2 Earnings Report Preview: What To Look For - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMl9qS09kUVFVLVRqV3NDN2o1VGVZV0czcnM4d2Q0RTNWYzl5Ylg3NDBOMUktWTZzWUVUbUw0Yk91dGUwT25MdDBhU0xwMk9Ud25tcW80c2VUWnlSWWx6TERRanhtS3RIZms5S0FTWj",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMl9qS09kUVFVLVRqV3NDN2o1VGVZV0czcnM4d2Q0RTNWYzl5Ylg3NDBOMUktWTZzWUVUbUw0Yk91dGUwT25MdDBhU0xwMk9Ud25tcW80c2VUWnlSWWx6TERRanhtS3RIZms5S0FTWjNZMkptS0J0dDNOSUwtS2ZLeXVRVnFCcTBSeWNqYm9ocnFYVjBsdHNaRnNhSkxYSXdaWC1fNktvNWVCN0lhZ1VqNU52OHRtZmpTXzlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-011",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Finance of America’s Graham Fleming on HECM demand, second liens and Onity deal",
+    "summary": "Finance of America continues to be one of the main faces of the reverse mortgage industry. Last year, FOA was No. 2 nationally for Home Equity Conversion Mortgage endorsements, and the publicly traded",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/finance-of-america-reverse-mortgage-strategy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-07-19-001",
     "date": "2026-07-19",
     "companies": [
@@ -93,6 +309,123 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjV4cDVLMzhmYXl5U0Zac1dMSWtGT0xiMS1zbmRZVGEzVnZQTDA3S05SU21LakhjRUxGV2VYQkNxbTBzdklTZVdhVW92eUNlSjNTb3RfT1RkTXNKcUpVWVZwNjdaUkMxVEcySTVEVnNqWUJXamU1ZDRvQm9MczhMWWFUZ3QtSXpzRF8zOW5YTGNySEt2VlNfZlM2ZDA2d3VEdllLeks4b1J5NmhW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-19-006",
+    "date": "2026-07-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Asia Cement Co., Ltd – KRX:183190 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVRWWFdVUjR3ZG4tSUx0eVYtTkd5d3NuWnBHR1V0Q3ROS2FIQW9LY3Z0N2JQdXpiQ0Y5YWp1RXRVUFJlcWRUTU1nYzVMQnVPXzBRWFBLdHgtek9QNUtha3JFOTZxZmZwVWFYQVRSOD",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVRWWFdVUjR3ZG4tSUx0eVYtTkd5d3NuWnBHR1V0Q3ROS2FIQW9LY3Z0N2JQdXpiQ0Y5YWp1RXRVUFJlcWRUTU1nYzVMQnVPXzBRWFBLdHgtek9QNUtha3JFOTZxZmZwVWFYQVRSODYwLVNPSDNhZ0JUU1liZi1WcXVxbkdDNFR0TzVoSnVNd0xjdHZ3Um9pVk9EWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-19-007",
+    "date": "2026-07-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock steadies as earnings metrics and mainland business drive valuation focus - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORlY3MHFxYzhsSUtkLTRUczZhaXp4NnAxcFpWT19xeU5odEpoaTVDMGZ5MWs4X2dvUTVYWXBkZGVvWmUydVptV0tDY25IbmRyN2xESENmdDR2czhlU1hiQTJ1eEUzNU42cnowd2w2MH",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORlY3MHFxYzhsSUtkLTRUczZhaXp4NnAxcFpWT19xeU5odEpoaTVDMGZ5MWs4X2dvUTVYWXBkZGVvWmUydVptV0tDY25IbmRyN2xESENmdDR2czhlU1hiQTJ1eEUzNU42cnowd2w2MHN1MGFRSmFXMFJFNjBGX1RaSVdJWHpMMndmX3NOWElRMEhfWHJiWnUtYWVWbWV5c29NOFM3bmYtWl9mcEJMRU44bkV0bndydDBpZmlzUThPNzlpcTZib2JoVjBvT1o4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-07-19-008",
+    "date": "2026-07-19",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Vulcan Materials (VMC) Undervalued As It Reaffirms Its Dividend? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjJYQ3V1QTVFMEtqTHpZN00xUG1MM29MaVUwU2FqZE0wNWU2QjJicDIxNWJ3SWdKQlRuU2JmNWJrLUhiT0ZTbzIwYnhEZ1o0VGR4M2xtTEZVR19meXRlVzlYN3VYcVJIanZyOVRhcm",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjJYQ3V1QTVFMEtqTHpZN00xUG1MM29MaVUwU2FqZE0wNWU2QjJicDIxNWJ3SWdKQlRuU2JmNWJrLUhiT0ZTbzIwYnhEZ1o0VGR4M2xtTEZVR19meXRlVzlYN3VYcVJIanZyOVRhcmF3d2VMMFIzNWk0VnlsaFNtM01nTFA4bG1QX0t0SU5ocG1vaVRodXNaNldTV2hseEF4Z0dnQWE5eFlPakZibklranR1OWdrbDVJbWx5UVl6VHFWXzdDbXpfMHhmSExiSjFxWjU00gHTAUFVX3lxTE1KMlhDdXVBNUUwS2pMelk3TTFQbUwzb0xpVTBTYWpkTTA1ZTZCMmJwMjE1YndJZ0pCVG5TYmY1YmstSGJPRlNvMjBieERnWjRUZHgzbG1MRlVHX2Z5dGVXOVg3dVhxUkhqdnI5VGFyYXd3ZUwwUjM1aTRWeWxoU20zTWdMUDhsbVBfS3RJTmhwbW9pVGh1c1o2V1NXaGx4QXhnR2dBYTl4WU9qRmJuSWtqdHU5Z2tsNUltbHlRWXpUcVZfN0Ntel8weGZITGJKMXFaNTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-19-009",
+    "date": "2026-07-19",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "KB Home stock trades steady as recent earnings and housing demand frame the outlook - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzZhTEZPdzM4ZzZnbTFfWDhwQjJqTUR5ckJKN29GUnc3eTZtYTdHNWdBZDhBUzJMLWRTWjNMQ1BnSk1TZ0F2S0RGdkl6eW1IUTljRFo4VmZoc3ljLVVBU3dTTURZYkp6aUZ2VWQ5dk",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzZhTEZPdzM4ZzZnbTFfWDhwQjJqTUR5ckJKN29GUnc3eTZtYTdHNWdBZDhBUzJMLWRTWjNMQ1BnSk1TZ0F2S0RGdkl6eW1IUTljRFo4VmZoc3ljLVVBU3dTTURZYkp6aUZ2VWQ5dk1VR3ZyUU0xS1BkMjBpRkgyTWdTSjA0Y3I1Ri1FV2RrRGZOMERIZ2tGYlJxTko1NnhsSEtCUW95bVZTbHo0bkdEVndVdGJVamFZcWxUN2l4dHc2cVNTWDNtMmRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvr-2026-07-19-010",
+    "date": "2026-07-19",
+    "companies": [
+      "nvr"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVR stock trades steady as homebuilder margins stay elevated - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdZSlBSbFkySTR2aGhCMXZ0bGZ1X00xMnowOGwwQndOM0FpemhGMjVpR3JUU3M0V0RoYmpDTXNkSjJ1RTlCS0FfeXdlUGF5LW9NeFNjWDdRUDh3TkNvdEdBX1Z2X1pMQjNtWDZwbm",
+    "sources": [
+      {
+        "name": "nvr",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdZSlBSbFkySTR2aGhCMXZ0bGZ1X00xMnowOGwwQndOM0FpemhGMjVpR3JUU3M0V0RoYmpDTXNkSjJ1RTlCS0FfeXdlUGF5LW9NeFNjWDdRUDh3TkNvdEdBX1Z2X1pMQjNtWDZwbm9sM0plTFZFTzBITXhtSmk5ZjIyejUyVkljdWdNQUJSMVFsMm14dUZvS2ZLZGJXVzFCRjZzTXdvMnVvV09xYnhCRHYwcVJ4RTV4Nngw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-011",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "XS291947115 Bond Profile — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE95UzRPd0dhRDF0UXZmSFdVd2R5dmRNQ21WR1pVRG84d3ZOX0c2YUgweHZlb0VkOVdtNWE1NHdKNl90Z0tlRkFFaVhrenZLdHE4MzlJdjd6RDhaS1BWU3p4OG9RY3V6VldERmNyM3ZHUT",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95UzRPd0dhRDF0UXZmSFdVd2R5dmRNQ21WR1pVRG84d3ZOX0c2YUgweHZlb0VkOVdtNWE1NHdKNl90Z0tlRkFFaVhrenZLdHE4MzlJdjd6RDhaS1BWU3p4OG9RY3V6VldERmNyM3ZHUTU2OTViVm5iWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -905,6 +1238,46 @@
     ]
   },
   {
+    "id": "saint_gobain-2026-07-17-034",
+    "date": "2026-07-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 16 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxPTTl3c1NYRWdkYThKcWpWM29TSTRLV1BjdTF6anFfWFgyY0N5ZWt0WHdHQnlKeHVJTndpWHZZZlQ2c2ZLMXhGb1c0THJOQmsyX0pLc0VmaXljV00yanVKQS1CU3BqbV8tdXZKdkJBQm",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPTTl3c1NYRWdkYThKcWpWM29TSTRLV1BjdTF6anFfWFgyY0N5ZWt0WHdHQnlKeHVJTndpWHZZZlQ2c2ZLMXhGb1c0THJOQmsyX0pLc0VmaXljV00yanVKQS1CU3BqbV8tdXZKdkJBQm1sc181akQ0aEloajNMdE50TlFZbno3MkRyM2NjRkYzVW5jWDZ4ejAyaHJXc3Jndks4SlNsYmJETXRhd19SbzkxcFJuZFZvdkJiU3NoeXRpSnlyZFpEOWZINFluSk14ZUQ1OExVdTA5cG9hSF9mM05YSGVLdlpqQmJtWU5Pcm5sam9TQzlxQ1hETmEtQ1VtX3VnbHB0a0otR3pYX3lMSjZ5MTJ0MEVyRzh2N1o1NlNENXJMZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-17-035",
+    "date": "2026-07-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Meet the winners of the 9th Saint-Gobain AsBEA Architecture Award - 12 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNNFMzZnFTWUVuOXJCdnVtZ2RVdVhLcWJRM0FuR0tneGZhVHVnYnQ5ZEtLYzNTUHV6MzctbHNIUlYxajBab2hHYmQ1TWpRN3lsbmtiY3R1YkluQ2g3QkpHcTNFSE04Z1BDejJuMkwtTE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNFMzZnFTWUVuOXJCdnVtZ2RVdVhLcWJRM0FuR0tneGZhVHVnYnQ5ZEtLYzNTUHV6MzctbHNIUlYxajBab2hHYmQ1TWpRN3lsbmtiY3R1YkluQ2g3QkpHcTNFSE04Z1BDejJuMkwtTENQRXd2QmI3VGp4azhTYlZyemxYMFM3NFlPUzBxbnFuQng3a215YVpCdnMtUmdabnhNRW9tallFMzhoa2U3S3ZXTHhpcnhfSmVCUGc4V0lyenI1alJRdDF2akQ4WndHbHFwT2k3eVBRWFpxaDVHTkN0UnZwVHRJS185dmYxemlKSmYwT09xNjdacDl3eUFVVXFEbzN0VUFEQWFzd1hfUnB3ajRzck5pWEFuQVVLbHpKcUo5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-07-16-001",
     "date": "2026-07-16",
     "companies": [
@@ -1533,6 +1906,24 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORHlOLU92NjVSc3NWWFl4MmdaWC1MS0JWYU9wTWFTY2Q5TV9lY0RlaDF0bjdRTmJEVTlaYW9JMHhWUUN0cnAxMFNGRFBCcWFMRThULTBpend3MzRYeWkxTzUzVTl6eFZQZ2dXTXdjSEVNUWEyMGdfNHZNbno5bXh3Y2p2VmJFMmtib1k2RzlnTGh3aVhVbVlfaDlrQkRrQmpYLWQ0RkN6OXRYZEI1TjB6WkEyUzk0b0FORkNFRnpydHl1Y0FwQmxtR05ienBmcUUt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sekisui_house-2026-07-16-034",
+    "date": "2026-07-16",
+    "companies": [
+      "sekisui_house"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Singapore Bayshore Transit Hub Bid Might Change The Case For Investing In Sekisui House (TSE:1928) - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa2h1QUNKaC1fMnZ1WFpVVU91UmJ5M2ZRUFc5TVJNWHZGTU0wVnB4VnNQT2FjaWpGa241RVpvbHp0SXhZeVdzQzcwaHg4MTZJMHMzOFZ3d3FfcnpDR3hhZ24xZ0c0Y2gyekZTYjVlN1",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa2h1QUNKaC1fMnZ1WFpVVU91UmJ5M2ZRUFc5TVJNWHZGTU0wVnB4VnNQT2FjaWpGa241RVpvbHp0SXhZeVdzQzcwaHg4MTZJMHMzOFZ3d3FfcnpDR3hhZ24xZ0c0Y2gyekZTYjVlN1lFbnhkUVkzOGhMRWl5THMwQUYtWWVQMFlOa2FROGNtRHRHMHRCVC1JZS1iSm5Nekd4WEZjSlpKNWRhRmJ0cktLb1ktV29xMnBaRmd2X2wxNzJMNjFVd2N3QTY4dlV2VnhPZDBDRmlJOFlvQlhkZ3fSAeMBQVVfeXFMTi1qdFB5cWlxQklVUlcxa28ydUdmN3FNNWJJRURCcWVJTkhqN3lqVXY5RGFRWmotbjg5S3dhMkgybFYyV3MxSGk4T3lLZVBtM2hHenpGc0FrVVpvRHNqdUtOZV9sUTJwUm40LWRZSV9Bd2Jnc3l0REdnSXpPUnktc0VwYk4xZnEydXR6VlZmUG5GUE0wcG9xZFFSME9sYWtDVTlleWVxdDNIWF9jaTVTa25UVDBhOXBZcGFYc0k5ci1XOXRtTXlrSUtld2FJNW1JOS1BczczNFcxb1FqTzNmMC1nMkE?oc=5",
         "type": "rss"
       }
     ]

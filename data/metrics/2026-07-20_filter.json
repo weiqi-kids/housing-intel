@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 37,
+  "gate2_fail": 25,
+  "passed": 20,
+  "gate2_samples": [
+    "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+    "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+    "Vulcan Materials (NYSE: VMC) awards 5,243 RSUs to its SVP and CFO - Stock Titan",
+    "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+    "Caterpillar (NYSE: CAT) Now Makes Up 11% of the Dow. Could a Stock Split Come Before Year-End? - Yah"
+  ]
+}
