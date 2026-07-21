@@ -1,0 +1,208 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:23:57.191372Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan: Nippon Steel revamps scrap procurement ahead of EAF expansion - BigMint",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFhBRm1fbUU4RVNzTUJnQXc5Ymhfb0hYblpNd2xYZVZIRHB0TUNFcUp3Y2UtOC0zVmdiWkpnc2JDSGpLN1FsZlFHRUJHdUp1V1B2SE5pUWdZZnpQYTBXeUp5eG1SZ1p1MUtBbDdNMUhzY2xsQ1d5QTZJbEJsdy1KMFBhMjlpb0xxdGxXNVpzUDJSZXpJX3oyZzNkYjRzSXM0ZUtKUTVGN24ydnhxNUpkZ3pwcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-07-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades near recent highs as aggregates demand supports earnings - Ad-hoc-news.de",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFk4V28wWlpJRm9SUmhMTGVwSTJnVC1aQUdZM3dkakdMcjdWQnlJMk5BaVZaSDRqbGJ5bFNTWWFtT2ZQWXJBR3hlendOOUp0clVBVXFRbVFWaUN3eVBldzdDUTI4bWRJWGpXTG9kSTZoeW85V2VPVTJKOF9hVnNQdVh4dVhobngyalEzZjUtN3hab1hYYnJCc0dWRjNTTkZQOHBjT3E1YTZ6ekRWTDc2cWM4ZjU4QV9oaVFneEw2LWd1TzNaV0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-07-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar acquires Skycatch to improve its mining data analysis - CIProud.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSV9teHIzVXVQb1E0Z1FYcnF4cGdOR1AxQkRYZjRKYTd4WVRwUS1iUmRqNUtCRU1FNkt2M2JVaXBZV3NxX0pFSHY1UXIwa0ZsUkV6bHZmZV9RaVZfNXBBVndQdDFpZXNreWlpQWhPSk5OdXJneGxaVzhWdDctVFVnVVRrNzhmd1Z6Q015TS1hUzk3WjVC0gGaAUFVX3lxTE1iWWU4NVNFV01ONy1qQ2NDd3NFekZmZ0FqYUxRMkJtNVJqR2NUTFM3U19pMnpkVG5CS1h3ZmhwcEFieTlQVzgzSG9WTWtxLVdVc3JHMF92Vk1sVmhVR3FfTm5qUFZoSDlTTVFpOEp0REtxTmZxVnhvN2VlWFRvME53NmUtVEdEVnloSzdabnItVjIzeFJqaVBTOGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-07-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steadily as resilient cash generation supports valuation - Ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcWtqQmloWHdEbUZsZGFoak9BMnVXanQ2Z0pHNU9lU2NzUDl2Z21UWVpMSm1vY1hFWlFvVGcyVjl1Nmc0RUQ4dGdZMUttVWRHS09rNGlnQ0MzNmhWbTBBUHc4bU1uQ3hrM3dZRnM3angtN3h3cEpzc1Y4N014V2NrLUVndzRxd2FPU2lBeVJ5Tlh1cmROanRKRW9XQXl0MUxtQ2ZvQjhIMDZvNXpIZGdMY0NhdS1kZ1Q5Q1k1azVHdFZRb2FGUnY1NnZ4SQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-07-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton stock holds near recent levels after fiscal 2025 results - Ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ0Y5VEhZYUR5Q3dDcWI0X1YtcHhSc0Z2cTV6NlJoeHBVNVVwLXJmQThVcFZTcGxHZmJEM2RRNjloVWRCUE9kV19RanR0dnhiUEFEbEhUdFUxZGVCM0RieHNDT3dKS0ZiVlozX1RZWF80RER1VUpHUF9FbWZZU2pMam9qeHBPYWMxR1Y0VmxkMzJta2NCZTdLRFlvc2N6RlltVHhNOS1vRUl5VENJNFB3YmZMTEE2UDh1VTh5MmUxMTRXdkc3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "pultegroup",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 483,
+    "dup_title": 213,
+    "too_old": 169,
+    "gate1_blocked": 33,
+    "gate2_blocked": 27,
+    "passed": 41,
+    "pass_rate": "15.2%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "Vulcan Materials CO (NYSE: VMC) SVP details stock, SARs and RSUs - Stock Titan",
+      "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+      "Vulcan Materials (NYSE: VMC) SVP discloses stock and unit holdings - Stock Titan",
+      "Caterpillar embarks on renovations after purchasing property in Texas - Peoria Journal Star",
+      "Caterpillar acquires AI Mining company - CIProud.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Pulte、Nippon Steel、Vulcan相關動態：「Japan: Nippon Steel revamps scrap procurement ahead of EA...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan: Nippon Steel revamps scrap procurement ahead of EAF expansion - BigMint（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials stock trades near recent highs as aggregates demand supports...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
