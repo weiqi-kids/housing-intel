@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:23:51.150293Z",
+  "updated_at": "2026-07-22T10:23:29.936966Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -348,9 +348,9 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": 189066000000,
-      "ar_qoq": "+2%",
-      "ar_period": "QoQ",
+      "ar_prev": 197953000000,
+      "ar_qoq": "-2%",
+      "ar_period": "YoY",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",
@@ -364,17 +364,17 @@
       "name": "台泥",
       "ticker": "1101.TW",
       "currency": "TWD",
-      "ar": 23557804000,
-      "ar_prev": 24752504000,
-      "ar_qoq": "-5%",
+      "ar": 23952360000,
+      "ar_prev": 23557804000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 19023915000,
-      "inv_prev": 19498463000,
-      "inv_qoq": "-2%",
+      "inventory": 20812552000,
+      "inv_prev": 19023915000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "taiwan_glass",

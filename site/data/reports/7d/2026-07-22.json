@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-22",
+  "date_range": {
+    "start": "2026-07-16",
+    "end": "2026-07-22"
+  },
+  "generated_at": "2026-07-22T10:23:35.823075Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-16-024",
+      "date": "2026-07-16",
+      "title": "Building Material Prices Continue to Rise Despite Energy Price Declines - LBM Journal",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 43,
+      "last_week": 33,
+      "week_over_week_change": "+30%",
+      "sentiment_this_week": 0.09
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "construction_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "saint_gobain": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "vulcan_materials": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "dr_horton": {
+      "event_count": 11,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "pultegroup": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "nvr": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 7
+    },
+    "caterpillar": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 6
+    },
+    "lennar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "toll_brothers": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cathay_real_estate": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 194,
+        "last": 201,
+        "change_pct": -3.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-16",
+      "event_count": 37,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 36,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 13,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 14,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 33,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 51,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-16 ~ 2026-07-22）共 194 則事件，重點為「Building Material Prices Continue to Rise Despi...」。Pulte、NVR Inc表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Vulcan",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
