@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T10:23:29.936966Z",
+  "updated_at": "2026-07-23T10:18:51.869228Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "長虹",
       "ticker": "5534.TW",
       "currency": "TWD",
-      "ar": 620265000,
-      "ar_prev": 649291000,
-      "ar_qoq": "-4%",
+      "ar": 388303000,
+      "ar_prev": 620265000,
+      "ar_qoq": "-37%",
       "ar_period": "QoQ",
-      "inventory": 42806073000,
-      "inv_prev": 44581492000,
-      "inv_qoq": "-4%",
+      "inventory": 43210319000,
+      "inv_prev": 42806073000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "crh",
@@ -211,17 +211,17 @@
       "name": "冠德",
       "ticker": "2520.TW",
       "currency": "TWD",
-      "ar": 2446757000,
-      "ar_prev": 1839254000,
-      "ar_qoq": "+33%",
+      "ar": 1952069000,
+      "ar_prev": 2446757000,
+      "ar_qoq": "-20%",
       "ar_period": "QoQ",
-      "inventory": 26952068000,
-      "inv_prev": 26544260000,
+      "inventory": 27436678000,
+      "inv_prev": 26952068000,
       "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lennar",
@@ -381,17 +381,17 @@
       "name": "台玻",
       "ticker": "1802.TW",
       "currency": "TWD",
-      "ar": 6875668000,
-      "ar_prev": 6391338000,
-      "ar_qoq": "+8%",
+      "ar": 7636883000,
+      "ar_prev": 6875668000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 10682490000,
-      "inv_prev": 10516384000,
-      "inv_qoq": "+2%",
+      "inventory": 11312931000,
+      "inv_prev": 10682490000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "toll_brothers",
