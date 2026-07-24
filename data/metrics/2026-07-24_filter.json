@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 30,
+  "gate2_fail": 20,
+  "passed": 44,
+  "gate2_samples": [
+    "Calix Partners with Adani's Ambuja Cements and Expands Low-Carbon Tech Across Asia Cement Markets - ",
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "New Buy Rating for Vulcan Materials (VMC), the Basic Materials Giant - The Globe and Mail",
+    "Vulcan Materials CO (NYSE: VMC) SVP details stock, SARs and RSUs - Stock Titan",
+    "Vulcan Materials (NYSE: VMC) SVP discloses stock and unit holdings - Stock Titan"
+  ]
+}

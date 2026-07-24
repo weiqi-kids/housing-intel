@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T10:18:51.869228Z",
+  "updated_at": "2026-07-24T10:14:28.888726Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "皇翔",
       "ticker": "2545.TW",
       "currency": "TWD",
-      "ar": 193082000,
-      "ar_prev": 149276000,
-      "ar_qoq": "+29%",
+      "ar": 302568000,
+      "ar_prev": 193082000,
+      "ar_qoq": "+57%",
       "ar_period": "QoQ",
-      "inventory": 35619122000,
-      "inv_prev": 34324696000,
-      "inv_qoq": "+4%",
+      "inventory": 36626292000,
+      "inv_prev": 35619122000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "kb_home",
@@ -283,13 +283,13 @@
       "ar_prev": 248308000,
       "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 13301028000,
-      "inv_prev": 12905823000,
+      "inventory": 13715417000,
+      "inv_prev": 13301028000,
       "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ruentex",

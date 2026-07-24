@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-24",
+  "date_range": {
+    "start": "2026-07-18",
+    "end": "2026-07-24"
+  },
+  "generated_at": "2026-07-24T10:14:35.436826Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "pultegroup-2026-07-18-003",
+      "date": "2026-07-18",
+      "title": "PulteGroup stock trades near record levels as housing demand supports margins - ad-hoc-news.de",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 52,
+      "last_week": 27,
+      "week_over_week_change": "+93%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "construction_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "reit_yield": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "caterpillar": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "dr_horton": {
+      "event_count": 10,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "pultegroup": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "saint_gobain": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "lennar": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "toll_brothers": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "vulcan_materials": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cathay_real_estate": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nvr": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "daiwa_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "sekisui_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 217,
+        "last": 186,
+        "change_pct": 16.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-18",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 15,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 33,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 62,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 49,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 33,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 11,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-18 ~ 2026-07-24）共 217 則事件，重點為「PulteGroup stock trades near record levels as h...」。Nippon Steel表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Pulte",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
