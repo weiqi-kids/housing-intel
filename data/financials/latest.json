@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:14:28.888726Z",
+  "updated_at": "2026-07-25T09:43:38.947959Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "國建",
       "ticker": "2501.TW",
       "currency": "TWD",
-      "ar": 1041015000,
-      "ar_prev": 1595788000,
-      "ar_qoq": "-35%",
+      "ar": 750912000,
+      "ar_prev": 1041015000,
+      "ar_qoq": "-28%",
       "ar_period": "QoQ",
-      "inventory": 50981825000,
-      "inv_prev": 51548198000,
-      "inv_qoq": "-1%",
+      "inventory": 47696684000,
+      "inv_prev": 50981825000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "chong_hong",
@@ -109,17 +109,17 @@
       "name": "D.R. Horton",
       "ticker": "DHI",
       "currency": "USD",
-      "ar": 430400000,
-      "ar_prev": 438100000,
+      "ar": 421200000,
+      "ar_prev": 430400000,
       "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 26303800000,
-      "inv_prev": 25606000000,
-      "inv_qoq": "+3%",
+      "inventory": 26686900000,
+      "inv_prev": 26303800000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "farglory",

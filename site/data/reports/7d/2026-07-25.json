@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-25",
+  "date_range": {
+    "start": "2026-07-19",
+    "end": "2026-07-25"
+  },
+  "generated_at": "2026-07-25T09:43:43.798920Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nvr-2026-07-24-035",
+      "date": "2026-07-24",
+      "title": "NVR is land light by design, Q2 2026 reveals the strategy has limits",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 60,
+      "last_week": 27,
+      "week_over_week_change": "+122%",
+      "sentiment_this_week": 0.01
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.17
+    },
+    "construction_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "reit_yield": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "saint_gobain": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "dr_horton": {
+      "event_count": 9,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "lennar": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "toll_brothers": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "vulcan_materials": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "caterpillar": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "cathay_real_estate": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "kb_home": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 9
+    },
+    "pultegroup": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 8
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nvr": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "daiwa_house": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sekisui_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "ruentex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "farglory": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 260,
+        "last": 193,
+        "change_pct": 34.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-19",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 36,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 64,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 55,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 37,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 39,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-19 ~ 2026-07-25）共 260 則事件，重點為「NVR is land light by design, Q2 2026 reveals th...」。Nippon Steel表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Lennar",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 32,
+  "gate2_fail": 20,
+  "passed": 57,
+  "gate2_samples": [
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "New Buy Rating for Vulcan Materials (VMC), the Basic Materials Giant - The Globe and Mail",
+    "Vulcan Materials CO (NYSE: VMC) SVP details stock, SARs and RSUs - Stock Titan",
+    "Vulcan Materials (NYSE: VMC) SVP discloses stock and unit holdings - Stock Titan",
+    "\"It will slowly consume their host from the inside-out, leaving only the essential organs, to keep t"
+  ]
+}
