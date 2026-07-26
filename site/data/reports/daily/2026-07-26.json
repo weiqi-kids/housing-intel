@@ -1,0 +1,150 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:56:24.565718Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock finds support as margin focus follows solid 2024 results - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa21fR29vUVZ2R1JBWXJ2MHVDVFRIdlItVFNlRGpnN2JOVDlzS3g2WE1ibmhaX2tLM0c0ZnVmMjdkUGotNXg1eFQ3ZWxWMTUtRFE5ZkluNWd6cFVsYkdLbDNzTWlMdDY5SHEtQ2VmYlJSSE9vd3ZsQXJsTVVFNkJocVFMcjM4NWlWT2NlTkIzdFhDdWZ3RERhLUwxLW1yVjJ2V2tNN2xON0k2dWZwSWlHR25iT0dlN2FIbnF4SEV5b0Zlc0Vw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kb_home-2026-07-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KB Home (KBH) Looks Fairly Valued As Townsend Launch Tests Its Growth Story - Yahoo Finance",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVhYdi1seTFpNXdRUjRXUnEwWlRZVzJrbmFKNDVXU2c5YVBjRld0YmhKYjdIUFpvSzlMY2x6aF9icnhzZDlLRmZsWnMyaHpTMWkyZ3VSRlN6YWNJaldjSWhNdGNCTHRIT2tOWWg2alhfZWxRUU1Bd3VsZzlWcWtjX0ZGSmZ3dTVmQ1pUSU5hRGVrbUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_horton-2026-07-26-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "D.R. Horton stock trades near record levels as homebuilder extends growth momentum - AD HOC NEWS",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNDNWMUowa1IzMDVZbmpWZlF6MUFMVFFMUkNSZmJsY2hEc19JcHpaU2N6aDBLcy1fUzFOcENGN1hZZGRWbnZxZjl1NGlfY2VvTF9kaW5CakZEcVVIWndwYmVRcDhkdWltZFVMRjFUV2U1NWZHblZaUDlJWjZMUGJpTllmbktnWFZkdXA5ZFpVMk1vOHIyS3ZnVlhENU9uT0E3ZmlQaUF5aERZWjRDUEU4VDNBNVpzRmpSSkhMQW9VOS1lbElGOENRSkZwNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 486,
+    "dup_title": 268,
+    "too_old": 149,
+    "gate1_blocked": 33,
+    "gate2_blocked": 15,
+    "passed": 21,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+      "Vulcan Materials CO (NYSE: VMC) SVP lists shares and equity awards - Stock Titan",
+      "Vulcan Materials CO (NYSE: VMC) SVP details stock, SARs and RSUs - Stock Titan",
+      "The Two Divergent Futures Priced Into Caterpillar Stock - Trefis",
+      "Caterpillar (CAT) Rises Higher Than Market: Key Facts - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班、DR Horton、KB Home相關動態：「Saint-Gobain stock finds support as margin focus follows ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Saint-Gobain stock finds support as margin focus follows solid 2024 results -...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "KB Home (KBH) Looks Fairly Valued As Townsend Launch Tests Its Growth Story -...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

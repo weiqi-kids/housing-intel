@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 268,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 33,
+  "gate2_fail": 15,
+  "passed": 21,
+  "gate2_samples": [
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "Vulcan Materials CO (NYSE: VMC) SVP lists shares and equity awards - Stock Titan",
+    "Vulcan Materials CO (NYSE: VMC) SVP details stock, SARs and RSUs - Stock Titan",
+    "The Two Divergent Futures Priced Into Caterpillar Stock - Trefis",
+    "Caterpillar (CAT) Rises Higher Than Market: Key Facts - Yahoo Finance"
+  ]
+}
