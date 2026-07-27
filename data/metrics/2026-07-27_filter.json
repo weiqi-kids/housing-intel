@@ -1,0 +1,16 @@
+{
+  "total_raw": 488,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 30,
+  "gate2_fail": 18,
+  "passed": 36,
+  "gate2_samples": [
+    "Steeling a cut? 19 booked for ₹5.4cr kickback racket - The Times of India",
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "\"It will slowly consume their host from the inside-out, leaving only the essential organs, to keep t",
+    "The Two Divergent Futures Priced Into Caterpillar Stock - Trefis",
+    "Caterpillar embarks on renovations after purchasing property in Texas - Peoria Journal Star"
+  ]
+}
