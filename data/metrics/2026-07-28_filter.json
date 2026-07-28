@@ -1,0 +1,16 @@
+{
+  "total_raw": 485,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 32,
+  "gate2_fail": 20,
+  "passed": 34,
+  "gate2_samples": [
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+    "Vulcan Materials (VMC) Rises As Infrastructure Story Tests Whether The Stock Is Fully Valued - simpl",
+    "Vulcan Materials Co (VMC) Institutional Confidence - TradingKey",
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "Caterpillar Sues Bluelight Over Autonomy Kits for Rollers, Articulated Trucks - Equipment World"
+  ]
+}

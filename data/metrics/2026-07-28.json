@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-28",
+  "total_events": 9,
+  "by_company": {
+    "vulcan_materials": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "sekisui_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
