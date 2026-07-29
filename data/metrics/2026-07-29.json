@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-29",
+  "total_events": 8,
+  "by_company": {
+    "caterpillar": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
