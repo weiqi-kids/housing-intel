@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:36:04.920674Z",
+  "updated_at": "2026-07-30T10:22:32.587301Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "興富發",
       "ticker": "2542.TW",
       "currency": "TWD",
-      "ar": 1613477000,
-      "ar_prev": 190409000,
-      "ar_qoq": "+747%",
+      "ar": 494886000,
+      "ar_prev": 1613477000,
+      "ar_qoq": "-69%",
       "ar_period": "QoQ",
-      "inventory": 201697250000,
-      "inv_prev": 196308305000,
-      "inv_qoq": "+3%",
+      "inventory": 193775048000,
+      "inv_prev": 201697250000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "huaku",
@@ -348,9 +348,9 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": 197953000000,
-      "ar_qoq": "-2%",
-      "ar_period": "YoY",
+      "ar_prev": 189066000000,
+      "ar_qoq": "+2%",
+      "ar_period": "QoQ",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",

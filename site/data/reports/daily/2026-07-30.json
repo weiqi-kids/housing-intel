@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:22:36.766447Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-07-30-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain Sekurit Q1 Standalone Net Profit Declines to 93.4M Rupees vs 107M YoY - Sahi",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmVuSFYyODR1ejZoSHBCWmZmNTZpS2tDeXo0QVlNVWU3QjlUWmlrX05HeEl1Q3llMmUwUDlKODJSbVFsV09FeVFTZWYxcHJSRFB1UFdjLXVUUHVFdjZjUWpTRGxWVnRfZnJQZ2VVMWlEQTIxQWZaVVNMUlpjNEJ1d25wbjZIbURuTXJTSmlvSWU1bW93SjdHbDFlLV9CRE1LMXU2TzF5U1hOdi14RkJDblFxQlY0V1FnMDFzb0dR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-07-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain Sekurit India standalone net profit declines 12.79% in the June 2026 quarter - Business Standard",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXp1OUhWMzQwWEZBcDJGa2R0bFcwWEY0dWJ6azkwTVdGalpLQVVNd0RmTllDay1TY1FDajJQVWZwMVJuazNjMTlVVGNtai1QVEp2WjUzQi1DNHBlQVRjVnhkQUc0LUxSNE5GZ09zbmFRaFJkVGFERGllc3NKNXo1Z01YeF9PMFdpWnN1anlRMWxJM1FiaXRveW9GamNmQW9sMkI4RklUVmxRYjJ0QjVSQmU4a3VyekVoTEVINzBFaHJuRlMtaHI1U1BZaWRvMWZvSmhQeGpmR2xSRnNQcmhqekVBb3Z2WDQ4UWRaOU9RTUN6c1p3dkNzQzZTLUU0d2vSAYQCQVVfeXFMT3o2X2NQVlhabFp1MXpBSGxKcTRETU5yaThvdk1BcE5aRll5cHJGa1ZaeFRad0cyT0dncXJoLVQxX2dRV2ZkdHhCZE5IdmdhNWsxVTl2eFRadGFPVjJKS1h2dEtwUFR0TGpFYVAySnc4MUJXbkN4NzVEak5wTkZWVk1QMWtFOG9kVlFtY2s5Z1FXTTJRUWk3blExZnhCX2o1c3dsN3BuU0pJRm96OElGNXJIZW9Ja0hZSktKR012VHhPQ3VSNjFITFZfX0JZVFNlWFRENXYyNncwRW1fMTZnS191MV91Q3ZjNVVmYnlOaU8tRE9jRUJhaXdmWS1OamVpZG1UT3g?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crh-2026-07-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRH Reports Second Quarter 2026 Results",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-07-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Caterpillar (CAT) Is Down 12.0% After AI Data Center Demand Concerns And Regulatory Risks - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYTB0VVd6U2tBNHc3cUJSNmFVQnNkQUhQX1BaSE5wNlBnRW1XdE5jZ0VXUzBUaklDc09DaGM4SlRVX3lNVmFJZDhxRHlReEtoNFBxZTQ1Y0VTQ0dJYlRWZndhSTQxaFVrRzc2d2RjVjBPUkJWUmo2VUhXN21GYlBwQUR3dmNxNFB6X01rbEw2M2Z2YTR6dEFaWmkyRnVMSGtPaXdTU19DYmxJaVlQdW1aRTFpTUFrQ0VFSUxGOTh2ejh0aTVXSW9PX0V5ONIB0AFBVV95cUxQdTV5MzdxaG52Y0FhenpSZEZoTmRFLXhCMk1fOTZ4QjhOVnA0QzZjN18wS3E0N0xOMFdmVVBCOTh6LXozNEV5Ulh6cW16cXpJSkw4RGczdHFvVll3eW56THlvT3cwajJnWE10dDJIeWhCa2c3R0plWDJOMDVVS01ydExZcmlTemE0U1cxQm95alc2RjNqTTFHazU0VjMzcnhqSU1QUFNRaVNIM2FOb1ltVm5rSHhfSkY5OTR2SE0yNXh4SFkzenlzYk04UUZ4RDhM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-07-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Sekurit Q1FY26 profit falls 13% despite revenue growth - scanx.trade",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTV8wTjN6bjVTNHpGOUNobWVPVENTcDhjSVRjRlVFTU9MMkszRDlZODI4ZTJrSFE1aE9xOHZsUHVoRzFteXN5VG0taEZaTDhSUEl4UTA2RzBOck9ld0xCRzlYVnlJcHhVZVVJQlBtYjladTZWWDJHLXYzc1V4UFlHMUpUdTJUUkJIZnRLOGZod05ubERPOWpvblpKcFNaQjg1VklSUG5Vb1FmV0ZGUFMtc0U3RWpkMHVwT0pzcDV2LWJzaVZGX0l4Vm42WEtwSXd6?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.36,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 492,
+    "dup_title": 227,
+    "too_old": 162,
+    "gate1_blocked": 31,
+    "gate2_blocked": 23,
+    "passed": 49,
+    "pass_rate": "18.5%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+      "Mexico Wins Case Against Vulcan Materials - mexicobusiness.news",
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Vulcan Materials / Phone Line Registry Advances - mexicobusiness.news",
+      "Caterpillar Stock Downgraded as AI Data Center Pushback Gets Real - Barron's"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為聖戈班、CAT、CRH plc相關動態：「Saint-Gobain Sekurit Q1 Standalone Net Profit Declines to...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Saint-Gobain Sekurit Q1 Standalone Net Profit Declines to 93.4M Rupees vs 107...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain Sekurit India standalone net profit declines 12.79% in the June ...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

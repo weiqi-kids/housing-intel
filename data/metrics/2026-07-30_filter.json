@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 31,
+  "gate2_fail": 23,
+  "passed": 49,
+  "gate2_samples": [
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+    "Mexico Wins Case Against Vulcan Materials - mexicobusiness.news",
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "Vulcan Materials / Phone Line Registry Advances - mexicobusiness.news",
+    "Caterpillar Stock Downgraded as AI Data Center Pushback Gets Real - Barron's"
+  ]
+}
