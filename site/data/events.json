@@ -1,5 +1,61 @@
 [
   {
+    "id": "dr_horton-2026-08-01-001",
+    "date": "2026-08-01",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BlackRock, Inc. Trims D.R. Horton Inc (DHI) Stake -- Shares Rema - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTRGWFBIcUx6WVo3bEtZelBueUtaNnppNGxkdlZrLWZMRjAwMUF5WFkwQkFoTTN4MmwtZTRwbklELWUtZWdvNHpxS3pUa3B3bkRtV3M4emFBQ0s5NHluMnpMSDJXckNQeGlJUG4tNV",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTRGWFBIcUx6WVo3bEtZelBueUtaNnppNGxkdlZrLWZMRjAwMUF5WFkwQkFoTTN4MmwtZTRwbklELWUtZWdvNHpxS3pUa3B3bkRtV3M4emFBQ0s5NHluMnpMSDJXckNQeGlJUG4tNVRhNHZaWDA4Zzhla0M0SVJVb1hzbUcyS2RmcS1Cd1RaR296c0FfTnJOZHpaSWlCSnR5djktcEhObVFpclktRGVXb0U1Z2ZWZkhWNlRqekUzYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-08-01-002",
+    "date": "2026-08-01",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup (PHM) Stock Still Looks Cheap On Mixed Housing Demand News - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2NmbzZPTVczem1zV2V1RlF6WkhXMnM2T1ZHRXFnb0F2RUJnY0dwLWZDYUdvYnptZjNicW1Fa1NIcmxuVTdtVjJoMjlEbVc4YlFuQms2WHA3cVdxVE0tMEo1cldTRHZtMmNMcXhKan",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2NmbzZPTVczem1zV2V1RlF6WkhXMnM2T1ZHRXFnb0F2RUJnY0dwLWZDYUdvYnptZjNicW1Fa1NIcmxuVTdtVjJoMjlEbVc4YlFuQms2WHA3cVdxVE0tMEo1cldTRHZtMmNMcXhKanVXWFhnUENDM3EzdGlkbHR0SDIxaDlpeWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sumitomo_forestry-2026-08-01-003",
+    "date": "2026-08-01",
+    "companies": [
+      "sumitomo_forestry"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sumitomo Forestry Co., Ltd. Revenue Breakdown – TSE:1911 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE53bnFFYnVobHZfaXJPQ1VwbHloZV93VWVGX2lsT1htME5Gc3Y4NU5CZnByZEVLTDdRM2VyWV9GMVpuN3dNam0tbllreUt4bDMzQUJGV04xZ0pzMkdZSnM1TVEwZlYxcDVVOE1waGJGU1",
+    "sources": [
+      {
+        "name": "sumitomo_forestry",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53bnFFYnVobHZfaXJPQ1VwbHloZV93VWVGX2lsT1htME5Gc3Y4NU5CZnByZEVLTDdRM2VyWV9GMVpuN3dNam0tbllreUt4bDMzQUJGV04xZ0pzMkdZSnM1TVEwZlYxcDVVOE1waGJGU1VKUjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "caterpillar-2026-07-31-001",
     "date": "2026-07-31",
     "companies": [
@@ -151,6 +207,563 @@
       {
         "name": "housingwire",
         "url": "https://www.housingwire.com/articles/proprietary-reverse-fee-transparency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-31-009",
+    "date": "2026-07-31",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Asia Cement Corporation – TWSE:1102 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjdkU3M2ODVjMUU4dmc3YVZoV0V6LUdqYTEwTk83eHJBNjZtQVp1WjVLbDl5SUxfUFhSTG1oRkxCXzAyT3k1bWUyY0hLbmZjOU1Ia19yNmVvRG16UUU0WE5BSWJpMU1lbHdVaGNGM1",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjdkU3M2ODVjMUU4dmc3YVZoV0V6LUdqYTEwTk83eHJBNjZtQVp1WjVLbDl5SUxfUFhSTG1oRkxCXzAyT3k1bWUyY0hLbmZjOU1Ia19yNmVvRG16UUU0WE5BSWJpMU1lbHdVaGNGM1JLUXRtaUFhVkpJWTU3ODMyZGd5TDJJM2ZsUmp5NVUwTkhrT0RCMTh4a1JTb0VWYjRqNmJGNGU4a1hJMzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-31-010",
+    "date": "2026-07-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Will Remain an Important AI Stock for a Long Time - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdjVvclNEd0lYajRVajhnZjRtdHJiWEFNQ29seU5Yc2pGcDhfYVlFeW1PQWhTaGdhQTlJYzhzUWxKbGc5azMzazVUSzhBbWhhQlVVb2xYZlQ0VnEzMlFuZEhlTWtJRUpxeUlEQ2NNRD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdjVvclNEd0lYajRVajhnZjRtdHJiWEFNQ29seU5Yc2pGcDhfYVlFeW1PQWhTaGdhQTlJYzhzUWxKbGc5azMzazVUSzhBbWhhQlVVb2xYZlQ0VnEzMlFuZEhlTWtJRUpxeUlEQ2NNRDBLa2sxdHZLT3hkN1hROWZvQzFiN1Q4ZkZzYnplRFRYeTBlWFdWZVA4VlNza0VDNTItSE5aQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-31-011",
+    "date": "2026-07-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Inside Caterpillar's Hands-On Road Builder Pro Training Program - constructionequipment.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORjM3aXJ1ZUJjY3R5eWR6RDNrQkhkWWh6MmNGUFJCQVdCZUNPVEVER3BQQTBzYjVNNG13RS04VVpjd295Q3F6YVlsVXgzcTk2dHRtWVU3dGRySFJsNThQamZiNmFzZlRGRGxXU3VXaG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjM3aXJ1ZUJjY3R5eWR6RDNrQkhkWWh6MmNGUFJCQVdCZUNPVEVER3BQQTBzYjVNNG13RS04VVpjd295Q3F6YVlsVXgzcTk2dHRtWVU3dGRySFJsNThQamZiNmFzZlRGRGxXU3VXaGZoUmVNcmtfUldSbkxNLXVtMTRpMDJySjVGYWZpdWxEaXRJREg3YVNEcEoyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-31-012",
+    "date": "2026-07-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rescuing a loon chick and visiting monarch caterpillars in a white pine forest - Adirondack Explorer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGpYQUlSQUFfcUlIX1FhMkY0Q2lfSVVOVDZQZ2FvN21sRDZMMW8xZ3ZSaXpEZmpXRjZVM1dKZ3FfZjN6Z25qcVNjTVNES2ZOTTBaM2NzZW1DcnFEQzQ4UWd6ZlNweXFDdm9KbVVqOU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGpYQUlSQUFfcUlIX1FhMkY0Q2lfSVVOVDZQZ2FvN21sRDZMMW8xZ3ZSaXpEZmpXRjZVM1dKZ3FfZjN6Z25qcVNjTVNES2ZOTTBaM2NzZW1DcnFEQzQ4UWd6ZlNweXFDdm9KbVVqOUwwcS1FTm5JRnJ3Q09SeTZiT3BRZWZkdGhLVl9SQ3FFbUVqZXdCQ3hJc09VamRJOFliU2FFTHF2SXFCQkVHUHN5WTZSRDh0eEJqSXBZMGVReExjdjdk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-31-013",
+    "date": "2026-07-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar is Set to Report Q2 Earnings: Buy, Sell or Hold the Stock? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbENZTFp6TnRqU1ZTakdfUHpnRTVrSWFXSV8yQXNRaFBMdnR0bXF1YTVaMW84THJWRXB3dUhqbG1waWoxQk5Gak5TVWZObzE2X3hsbTZiSE9Nd1NuSUliZ3dJQ0NKVnVfVENaTHlSdj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbENZTFp6TnRqU1ZTakdfUHpnRTVrSWFXSV8yQXNRaFBMdnR0bXF1YTVaMW84THJWRXB3dUhqbG1waWoxQk5Gak5TVWZObzE2X3hsbTZiSE9Nd1NuSUliZ3dJQ0NKVnVfVENaTHlSdjN6NkpUaTJrUFhFS00zQy1URG9xOWQxeElkLXVCUndsUWdZeWZraVpUU05acVdfTkY2Y0ZWUEhUcmljMTJx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-31-014",
+    "date": "2026-07-31",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Saint-Gobain expands Northborough presence with $30M fire lab - Worcester Business Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSEpROHBxdElQTWhzbG5xTFA3MjBxMjVZVmtpTU5JZVdQYkRQbFhwV05CQm9yZWdaN1RjRjZwNEZVU3RVNU1ablVwZDQ0M19rVVJubnBqUGtIUHhFMWotdHhPRFJPcDVDLXIwN0lXQj",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSEpROHBxdElQTWhzbG5xTFA3MjBxMjVZVmtpTU5JZVdQYkRQbFhwV05CQm9yZWdaN1RjRjZwNEZVU3RVNU1ablVwZDQ0M19rVVJubnBqUGtIUHhFMWotdHhPRFJPcDVDLXIwN0lXQjdJOXcxT3hNWjNrNzdndy1Sa0V5X1pHX25tc1hlUHB1QklDWm9ncVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-015",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint Gobain (ENXTPA:SGO) Stock Draws Focus To Cash Flow And Margins - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLVV2R1lsSzBDRGJOWVVTOWtLN0sydzZWVVRlUW1oRThBdWJ1Y0VtSDB5LVV1djVxSDFTcWFtMkJqeDVBSWdUanN2UTJsSURpZjVPaEhYX0Ryb1BlOE9ranVUVUFfTlpiN0ZZVW15dD",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLVV2R1lsSzBDRGJOWVVTOWtLN0sydzZWVVRlUW1oRThBdWJ1Y0VtSDB5LVV1djVxSDFTcWFtMkJqeDVBSWdUanN2UTJsSURpZjVPaEhYX0Ryb1BlOE9ranVUVUFfTlpiN0ZZVW15dDZkcEs1bWxIMFIxT1ZwazZVSWxVNGEzRkdSSVQ5NVM0OFo1LUtyWlF5S1g4UVBDbW5GWndYMUt5OVdUTmV5MkVpaExhd2pQQUQ4dEo0dlZQWFZ6NEdlcDRIZ0cwUV9vekVzUDBOM1hpa1J5Y0lwQV9FanZBUkZwX1RkbkpaddIB7AFBVV95cUxPLVV2R1lsSzBDRGJOWVVTOWtLN0sydzZWVVRlUW1oRThBdWJ1Y0VtSDB5LVV1djVxSDFTcWFtMkJqeDVBSWdUanN2UTJsSURpZjVPaEhYX0Ryb1BlOE9ranVUVUFfTlpiN0ZZVW15dDZkcEs1bWxIMFIxT1ZwazZVSWxVNGEzRkdSSVQ5NVM0OFo1LUtyWlF5S1g4UVBDbW5GWndYMUt5OVdUTmV5MkVpaExhd2pQQUQ4dEo0dlZQWFZ6NEdlcDRIZ0cwUV9vekVzUDBOM1hpa1J5Y0lwQV9FanZBUkZwX1RkbkpadQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-31-016",
+    "date": "2026-07-31",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Compagnie de Saint-Gobain SA Revenue Breakdown – HAM:GOB - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBtV09nVmNmeTUxTC1MTngwZW5YbWkyZlg2ZmhwbnNxQXV1N1Qwczg3dnVrRGdkQnJHT2p1UHpVeHJTMVc5UmFCVERWdGMyaGs2RGxSUS0zekZKQWMwRkR2TVdfeDVGcTZYYWRENGxEUT",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtV09nVmNmeTUxTC1MTngwZW5YbWkyZlg2ZmhwbnNxQXV1N1Qwczg3dnVrRGdkQnJHT2p1UHpVeHJTMVc5UmFCVERWdGMyaGs2RGxSUS0zekZKQWMwRkR2TVdfeDVGcTZYYWRENGxEUTFaUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-31-017",
+    "date": "2026-07-31",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "France’s Saint-Gobain shares rise despite profits slide - Macau Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcERxY3hVeURncU5JSXBEeHpWLTlabGJZaDRqeHB6X0pVZzRQSVMyZ1REV0pKbXd1dFlaal9Kb1V3R2tDRC1tbmJMY1NOUHBkcUY4a203WVBocmtCRGtLWG9qcE5xemhGa21jZUJmRm",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcERxY3hVeURncU5JSXBEeHpWLTlabGJZaDRqeHB6X0pVZzRQSVMyZ1REV0pKbXd1dFlaal9Kb1V3R2tDRC1tbmJMY1NOUHBkcUY4a203WVBocmtCRGtLWG9qcE5xemhGa21jZUJmRmwyM04yLWdvN2g5Unl6bm1CZTNvamQwNHpo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-31-018",
+    "date": "2026-07-31",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Compagnie de Saint-Gobain SA – HAM:GOB - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVaeS1vMTZpVlAyNDM4OXdDWE53UVhHcHNZaWpvMERheHB1UWo1Sm1CQWQ2OVJUc21lWU1hSFNzWXBMRE5tX3Q1VFRhRWNpZVdvNnBueGljQXJjSmdfWjA3blhqYnFQc1NuMEptU1",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjVaeS1vMTZpVlAyNDM4OXdDWE53UVhHcHNZaWpvMERheHB1UWo1Sm1CQWQ2OVJUc21lWU1hSFNzWXBMRE5tX3Q1VFRhRWNpZVdvNnBueGljQXJjSmdfWjA3blhqYnFQc1NuMEptU1Q4LU1WdFFEckNtQU5raXJZZWprZ2c2WWFJd2dGWHVvUWp1TlU3Snp0aW1NWDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-31-019",
+    "date": "2026-07-31",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain jumps 6% as broad Q2 recovery fuels profit beat - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxObmNiR0VRcGtnakxTTGZIZTN0ZTlGRlVWS1l2anFSZGViVUU4RXc0ZzBSTTZreG40UjRuWGNxelp6bVltZjBRU2FDWEEweU9VcWJTa3dQdnBrcXFIaWswM3BuVjBIZ0RJb05NY2JLNz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmNiR0VRcGtnakxTTGZIZTN0ZTlGRlVWS1l2anFSZGViVUU4RXc0ZzBSTTZreG40UjRuWGNxelp6bVltZjBRU2FDWEEweU9VcWJTa3dQdnBrcXFIaWswM3BuVjBIZ0RJb05NY2JLNzVlQUpZa3U4WFp2SlB3WjFnaUNEaFppZTY2bW1mZmZLUjlSb1RzUDFnTG82RFN2c3M4OW1TUWYycXBZa0Z2V2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-31-020",
+    "date": "2026-07-31",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Berenberg Still Likes Saint-Gobain, Even After A Trim - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGdvakpNVU1ZNkpRdHkwdjI4RVBleHdHcVBFeGwwemEtY3lLYnF4eDJYZHlnWjcyM3JmUTVyY29YRUQ2c09KVkpyUTREcmdSY3pNMDlxY0ZrZ3VDY1BLWnVidFJVRklQRzV3WnREVW",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGdvakpNVU1ZNkpRdHkwdjI4RVBleHdHcVBFeGwwemEtY3lLYnF4eDJYZHlnWjcyM3JmUTVyY29YRUQ2c09KVkpyUTREcmdSY3pNMDlxY0ZrZ3VDY1BLWnVidFJVRklQRzV3WnREVWxlVE54WjlYSUQxYjFEanhSMEdpa3V3bUQy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cathay_real_estate-2026-07-31-021",
+    "date": "2026-07-31",
+    "companies": [
+      "cathay_real_estate"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cathay Real Estate Development Co., Ltd. Revenue Breakdown – TWSE:2501 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE90SVNRVU9LZTdMbThuNmpVYmxlbC0yRUtJYjRmMl9sS1lEeHA2R3N5dVFqSEJGUWVRZ3h3bEU4QzQ0NlVwalIyMjdPbGtaaUt4MUNiZDBGblN4blpkR3JjMFBCTmY4TWVicW4zU3RlMT",
+    "sources": [
+      {
+        "name": "cathay_real_estate",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SVNRVU9LZTdMbThuNmpVYmxlbC0yRUtJYjRmMl9sS1lEeHA2R3N5dVFqSEJGUWVRZ3h3bEU4QzQ0NlVwalIyMjdPbGtaaUt4MUNiZDBGblN4blpkR3JjMFBCTmY4TWVicW4zU3RlMTJQRFNO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-022",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bank Of America Stock And Other Rate Sensitive Names Facing Fresh Fed Risk - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk03YlRoMkRCdHRwNTR6OHFOTE5EMjdjSHI1Ym85TW5PcE14TWZ3bldjLXRUbW0zd3BCT0dfR1JQN2lxRm1vcm9QZG5OZDk4djI3cUI0d0doVWwzcHFrOEwyTGcwT1dWT1VkS21rQ3",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSk03YlRoMkRCdHRwNTR6OHFOTE5EMjdjSHI1Ym85TW5PcE14TWZ3bldjLXRUbW0zd3BCT0dfR1JQN2lxRm1vcm9QZG5OZDk4djI3cUI0d0doVWwzcHFrOEwyTGcwT1dWT1VkS21rQ3lsV3ltOHZuYkJING5BVS1YblQzaGdudkNCeW9JaWlhMzFsenYzajhIZ29uWHNuc0VwM2xMTy1UYlNiN0hKU1hCZlVkMUktOVl4NEZGREIycWNkY2Q2WklRWmN1NDlYVV9LT2lmVdIB1AFBVV95cUxPSk03YlRoMkRCdHRwNTR6OHFOTE5EMjdjSHI1Ym85TW5PcE14TWZ3bldjLXRUbW0zd3BCT0dfR1JQN2lxRm1vcm9QZG5OZDk4djI3cUI0d0doVWwzcHFrOEwyTGcwT1dWT1VkS21rQ3lsV3ltOHZuYkJING5BVS1YblQzaGdudkNCeW9JaWlhMzFsenYzajhIZ29uWHNuc0VwM2xMTy1UYlNiN0hKU1hCZlVkMUktOVl4NEZGREIycWNkY2Q2WklRWmN1NDlYVV9LT2lmVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-31-023",
+    "date": "2026-07-31",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB HOME OPENS AURORA, A NEW COMMUNITY WITHIN ONE LAKE, A DESIRABLE MASTER PLAN IN FAIRFIELD, CALIFORNIA - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGlFUlVZcFRUdWlwX2N1NlF4WE9mVEE0SExWVDZzSVkydEEzeXMyOUlMMnh3cV9qdzF6WktNUHVEcWpNMXlpY3NOdDYtT0FLZjVXX0lsY010MExTZ2JycVMweWxORmhwQVQtNXN3T0",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGlFUlVZcFRUdWlwX2N1NlF4WE9mVEE0SExWVDZzSVkydEEzeXMyOUlMMnh3cV9qdzF6WktNUHVEcWpNMXlpY3NOdDYtT0FLZjVXX0lsY010MExTZ2JycVMweWxORmhwQVQtNXN3T0pmVnhMdzZnM1NUR1hpQmp2cGRseFlycmptSHI4d0NUTHBIVjJvYUJHeVQ3dlRESEtielNRZjdqdy1PMnFkMW1QVlRVVkRSemFFT1hScnpmYk1xaEJ6Vk8yR19hX0lrcEh4cnVGZ0t0dlBVZ2V0M2FVUjdLQ1ZLdnotTW5mcUtlZFB5bEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-31-024",
+    "date": "2026-07-31",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Home Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5eWh5dEhHZWpRNUVTOW41Q3dVZncxS1NFZV84V0RUM1N5X0loNE1LMTU3V3J1eU1rbFhjbGM3U2ZTcG9QNjByZHNQUlV6eDVLZDZvOXAyVHFyb1d2ODBUdWJRVXBrQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5eWh5dEhHZWpRNUVTOW41Q3dVZncxS1NFZV84V0RUM1N5X0loNE1LMTU3V3J1eU1rbFhjbGM3U2ZTcG9QNjByZHNQUlV6eDVLZDZvOXAyVHFyb1d2ODBUdWJRVXBrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-31-025",
+    "date": "2026-07-31",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB HOME OPENS ELOWEN: NEW TOWNHOMES FROM THE $390Ks IN LAS VEGAS - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3FldG1BWDlJUHh1Q2R0emJnOElJUXZicG5mTGRLcmV0QVhQVVNObUg1dTZlY1NhYnBBUVNjbUFnc0JiY1VieWdmdWN0aFgzWVc1UDBrOVJra1dub3hBUWZFNm1OVEppSHI0ZUhKcW",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3FldG1BWDlJUHh1Q2R0emJnOElJUXZicG5mTGRLcmV0QVhQVVNObUg1dTZlY1NhYnBBUVNjbUFnc0JiY1VieWdmdWN0aFgzWVc1UDBrOVJra1dub3hBUWZFNm1OVEppSHI0ZUhKcWVNeFJENWcwd0hxdjNYa1BtX29kLVF5TnpKYUJWdkluRGx1RHYxY3hpMXhoYXd2aGpzQ0JINnRycTVKQmx0MEZwNTF1ZlZDcjNQTnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-31-026",
+    "date": "2026-07-31",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vanguard Portfolio Management (NYSE: KBH) discloses 5.21% beneficial stake in KB Home - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWZqNmx6N0kwMlljeTNhS3h0VFpLWHF5MjVzSXZxQkxJUm9OQVIyMHJNUlBYRFhtSHR2OTczdjZjZldlNk0xcGxFY3lKa1RrRm5ENVJSdGthdnk1SkNFb2E4bEd2TXFhZjVUZ3RLdW",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWZqNmx6N0kwMlljeTNhS3h0VFpLWHF5MjVzSXZxQkxJUm9OQVIyMHJNUlBYRFhtSHR2OTczdjZjZldlNk0xcGxFY3lKa1RrRm5ENVJSdGthdnk1SkNFb2E4bEd2TXFhZjVUZ3RLdW1hMGpYNnd1a0l5ZnJaNGZmZjVIUnBsYlpsMkRsQnY4MUNjTG1tazlLLVJTbnVURzNMZ3ZickwzRzdWakpIbzhfSTY2OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-31-027",
+    "date": "2026-07-31",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vanguard Capital Management (KBH) discloses 5.11% beneficial stake in KB Home - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDhuVkxfalN2b2ZhYjhfaTBWWjAwbldwX004RVE1R0dJaXFCSEI0akFBWGU0dVc3Uk5nM2RDX0xLcWhYWEpRQThTUFdxUjdwNC1WVGNWd0k2UVBydWZjZVZzdG1UMWNqZVlwdkZUcm",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDhuVkxfalN2b2ZhYjhfaTBWWjAwbldwX004RVE1R0dJaXFCSEI0akFBWGU0dVc3Uk5nM2RDX0xLcWhYWEpRQThTUFdxUjdwNC1WVGNWd0k2UVBydWZjZVZzdG1UMWNqZVlwdkZUcmRETmVSalc1NWNaNll0UnMyN0Z5U0JPZkk1Rk10aEZYUTd0TWIyenpUSkxpa0dtZUlkM1ljdnJfa2ZxOF9nazE5bk5nZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-028",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "New Fairfield homes offer lake amenities and up to 5 bedrooms - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFNfNVJrWWpfY0J4MDJha08xYW9UaElsd1pCQ1Vpcm9jd3R3VzI0TnpBcGJsUU1yRHVGdFRfek1yNkRrbEEzR0x4WlVrd3VxWVJ1LTMxSkJ4Zkp3WVZuNkxJbmdEYl9sVXU3SXJzcV",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFNfNVJrWWpfY0J4MDJha08xYW9UaElsd1pCQ1Vpcm9jd3R3VzI0TnpBcGJsUU1yRHVGdFRfek1yNkRrbEEzR0x4WlVrd3VxWVJ1LTMxSkJ4Zkp3WVZuNkxJbmdEYl9sVXU3SXJzcVlHQk1QNkhoVEQ3ZlpEQVdkajc4SkhCaExkaUdBYVpVU0NJY29WYl94ajV0clNJM1g3QnNsZ1BMRVJRUG5OeWNTTGppVjQ3MzBoc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-31-029",
+    "date": "2026-07-31",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KBH|KB Home|Price:56.370|Chg%:-0.670 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTZ0JTWjNBSTQ4cmlVNTh6bkV1eld6UmR3MVpFdU9ZTkRxc2pQLWxNekRKenFpRUJZRXAyYzN6NXRzeEh1b3lYalJUVXhvR2lub2JsU3NPTFo?oc=5\" target=\"_blank\">KBH|KB H",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTZ0JTWjNBSTQ4cmlVNTh6bkV1eld6UmR3MVpFdU9ZTkRxc2pQLWxNekRKenFpRUJZRXAyYzN6NXRzeEh1b3lYalJUVXhvR2lub2JsU3NPTFo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-07-31-030",
+    "date": "2026-07-31",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Daiwa House Industry Co Ltd (DWH) Q1 2025 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTRJZk52bDZxVDU3MjI3N3RzVnRNWGg4a3VuZ2VCTWV6S3dmU0d1WjRJby1qYlkzVk85ODJQMUhETHVXSjNERFdWN2FfdU9oZjRwSi14TE9wdnZRLWY5V2hzYm8zM3RFZm5VSkpfQ2",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTRJZk52bDZxVDU3MjI3N3RzVnRNWGg4a3VuZ2VCTWV6S3dmU0d1WjRJby1qYlkzVk85ODJQMUhETHVXSjNERFdWN2FfdU9oZjRwSi14TE9wdnZRLWY5V2hzYm8zM3RFZm5VSkpfQ21yUXJnUmN0X2E5RldpR05Bc1Utdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-07-31-031",
+    "date": "2026-07-31",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Daiwa House Industry Co Ltd (DWH) Q3 2025 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmVYUkhlQXBXdVhnQ01palo3VHhNSF9ybnJDYlpQYlJTNW1Da2ZueTFFaERlcTBJcDcxanhWeXhuTVdpSmI2UlRXSnQ3THpGeFhUOUlvZmh4c1N4d2YwcmdnVVV6MTlzd3ZpSmhoU2",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmVYUkhlQXBXdVhnQ01palo3VHhNSF9ybnJDYlpQYlJTNW1Da2ZueTFFaERlcTBJcDcxanhWeXhuTVdpSmI2UlRXSnQ3THpGeFhUOUlvZmh4c1N4d2YwcmdnVVV6MTlzd3ZpSmhoU2dHM0NFWlQ5d1dYaGVMRFE1LWNRcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-07-31-032",
+    "date": "2026-07-31",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Daiwa House Industry Co Ltd (DWH) Q3 2023 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9taWwySUJLUjdKOC1fVTliS0dPRE5ia21tWnZ4TVJ6VjN5MFVmMUdESGRUeHkzWVpZakpZZldWQ3FUcXFyamhvWDJ2bWk0eEpUMnl5U3RzVmx6QVAzNTlZcXVZYmltMk1jUDhUM1VQQQ",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9taWwySUJLUjdKOC1fVTliS0dPRE5ia21tWnZ4TVJ6VjN5MFVmMUdESGRUeHkzWVpZakpZZldWQ3FUcXFyamhvWDJ2bWk0eEpUMnl5U3RzVmx6QVAzNTlZcXVZYmltMk1jUDhUM1VQQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-033",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Green Brick seizes a margin edge as a land and product outlier",
+    "summary": "Green Brick Partners posted a 29.8% Q2 gross margin, up 900 basis points, as the Trophy Signature Homes brand keeps growing.",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/green-brick-partners-q2-2026-earnings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-034",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "neutral",
+    "title": "Fed hawks are on the war path, sending mortgage rates higher",
+    "summary": "The 10-year yield hit 4.74% and mortgage rates rose to 6.83% as Fed hawks signaled multiple hikes and oil rose above $84.",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/10-year-yield-fed-hawks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-035",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ICE posts strongest quarter for mortgage tech since 2022",
+    "summary": "ICE Mortgage Technology posted $557 million in Q2 2026 revenue, up 5% year over year, with $45 million in operating income and an 8% margin.",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/ice-mortgage-tech-557m-q2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-036",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Granite targets rail, roads and data centers amid growing backlog",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4YZtmHl0D-v__q0yPngut0cPpdxeZ98UxM8TNw0Sdk4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MjU0MjU3LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/granite-construction-Q2-2026-earnings/826673/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-037",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NAIL Is a Coiled Spring on the Housing Recovery. Here’s the Catch - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVEtX1lGOE5YaTlnQndCdXZxSU1vUG8xUHhDVVFYM0hyVFludmxXRzdIZG5PSHZmamhzcV9KVmFOc2owSWVRQXdwaHJtMW13Ry1kVFVfYnQ3VGpoQ1REWEFkeDRER0pmZ3lLNjRscm",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVEtX1lGOE5YaTlnQndCdXZxSU1vUG8xUHhDVVFYM0hyVFludmxXRzdIZG5PSHZmamhzcV9KVmFOc2owSWVRQXdwaHJtMW13Ry1kVFVfYnQ3VGpoQ1REWEFkeDRER0pmZ3lLNjRscmc1ZUdpUVhrNnpORGR5akpQRE10VjZaZWZyTml3Qml6TEwtMV9EZVdpUGJ2RWJ2MDJvWXZ4dDVmQlZFZHBwZE1uNQ?oc=5",
         "type": "rss"
       }
     ]
@@ -710,6 +1323,180 @@
       {
         "name": "google_housing_market",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUFTRFlhQV9TbEt4cVJNMzN3NDRyWnEzelZsUFZLRmNGNU96QklQSGNqdUdBTzZSYWxDbzdoNW1naHZycVgwVmgta194R3BHbnhXVXVUTFpPRFM1XzBDZXR6bDB6NXFNMFBwSk9ERGZNRVFVZEtKRFl2dkFxQU9GcEVqZUJTaW0teDRRcnVUVFU2em1RUUVFdVpUbDQ2TzZrandjNEpLZlVDekNnd2Njc09OR3QxUzdySDN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-30-030",
+    "date": "2026-07-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why Caterpillar Is a Buy Before Earnings - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlRCVEF0VWhEdl8teTR6enlpVlpkcWt6YWFzZS14YXBRYnF2TGtfSENkdnBaSHVFcFpMNldQZk9WT25fVXlnaDZ6WjRtempwUUV2UVJKazNfSy1CVkV5NmhGXzNoakQ5Q0NPeW81SU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlRCVEF0VWhEdl8teTR6enlpVlpkcWt6YWFzZS14YXBRYnF2TGtfSENkdnBaSHVFcFpMNldQZk9WT25fVXlnaDZ6WjRtempwUUV2UVJKazNfSy1CVkV5NmhGXzNoakQ5Q0NPeW81SU4zaURZbHk4RXhVQWhRNDM5VkZ0bjE0Tmd0dGtwN0FSOHBnSmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-30-031",
+    "date": "2026-07-30",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Saint-Gobain Expands Northborough Innovation Hub with Opening of the Company’s First North America Fire Testing Lab - businesswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGJPR0toZGNkZ3VDWVpDUmREQ0VON1pQZkEySUFTV3lXZUFZLTFTVzVRX0VuZnU4bXdBZGxKR2NfR2J1RDVQQVJvdDg3OHpqTjRKSEZqcENZby1aQkVJbWMtVFA4U2hwVFYwTGNhVz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWGJPR0toZGNkZ3VDWVpDUmREQ0VON1pQZkEySUFTV3lXZUFZLTFTVzVRX0VuZnU4bXdBZGxKR2NfR2J1RDVQQVJvdDg3OHpqTjRKSEZqcENZby1aQkVJbWMtVFA4U2hwVFYwTGNhVzB3aVI5OVZBS0dzemRIRGh3SFdQTGtUSXRlV0tpRzdxb20yZjVKREhNWHhkY0NabGNOamxJU1RVNTFzM0RfRm5UbmdNT3dlRVNCOUNfbWExQTc5cXlNSWtlVG1LLTN0QldWcFVwczg4eW80cUczNnEwVllJemMwYUxVSWNIX2lZeDRYUGtuemJ1ZTNkNWUxVXdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-07-30-032",
+    "date": "2026-07-30",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Saint-Gobain rises on second quarter sales growth acceleration - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGRhY3BuU1J4a0RRMURwdFJLUktXYzRsV3pRcmZSRHZ1dURrbXowb0dWdm40bWlqRHUzTHRwZGlJVzBVODJkNlU1R2hYU1NmX1pHOXFuanR2ZE5oYXVmeVVxUTRvbWdvY3ZyVWd2Rn",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGRhY3BuU1J4a0RRMURwdFJLUktXYzRsV3pRcmZSRHZ1dURrbXowb0dWdm40bWlqRHUzTHRwZGlJVzBVODJkNlU1R2hYU1NmX1pHOXFuanR2ZE5oYXVmeVVxUTRvbWdvY3ZyVWd2RnpoQ0NDZFhqWGZpbHlPandCSm5XS0hSUm5pQkhKemlSZWtEb1RxZU5aLVVOUkd4eHVRejU1WURDcU5WTktrRXh2ZUh5VkFBZEZK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-07-30-033",
+    "date": "2026-07-30",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkxTZDFtT2V0VlY4SlczNWNpSmpGTzRwNklVUDI4Q1VHaU1ra3BjWmRHWkRpRzZiRk81N2FEN3I3ZG1WZjM3b3pEdzNVR1Z3ME9idkhQU0tjWkRsaFlRdzRwVHFWNFdDbmQxeTg0a0",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkxTZDFtT2V0VlY4SlczNWNpSmpGTzRwNklVUDI4Q1VHaU1ra3BjWmRHWkRpRzZiRk81N2FEN3I3ZG1WZjM3b3pEdzNVR1Z3ME9idkhQU0tjWkRsaFlRdzRwVHFWNFdDbmQxeTg0a0tVS2RrTkVvMk5veGtVSkxNWGdQT2xpVzVRU1YtaWp2UWpJdGMwTXJYQ2tRMXpVSzliRDJ1UEVlYUFBZGJLZTZ3T2ZNTWMxTW1KX0tHeHRCQ2o1TGUxelE0Q1BPZnA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-034",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PHM Company (NYSE: PHM) files Form 144 for 1,165,000-share stock sale - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMi0wZTQ1R0U5eTJXREVFUVRqZVNXeDZTenlqMjlZTnZQalJwMXJNUFVzaGxSamNkeTROMHNXN3BLOXF6TWxXcGJUbGV5S3ZZSnpUVHBablVIZlV0alp3T3VNbzd4d0doSXBHd2c2OG",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMi0wZTQ1R0U5eTJXREVFUVRqZVNXeDZTenlqMjlZTnZQalJwMXJNUFVzaGxSamNkeTROMHNXN3BLOXF6TWxXcGJUbGV5S3ZZSnpUVHBablVIZlV0alp3T3VNbzd4d0doSXBHd2c2OGlDX2UzRTczTlN2dGE0OVpVWnExT2hldnZLcVVvTGxVNnJULTJydXhaVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-07-30-035",
+    "date": "2026-07-30",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Home (KBH) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWIzMmJ5Q3lLUGdzLXp2NzdKS0I3d0hxSWZWbnRIbmhsbkZZVkN2RFFCUGRfbXJWWExvZ09PZnNmd3oyS0tRazVVbXRKeGl1UmpUaDV4QTdqSFZ5X3RnVTB2MTY0MURQUVdKb182bH",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWIzMmJ5Q3lLUGdzLXp2NzdKS0I3d0hxSWZWbnRIbmhsbkZZVkN2RFFCUGRfbXJWWExvZ09PZnNmd3oyS0tRazVVbXRKeGl1UmpUaDV4QTdqSFZ5X3RnVTB2MTY0MURQUVdKb182bHhDQXJhMXJlaTl2UHg3MzNRaGNBZ3JRUVpheGJiRkZFX1hjZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-07-30-036",
+    "date": "2026-07-30",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Daiwa House Industry Co Ltd (DWH) Q4 2025 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5sSnlnbmg3VWlDNzBxTFppcE9WS2ZCbWh0SHc3VnpyNl9rM1Q1SnRnQnUyamp1TkRYN1l5ODd4aUx6RDA1cEIwN3p6RkxoUXNFUTFRd1FSVnJzZUh4akcteVJIdFlYR2N0Q19wMHYwTQ",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sSnlnbmg3VWlDNzBxTFppcE9WS2ZCbWh0SHc3VnpyNl9rM1Q1SnRnQnUyamp1TkRYN1l5ODd4aUx6RDA1cEIwN3p6RkxoUXNFUTFRd1FSVnJzZUh4akcteVJIdFlYR2N0Q19wMHYwTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-07-30-037",
+    "date": "2026-07-30",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Daiwa House Industry Co Ltd (DWH) Q2 2025 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE81ZGtUeW9HWHczbnlIWi1NVVFzWk9WdVVtZmJhY0JJMThoZ3BGemhJdVBscTI2NE4xNFkyb3VvTDFBYzAxclZ0OHBiX2FzLTA3Z3cwdFhfbEZEVTVXWVFpTXJCRUF0Um9NcS1jTmpicw",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81ZGtUeW9HWHczbnlIWi1NVVFzWk9WdVVtZmJhY0JJMThoZ3BGemhJdVBscTI2NE4xNFkyb3VvTDFBYzAxclZ0OHBiX2FzLTA3Z3cwdFhfbEZEVTVXWVFpTXJCRUF0Um9NcS1jTmpicw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-07-30-038",
+    "date": "2026-07-30",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Daiwa House Industry Co Ltd (DWH) Q2 2024 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9yUlJqWnllUmswWGxCQ0t1alZKczVuWm5GVENKbzljMi1KZHROdXMtWGs2dzBDYVdOc25vTWtSTnpSX0FNcUVUVHhNbzVxSDRIODc3ZGZqNUhFTGNvMjdyamxYSE1tS0pzb012SkxRaw",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yUlJqWnllUmswWGxCQ0t1alZKczVuWm5GVENKbzljMi1KZHROdXMtWGs2dzBDYVdOc25vTWtSTnpSX0FNcUVUVHhNbzVxSDRIODc3ZGZqNUhFTGNvMjdyamxYSE1tS0pzb012SkxRaw?oc=5",
         "type": "rss"
       }
     ]
@@ -1802,6 +2589,84 @@
     ]
   },
   {
+    "id": "caterpillar-2026-07-29-057",
+    "date": "2026-07-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Dow's 850-Point Fall Led By Losses For Caterpillar, Boeing Shares - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlhfdzdkekFEUlQ2WDRVdWRkSUc3VFFmUXdnUWxzZ1NGM1dIRzRDS0MxNG9udGFueWNuRGVkR0xuQmFxTVp3WU1UaDlKWFpKSHpxUFJyZTZ6MTNnS2hlSHhTaDBzcDhIQjYxdjVjUE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlhfdzdkekFEUlQ2WDRVdWRkSUc3VFFmUXdnUWxzZ1NGM1dIRzRDS0MxNG9udGFueWNuRGVkR0xuQmFxTVp3WU1UaDlKWFpKSHpxUFJyZTZ6MTNnS2hlSHhTaDBzcDhIQjYxdjVjUEgydGlCYURwa2Y5OVRKVFhPRlRNVGE1amNNRENJX3IyeUFEb3hhZTY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-29-058",
+    "date": "2026-07-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar metamorphosis into a monarch butterfly presented - Encyclopedia Britannica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbF95eFM4MGpieGFycVRpRktFQ0xiNDFzaFZRVGdJV1k2eU9PbUdzMGZ0OHVlOHV6NHEzbC1PdXg2S0J1NlVKdG13X2VVVUQtdEJKUmx3cmlTRm1jVzk1VVFRTFN3QlBoeTBKeml4a3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbF95eFM4MGpieGFycVRpRktFQ0xiNDFzaFZRVGdJV1k2eU9PbUdzMGZ0OHVlOHV6NHEzbC1PdXg2S0J1NlVKdG13X2VVVUQtdEJKUmx3cmlTRm1jVzk1VVFRTFN3QlBoeTBKeml4a3JQak02YjFF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-07-29-059",
+    "date": "2026-07-29",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Opens Cambric Village - Enclave Collection in Greenville, South Carolina - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHdRcE1LdmVOVEFwSXBiSGZ6YnR0TTA2UjE1UW5kX3A1M0ZNOGd2V2N3OWVJZXBvNmQ3STQxbUFIaUJZNVhzelJsLVFNbUF5U21CNjRKcE50OHBTaTZCX3lURW9KSVlPQ2UwbElRWF",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHdRcE1LdmVOVEFwSXBiSGZ6YnR0TTA2UjE1UW5kX3A1M0ZNOGd2V2N3OWVJZXBvNmQ3STQxbUFIaUJZNVhzelJsLVFNbUF5U21CNjRKcE50OHBTaTZCX3lURW9KSVlPQ2UwbElRWFZvY05BclBKcjN2VEQ1N1d4b0RwX3FoYzhHbTcxMjlqLVNhbnZXd1FGUTFGTTlIV0sxNzV4UVZBMUJZbWlDR0ZzQmNwTFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sekisui_house-2026-07-29-060",
+    "date": "2026-07-29",
+    "companies": [
+      "sekisui_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sekisui House Ltd (1928N) Q4 2023 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8tVjF3LU43UTFjOER1M21KZHcwZXp0VFJPaEJPWTVMMVF3akFIREd0UG5TTkRNVXRBNGtUZWFuVFB4dGpzMHItWlhSNzhORXpJZm5vWFRsbFVCeHZVaXprNjR2NjNidkpsTndJa25TUX",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVjF3LU43UTFjOER1M21KZHcwZXp0VFJPaEJPWTVMMVF3akFIREd0UG5TTkRNVXRBNGtUZWFuVFB4dGpzMHItWlhSNzhORXpJZm5vWFRsbFVCeHZVaXprNjR2NjNidkpsTndJa25TUXFiZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan_materials-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -2513,6 +3378,24 @@
       {
         "name": "sekisui_house",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGJRdERPbDExNzB4NHVfTlB4cUdIMlRnaWpueU5XcTVYNVZHS3MxcWlMOUtNQ3FhaUNCYUtFMjRFSkZCRy1YcmcwbXhWQ0Y3cWF0WkRXRlNoRXFKdnhtd0VWZW9NeUtXRkZrQnl4dFJINEpSVkZZV1B5V1FTem95bURlM1J6VG91dnpuRkEwc3dKbUZoZVlCRjRpNUJaXy1pMTQzMDRNTGR6Y0dzQ2VfOFYtN0ZDc1JjVGFhVThhVThfUGRyVzFZOGtDMlZpZmZVRHdVUkY2bjRTdDFkaVHSAeMBQVVfeXFMUHl4R0hwRXdRUkJ1eDZ2OHBUdXJnM0RaSGJsNGhMVllsZ3M2MDFSMHRDR1JvcnNORGZMRndOd05WRG84VFNKMkRMNmFiYlFKVVp2TEhndWoxem1hYVJsV3ZfbWczV2JaNmZNTTMyd1BvNlp3VFNXS0NISW5tZjZoU0txSzdxTDZPbDFHMko4OFlRTUdpVFpYdWFvWkJUSTZlVzRXemFNZlA4aFFlNXp6UENKOFdxUjB2UU8xb01GQTc1STdWLVUxSXBzUGxoM0pjcExWSk04STRReEtoSVpWVzgxMU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sekisui_house-2026-07-28-039",
+    "date": "2026-07-28",
+    "companies": [
+      "sekisui_house"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sekisui House U.S. CEO David Viger on bringing Japan-inspired resiliency to U.S. homes - housingwire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWk1Y0lCd29QVU9Sb2hacU1sZTJqcFY1VHliaGRoUXRMVEpUTnp6ekV0QmNfbjJUWTljbnJOd0I5WjFGSFVlY1MzN1B0N2FITURIYVdSNlNhMk9yTEtobmo5RXhSRmU2NFFWZEdkQT",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWk1Y0lCd29QVU9Sb2hacU1sZTJqcFY1VHliaGRoUXRMVEpUTnp6ekV0QmNfbjJUWTljbnJOd0I5WjFGSFVlY1MzN1B0N2FITURIYVdSNlNhMk9yTEtobmo5RXhSRmU2NFFWZEdkQTRtNUhwVGlRX0lTa2VLQnp4eGRYWDhLaGxwWVptZ2Y4dEdvRXprUzFrNEFJM1ZHNjZWb0dlVVJOdmtlQnFMNllmbzRHMGk0V19VdWlJV0JoYVZibmlT?oc=5",
         "type": "rss"
       }
     ]
@@ -3564,6 +4447,24 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2YwNU5KWkZXT2Z4UGRSRzAyYzk2eEFkclc4X2RGUVZTcEpNT0hMaFJTSFQ0TndGSGRUSFdrNVhRQ2s0LVJzcU9kaFRra21mOUxqNkVqTW9KTmpmbF9jSXZicGVlVmZzMlcxV2M3SDZ2LWRZaXU1U2VudWtCcjktenotUU5kZ09IdUtfMXlOT0E0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-26-026",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Builders Look to Nature for Alternatives to Brick, Steel and Concrete - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNbklFVG1HaWp5YUg4ZkJ5VkMxdUZzVDJIdGxQVlJ2Q2NrVzYxbnhzTDFoVnhXd0pkU0d3a25LTnk1cjNBUmZOSDN1RzhST3JmN2FVSG1YelRBVnpMcUVMYkZOM29xU0RseGhCTHhSdj",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbklFVG1HaWp5YUg4ZkJ5VkMxdUZzVDJIdGxQVlJ2Q2NrVzYxbnhzTDFoVnhXd0pkU0d3a25LTnk1cjNBUmZOSDN1RzhST3JmN2FVSG1YelRBVnpMcUVMYkZOM29xU0RseGhCTHhSdjMybElXSEluMUR5Vm9YMmRXdmViMV9PamRmdVlpQ2tVRlREbmpiU1E1N2F4V2NlMnA4WUpJejk2RFJOVkFuQ3pMUmVUczcxbEF4X1FMOFUtTE5YY3RVYmxtSF81MA?oc=5",
         "type": "rss"
       }
     ]

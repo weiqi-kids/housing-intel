@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:56:18.765388Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sumitomo_forestry-2026-08-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sumitomo Forestry Co., Ltd. Revenue Breakdown – TSE:1911 - TradingView",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53bnFFYnVobHZfaXJPQ1VwbHloZV93VWVGX2lsT1htME5Gc3Y4NU5CZnByZEVLTDdRM2VyWV9GMVpuN3dNam0tbllreUt4bDMzQUJGV04xZ0pzMkdZSnM1TVEwZlYxcDVVOE1waGJGU1VKUjQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dr_horton-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock, Inc. Trims D.R. Horton Inc (DHI) Stake -- Shares Rema - GuruFocus",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTRGWFBIcUx6WVo3bEtZelBueUtaNnppNGxkdlZrLWZMRjAwMUF5WFkwQkFoTTN4MmwtZTRwbklELWUtZWdvNHpxS3pUa3B3bkRtV3M4emFBQ0s5NHluMnpMSDJXckNQeGlJUG4tNVRhNHZaWDA4Zzhla0M0SVJVb1hzbUcyS2RmcS1Cd1RaR296c0FfTnJOZHpaSWlCSnR5djktcEhObVFpclktRGVXb0U1Z2ZWZkhWNlRqekUzYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pultegroup-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PulteGroup (PHM) Stock Still Looks Cheap On Mixed Housing Demand News - Yahoo! Finance Canada",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2NmbzZPTVczem1zV2V1RlF6WkhXMnM2T1ZHRXFnb0F2RUJnY0dwLWZDYUdvYnptZjNicW1Fa1NIcmxuVTdtVjJoMjlEbVc4YlFuQms2WHA3cVdxVE0tMEo1cldTRHZtMmNMcXhKanVXWFhnUENDM3EzdGlkbHR0SDIxaDlpeWdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "sumitomo_forestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 494,
+    "dup_title": 218,
+    "too_old": 162,
+    "gate1_blocked": 36,
+    "gate2_blocked": 31,
+    "passed": 47,
+    "pass_rate": "17.0%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+      "Vulcan Materials (VMC) Stock Faces Valuation Questions After Resilient Margins - simplywall.st",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為DR Horton、Pulte、Sumitomo Forestry相關動態：「Sumitomo Forestry Co., Ltd. Revenue Breakdown – TSE:1911 ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sumitomo Forestry Co., Ltd. Revenue Breakdown – TSE:1911 - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "BlackRock, Inc. Trims D.R. Horton Inc (DHI) Stake -- Shares Rema - GuruFocus",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

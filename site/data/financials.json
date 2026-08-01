@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:36:00.840667Z",
+  "updated_at": "2026-08-01T09:56:13.596815Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "CRH",
       "ticker": "CRH",
       "currency": "USD",
-      "ar": 4380000000,
-      "ar_prev": 4296000000,
-      "ar_qoq": "+2%",
+      "ar": 5534000000,
+      "ar_prev": 4380000000,
+      "ar_qoq": "+26%",
       "ar_period": "QoQ",
-      "inventory": 5058000000,
-      "inv_prev": 5251000000,
-      "inv_qoq": "-4%",
+      "inventory": 5103000000,
+      "inv_prev": 5058000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "daiwa_house",
@@ -348,9 +348,9 @@
       "ticker": "1911.T",
       "currency": "JPY",
       "ar": 193791000000,
-      "ar_prev": 197953000000,
-      "ar_qoq": "-2%",
-      "ar_period": "YoY",
+      "ar_prev": 189066000000,
+      "ar_qoq": "+2%",
+      "ar_period": "QoQ",
       "inventory": 1049006000000,
       "inv_prev": 948815000000,
       "inv_qoq": "+11%",
