@@ -1,0 +1,16 @@
+{
+  "total_raw": 497,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 33,
+  "gate2_fail": 28,
+  "passed": 25,
+  "gate2_samples": [
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News"
+  ]
+}

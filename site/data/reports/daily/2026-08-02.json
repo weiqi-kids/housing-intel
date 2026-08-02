@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:54:05.122217Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 497,
+    "dup_title": 256,
+    "too_old": 155,
+    "gate1_blocked": 33,
+    "gate2_blocked": 28,
+    "passed": 25,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+      "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-02 無房地產產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
