@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-03",
+  "total_events": 11,
+  "by_company": {
+    "caterpillar": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
