@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 39,
+  "gate2_fail": 32,
+  "passed": 40,
+  "gate2_samples": [
+    "Nippon Steel’s US Steel Bet Is Paying Off - finimize.com",
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R"
+  ]
+}
