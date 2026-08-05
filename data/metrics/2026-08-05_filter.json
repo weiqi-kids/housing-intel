@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 34,
+  "gate2_fail": 33,
+  "passed": 43,
+  "gate2_samples": [
+    "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Vulcan Materials (VMC) Stock Faces Valuation Questions After Resilient Margins - simplywall.st"
+  ]
+}
