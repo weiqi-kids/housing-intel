@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:36:01.046382Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCC reportedly favours London for European IPO - CemNet.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzI2WllsUEE2OE9oS05HeXVhS2prQm1CR2psb0M2NzFlMnZ2R2kteC03dDdaSWFEWGpEcmdoS1h1RkdHTDRldy1YRjJFZ2h6WEE0YU4wUi0tSDlzTWJma3YyMWVEMGhvdU1ldm10Nl9zcUl0VTZZbnVjQ2d5ZFo5dGlRVlRwUzJKbTlMRlB4MTc4T3JHNFVv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Electrical Steel Market Set to USD 75.47 Billion by 2033, Growing - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVJ0ZHBkaFFjQ3l4b0ZzS3d1TS05Q1JqQ3VSQTNBYWFzWENPMEFEazhJV3VfSWl1Vm45MzRLbzJnMlZrMTVmZWNwMnd0b1JqNUJaM05TWjZvdDh2VXdqWmtwb040UENXcDA1VkRSbGZ0VmJlUUxPXzNkS2NNOXJaR3JHRnVhLUYwQ3pmTE1iUzV4VGlPWmxaSVluOU5GNUd2V0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-08-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CES Power buys Caterpillar gensets in ‘major’ fleet expansion - International Rental News",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOclRnbUo2SFZLNWtHYnBGdUZObEVHSE9QVEhtRVN4Z3hvcW52QXV5LVVlcGFvRHlBRE9lSTVWbzlNbWJ5N3BvdDJTR0tSdWc0VXd2V2pUTU1hOWRrMkxyUGVzRU0xVTJpNUFBelNnN2E3cW12NmV0TEE5RDM5NjBRSGJyVFlSd0ZTLTVGeXlEUGp2QWt5VW1SRzQ3NVFrT1NWVVlpQlFRNXlhWll3R1hfQW9oYjRGX1lMZkw4bw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-08-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain returns to growth in all regions in first-half 2026 - European Coatings",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNThYazBMQjRmZXRXQ1JQU3E5NjZiRTg3elItV1BmTVJJeTJkcWd4TkJrNlJtUVhfMF9Zbi11S2N6S004NDBPbW0xck5HTE5zblFDQ0Rxam9mYWxZVlJoX3o5ODZ3X3RwU3dldUpqLU96VnZVUnQ5MkJKVkU3NUgxTXl0WV9ZQzFrSUVlTTBURnRwWXBuaGZqUmh0dWRBelZQMGt1Ql9faUlLS3NIZDB4amFnUHQwak5uVzJDS1lzWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Sydney Buyers Are Holding Out For: Bigger, Better-Built Apartments - realestate.com.au",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDN2emxubkh5c2pZM0JIWnNWYlNvV2otSHBqdU1UTmVFekZha1dOZnhwZzBiUWhseEhZRGlZVE1MTjRyak9OX3NNcEM5UXBEY2xWa0huMk9MSGw3bFd2WGs3VE1tNGQ4VzNxengzd2VTdTRaM3hzVERBeHphbzZqMHAzUE1hMUFXYnRMbms1aF9zYUlIckg3cWlZLTVXM0RCMWZpc09YUlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 491,
+    "dup_title": 224,
+    "too_old": 168,
+    "gate1_blocked": 38,
+    "gate2_blocked": 35,
+    "passed": 26,
+    "pass_rate": "9.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Nippon Steel’s US Steel Bet Is Paying Off - finimize.com",
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+      "Caterpillar Sued Over Workers’ Healthcare Plan Premium Levels - Bloomberg Law News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CAT、聖戈班相關動態：「TCC reportedly favours London for European IPO - CemNet.com」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TCC reportedly favours London for European IPO - CemNet.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Electrical Steel Market Set to USD 75.47 Billion by 2033, Growing - openPR.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

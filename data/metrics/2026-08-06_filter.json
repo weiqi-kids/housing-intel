@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 38,
+  "gate2_fail": 35,
+  "passed": 26,
+  "gate2_samples": [
+    "Nippon Steel’s US Steel Bet Is Paying Off - finimize.com",
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Caterpillar Sued Over Workers’ Healthcare Plan Premium Levels - Bloomberg Law News"
+  ]
+}
