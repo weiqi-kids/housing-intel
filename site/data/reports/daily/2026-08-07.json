@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:55:53.903923Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dr_horton-2026-08-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton takes over Miami-Dade development site from Onx Homes - The Business Journals",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWx5WlNqUUF0Q2VtWXU1bTFxT0x6NG5KSElJcEV5NFJpdFdzeXVLXzdweGR2YVFvV0dUVTZ6dXU4WVo1Tk1mZmdJMjA1bkg3WEFDNGczUVRrOHE0bVNDVFJacWVMcG04cWh1ZHRzY0tISlVsaVk3dzVzZG9uQzZyX2ZNdi1fZ1dGU2RsdEluX2NlaW91RmI1am90V3F1ckk0SEtj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Building Products Giant James Hardie Reports Strong Results Ami? - Kalkine Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkpyOTh5TFViZU9aOWJSU1VmZUxuU2hMS05JSDZ1eXBRaTNHNWlldk52Mzh4ajBUWG1XWkhuMncxSE1FZ2NVQWFzZE1HeUplNnZEWkctXzhERWtGTi1ZYW0ySEp0SjVUWmtoYS1sQzRoT2Vjd2FyX1V3Y05QakZRaE5fTWlYaVBraW11Vm5ZVEpQV1Y3TU9WcTV6bWR2RmJuMXBMNjQ2Snp6NWs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dr_horton",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 489,
+    "dup_title": 206,
+    "too_old": 165,
+    "gate1_blocked": 33,
+    "gate2_blocked": 44,
+    "passed": 41,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Nippon Steel Targets High-Performance Steel - News On Japan",
+      "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+      "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為DR Horton相關動態：「D.R. Horton takes over Miami-Dade development site from O...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "D.R. Horton takes over Miami-Dade development site from Onx Homes - The Busin...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Building Products Giant James Hardie Reports Strong Results Ami? - Kalkine Media（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 489,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 33,
+  "gate2_fail": 44,
+  "passed": 41,
+  "gate2_samples": [
+    "Nippon Steel Targets High-Performance Steel - News On Japan",
+    "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+    "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R"
+  ]
+}
