@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 32,
+  "gate2_fail": 41,
+  "passed": 57,
+  "gate2_samples": [
+    "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+    "Nippon Steel Targets High-Performance Steel - News On Japan",
+    "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Former Caterpillar site in Delavan sold off to tech investors - WEEK | 25 News Now"
+  ]
+}
