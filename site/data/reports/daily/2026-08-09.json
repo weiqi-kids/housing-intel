@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:38:33.289707Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-08-09-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Asia Cement (China) Holdings (SEHK:743) Profit Squeeze Deepens After Swing To Loss - simplywall.st",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc1RZWjJBS3h2ZHdMdHFFUDZqS201d050LXlRcGcxYTVaMzczYld6VFRwbkxOV1RTdnlmbndrTmNQNmNMUDI0ay1CWkVvRV9GTG5Lb0VUcUo0aEV6Y1RUUEtkTlRja0NvYVEwbUkyWWp2eGJXT1lFVGdkV3NCRG1MRUtFTlMxNEdhUmVNTkJ3QWRPZnczVXo0aGR1TkpvVXV4WThwaDZOX29yRVpHOGpwMDlnc0NNel9RdkZld0prOG42eXhZQmhGRjhGaDl1ZUNTTXBKM1h3bGQ3MVllRWFzTk5yc9IB6AFBVV95cUxNNDA1eFVVWGVFNVNtX0U2SmI3dkIzQnJLVmhmRFk3ZHhnaU9JUzctY0t3NXZFS0Q2SXBCa3Q2RTJEZWdjeE9nMW1BWXZWeldSRTRkNDlCdjJVUW1TZVJiNV9RRi0yRGVZc21HdmR3a3VjWUVYRGxkQTFHNGFyNm5MQ0pzTGRuOWxlYVNqNExhV1dUdHF1aWxQdGFwSHYtYU10VExxdmEtS1c5UzNEUnhfcmt1alpfdFNfbDlRTWc5V09RU0E5M3A2bmRTSURpYmN3UjdfVG14S05aX3ZQcnEzbTF6TzlRS213?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-08-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assenagon Asset Management S.A. Sells 42,752 Shares of Vulcan Materials Company $VMC - MarketBeat",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHJyaUdpc3ctbjI2YTV1ZHNoZFYtNFI4NWVITWpzQnZNQjU5aGZuUWRUaE1CWE1MMmgyWWZiVDlVaFdSc2pfbC1idVFMUzhpQ2xXcFNwenhRR1VEdlM3c1k1QU02OHMxajJicFhvTlVsMFJkRVNnUk5ycExVMUJaSlpSVU42VWVGWldHWnQ3dU01X0xOOU83Z19rb2d2R3hKNUJmTG8tUUVJdmdWbmtfUEF1cl9EMjVkWTc1Q2Q1ZmloalRkdnNEVFZ5MGJid05PQkQ3RmpNNGU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_horton-2026-08-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton (DHI) Stock Looks Reasonable On Earnings While Cash Flow Stays Strong - simplywall.st",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWpqNWlFMDg0OGZaYkhLR0hQMElweWZuUEp6cmdjV2ZVQTBRYTV0ZU5rQTNzU0dwbWhaMmp1RE5mNUkxcVZXQkt2LXJxWTFCZzFLOEplRXBwWUJPdWlLVDlGd2l1ZGNHVWp4Mmt5UHNvTmNIQllQbk5UVWJkZUt6bm9Fd01qckw0dUdZM1NVcXRNRXJ3NUZrYzVUbExBY3laWVl3LUJqME0zZEE5ZHE4QW9XVF9wMzlLa1dBdDVYVlo2c2ZGVDdtc2VfRlZsZ9IB0wFBVV95cUxPUFhQN3h5SlEzN0ZPc09JaTU4Zm9UaVkybHpwR1A5UWstOU9DWXdOVTIwMEVrb3ZSNENSR01KQjJIcXE0bW5yZGtYbFlndVhSVWtGUDM4Q28xY213TGxMZDRrRjdkSXUwWDNkSktENlVOUHhUaU9wWWVTRmg5bmdVQW13UUhUazFmQ0FickZ3SUJ4MEQ5N0h6Q3o2YWVuTjdpWHpWN1JpcTdvajVCM2pXRkVzNVF1OEEwWVhfVXFVdHdKaU9OdDlYLTFhUV9vVUp2WmdZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "daiwa_house-2026-08-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Results: Daiwa House Industry Co., Ltd. Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
+      "companies": [
+        "daiwa_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWVhIQmpJZmxPMFFvQ2wtVVdJN2tldTUtdDMxeUVBdFN6LS1Lbzgtb1BPNTRhUExXb3dYMjdjVTE5NGhhN1Naay1STjVWSXRvRUpoYmpLT1IzM3pYMVdNaFpwNTBJdXMxVEo5eVdmRVZsSUZneVB3dWZWSEZqUGloVDZOZmRxYWVrUTZfZ094QlhRZl9PSlozZ0t2MGlXOTliQzFpZ25yYVFGSEZYVDlhdXZXTFRwTU11S2tZeWR0ZV9hQ2c2TVgwR3FQTVlpYldkMlA2SEs2ZjZfZzc1SVVDMXhJMUdnYjdUSTIxZ2dNWU16cXVWUWtKLWVmS3g2VktXckI40gGIAkFVX3lxTE5INHhKLXpTZllFbi1zYlE1aVEtaFMwR18yUzdGMzgtUHVzV2p4OW5KWTVLeDRFX0ItVUh2Q0pScWV0R1E4RWVUTWFVS2M3eVdCVjluUEtCNWxJVmRMTmduc1lqcmFucThEckpPTkp1X3FybDVJTl95SjIzT2RfZm5CRlFxbG1qcTdzRFhIcUtWLVVOLThPTUE0NHhBN2NtZklZdGJ2c3kwTzZLYWFSQzZBbEE0b3VxMHNrVzhRbDlGcUJQa2Y1OWpHU05sRTdLdjlkUGhnR0NXYUpRbXdtb1J5clFtLUZMdEJZZWpIT2Y0cHQyME5GU2tKYXpZNkx5dmw5LUJxdjFtSg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "daiwa_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 489,
+    "dup_title": 205,
+    "too_old": 171,
+    "gate1_blocked": 30,
+    "gate2_blocked": 40,
+    "passed": 43,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+      "Nippon Steel Targets High-Performance Steel - News On Japan",
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Former Caterpillar site in Delavan sold off to tech investors - 25newsnow.com",
+      "While everyone chases Nvidia, Caterpillar just showed where AI money goes next - thestreet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Asia Cement、Vulcan、DR Horton相關動態：「Asia Cement (China) Holdings (SEHK:743) Profit Squeeze De...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Asia Cement (China) Holdings (SEHK:743) Profit Squeeze Deepens After Swing To...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Assenagon Asset Management S.A. Sells 42,752 Shares of Vulcan Materials Compa...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
