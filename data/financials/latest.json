@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:38:28.752312Z",
+  "updated_at": "2026-08-10T09:16:28.574307Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -262,17 +262,17 @@
       "name": "NVR",
       "ticker": "NVR",
       "currency": "USD",
-      "ar": 35423000,
-      "ar_prev": 32742000,
-      "ar_qoq": "+8%",
+      "ar": 49642000,
+      "ar_prev": 35423000,
+      "ar_qoq": "+40%",
       "ar_period": "QoQ",
-      "inventory": 1938510000,
-      "inv_prev": 1723560000,
-      "inv_qoq": "+12%",
+      "inventory": 2235289000,
+      "inv_prev": 1938510000,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "pultegroup",

@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:16:35.025981Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-08-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deane Retirement Strategies Inc. Has $2.81 Million Stake in Caterpillar Inc. $CAT - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWFpHdGc2XzdLR1lCS2FnU1dkaC0tX3lya3phcXBwWnJfblF2TWZ0UXg1bVdPb01GNE56Nnp6UnVvVmY2cEY2S2tlZ19rT2J4cHNkSGp5YTgtbHp4Y2RpVHNyUk1vQmdISlRwRUo3bG1HNlhPNFQzcWJsSWZsSmtwQ204MG9LWXRWZXlSY1NLSldPNzhCQ2EyblVMNVh6VGFvWlI4VFRGZVNQdVJOTTJ0Y0IwUFJUZGFuelo1SWxPYjhOcVhPXzd3d19GWFhGY2VaVzc4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kb_home-2026-08-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Janus Henderson Group PLC Has $1.48 Million Position in KB Home $KBH - MarketBeat",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXBtNnlwWi05UFpIeWp0azBMRzJ6a2xXUHVHVEt0QnUtUmdNb0hpdlUwS1hYbzBpZ2JRcDBjcENDUmJuWGxHNTZCT0k3Z2FrUXQ4Y0ljcjUtMGJuaVlJQW5SSjVnZG9EeFZ6eTdYa01lZ2RxVGNnb1BlRGNtSXhPSkJ2aEhLQkpNd1VTZVVHc3lZckxQV3JPUldxZDhHS2pETG9IVWxrRXZ5aXk5V0JnNjQySGwyak5samFMZm4zXzNkdFJj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Daiwa Energy Repowers Its Toyooka Solar Plant in Japan, Up 40% - energynews.pro",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWENqQ1cxemgwTDVESVRkNFlmTm0zV0FLWHpKU281bFdHd2FBTW5BSG4wSWN1dTlPdVIzLUszOWFpWm1VS3hSN2hNWXdLTkw3S0syVm5UYTFybmd1NzJuVmFzZ0lKN0xhX1oxZ3kyVUExUUlCa0Vrdk1zcFRDdGh6RnVaekVONzhyS1NsbzNiZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sumitomo_forestry-2026-08-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sumitomo Forestry Timber Profit Falls 79 Per Cent While Volumes Rise - Wood Central",
+      "companies": [
+        "sumitomo_forestry"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTMWhzZ05SME9PR2VoNlVENTZmTWZpOENLSVk2TGpxWno0RDh6eUxhTFJFTFdlSjdDUmpNRi1DcEtfOVk1VFJEckl3bHEwLTlKNm9GSWp6RERSM1FSczktQThlYXEyTWxSdFNLbWhB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pultegroup-2026-08-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assenagon Asset Management S.A. Has $22.34 Million Stock Holdings in PulteGroup, Inc. $PHM - MarketBeat",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTJ3UFZOaWluTS1UczJFY3VpOWVoSk55REVhWmVzdmdEeHFzdFRqSWFiQXZQWEJZYVBwRGdfQk1SOEtPMVltY3BFQzJ4OVJET2N3Y0pjLV9fdk5mUmFlSFJvckJtbUlKaHNJMjEzb1RFcFBxRE5Td0Z5VG5WbGNYWkV4TnVBUGoyNkU1c2gzMERVMVBFMWtzNGdlbUk2bEd3Qmk4TjFzdWFrWXh1dGVPZlBWbkNaZlF3eUZGVmtJXzdacVR1ellWOGcyNG9ianp0bTc1eE80dm42aDZ0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      },
+      {
+        "id": "sumitomo_forestry",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 494,
+    "dup_title": 229,
+    "too_old": 167,
+    "gate1_blocked": 33,
+    "gate2_blocked": 37,
+    "passed": 28,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Former Caterpillar site in Delavan sold off to tech investors - WEEK | 25 News Now",
+      "While everyone chases Nvidia, Caterpillar just showed where AI money goes next - thestreet.com",
+      "Daniels Takes Title Lead with Caterpillar Jackpine Gypsies Super TT Victory - Motor Sports Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CAT、Pulte、KB Home相關動態：「Deane Retirement Strategies Inc. Has $2.81 Million Stake ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deane Retirement Strategies Inc. Has $2.81 Million Stake in Caterpillar Inc. ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Janus Henderson Group PLC Has $1.48 Million Position in KB Home $KBH - Market...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
