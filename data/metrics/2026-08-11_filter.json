@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 25,
+  "gate2_fail": 34,
+  "passed": 52,
+  "gate2_samples": [
+    "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+    "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+    "Vulcan Materials (VMC) SVP David Clement sells 2,000 shares at $285.10 - Stock Titan",
+    "Listen to a Former CAT Engineer Explain Why Inline-Sixes Are Better Than V8s for Hard Work - thedriv"
+  ]
+}
