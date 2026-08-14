@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:05:13.403791Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coal India Limited signed a memorandum of understanding with ArcelorMi - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRXFfMEpwTGFKSXpaSVBTZmJlVTRyQ1F0dlhGVGJuS2tsQTFDY3VZdjlPV25BNVU1QWV1Ukk0RFhGT2o1ak9waG5Dc1JRdV84OHBoem1TNU5uOHNlR29KeDU2WTF0WjROVFMtZFgzWjdBNU10U3dzNVpJd0dwTGFwdXFncVBFSWlkS3pxazlKM09IcXltNFA1UnFUSWZZSmZmZ3hrYlVtNVk4WGRuOHlRQ1M3dXpQbnMyTjc2Y2ZzS1M3X3J4cV81VFhsUDVTb0pFcF9IdUh0NXI3UFF3bG1FVXhGTlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-08-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cadent Capital Advisors LLC Raises Stake in Caterpillar Inc. $CAT - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEVkT1V5WkJyUWxYUDlTbnU5Q3ZvaTBOaEhfRnlQVlBDUl9QX3VRYW9haUQ3YTBSbldYanpNZzEwelZVX3huRVJmY2MxRU9Hc2FnSVJkN1V1dDRZSGNVY19OaUV6Tzh1N3dwdEZyY2x2Ym9nX0dabnQyc2VpVVRvRnc0NF9oNDlQZnl3SzNrd1ZDcFduQVBzdEtrVDNjc1RYaWs0R3JsNGExMmU3UjlnQmNrS1VnU20zbHUxWTNDVTVwUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-08-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock holds around €57 as investors digest recent earnings progress - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM3FlcFhfb2pRLTRHbVozdE81OTg5TGRFUkx6aUp6WG5wd2d3bVFVVndTY2VUYThfNVNnejR6dk81cllZSVdBU2QtYWppZmxOQldsMnBzcW42M1VKaFVKazF4VHJFZ0JXT3VOaGxoOUFMNmtwcXNGZmxxVE5xb29ldjZoUjJXTHR2cjRmRnV4QUx6R05FZFZNWGs4bkNSV0xrdHBjUVBzUXVYX2s3bU1kb3VwTEZUUWxjaXd1N253emJ3T1cwUkFwNm9INW9OZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "kb_home-2026-08-14-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will KB Home's (KBH) Three-Market, Energy-Efficient Expansion Shift Its Build-to-Order Narrative? - simplywall.st",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdDVGZWJzQ2xUcDB2aXRrSUk3WmNueXNQbnVBaDBiSXVkc0ZCc2lJTWNSWGNCR2dfR19OaGJrS0tpazMzWm9NcUZ1MlRTb1Y4YWhpdWRIM3hvYy1JZXpaSmhzOF9qc0JqcGNqUnlZZEN2OG9rZjhfcHQtTV80WVdSQ2ZvOGlGcEtVYXdrV1R6ajhuWXFfWGQxaWZMUEN2ZGNaT29CS3RXRTN5UUVqQ3BTemNEU3c1TWdTR3pBaVlJZkU4T3Zka0o4S0FkZGJyZ0Rvd0HSAdIBQVVfeXFMT3Q1RmVic0NsVHAwdml0a0lJN1pjbnlzUG51QWgwYkl1ZHNGQnNpSU1jUlhjQkdnX0dfTmhia0tLaWszM1pvTXFGdTJUU29WOGFoaXVkSDN4b2MtSWV6WkpoczhfanNCanBjalJ5WWRDdjhva2Y4X3B0LU1fNFlXUkNmbzhpRnBLVWF3a1dUemo4bllxX1hkMWlmTFBDdmRjWk9vQkt0V0UzeVFFakNwU3pjRFN3NU1nU0d6QWlZSWZFOE92ZGtKOEtBZGRicmdEb3dB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-08-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Diversified Marine Completes M/V Edwin Rider for Vulcan Materials - The Maritime Executive",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVBTYzR5ZHpZNXJwSzJZeWlscE9JOFZIUDlHRUxwM1N6RnRqdmdrTkdqWDU2U1dpbXV0TUlFVzFuUXBVRHRSSmdSWk84QzZ5cm1hakxNODNwRFlWbzRKcXYxZU9TaWM5cmtDM0J3WWlOa0JKMHlsNzdNS1NGQjFfUHFJanJJVzRLdVBDQTRYdnk2R244VGQySlZvbnYtRTFsN0lZa0Y2YTB6QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 498,
+    "dup_title": 242,
+    "too_old": 156,
+    "gate1_blocked": 38,
+    "gate2_blocked": 26,
+    "passed": 36,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock - Investing.com",
+      "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+      "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+      "Wrapped Vulcan Materials Tokenized Stock (xStock) price today, wVMCx to USD live price, marketcap an",
+      "Bull of the Day: Caterpillar (CAT) - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Vulcan、CAT、聖戈班相關動態：「Coal India Limited signed a memorandum of understanding w...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Coal India Limited signed a memorandum of understanding with ArcelorMi - Shan...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cadent Capital Advisors LLC Raises Stake in Caterpillar Inc. $CAT - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
