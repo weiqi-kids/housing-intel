@@ -1,0 +1,16 @@
+{
+  "total_raw": 497,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 36,
+  "gate2_fail": 33,
+  "passed": 37,
+  "gate2_samples": [
+    "Daily Brief South Korea: Infovine Co Ltd, SK Hynix, Asia Cement and more - Smartkarma",
+    "Vulcan Materials Company (VMC) Latest Stock News & Headlines - Yahoo! Finance Canada",
+    "Vulcan Materials Co. stock outperforms competitors on strong trading day - marketwatch.com",
+    "Vulcan Materials (VMC) SVP Stephen Render reports stock, RSUs, PSUs and SARs - Stock Titan",
+    "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock - Investing.com"
+  ]
+}
