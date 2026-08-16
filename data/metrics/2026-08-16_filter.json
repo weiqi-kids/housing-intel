@@ -1,0 +1,16 @@
+{
+  "total_raw": 498,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 30,
+  "gate2_fail": 29,
+  "passed": 30,
+  "gate2_samples": [
+    "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+    "Vulcan Materials (VMC) SVP Stephen Render reports stock, RSUs, PSUs and SARs - Stock Titan",
+    "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock - Investing.com",
+    "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+  ]
+}
