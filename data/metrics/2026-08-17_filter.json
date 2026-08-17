@@ -1,0 +1,16 @@
+{
+  "total_raw": 495,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 32,
+  "gate2_fail": 28,
+  "passed": 22,
+  "gate2_samples": [
+    "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+    "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+    "Vulcan Materials (VMC) SVP Stephen Render reports stock, RSUs, PSUs and SARs - Stock Titan",
+    "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock - Investing.com",
+    "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+  ]
+}

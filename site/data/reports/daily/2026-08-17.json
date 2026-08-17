@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:39:17.413619Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvr-2026-08-17-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Q2 Earnings Outperformers: NVR (NYSE:NVR) And The Rest Of The Home Builders Stocks - Yahoo Finance",
+      "companies": [
+        "nvr"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0VjNnlVVWVxajlnVTdJV002NFV2cVNQVmkyN3Z2SFZyUG45S0kzb29qcXBrYXZUYVBaSkFJaGd6YURPQkh6ZVF6RU9fN2lyMjlHemRGRWZXbk05ZFBWaGgtT1VHWm9wangtOGtsQWhTUVdpZWtFRDgxVlpxZ254UEtLTUVYNmpiTkdkOWJVaVBNU1EwazBIY05VaDk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-08-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASIA CEMENT: Net income surged 57% in 1H26 despite a 7% revenue drop, driven by strong investment gains - TradingView",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOREVVUE93TjVva1pOcFlQWXFVeWR4cjk4aFIyZDJfaTh4QzBRMkdrOUtjekZjcWo5a1V0aGhsMVU1V215ZTNFUFRVTHBnYnlNa3JfcE9NQkhsS2ZvOTBsM2djazJ4blU2RTBfYnpfYXJtM0hPWTlBaF9meFpYdWQyanVCN3ZYaEl3Ym1lZ2loRGJNM05KTExMeDlnRXIwdHVyd3V6YTIxX0xKYzNPaEpBWnIyTWpMd1hJY1BLbFB4ZmdqbFlOZGpTUkgwYndlMTZaVEF0by1VOEhjLVU2Xzc2d1NTOWFscVhfQUd4UmhIM2dNQ0RfdnpfdFAxY2VYMXE4SFJaSWRaWXNYb2RyOWlv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_horton-2026-08-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "D.R. Horton advancing plan to build 106 homes on Quakertown School District land - The Business Journals",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUw5cDV3ZGVXdTdzdWpyaVY0R2IwTjAxSURsd252YnZlUUxpcmMxRERPb0pXOW9qWkUzLU5TZVVKQV9Cd254THNlUVpya0ZxQ3NTSUJ5bHJmRVZYenJRb2ZFQmxoVWNBdzg4dmh3V0RNenBtT3FzZ1YwdkJDa2NVNW9sbjBCYktqeWdXNi1ON1ZXeERLbDdQWVNkaUxPLWhPckxNTXJn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "nvr",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 495,
+    "dup_title": 236,
+    "too_old": 177,
+    "gate1_blocked": 32,
+    "gate2_blocked": 28,
+    "passed": 22,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+      "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+      "Vulcan Materials (VMC) SVP Stephen Render reports stock, RSUs, PSUs and SARs - Stock Titan",
+      "Senior VP Clement sells $570,200 of Vulcan Materials (VMC) stock - Investing.com",
+      "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Asia Cement、DR Horton、NVR Inc相關動態：「Q2 Earnings Outperformers: NVR (NYSE:NVR) And The Rest Of...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Q2 Earnings Outperformers: NVR (NYSE:NVR) And The Rest Of The Home Builders S...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "ASIA CEMENT: Net income surged 57% in 1H26 despite a 7% revenue drop, driven ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
