@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 43,
+  "gate2_fail": 27,
+  "passed": 30,
+  "gate2_samples": [
+    "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "Vulcan Materials (VMC) SVP Stephen Render reports stock, RSUs, PSUs and SARs - Stock Titan",
+    "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+    "Caterpillar North Little Rock investing an additional $3 million for Arkansas jobs - KARK"
+  ]
+}
