@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:33:28.249243Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toll_brothers-2026-08-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toll Brothers Earnings Top Estimates as Luxury Buyers Defy Housing Slump - finance.biggo.com",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qbklUUUZtV1FudEJUZk51VzVBQllNeFAwejBKRDJabWlBREpSanNIclNnUERnQjJSTFFGOHpRaTZLSlJ0LVF5Q3ZPZmhENVRRVTViaXo1Z1FNWUNkcng1YWxHSzJocUxYM1UzUnEteEtIVHVBVGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock Inc. Acquires New Stake in Vulcan Materials Company $VMC - MarketBeat",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcFJLWjV5M3BESjBjZXQwdGRCakhOc3JxNkNKZVBPQVBDT1NkUUtaRGx0VEV4ZlpNR01LbGwtaG9kcnlkWGtHeGtadzc0NGhXY21CZEJNUFd5RURVLTlMZW8tUXFGanhnS0hmRXFLdEgxa1NfdVBsNk1kUzU3cS04dVZSSGZaSUVtam1qY0ZRMEJRMWdCZC1TVE9hbjB1a2J6MFgyLWhNbnU5SW1JSU1YNUl2LUYzdE96VmpBVFhaOWdPYUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-08-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Zacks Analyst Blog Highlights Visa, Lam Research, Caterpillar, Q.E.P and Altigen - Zacks Investment Research",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pUY2l0cUVrSFloWXZlSmJ6YlVBVEJqSlI4bEJmMXFmdHl3VUxhZWE1WTBrV3FNRE91QzJjM2I1c2x4aW83b0RKQldHakZseHBSNlNmLXVqNFdJbTAzNDRqM2ZKZUNfa01lRnRwNlJEb3BqU1ljdEJJTVhfWDdCU055N0V6eXoyS1pjb3ltVGY0ZVJxcHg3a2hvU29fSnhEcXVJcE9JV1pWVWhaZUZIZ3FSVVBOMDJCQXVWYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint-Gobain stock holds firm as India lifts float glass floor - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTmpQWTJ6cEd0TkJndlpDdkpyWnh2ZGFnSnlsRG5ibFRFbmtoeUU1anpSZ0NYMTIyN1Qzck9oa09QUUc5V1NFWUpJcDJORlpmeDRPQTRLMzBnbUs0bnEzZVBObnpJVnhSeF8zRGpTYmFkSUNQYUhYRmRZS3R4X0ZiM2lVQkIzR0lSNE9KNk9HdVJuWi1VcTV1eGp6SFVWYUU2a1gyODVLQjkyN18tTDd5a19DSjJSSjlHWEhkbWh1OVlkNzg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 492,
+    "dup_title": 205,
+    "too_old": 164,
+    "gate1_blocked": 49,
+    "gate2_blocked": 29,
+    "passed": 45,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+      "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+      "Vulcan Materials (VMC) SVP Stephen Render reports stock, RSUs, PSUs and SARs - Stock Titan",
+      "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+      "Top Analyst Reports for Visa, Lam Research & Caterpillar - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Vulcan、CAT、聖戈班相關動態：「Toll Brothers Earnings Top Estimates as Luxury Buyers Def...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Toll Brothers Earnings Top Estimates as Luxury Buyers Defy Housing Slump - fi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "BlackRock Inc. Acquires New Stake in Vulcan Materials Company $VMC - MarketBeat",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
