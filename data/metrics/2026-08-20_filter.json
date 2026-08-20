@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 49,
+  "gate2_fail": 27,
+  "passed": 42,
+  "gate2_samples": [
+    "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "Vulcan Materials Company (VMC) Latest Stock News & Headlines - Yahoo Finance",
+    "Cornerstone Advisors LLC Buys Shares of 32,410 Vulcan Materials Company $VMC - MarketBeat",
+    "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat"
+  ]
+}
