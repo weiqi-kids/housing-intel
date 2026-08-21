@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 43,
+  "gate2_fail": 36,
+  "passed": 39,
+  "gate2_samples": [
+    "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "Cornerstone Advisors LLC Buys Shares of 32,410 Vulcan Materials Company $VMC - MarketBeat",
+    "Caterpillar Stock Is Priced To Swing Hundreds Of Dollars Either Way - Yahoo Finance",
+    "Kong’s Colorful Caterpillar Toy Gives Curious Cats Plenty to Chase and Swat - PetHelpful"
+  ]
+}
