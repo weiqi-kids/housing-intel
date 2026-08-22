@@ -31,20 +31,20 @@
   },
   "crh": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "vulcan_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "caterpillar": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "saint_gobain": {
@@ -103,38 +103,38 @@
   },
   "dr_horton": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "lennar": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "pultegroup": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "toll_brothers": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "kb_home": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "nvr": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-20",
-    "count": 6698,
+    "latest": "2026-08-21",
+    "count": 6699,
     "history_complete": true
   },
   "daiwa_house": {
@@ -157,26 +157,26 @@
   },
   "etf_vnq": {
     "earliest": "2004-09-29",
-    "latest": "2026-08-20",
-    "count": 5508,
+    "latest": "2026-08-21",
+    "count": 5509,
     "history_complete": true
   },
   "etf_xlre": {
     "earliest": "2015-10-08",
-    "latest": "2026-08-20",
-    "count": 2732,
+    "latest": "2026-08-21",
+    "count": 2733,
     "history_complete": true
   },
   "etf_xhb": {
     "earliest": "2006-02-06",
-    "latest": "2026-08-20",
-    "count": 5167,
+    "latest": "2026-08-21",
+    "count": 5168,
     "history_complete": true
   },
   "etf_itb": {
     "earliest": "2006-05-05",
-    "latest": "2026-08-20",
-    "count": 5105,
+    "latest": "2026-08-21",
+    "count": 5106,
     "history_complete": true
   }
 }

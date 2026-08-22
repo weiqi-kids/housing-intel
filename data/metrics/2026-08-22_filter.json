@@ -1,0 +1,16 @@
+{
+  "total_raw": 490,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 44,
+  "gate2_fail": 35,
+  "passed": 26,
+  "gate2_samples": [
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "Vulcan Materials (NYSE: VMC) director to sell 14,000 shares - Stock Titan",
+    "Wealthfront Advisers LLC Takes Position in Vulcan Materials Company $VMC - MarketBeat"
+  ]
+}

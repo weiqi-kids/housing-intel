@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:25:13.581358Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dr_horton-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "D.R. Horton stock holds steady as latest quarter tops estimates - Ad-hoc-news.de",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU1laDRaTno3OWNIRWJLdE9jci13WlpCX3VwazRoUE1qTkNEWHlpZm5HaFp0SG1tVkNCNlYzdExFclprQUVod1JMVWZGS0JvanQ0U0dKTFVPMU9EeWwxTTY2QkdnYUR5MkZGWE1raHhVcWVsUEl1TW5fUjBreUFVczhuNU1NQzVET1kxMUo4UmFhbVhGbkRNaUNkdGJ3Qk1TVUM2RUhLMDI4ZnBwcTVTX1hINnAzVnl5RTQ0dXBZVnVVajA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dr_horton",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 490,
+    "dup_title": 232,
+    "too_old": 153,
+    "gate1_blocked": 44,
+    "gate2_blocked": 35,
+    "passed": 26,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "ETFs Investing in Taiwan Glass Industry Corp. Stocks - TradingView",
+      "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+      "Vulcan Materials (NYSE: VMC) director to sell 14,000 shares - Stock Titan",
+      "Wealthfront Advisers LLC Takes Position in Vulcan Materials Company $VMC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為DR Horton相關動態：「D.R. Horton stock holds steady as latest quarter tops est...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "D.R. Horton stock holds steady as latest quarter tops estimates - Ad-hoc-news.de",
+        "level": "green"
+      },
+      {
+        "text": "DR Horton為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
