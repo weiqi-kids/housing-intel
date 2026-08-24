@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 251,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 43,
+  "gate2_fail": 32,
+  "passed": 8,
+  "gate2_samples": [
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "Silvant Capital Management LLC Buys New Shares in Vulcan Materials Company $VMC - MarketBeat",
+    "Vulcan Materials (NYSE: VMC) director to sell 14,000 shares - Stock Titan",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains "
+  ]
+}
