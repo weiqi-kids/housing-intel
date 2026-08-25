@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 37,
+  "gate2_fail": 34,
+  "passed": 35,
+  "gate2_samples": [
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "Vulcan Materials (NYSE: VMC) director to sell 14,000 shares - Stock Titan",
+    "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains ",
+    "Caterpillar set to begin renovation of Irving office space this month - The Business Journals",
+    "Are Industrial Products Stocks Lagging Caterpillar (CAT) This Year? - Yahoo Finance UK"
+  ]
+}

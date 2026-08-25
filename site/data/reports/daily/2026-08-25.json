@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:38:34.433612Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Halla Cement Receives Technology Certification for Concrete Resistant to Summer Heat and Rainfall - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZjNQNnF1QVdfcnJ1ZkZUQ2RaM1pSWTVBSlBQMmNMVDlFTTRVTC1VeVlZdXlEMk91eFRBUXE3MEE3cGtNQVlYOVl1RG42Y3M5ZGpPV2g2WER6Y205WmV2aGlOcXo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-08-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock steadies after Latin America expansion move - Ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDQ5UkxmOGtXbmktUEtTNF90a0l0NVI3VU9sRGwzRnhDVDFhQkJWSlpGbU5qb2lHR1lpODMxSHBFeUlacnBlb1ZSaElsRUNWc0lLZm05bjZMMkc3SUota09ESDRfX3BScEMxYnBoU3MwRTJOU3BuOVFoUjhYRkVRcWhwMFQ2OThCWXVRbUxic3daRnY3VjhrWmZzMlRGdEVBUjRhTzBSMG1vOW5YV3FfWkYwRmVXODQyNktRNEVZSTROcW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The real AI divide in the mortgage industry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.housingwire.com/articles/ai-divide-mortgage-industry/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 487,
+    "dup_title": 220,
+    "too_old": 161,
+    "gate1_blocked": 37,
+    "gate2_blocked": 34,
+    "passed": 35,
+    "pass_rate": "13.1%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "Vulcan Materials (NYSE: VMC) director to sell 14,000 shares - Stock Titan",
+      "Vulcan Materials Co. stock underperforms Wednesday when compared to competitors despite daily gains ",
+      "Caterpillar set to begin renovation of Irving office space this month - The Business Journals",
+      "Are Industrial Products Stocks Lagging Caterpillar (CAT) This Year? - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班相關動態：「Halla Cement Receives Technology Certification for Concre...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Halla Cement Receives Technology Certification for Concrete Resistant to Summ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saint-Gobain stock steadies after Latin America expansion move - Ad-hoc-news.de（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
