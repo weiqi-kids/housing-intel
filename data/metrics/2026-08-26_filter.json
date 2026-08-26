@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 38,
+  "gate2_fail": 27,
+  "passed": 25,
+  "gate2_samples": [
+    "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "ET NOW’s Ankur Mishra joins ArcelorMittal Nippon Steel India as Sr Lead – Media Relations - Exchange",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Vulcan Materials (NYSE: VMC) director to sell 14,000 shares - Stock Titan"
+  ]
+}
