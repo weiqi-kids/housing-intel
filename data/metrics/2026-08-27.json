@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-27",
+  "total_events": 20,
+  "by_company": {
+    "caterpillar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "pultegroup": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "daiwa_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.04
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "reit_yield": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

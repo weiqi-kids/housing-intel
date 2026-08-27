@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 45,
+  "gate2_fail": 31,
+  "passed": 49,
+  "gate2_samples": [
+    "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+    "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+    "India: Piyush Goyal meets with Nippon Steel, JFE, urges Japanese firms to source Indian steel - BigM",
+    "Ankur Mishra joins ArcelorMittal Nippon Steel India to lead media relations - afaqs!",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT"
+  ]
+}
