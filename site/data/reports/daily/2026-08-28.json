@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:52:41.977727Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan to Set Up Multifunctional Defense Hub in Hiroshima - nippon.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5YUtwUWlUYXhaUnk0U3FoeDN5cngwZS0tVGpRYUJHU1I0Vm9iXzdrUWRsMHJIOTFVWmRJLXJ5bi1oZzJMQ1hMdXVuLVdVeXliUFRvUldMUTg1S0Nj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-08-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Caterpillar Stock Relying on an Artificial Demand Story? - Trefis",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeS1BTHg5Z0Fsd19TSGF2a1h4YTZENERnX0g4SWswS25FOUdhT3paUy00N0dIWDVIOG9tbEhwNmFmelN0SDVHVDFKQkxRVXp4SlVTYWpaWlNNVVYtNlZPT1AxakVNcmRaTGgwbUNQNFFaWV90M21GQ1lMQTB3aDZtcGZkVHY4OHFNek1QYlBfTkdyNk9ZWGZTQ0g3NEJDVHcwVWxfMmw0N0xEaGhoRUlhN2tub0RPNmZpRXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-08-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT)’s Dividend Case Is Stronger in 2026, But the Yield is Holding it Back - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMFVvY1NmMEI5eXJmSGJKcG1CUlhXN1NMdWdDSndBbnNkUHA0RzBMcGRjdGVyOWhUVDl6T0F5N1JqYWlyMFdBcHdUN21LdTd4LTU2dnhlSlNqY3VvQ3lEQjctNkRRRDZFNUtFQmFnVkE4d1J2UjFzdHNKUU82V3ZDMUw1N2cxUlJNT01MZWhSNF9BZ08xSVBHd2lqV0hHSV9DblZIZHd3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-08-28-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar plans major Indiana investment as power demand grows - Manufacturing Today",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDNEWHB1ZlhVcjhYR1Z6c3NQZWx6WWxXOUViWFctMW41QUJLV010Z2lnelE3Y0FYOUc2czd0Q19QZmRabGt5NGN5UExRTk45UDBmb2JZOFVfcElyVnY2T1Y0VEo0dWp1NFVTT0N0dDhaZTBJU3VvVWlxTVFlTVlMdURCME1IaHdEb0M3M0R0NXVtU2FjZUhCd1FfVV9NYUlzYm1n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-08-28-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arup and Saint-Gobain launch global report on adapting buildings to climate change in Hong Kong - Bluefield Daily Telegraph",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR0JVb3FmX204dDVmSmxoU1dNTXJWZ1lSUFB0dU05SHRPQ3R0NFc4OVFJR2tBbGM5bHNydG9FalUteFBKcEtlMWFIa3dNWksyU3BHN0d2c1VHRURVRWFwclBQV2c2SlFxNjhBVnpnNVVsMVpLbHVZQkZFWUdzeU9wb19XSlJ3TFdtcnRnRkhBQjFuZk0zbDNidDZxb21FMmtMWE1IaVRfSlRoSm84ZHFmUzJ5aHM1S1c3bjc3eGJrc0lneHZkUmw3aFA0VU8tOURDRnY0M0xJUnFCdU95VXU0dVA4QTFoM1ZvRy0zOVdrdjA5bDBjT3VlS056WmNOdlNGaFJv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "nippon_steel",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "pultegroup",
+        "count": 2
+      },
+      {
+        "id": "toll_brothers",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 491,
+    "dup_title": 222,
+    "too_old": 158,
+    "gate1_blocked": 41,
+    "gate2_blocked": 33,
+    "passed": 37,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+      "Taiwan Glass Substrate Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "Toyota, Nippon Steel Agree on Steel Price Hike from Oct. - nippon.com",
+      "Toyota, Nippon Steel Agree on Steel Price Hike from Oct. - The Japan News",
+      "Ankur Mishra joins ArcelorMittal Nippon Steel India to lead media relations - afaqs!"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為聖戈班、Nippon Steel、CAT相關動態：「Japan to Set Up Multifunctional Defense Hub in Hiroshima ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan to Set Up Multifunctional Defense Hub in Hiroshima - nippon.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Caterpillar Stock Relying on an Artificial Demand Story? - Trefis（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
