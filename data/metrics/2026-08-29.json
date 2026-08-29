@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-29",
+  "total_events": 8,
+  "by_company": {
+    "vulcan_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lennar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "mortgage_rates": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

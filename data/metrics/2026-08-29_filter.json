@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 40,
+  "gate2_fail": 30,
+  "passed": 19,
+  "gate2_samples": [
+    "Toyota, Nippon Steel Agree on Steel Price Hike from Oct. - nippon.com",
+    "Toyota, Nippon Steel Agree on Steel Price Hike from Oct. - The Japan News",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st",
+    "Illinois Athletics and Caterpillar Deepen Shared Roots with a Sponsorship - University of Illinois A"
+  ]
+}
