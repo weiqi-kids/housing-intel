@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 40,
+  "gate2_fail": 28,
+  "passed": 21,
+  "gate2_samples": [
+    "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+    "Ankur Mishra joins ArcelorMittal Nippon Steel India to lead media relations - afaqs!",
+    "ET NOW’s Ankur Mishra joins ArcelorMittal Nippon Steel India as Sr Lead – Media Relations - Exchange",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+  ]
+}

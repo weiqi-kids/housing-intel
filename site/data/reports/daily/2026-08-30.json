@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:30:56.394868Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-08-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Following Its Power Expansion And Dividend Raise Looks Undervalued - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS2JWZ0M2ck0ybnZkS2c4eW9tdVFBWTdRb2hlRFlUdEY4aW1SUXRvNkl6TXk3UHR1QTRMb2xvS1FITW90MkZvZEhUbWV6eUdmNEZxcDEya21QWnZMR3VPaVU2YkhNLVBIcGc0YUZZMEZKREt0SG42R1hZS24xQ1FWWXktYmlOUW9kRVI2ZnRxdUxSSW4yTjMzbWpSLXhMWVk5RTBzc3dIbTc5MFBQNmRTMDlCNzJCM2ZkYkNuWHc4NW13aE1NNGpLa1dtd2zSAdIBQVVfeXFMTXRkMml2QlduZC1ha3NjSmtSdXlzT2pwZHh1SEtLRF9xOWdhSXVIZC1OTHc0VnVuRmdvdWl5RFRxWmZJTWl1TFYzQmg0aGxYV0V6dVhuRXBTVXZESDVHc2FLWWJ4cnhtekJSZWh5a1E0XzVGQWNrWlo4bmRJRkVWOVk2eHVZWk04UEZQN0Nyanh5YlhBanpndEpkbTRKaG5HMmRjdi1mZGI3b2I5dDN5blFfbG5ZZFkxN0NEZGhUeUxVZU1DMmNLdi11T29VSUR3YjFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 492,
+    "dup_title": 240,
+    "too_old": 163,
+    "gate1_blocked": 40,
+    "gate2_blocked": 28,
+    "passed": 21,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+      "Ankur Mishra joins ArcelorMittal Nippon Steel India to lead media relations - afaqs!",
+      "ET NOW’s Ankur Mishra joins ArcelorMittal Nippon Steel India as Sr Lead – Media Relations - Exchange",
+      "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+      "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為CAT相關動態：「Caterpillar (CAT) Following Its Power Expansion And Divid...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Caterpillar (CAT) Following Its Power Expansion And Dividend Raise Looks Unde...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "CAT為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
