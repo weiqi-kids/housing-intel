@@ -1,0 +1,16 @@
+{
+  "total_raw": 490,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 41,
+  "gate2_fail": 26,
+  "passed": 20,
+  "gate2_samples": [
+    "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Vulcan Materials stock holds firm as August 2026 data points line up - AD HOC NEWS",
+    "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+  ]
+}

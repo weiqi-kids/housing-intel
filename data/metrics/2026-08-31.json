@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-31",
+  "total_events": 10,
+  "by_company": {
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvr": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sumitomo_forestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
