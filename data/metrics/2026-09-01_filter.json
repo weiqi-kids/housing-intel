@@ -1,0 +1,16 @@
+{
+  "total_raw": 489,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 186,
+  "gate1_fail": 36,
+  "gate2_fail": 29,
+  "passed": 20,
+  "gate2_samples": [
+    "Nippon Steel shares rebounded sharply as European brokers raised their target prices, anticipating a",
+    "Inside Vulcan Materials’ Data And AI Transformation - forbes.com",
+    "Vulcan Materials stock steadies as insider buying and August 2026 data align - AD HOC NEWS",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+  ]
+}
