@@ -1,0 +1,16 @@
+{
+  "total_raw": 477,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 34,
+  "gate2_fail": 26,
+  "passed": 29,
+  "gate2_samples": [
+    "Taiwan's Best Companies to Work for in Asia Transformed a Talent Crisis into a Strategic Advantage -",
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - ",
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+  ]
+}

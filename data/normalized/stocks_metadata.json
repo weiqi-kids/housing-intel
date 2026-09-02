@@ -1,182 +1,182 @@
 {
   "taiwan_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "asia_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "taiwan_glass": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "tung_ho_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "nippon_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6653,
+    "latest": "2026-09-02",
+    "count": 6654,
     "history_complete": true
   },
   "crh": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "vulcan_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "caterpillar": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "saint_gobain": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-01",
-    "count": 6851,
+    "latest": "2026-09-02",
+    "count": 6852,
     "history_complete": true
   },
   "cathay_real_estate": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "huaku": {
     "earliest": "2002-08-27",
-    "latest": "2026-09-01",
-    "count": 5940,
+    "latest": "2026-09-02",
+    "count": 5941,
     "history_complete": true
   },
   "chong_hong": {
     "earliest": "2004-05-24",
-    "latest": "2026-09-01",
-    "count": 5486,
+    "latest": "2026-09-02",
+    "count": 5487,
     "history_complete": true
   },
   "highwealth": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "ruentex": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "kindom": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "farglory": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "huang_hsiang": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6630,
+    "latest": "2026-09-02",
+    "count": 6631,
     "history_complete": true
   },
   "dr_horton": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "lennar": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "pultegroup": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "toll_brothers": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "kb_home": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "nvr": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-31",
-    "count": 6705,
+    "latest": "2026-09-01",
+    "count": 6706,
     "history_complete": true
   },
   "daiwa_house": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6653,
+    "latest": "2026-09-02",
+    "count": 6654,
     "history_complete": true
   },
   "sekisui_house": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-01",
-    "count": 6653,
+    "latest": "2026-09-02",
+    "count": 6654,
     "history_complete": true
   },
   "sumitomo_forestry": {
     "earliest": "2001-01-04",
-    "latest": "2026-09-01",
-    "count": 6391,
+    "latest": "2026-09-02",
+    "count": 6392,
     "history_complete": true
   },
   "etf_vnq": {
     "earliest": "2004-09-29",
-    "latest": "2026-08-31",
-    "count": 5515,
+    "latest": "2026-09-01",
+    "count": 5516,
     "history_complete": true
   },
   "etf_xlre": {
     "earliest": "2015-10-08",
-    "latest": "2026-08-31",
-    "count": 2739,
+    "latest": "2026-09-01",
+    "count": 2740,
     "history_complete": true
   },
   "etf_xhb": {
     "earliest": "2006-02-06",
-    "latest": "2026-08-31",
-    "count": 5174,
+    "latest": "2026-09-01",
+    "count": 5175,
     "history_complete": true
   },
   "etf_itb": {
     "earliest": "2006-05-05",
-    "latest": "2026-08-31",
-    "count": 5112,
+    "latest": "2026-09-01",
+    "count": 5113,
     "history_complete": true
   }
 }
