@@ -1,0 +1,16 @@
+{
+  "total_raw": 290,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 28,
+  "gate2_fail": 16,
+  "passed": 12,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - ",
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+  ]
+}

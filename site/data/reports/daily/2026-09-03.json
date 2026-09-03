@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:34:02.539424Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 290,
+    "dup_title": 132,
+    "too_old": 102,
+    "gate1_blocked": 28,
+    "gate2_blocked": 16,
+    "passed": 12,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+      "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+      "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - ",
+      "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-09-03 無房地產產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

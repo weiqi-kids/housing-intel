@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-03",
+  "date_range": {
+    "start": "2026-08-28",
+    "end": "2026-09-03"
+  },
+  "generated_at": "2026-09-03T12:34:02.670639Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-31-001",
+      "date": "2026-08-31",
+      "title": "[TCC Group Holdings FY2026 Q2 Earnings Call] Turkey-Portugal Cement Revenue Share Surpasses Half to Become New Mainstay; China Drags Q2 EPS Down to NT$0.29 - finance.biggo.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 47,
+      "last_week": 31,
+      "week_over_week_change": "+52%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": -0.17
+    },
+    "mortgage_rates": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "caterpillar": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "pultegroup": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 3
+    },
+    "toll_brothers": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "kb_home": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "vulcan_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "dr_horton": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lennar": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "nvr": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sumitomo_forestry": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "asia_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 181,
+        "change_pct": -30.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-28",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 23,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 19,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 23,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-28 ~ 2026-09-03）共 125 則事件，重點為「[TCC Group Holdings FY2026 Q2 Earnings Call] Tu...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Nippon Steel",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
