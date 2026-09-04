@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 41,
+  "gate2_fail": 28,
+  "passed": 51,
+  "gate2_samples": [
+    "Taiwan's Best Companies to Work for in Asia Transformed a Talent Crisis into a Strategic Advantage -",
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Nippon Steel shares rebounded sharply as European brokers raised their target prices, anticipating a",
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - "
+  ]
+}

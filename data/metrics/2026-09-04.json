@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-04",
+  "total_events": 7,
+  "by_company": {
+    "vulcan_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lennar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sumitomo_forestry": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
