@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 192,
+  "gate1_fail": 36,
+  "gate2_fail": 29,
+  "passed": 45,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - benzinga.com",
+    "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - ",
+    "Caterpillar partners with FieldAI for equipment automation - Construction Dive"
+  ]
+}
