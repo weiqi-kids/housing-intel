@@ -1,0 +1,16 @@
+{
+  "total_raw": 488,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 36,
+  "gate2_fail": 32,
+  "passed": 22,
+  "gate2_samples": [
+    "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -",
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Vulcan Materials (VMC) Stock Looks Stretched As Its 54% Five Year Run - simplywall.st",
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga"
+  ]
+}
