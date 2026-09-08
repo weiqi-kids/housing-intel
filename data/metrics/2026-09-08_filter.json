@@ -1,0 +1,16 @@
+{
+  "total_raw": 479,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 195,
+  "gate1_fail": 36,
+  "gate2_fail": 25,
+  "passed": 24,
+  "gate2_samples": [
+    "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -",
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Cliffs, US Steel, USW negotiations continue - Recycling Today",
+    "Nippon Steel : Notice of Financing by Subordinated Loan - marketscreener.com",
+    "Vulcan Materials (VMC) Stock Looks Stretched As Its 54% Five Year Run - simplywall.st"
+  ]
+}
