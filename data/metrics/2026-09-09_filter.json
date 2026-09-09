@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 34,
+  "gate2_fail": 20,
+  "passed": 41,
+  "gate2_samples": [
+    "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -",
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Vulcan Materials (VMC) Stock Looks Stretched As Its 54% Five Year Run - simplywall.st",
+    "Caterpillar Gains 95% in a Year: Time to Buy, Sell or Hold the Stock? - Yahoo Finance",
+    "Caterpillar partners with FieldAI for equipment automation - Construction Dive"
+  ]
+}
