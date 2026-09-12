@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 33,
+  "gate2_fail": 34,
+  "passed": 34,
+  "gate2_samples": [
+    "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -",
+    "Nippon Steel makes $2bn contrarian bet on Japan's automotive market - Nikkei Asia",
+    "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+    "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+    "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala"
+  ]
+}

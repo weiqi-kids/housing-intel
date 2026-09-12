@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:57:58.379182Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sekisui_house-2026-09-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Will Raised Earnings Guidance Change Sekisui House Stock's Narrative - webull.com",
+      "companies": [
+        "sekisui_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yUEtvanU1QVpTM2VCdFN2emo0THBhRmIwNDVKV25hOWdwWktCYkI4SS1WVkxiS0RGTVgtbHh3NlZjVDVfRGtTM3AtQVdLelRzd3BPamRhcTI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sekisui_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 486,
+    "dup_title": 208,
+    "too_old": 177,
+    "gate1_blocked": 33,
+    "gate2_blocked": 34,
+    "passed": 34,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -",
+      "Nippon Steel makes $2bn contrarian bet on Japan's automotive market - Nikkei Asia",
+      "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+      "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+      "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Sekisui House相關動態：「Will Raised Earnings Guidance Change Sekisui House Stock'...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Will Raised Earnings Guidance Change Sekisui House Stock's Narrative - webull...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sekisui House為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
