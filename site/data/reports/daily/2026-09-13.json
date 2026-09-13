@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:05:59.309020Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Navy rewrites its playbook, a startup shipyard lands its first order and Caterpillar goes electric - WorkBoat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjRERUtzaDhzZThFVzZFaWFiTDZuUGtMb09TOGxuNENNMFRjMHppVEZlb1ozM011UTlCODZBTzJ6YmNPcUlGMW1OY2dHRjhPd2dQZlR2WnNHQ0RpZEdxQkZpMXR6SWxFMHY5YUNaanNoN0hxa2s1SUVKWUpHQTJuM1phTTFEUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saint-Gobain stock trades steady as investors digest latest results - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWJad0Y1VVBJRi1vdUlQcWF1bFpkUnc1ckgtRmRIZ2Y2YUFYQmplNWpteGt5eXlmVWlhbkdlNWNscnFkOUM5QjNzRTBJOG82ZFZpTFBCMDFWeWhsR1d0VE5GazViRXotdzVfOUU4N3B2dU1SZmJnRXl5dTlodmtIUDhWTkYxLUNFZTY5T0lrSDZtaHg4TVdWUEZfek9XZk1SZm9EUFdRV2FvbkJrempRd2hGSm1IUjBsU0E2MldtTThCcnVRMXk2NWVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 238,
+    "too_old": 172,
+    "gate1_blocked": 33,
+    "gate2_blocked": 29,
+    "passed": 12,
+    "pass_rate": "4.9%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -",
+      "Nippon Steel makes $2bn contrarian bet on Japan's automotive market - Nikkei Asia",
+      "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+      "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+      "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CAT、聖戈班相關動態：「Navy rewrites its playbook, a startup shipyard lands its ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Navy rewrites its playbook, a startup shipyard lands its first order and Cate...",
+        "level": "green"
+      },
+      {
+        "text": "Saint-Gobain stock trades steady as investors digest latest results - ad-hoc-...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
