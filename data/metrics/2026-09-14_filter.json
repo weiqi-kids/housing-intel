@@ -1,0 +1,16 @@
+{
+  "total_raw": 488,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 33,
+  "gate2_fail": 26,
+  "passed": 20,
+  "gate2_samples": [
+    "Nippon Steel makes $2bn contrarian bet on Japan's automotive market - Nikkei Asia",
+    "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - bloomberg.com",
+    "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+    "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala",
+    "Mexico violated law in Vulcan Materials dispute, international tribunal rules (NYSE:VMC) - Seeking A"
+  ]
+}

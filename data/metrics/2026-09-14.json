@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-14",
+  "total_events": 16,
+  "by_company": {
+    "caterpillar": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "huaku": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lennar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "construction_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
