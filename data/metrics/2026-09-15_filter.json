@@ -1,0 +1,16 @@
+{
+  "total_raw": 490,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 32,
+  "gate2_fail": 30,
+  "passed": 27,
+  "gate2_samples": [
+    "Nippon Steel makes $2bn contrarian bet on Japan's automotive market - Nikkei Asia",
+    "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+    "Vulcan Materials stock slips after Wells Fargo cuts its view - ad-hoc-news.de",
+    "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala",
+    "Mexico violated law in Vulcan Materials dispute, international tribunal rules (NYSE:VMC) - seekingal"
+  ]
+}
