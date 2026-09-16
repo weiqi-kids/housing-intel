@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:05:19.492203Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-16-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Is non-QM a modern-day Cinderella mortgage investment?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.housingwire.com/articles/non-qm-originations-2026-forecast/"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-09-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel plans $1B investment in Slovakia's Kosice steelworks (NPSCY:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjZPR1NCQTI1Y3hwUGNDZVRaVzRLMlBxbEJSUGxINnFyd3FtMmpoT1pDV1QteXk0akZJMkVlWFFlQ3YzeXJnQmx5d2RhOFFtb3kwOHUwb1EydHY0TFQzSjlYQWotaEhBeS1oNjZXc0NWdzJMaVRWcXlQQi10SWFUUEpzelB5OVhybkMxU1lpS01fMTBJREM2NVdxeEFVLWZDaGJN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-09-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel : Slovak Operating Base U. S. Steel Košice Decides €0.9 Billion Investment for Sustainable Growth and Decarbonization - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTURYdVBWZmdiU3hXUFpyaHNGZzR0Vk0xU3E4OTQ4LUl5TEcwdFRnVjB3RUotQjFobjFqUXl2YXFKQ0JaSnY5WkNPZ3cxUU9XZkh6WWI5QVd4aFlnSHJjLUc4TmNWck1QaWJoMDJjWnRCbFVPUkFXaDV0bGtPbnZ1cTJJZVJmSGRZNi1ScnJ5SGd4cVlMVHRMRUFLTjVrcGJGb0tidmdUdmdtbjAtU3czOExfbkNMVkdidHRMcUZDNVI1bVQ1SnkyQ3lpMzJ2cFdySXFiMDV2X3lESVNXZVRneg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan_materials-2026-09-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials: Sell-Off Creates Renewed Opportunity (NYSE:VMC) - Seeking Alpha",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm5rU0NTZTNsZHFUbl9xWGg2UEIyQlRabVBpc2ZrTTVYWndVWFVEb1hiQktnQVBIVkltS1h1NFkzS3R6TXBkUTYwdWgtb1UyVmNCeTN2aWt3N0gySHQ3d29IWjJ3Ny0tZnRoWHZvaXowdWdXaHJabUZCdVJvdk1xUkxJb3FyVk81NXE4amdYYWpaRjhwLVVyYkFn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-09-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Stock Trades Above Fair Value After Legal Win - simplywall.st",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXgwZ1BRNjdrTnlqSWh1dGRYQzZrQ0hJRERzNkpBaURKczNUV3JMSFI5X1N1VExpU09RTXhPakEtbVo5amhnMi1aY0Fuekptb2QydzB5REp2U3JaVzQ2eGEzckFDZU5iOGdxcnJiZ2g4UWVWU3lKOUw1dk1iUHB0djhYOUhuS2RsdXRIY1dHWHVuOFNlTWdNbEZPUmFvS3FaLWNIR3AwTU54VllxVVZYTV84cTgyWkp4Mi05aG9XX1BfTkliVnl3RENrUG5hbTBwcXZr0gHTAUFVX3lxTE11eDBnUFE2N2tOeWpJaHV0ZFhDNmtDSElERHM2SkFpREpzM1RXckxIUjlfU3VUTGlTT1FNeE9qQS1tWjlqaGcyLVpjQW56Sm1vZDJ3MHlESnZTclpXNDZ4YTNyQUNlTmI4Z3FycmJnaDhRZVZTeUo5TDV2TWJQcHR2OFg5SG5LZGx1dEhjV0dYdW44U2VNZ01sRk9SYW9LcVotY0hHcDBNTnhWWXFVVlhNXzhxODJaSngyLTlob1dfUF9OSWJWeXdEQ2tQbmFtMHBxdms?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 491,
+    "dup_title": 212,
+    "too_old": 164,
+    "gate1_blocked": 34,
+    "gate2_blocked": 40,
+    "passed": 41,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+      "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+      "Nippon Steel to Build New Electric Arc Furnace in Slovakia, Investing Approximately ¥160 Billion to ",
+      "Nippon Steel, Slovakia agree public aid for modernisation of U.S. Steel Kosice - marketscreener.com",
+      "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Nippon Steel、Vulcan、CAT相關動態：「Is non-QM a modern-day Cinderella mortgage investment?」。主要關注主題為財報、房貸利率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is non-QM a modern-day Cinderella mortgage investment?（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Nippon Steel plans $1B investment in Slovakia's Kosice steelworks (NPSCY:OTCM...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

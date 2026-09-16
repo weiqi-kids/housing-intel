@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 34,
+  "gate2_fail": 40,
+  "passed": 41,
+  "gate2_samples": [
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Nippon Steel to Build New Electric Arc Furnace in Slovakia, Investing Approximately ¥160 Billion to ",
+    "Nippon Steel, Slovakia agree public aid for modernisation of U.S. Steel Kosice - marketscreener.com",
+    "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca"
+  ]
+}
