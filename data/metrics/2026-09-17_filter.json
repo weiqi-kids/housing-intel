@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 36,
+  "gate2_fail": 38,
+  "passed": 77,
+  "gate2_samples": [
+    "Asia Cement to Issue NT$5.7 Billion Bonds - Moomoo",
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Nippon Steel to Build New Electric Arc Furnace in Slovakia, Investing Approximately ¥160 Billion to ",
+    "Japan: Nippon Steel to invest over $1 billion in Slovakia EAF as it expands European footprint - Big"
+  ]
+}
