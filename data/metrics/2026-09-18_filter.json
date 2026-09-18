@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 39,
+  "gate2_fail": 32,
+  "passed": 63,
+  "gate2_samples": [
+    "Asia Cement to Issue NT$5.7 Billion Bonds - Moomoo",
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Nippon Steel, Slovakia agree public aid for modernisation of U.S. Steel Kosice - marketscreener.com",
+    "Nippon Steel to Build New Electric Arc Furnace in Slovakia, Investing Approximately ¥160 Billion to ",
+    "Nippon Steel makes $2bn contrarian bet on Japan's automotive market - Nikkei Asia"
+  ]
+}

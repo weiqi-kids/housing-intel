@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-18",
+  "date_range": {
+    "start": "2026-09-12",
+    "end": "2026-09-18"
+  },
+  "generated_at": "2026-09-18T12:41:07.679423Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "sekisui_house-2026-09-13-004",
+      "date": "2026-09-13",
+      "title": "Sekisui House, Ltd. Just Recorded A 13% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 63,
+      "last_week": 51,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": -0.02
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.15
+    },
+    "construction_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "sekisui_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "caterpillar": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "huaku": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "dr_horton": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lennar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "pultegroup": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "kb_home": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tung_ho_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "nippon_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 5
+    },
+    "toll_brothers": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "vulcan_materials": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "daiwa_house": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 228,
+        "last": 226,
+        "change_pct": 0.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-12",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 4,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 33,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 44,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 74,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 53,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 14,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-12 ~ 2026-09-18）共 228 則事件，重點為「Sekisui House, Ltd. Just Recorded A 13% EPS Bea...」。財報、展望、房貸利率為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DR Horton",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
