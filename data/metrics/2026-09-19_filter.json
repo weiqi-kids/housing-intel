@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 37,
+  "gate2_fail": 25,
+  "passed": 41,
+  "gate2_samples": [
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Vulcan Materials stock slips after Wells Fargo cuts its view - AD HOC NEWS",
+    "Vulcan Materials stock holds near a 52-week low - AD HOC NEWS",
+    "Today's infrastructure and real estate Buzz Centers on Vulcan Materials (NYSE:VMC)? - Kalkine Media",
+    "Caterpillar's Robot Trucks Are Heading to Two More Quarries. Should You Buy the Dip Under $800? - 24"
+  ]
+}
