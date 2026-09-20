@@ -1,0 +1,16 @@
+{
+  "total_raw": 498,
+  "dup_title": 258,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 35,
+  "gate2_fail": 23,
+  "passed": 36,
+  "gate2_samples": [
+    "Asia Cement to Issue NT$5.7 Billion Bonds - Moomoo",
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Taiwan Glass Industry's Unit Redeems 120 Million Yuan Structured Deposit - marketscreener.com",
+    "Vulcan Materials stock slips as margins ease - ad-hoc-news.de",
+    "Vulcan Materials stock holds near a 52-week low - ad-hoc-news.de"
+  ]
+}
