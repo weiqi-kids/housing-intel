@@ -1,0 +1,233 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:03:53.781540Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "USW: contract talks with U.S. Steel “extremely disappointing” - Mesabi Tribune",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU0pXcW01ejR2V1BZb2s5ajJIR0Q1UkVsbHA1alo2cTEwWWNFMmZUVnMyOXRfNUdSYVdTVjFTdlFNNllPSlNXZGtfeXFVbThDaWd4aGx4UTNubi1MMFlUMmd6WS11c1dMc1RqSzM3eUVPOExLekhjVi13RDlDR1UyZmpuWTdyb3pyamd2SWNjTWRlUDRmakRETmlfT3N0dENVa0JMN09PSVBUbjIwVkY1VWlVc2xtZzQyVW9nM19GZDVRUHVrM3UtczV2N3JoMlJTVGgtZHFWNEJFNHB1MGhkQ0pB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "$475M Fairfield Tubular Q&T Line: U.S. Steel Breaks Ground in Alabama - Construction Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEY5TGVxU21jalRxVGtoNzV4dU9TYXVLVkpuRHRMb3JjS2FVNUtPSHNPVFFPMmk4eTFVZmRNZ240SmtrN2ljU2JKb3Y3cFZJSkF0MjNpSmxzM3A5UkJXMlczY0twWUxuQjJ1Q2VlbDlfVlNVXzhkcjB1d2FIQzV1MWtjS2lfbHMyRm43WG91LUxOQTUxLUJSczhXbGtrSE8zUmpkc3pB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan_materials-2026-09-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Reflecting On Building Materials Stocks’ Q2 Earnings: Vulcan Materials (NYSE:VMC) - StockStory",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZjdSSGJtcmVRRzVpU1p0aGVHX2xaS3RpdVQ0RFVTU01jSkJGdlRiU0JTQTFjQWNodDM5SEduTUtYTHZCY2hrWFZiRUpDbDJ3ZmJjWG8tREY3ejJVTVAtbGxLLVZHVW9KZnlEekt2cUhhTGZGeHZibVNPaFl4OF9YNk55ZlNISEVtLWFEX215a1pUMGptd2ZiZ2NrSlVwOUo4UjlGV2RBRGRlRjQ5RnFBYkt5aGs4eGdMdVE2UE5QMEhDUWFYUkMxUndvR18?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan_materials-2026-09-22-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock gains analyst support as Hilltop acquisition boosts outlook - AD HOC NEWS",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWotTzQyVXZIM2xXa29Qa3RXbkxOaWJaSFBaSXVtZm5WdVVxbkNLdEo4T2FudXJpZncwNlFKLXk4Nl9vZ3VEVEw5dkV0d2U5aFBNT0ZMNEVabVhsUTJ6am10Q2tnR1FUVFQ4Ynlmb05PMEQxckc1U0NOWmRWMFhRdmJ3RHV5XzB4VHB6V0Q4TjlLREE2ZmlnY01kU0plRlFmNi1HeENqczZOaFl0UnlEbVoxdFNpeXpmSW80TkI2WVV5M0E5QUJ1czE3dTRIUkJDTVpN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-09-22-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lee officials OK $46M incentives deal in pursuit of $1B Sanford project. Is Caterpillar snooping? - WRAL",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczZ2cldxbEl2MVcyeUZycGRkZlhXaGJGSUJSRm03cWlZd2FkaU1Hdy1pRFlzTkg1ZDlDajh3NldRaDNNX2h1SVdnSXhhUWFnb0NiYnRXMERLeVBlU09wWVQyUjYtVjdjMFNWcGVLTUczT1U4UnRpcXBTNzZjZVFUdXp2U19xaDJLczc4VnBSY0hpemhHRUktN3ZlSUQ2alg5clRVRDEtMUlURTBncG9qT2dpQ0NtZUlWcUJQVHNlanRQYmJhVVBvVUlONHlJTnlp?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "ruentex",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 501,
+    "dup_title": 242,
+    "too_old": 148,
+    "gate1_blocked": 35,
+    "gate2_blocked": 34,
+    "passed": 42,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Asia Cement to Issue NT$5.7 Billion Bonds - Moomoo",
+      "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+      "Nippon Steel to build new electric arc furnace in Slovakia - Yieh Corp.",
+      "Here's How Much $1000 Invested In Vulcan Materials 15 Years Ago Would Be Worth Today - webull.com",
+      "Vulcan Materials stock slips as margins ease - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Vulcan、CAT、聖戈班相關動態：「USW: contract talks with U.S. Steel “extremely disappoint...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "USW: contract talks with U.S. Steel “extremely disappointing” - Mesabi Tribune（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "$475M Fairfield Tubular Q&T Line: U.S. Steel Breaks Ground in Alabama - Const...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

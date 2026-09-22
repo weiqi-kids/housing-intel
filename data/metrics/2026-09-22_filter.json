@@ -1,0 +1,16 @@
+{
+  "total_raw": 501,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 35,
+  "gate2_fail": 34,
+  "passed": 42,
+  "gate2_samples": [
+    "Asia Cement to Issue NT$5.7 Billion Bonds - Moomoo",
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Nippon Steel to build new electric arc furnace in Slovakia - Yieh Corp.",
+    "Here's How Much $1000 Invested In Vulcan Materials 15 Years Ago Would Be Worth Today - webull.com",
+    "Vulcan Materials stock slips as margins ease - AD HOC NEWS"
+  ]
+}
