@@ -1,0 +1,16 @@
+{
+  "total_raw": 502,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 37,
+  "gate2_fail": 35,
+  "passed": 58,
+  "gate2_samples": [
+    "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+    "Asia Cement to Issue NT$5.7 Billion Bonds - Moomoo",
+    "Asia Cement to Issue NT$5.7 Billion Bonds - marketscreener.com",
+    "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+    "Here's How Much $1000 Invested In Vulcan Materials 15 Years Ago Would Be Worth Today - webull.com"
+  ]
+}
