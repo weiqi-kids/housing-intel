@@ -1,0 +1,16 @@
+{
+  "total_raw": 503,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 36,
+  "gate2_fail": 31,
+  "passed": 47,
+  "gate2_samples": [
+    "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+    "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+    "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+    "Why is Vulcan Materials (NYSE:VMC) in focus amid today’s infrastructure and real estate discussion? ",
+    "Today* in Hawks*** Around Town – monarch caterpillar into a monarch butterfly! - PoPville"
+  ]
+}
