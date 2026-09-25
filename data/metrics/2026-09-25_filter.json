@@ -1,0 +1,16 @@
+{
+  "total_raw": 504,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 44,
+  "gate2_fail": 33,
+  "passed": 45,
+  "gate2_samples": [
+    "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+    "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+    "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+    "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+    "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo"
+  ]
+}
