@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:31:36.363462Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 500,
+    "dup_title": 263,
+    "too_old": 144,
+    "gate1_blocked": 46,
+    "gate2_blocked": 34,
+    "passed": 13,
+    "pass_rate": "5.5%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+      "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+      "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+      "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+      "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-09-27 無房地產產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
