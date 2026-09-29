@@ -1,0 +1,16 @@
+{
+  "total_raw": 502,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 40,
+  "gate2_fail": 38,
+  "passed": 37,
+  "gate2_samples": [
+    "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+    "Nippon Steel Corp - Subsidiary Nippon Steel Engineering And Kanadevia Resolved To Terminate Discussi",
+    "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+    "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+    "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal"
+  ]
+}

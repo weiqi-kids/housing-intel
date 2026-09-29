@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:35:47.175546Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-09-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel stock trades at EUR 3.66 as dividend date arrives - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0Vmb2luZndsTl9tSmJpUXhXQ2FuRm81VVZOcjk0UnlGTkRmd1dpeV8zbVpGMk9hcTdyQ0o3NmdJQkJnUDBLb2s2ZkVuVWZqN1U3UWR5SVliVUVSQkJBOWtfSl9RR096UWhLN1lTQ25PdHRoM1Bjb1ZZQlk2Z3VmMF9kLTFBakR1ZEt3V0QyLWRZNmYtNFdlbmtPdG9WNThvRjlWNEdGRkdfS2dOWGh4dWdDYnJJVEs0LUVld3d3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-09-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Materials - Alabama Daily News",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnhNYzBObW81RU05WTRlSnI2M2YtOEFWdTV3azVWQVlrMUlXd2ZvUnQ0a3A5VkR0Y0dhVGpVSHB4NE5jV3pGTEtUSFl0Ulp2cG1FNTFDbzJENjhKLUhtcjQ4ZWJCc1pxNDhaRXpKaWxEN3FMMGE3cnNsODl1ZGlja0YxMlh5UWNWUHRUV1pTYzNfbWRVV25ZNS0ybUNKLUlCamp5NzZ2SQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan_materials-2026-09-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials acquires Kentucky quarry - Pit & Quarry",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWR6aVAzU2NHR3JaSU9ab2MtX2JURmV0VGU4d3l0dkNHMnBFX0NpM0ZubTBqRDdzRHQ3eVB3Umh5UHBlaEduT2hTZTgzSG9kQ1hNOTNRM210ZUFWX3ExdVhybVpUbDZTdXFXdlhPbmFTeU9iek5Qa0xNcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan_materials-2026-09-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rep. Sewell leads bipartisan push over Vulcan dispute in Mexico - Alabama Political Reporter",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUNoc2t6U2k0ZkFleUJoMnFTN1dIaExLR1h4VXYzNi1BRE1oNjl3Wl83N0Z0RzlzWjhaV2FSdWJFMVY5cHBtQ1VxQlBYdlROdlFiU2tabkpmb0NQRUtObUJuaXBFNzJhUWFCanM0VDFVTk01TEttSWVTSmM5cERQeDVURi0waURZRGlQMmxhSVRrV0NBd1ppUXg4b01DT3VkMHJZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-09-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades at USD 246.15 after Q2 earnings beat - AD HOC NEWS",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFJuSldRbHkzRndYY2VhUi1ZUHNJRU55amx0bm5lQ3NfMWxRQnhwYzBNakxJMk90LTBmWUlVanh5c2tKTnhhaC14YjRiekgxVklndTI5ck5GWVd0dU01OUFHMklPRERGVFpOcHBaTDQ1VktDR3hyNmN3eDdOb3BFTnVpdTlnZVhMV0ItdUZaZDJjV2kzOFpobTBMR01YT29wd3ZaN2k1aWUxUlVqX2JjcFdSbHlRTmwzV05NN21JeExJeDZHMFZZcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "housing_starts": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 4
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "housing_starts",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 502,
+    "dup_title": 248,
+    "too_old": 139,
+    "gate1_blocked": 40,
+    "gate2_blocked": 38,
+    "passed": 37,
+    "pass_rate": "14.6%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+      "Nippon Steel Corp - Subsidiary Nippon Steel Engineering And Kanadevia Resolved To Terminate Discussi",
+      "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+      "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+      "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為CAT、Vulcan、Nippon Steel相關動態：「Nippon Steel stock trades at EUR 3.66 as dividend date ar...」。主要關注主題為財報、新屋開工，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Steel stock trades at EUR 3.66 as dividend date arrives - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Mate...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
