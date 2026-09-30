@@ -1,0 +1,16 @@
+{
+  "total_raw": 500,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 40,
+  "gate2_fail": 33,
+  "passed": 48,
+  "gate2_samples": [
+    "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+    "Nippon Steel is raising prices by $32 per tonne due to rising costs - GMK Center",
+    "Nippon Steel Corp - Subsidiary Nippon Steel Engineering And Kanadevia Resolved To Terminate Discussi",
+    "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox"
+  ]
+}

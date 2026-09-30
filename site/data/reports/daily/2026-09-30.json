@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:35:00.135440Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kb_home-2026-09-30-017",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Lennar says the homebuilding labor market is tightening again—KB Home isn't seeing it - ResiClub",
+      "companies": [
+        "kb_home",
+        "lennar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGhrZ1VlQ2V2RUFEUG1zcHVEWE56YTBOTl9Sblk4Y3Q3ZlRDVDB0QmZBaWhVWkNwa0lxTm5zUDhnS20xbjRjNGVoRHJkR2Z1ZHVsYnVza2pNSWVXVmhXVHlSbjREUzBWc1lsQ3RQUmxDMG5pWExoV1pPZTIyM1lvaGsyNFMyR2xMLUZMYjdObXZTQ2NTbjVaYzBDeFphQzFjM3ZMQU9RRlB2MXRGWDlaS3lqVm0tRW9qemRlZ29R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCC Group Holdings stock shifts toward Europe as earnings improve - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQm44UUlaZmUyMi1GSjBrMTZMcFhSRWhyUFZJRDMtMTN4X29FYW5MemRIY01ITkFod3hOeGt1QTB1Rm9Xck9iZmx0X1lWaGFrN2VEZERfLVJNUURtd0hoV0dWRGRTemZKSWJJTlhWcmN4OC11NnlXcmQ4Y1RPWFBqNTNvRGg4d3NST3dQR2JnNXRWUUl0N2F0amhhTnpVNUg3eHpqOG5yQl9UM1R6bXltWGpsWjQ5MkJ2RTFEX0RGRlFrZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-09-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan: Nippon Steel cuts nickel-based stainless prices amid lower alloy costs - BigMint",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVQ3QVp3UHR3SkV2VTFOZFFzTWpfZjhiZDB3R0c4TEQ5OGJxUXBWWktHMHkxNU9VdkJvcmRpVFplbUoyVDN0MDVnLS1fSEJseUEzLXB4Y3dDa1BMWVdvblRza0lUQzFZTUVxUG5vX2R0ZjhCQWlfR3lsSVNMOG1ac0szNm15VlhXckhfNVFrUlgxeEptRl9MVXJMMkx1cjVJcmJmVUV1c3FYRnNjOTU3VHo5X09jLV96RGdiQVA1NA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan_materials-2026-09-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sewell leads effort to 'rectify' Mexico’s treatment of Vulcan Materials - timesdaily.com",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVm9FZWxLNC1GX3VGMFd5X2lvYTJSV0FYay1ab1liWk9SQjY4ZkZUUEVEU1VacTM4MERMR1Y5N0p5MDA3VXpMdjFVLVlEMWQ2a0JROWpDUjZzX19NWHBzblVkMENQNkZWLVNMNjdjV1M0X1VobW1FSy0ycGRSUFdKMHZiWWZ3YVlrVWlqM3FwV1RhRGtFQ05yX1l3RUlZV1ZCYVNtdzZiclpyWWd4R21fTTVqSlQ0LU5Fa0tHdFVucW1KaXRJZ0cxVzFOa0VtUWtQb1V6dElvbTc2SHlKNERDaHJRNHFGbFd4RFVR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan_materials-2026-09-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades at EUR 214.30 after Q2 growth - AD HOC NEWS",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLXVpQk45dHE0OVp3QV9ZOFZLOHJyMWgxRGV5WER0SmZ1akdrWjlQcm5Vb1FUQk9VMU5jU2VVOU9UZzJNT1VpaFJpNVJVZC04MUk2Q1BmSnZ3ak14WEFKd3VCWnNmT3VCSHlIbXZ4WnJ3YzI1SEl6TWZFVUpidGYtNTQtV25pNkxTTzAwNDhRdEpZc0N4QkIxdjhKMVB6emdVMHJvUGtEUTlXSzZjb2RHVnF2Wk0ybzE5ci02MER2SQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "construction_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 11
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 2
+      },
+      {
+        "id": "kb_home",
+        "count": 2
+      },
+      {
+        "id": "toll_brothers",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "construction_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 500,
+    "dup_title": 227,
+    "too_old": 152,
+    "gate1_blocked": 40,
+    "gate2_blocked": 33,
+    "passed": 48,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Taiwan Cement Corporation buying Ukraine's 2nd largest cement maker - Taiwan News",
+      "Nippon Steel is raising prices by $32 per tonne due to rising costs - GMK Center",
+      "Nippon Steel Corp - Subsidiary Nippon Steel Engineering And Kanadevia Resolved To Terminate Discussi",
+      "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+      "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為CAT、Vulcan、KB Home相關動態：「Lennar says the homebuilding labor market is tightening a...」。主要關注主題為財報、展望、營建成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lennar says the homebuilding labor market is tightening again—KB Home isn't s...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "TCC Group Holdings stock shifts toward Europe as earnings improve - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "營建成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
