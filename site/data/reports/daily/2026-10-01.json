@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T15:03:59.949095Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCC plans IFCEM acquisition and TCC stock trades 5.19 percent below its high - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWdTOVNvUDJ2SnZ1cE1xTmlMYm1pWEJEdDRkUHFtbDZqbVBLcENCZGVadUxzNXNtUnk0T2w3Tm9lNm5nYlc5dWsyTlFNUElVT2otY3A2ZnIzeFJ4SEg2X2ktajdOWmhaNHVlaUpyWEd0VWJ2eEdIZDQ4ak9EYWYwLWZqMTdMTnJMWjh6ZGZlaks1RFh1MllYVmpSWXNzWllkallaYmJjc0RHTGNrVzFUZjR0dUJMYkNodFZPbnpnOEo1TU1Rb1EtMG1R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-10-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar to invest $1B in new Sanford factory, buoyed by $85M in local incentives - WRAL",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeGk1NzZsSm5FdkM1NzBsNnFuNlozNVpBM2ljUk5IMHc3bmRLak9FWmROQ2pyaWd0ZVY2X0U2VTFPUjd5V3lJUEIxMVAwTzlXODhJRXJoTlV5VGRzdU16bFp1WWpkTndud29idjZUV28yRHZBMkgxV3k3dlJqMDNVNmN1elJyemoweU9ZVmw3VjNMNkU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Massy sells Caterpillar business to local subsidiary of Miami firm - Trinidad Guardian",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWC00S1NyREMzVVBYb3RMNC1pd3ZRV3JLTzF5YVpQTkNRb1NWYXZTbGtOcThpNEQ1LWtsb1NjRFRQMDQ4M1BlZnZTUmQ1eDhaUXBqYnItRlZMYmIwZGo3X1JVRnVYX2I5djBMN2RCSnpLRWpWX2doaVZpLXdGSDBJLWVYTTJnR2JSR1dhNnRxMWFKODJGT2pfS2c5YVE4cmtFWUwzalpXTVdiNGVoaExwdW0wS1dNZzdVNmIzWUdMRGdLUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "highwealth-2026-10-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Highwealth reports August revenue and Highwealth stock holds TWD 81.1 billion value - AD HOC NEWS",
+      "companies": [
+        "highwealth"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTNKTERVS2FtSDhHb1pXa29SS1NDQXNQZTFHMWtjV1hoSm1PaE93dFBGU2t3YjgyQTRXRXFmUzdRdWFyNi1tczctamhESTJUVVBQaUhtaHhyNXRSUzNwRzlNcHVDLXh5OW5ncC01VUVDZ2xxYVpuUHBiUmZ0LVRPN0NRWERZREhpU2xpWXpWSmxKQWw3V04xbDRqVFprcUt0ZnVWeUR4T3ZNOG84NUtvclZ0ZkJBTm1wVWV0V3V1MVZSSXBFWWlZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dr_horton-2026-10-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley initiates D.R. Horton stock coverage with Equalweight rating - Investing.com",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFI2dGRzWjhiQjJfYW55d3RwU2ZxX05BS1cwZnFxd3FsNFVSQ3JhQU52dEx1dXFvaXVlZHdhY3JsSjBKWDhMUTVySzJkNk92VDcwbHVZelF6b0tBREtiVXg3TWtJdTdrTXdCNlotNWJSRWZxd2J6cEhHdTdLLUNxbnE5alRMbldEOXY3OTdja1E3bWZHcGZjZkotdXp3dzl2d0RVcFV5THlUWlJuMTRnOXp3Mjgyajg5VXdTa2FRYWxWM3RPZEh0TE9RaXRnUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "housing_starts": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "kb_home",
+        "count": 5
+      },
+      {
+        "id": "dr_horton",
+        "count": 2
+      },
+      {
+        "id": "lennar",
+        "count": 2
+      },
+      {
+        "id": "toll_brothers",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "housing_starts",
+        "count": 1
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 500,
+    "dup_title": 243,
+    "too_old": 149,
+    "gate1_blocked": 35,
+    "gate2_blocked": 31,
+    "passed": 42,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Nippon Steel is raising prices by $32 per tonne due to rising costs - gmk.center",
+      "Japan: Nippon Steel raises steel prices by $32/t amid cost pressures - BigMint",
+      "Vulcan Materials (NYSE:VMC) Jumps Into Focus — Here's What's Driving It - Kalkine Media",
+      "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Materials - Decatur Daily",
+      "Vulcan Materials stock hits 52-week low at 240.67 USD - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為CAT、KB Home、DR Horton相關動態：「TCC plans IFCEM acquisition and TCC stock trades 5.19 per...」。主要關注主題為財報、新屋開工、房貸利率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TCC plans IFCEM acquisition and TCC stock trades 5.19 percent below its high ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Caterpillar to invest $1B in new Sanford factory, buoyed by $85M in local inc...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

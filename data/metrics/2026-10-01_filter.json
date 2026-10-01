@@ -1,0 +1,16 @@
+{
+  "total_raw": 500,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 35,
+  "gate2_fail": 31,
+  "passed": 42,
+  "gate2_samples": [
+    "Nippon Steel is raising prices by $32 per tonne due to rising costs - gmk.center",
+    "Japan: Nippon Steel raises steel prices by $32/t amid cost pressures - BigMint",
+    "Vulcan Materials (NYSE:VMC) Jumps Into Focus — Here's What's Driving It - Kalkine Media",
+    "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Materials - Decatur Daily",
+    "Vulcan Materials stock hits 52-week low at 240.67 USD - Investing.com"
+  ]
+}
