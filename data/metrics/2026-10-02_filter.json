@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 31,
+  "gate2_fail": 35,
+  "passed": 40,
+  "gate2_samples": [
+    "Nippon Steel is raising prices by $32 per tonne due to rising costs - GMK Center",
+    "Vulcan Materials (VMC) Slides On Valuation Debate, Is The Stock Still Undervalued? - Simply Wall Str",
+    "Vulcan Materials Company (Holding Company) Stock 12‑Month Price Target Cut to $322.29, Implies 32% U",
+    "Vulcan Materials stock hits 52-week low at 240.67 USD - Investing.com",
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox"
+  ]
+}
