@@ -1,0 +1,16 @@
+{
+  "total_raw": 492,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 30,
+  "gate2_fail": 30,
+  "passed": 36,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Slides On Valuation Debate, Is The Stock Still Undervalued? - Simply Wall Str",
+    "Vulcan Materials Company (Holding Company) Stock 12‑Month Price Target Cut to $322.29, Implies 32% U",
+    "Vulcan Materials stock hits 52-week low at 240.67 USD - Investing.com",
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox",
+    "Citigroup Adjusts Price Target on Vulcan Materials to $300 From $350, Keeps Buy Rating - marketscree"
+  ]
+}

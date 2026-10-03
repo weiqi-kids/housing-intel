@@ -1,5 +1,104 @@
 [
   {
+    "id": "vulcan_materials-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials reports tribunal ruling as Vulcan Materials stock costs EUR 216.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVdMTzhJU2R0bmFBRkd6Wjg1MkZ4YkVybld3TTg4TjRWM1pvQ1dvVWtjb1VoZ2FoNnVCNTNRMVpiOXNCbEZLTGhQdVF5Tk1VTnNQb09ma1lMckNnMmI5Q3N4WUFYYThMSWxIQ1NIdV",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVdMTzhJU2R0bmFBRkd6Wjg1MkZ4YkVybld3TTg4TjRWM1pvQ1dvVWtjb1VoZ2FoNnVCNTNRMVpiOXNCbEZLTGhQdVF5Tk1VTnNQb09ma1lMckNnMmI5Q3N4WUFYYThMSWxIQ1NIdVdXNVBNTFo3b0p4YkNka2FsSGpKemhRXzdjSFJadUlEM1NqUk11eVpyaTVkc3FGZDQ2TmRBWlNLTGNsMXdVSHZsb2ZZZ3pRZl9RYk9IeXpIM0tybkF5LUltdklIYlhKY0Jx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Saint-Gobain finalizes Xypex deal as Saint-Gobain stock trades flat at EUR 67.79 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHN5ckVYa3R6MmxVZ1pSZ2IxZU5jNFNwY1RnbDdvSUg0MTNDck1kQ0pGa2owTDhpWXEtdzJNdndIcF9pTVRTbXZxNTBETFFPRzZCWUN2Z1pqc091aWtzSE9zb19CT3ozeXlzcmF1eX",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHN5ckVYa3R6MmxVZ1pSZ2IxZU5jNFNwY1RnbDdvSUg0MTNDck1kQ0pGa2owTDhpWXEtdzJNdndIcF9pTVRTbXZxNTBETFFPRzZCWUN2Z1pqc091aWtzSE9zb19CT3ozeXlzcmF1eXBaZjlnOEN3cFV1ZVhYSjhxbmx3Nm55THhnaWpQR3Y0Z1g2S0tuM0ZfS1pLTl9OOU01eDRtdTdmMVo1VjN5RG4wVkFyUktxSDRfREd4MnV3Y0JwcS1FRnljRnFGSjh4LXlncjlV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-03-003",
+    "date": "2026-10-03",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain reports a buyback of Saint-Gobain stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVpMTFJkc1A5dHZZZGpiZ0VLTVhELWVLMmtXLVZGSU1obHhyNC1NQXlQdUoyb01MX2wwbXVSVURHb0xVbjZBQ1V3SVpVdkQtMnpBc1l6WFNMa09heVU5dGZYekRDQnNQT1VMRFFRQW",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVpMTFJkc1A5dHZZZGpiZ0VLTVhELWVLMmtXLVZGSU1obHhyNC1NQXlQdUoyb01MX2wwbXVSVURHb0xVbjZBQ1V3SVpVdkQtMnpBc1l6WFNMa09heVU5dGZYekRDQnNQT1VMRFFRQWRrNUowbmVpWkc1U1FjaDVnYXI5VE9rQ2QwZHQtaTl4RGtDX21QMG43VkUxM1VVd2YxTF9pTWNsTWVKZ3I4M3kyTEI2U2FEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-10-03-004",
+    "date": "2026-10-03",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pulte Homes opens Utah site as PulteGroup stock trades at EUR 102.85 versus EUR 102.85 close - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlVCd0Q4TW5GOE15NXJfUHFpa2NCcFBTTDJTbWF5UGdSR0JRaElDR016QTFyc2VfUzl4dW9pYkxCdG5SVEpzbHE1NDN4V0pZZTBMUHVIb1RScVo1M09DZnRqaXVnYVRVa2lyNW5zY2",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlVCd0Q4TW5GOE15NXJfUHFpa2NCcFBTTDJTbWF5UGdSR0JRaElDR016QTFyc2VfUzl4dW9pYkxCdG5SVEpzbHE1NDN4V0pZZTBMUHVIb1RScVo1M09DZnRqaXVnYVRVa2lyNW5zY2k1V2hyU2ZJbkgzdkg5RVZwT2x2OC0zN1lsang4bndHVXZpOFVfbjJwXzNlNVBjSDlMSjVIWXpOb3hQQlgzMWUzU283UERpQUZqbmVObjFGN2VFMmJJQVV0RDdSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-10-03-005",
+    "date": "2026-10-03",
+    "companies": [
+      "lennar",
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Housing Costs Keep Rising: Lennar Points to Data Center Labor Demand While KB Home Flags Fuel, Tariff and Inflation Pressures - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXFJN0hkcXlBWU15V19kcWpIT05GNmh2dXhJWVRZcV9NRTdGRDZiaXIyc0pmZklhMmlCaGZlaUhhcTBWczloUldRdEtKVXVvTXN3c2YtZ1JGT0EyNlJGRno1RHBDdDBWaDdmZ2pwa1",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXFJN0hkcXlBWU15V19kcWpIT05GNmh2dXhJWVRZcV9NRTdGRDZiaXIyc0pmZklhMmlCaGZlaUhhcTBWczloUldRdEtKVXVvTXN3c2YtZ1JGT0EyNlJGRno1RHBDdDBWaDdmZ2pwa1JNMEt0ZjU1bzZKWHZRNlB0UmpEWER3a1JSQ1FvaGxmWWVWTkI2U1hGOWt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [],
@@ -149,6 +248,250 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSHdMZUZRRy1HcUVmdUVPRHF2T2VnSGo4czdLR20xeHlkdHV0ZUZrbHhNN0lHS2tIa0xoczdJWWN2UWx3ZmhqM1hwMzRUZURKTzdkR251QmN1LUNBQ3F6VWxLSFgxVlcxLTlfR3JJallxNHNQX3FfYXJsX3ROMGhsSmdLZ1h4WDhMdk04REFadlc2cXFJUDk0YTNnMnVkM2QwTm4tT2ZPU2lDS21JOGtMTGFwYWxXb0VhWTJXRk9CMnhRa3Y4RGozSklHSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-009",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar celebrates Manufacturing Month with new Construction Technology Gallery - 1470 & 100.3 WMBD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONElPNHRSdkZITV9SSC1EVURTUDJPR0J5V2Q5Qk42Y19hSG5RM0NQNExBTzgyRE90ZnVTRG5EeUEtXzV1MG9PN0Etd3hudF9LZGZZRFAyVHJqYnVIYkdhTzhSZzdjVy1UUDNzaHNqM0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONElPNHRSdkZITV9SSC1EVURTUDJPR0J5V2Q5Qk42Y19hSG5RM0NQNExBTzgyRE90ZnVTRG5EeUEtXzV1MG9PN0Etd3hudF9LZGZZRFAyVHJqYnVIYkdhTzhSZzdjVy1UUDNzaHNqM0Z4ZW5jcldrbUlVclU2RVZla1ZMdl8zc01rWkJkakVQWmpoMlhOVS1UWVNRSlIzck5XTVpBMHh3YjJpSGd2a0FDZDdWRlY1U2N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-010",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar and Ultium Cells make $1B facility investments - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQelZzc2o3cTRSN3c0cTVxNk1DbUtLMVZzZUs1ZHpmdm41elFLR3Z0Uk1rN3ZrMXdJaFg3ZDNCMWFxY2JPSVV5NndTeS1SRkhtSGhGMGpnYnlqMFZZMnpkUGVQVTREODNlRWJUTU5pbz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelZzc2o3cTRSN3c0cTVxNk1DbUtLMVZzZUs1ZHpmdm41elFLR3Z0Uk1rN3ZrMXdJaFg3ZDNCMWFxY2JPSVV5NndTeS1SRkhtSGhGMGpnYnlqMFZZMnpkUGVQVTREODNlRWJUTU5pbzFzZVVTSDhFYklPUnlMSXdVeTBGbHkzTi0tdzVNRmp5SWN3R2xiNWxsQ2dzd3BhRWVzeUV0SHlhZFY3Qjd0U1RQRmRTT2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-011",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NC lands new Caterpillar manufacturing facility in Sanford as part of $1B push - WCTI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFY1cWZyQjlOUXFKS19IcjIyVHhBSkJqNDVFV3BFRnZlblEyM3VjbThMZ29rN2ZIRWpjeDRRd0wzQkVQdHY3bk5DeUFadlVaMjBHRjBwRWo4Y05lLUh4QUVBLTZIWVdWQ2FQdkhwbW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFY1cWZyQjlOUXFKS19IcjIyVHhBSkJqNDVFV3BFRnZlblEyM3VjbThMZ29rN2ZIRWpjeDRRd0wzQkVQdHY3bk5DeUFadlVaMjBHRjBwRWo4Y05lLUh4QUVBLTZIWVdWQ2FQdkhwbWVucnV4MEZ6UkExNGI5SnN2WklWNW5uUTA3OEZDRE1zb09EQW51Y2lET3dqeVNlbHZ5aWpFOXVuR0tXVUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-012",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Commits $1 Billion To U.S. Plant And Dealer Acquisition - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMFdZNUNEYnlXbkRWRTBoOVliZGxXRmZtWFZjbmN4N3RMSUpQdXZmbDE3dk8wUnVacnk2aUxXVjZnWEhZMElDd01ob01VRUZpcERWdWNJbXNtaEF3RlpROVZYNUZPblZjSEZCU2RXeF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMFdZNUNEYnlXbkRWRTBoOVliZGxXRmZtWFZjbmN4N3RMSUpQdXZmbDE3dk8wUnVacnk2aUxXVjZnWEhZMElDd01ob01VRUZpcERWdWNJbXNtaEF3RlpROVZYNUZPblZjSEZCU2RXeFMtT2FnbllNUTg1eGFGcFB6OUFZYVFVbU44Q21kMUVxaUF3ZWZlekRhd19WLWVWWURjTFFVUWhKcmJuLU1obm10NzZCLXg1XzNjc1JpNVZrQ1Zha0tiMXZGTjA1QzbSAdIBQVVfeXFMTU90WlRGTXJpMnZXT2Y2bG1VWHI1TWg5ek5JZE1UNmR3TzEyc0ozeWNGV192S2hMTTgzRGxWSGVMamxTYTRNN0o3MTVwYU1WZHZ0eS1FRTU3MDd3am1ZSzFDamRuS0tOYTNRYktzOE1jVmVmY0xfQklyNFgybV9OQVVfb0I1YVJ0QWRRYzRNOXV5Qm5RNGhHbWlWWXhQX2w3Tl85cmt6bDRIaXRHSXlMQ3dGb0tnaGFsanBaRE1xQlJlSFQ4em1LOGN4aWNDQnVFNFdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-013",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Is Betting $1 Billion on Small Contractors. Here’s Where the Stock Could Go by 2030 - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnhUNGQ5cU1PdV9ITE5ud0pVbnNLZFJteEFsNk81MHBEYmhnRnNjaDhrU2JaS1VZSm1uQ0NVUGhEbnh1MXFvZlZxcXNjdnBYUm9GUXMxNmJMNDhrTFVDWGR4cV81NGpUMXJnZkd6cW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnhUNGQ5cU1PdV9ITE5ud0pVbnNLZFJteEFsNk81MHBEYmhnRnNjaDhrU2JaS1VZSm1uQ0NVUGhEbnh1MXFvZlZxcXNjdnBYUm9GUXMxNmJMNDhrTFVDWGR4cV81NGpUMXJnZkd6cWlEbXp1QWFtWUctdU9IdWp2aDlQZGU3eXUxZ0ZMbGRYYzdwM3BENW9SbkVwWWp1d1lnWVNVdzFaa29DVm1WY25RRy12aUdDemlTZnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-014",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar plans to invest $1B in North Carolina facility - Lawn & Landscape",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVk4cmxteHJpdUo5OUpRWFNCekpyVjQ5LVJrX0hjd2RLa0YwRUZSaWVNQ1NSUXU0YUNrMzZNS3FXQ0ZWLTF2azU2R3VFVWpKWU95dHBseDJScjdMMVo0SldkeTA5eEtWdThPb2s0TH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVk4cmxteHJpdUo5OUpRWFNCekpyVjQ5LVJrX0hjd2RLa0YwRUZSaWVNQ1NSUXU0YUNrMzZNS3FXQ0ZWLTF2azU2R3VFVWpKWU95dHBseDJScjdMMVo0SldkeTA5eEtWdThPb2s0THpQalBPUXI0VVBWd0pYYUNjUmZBdEpmOGhpVk84ZGU2cE1qcDdFcVNRdDVQek1saHk0ZzBpd1JTZGQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-10-02-015",
+    "date": "2026-10-02",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "D.R. Horton (DHI) Pulls Back On Valuation Concerns, Is The Stock A Bargain? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjJvZG9yaTUtcFBIY1VyWWdHNHhsejlnb0d4Wk5SNmUzUFd1MUFSYkNUNWVNS0xKWEJvQ0dOaWhGOEUyemVfWkEteVJSeDhGNjFLYUkwSVNQTnlBM3pyN0pkUndmUWN3WXc4R1gwQl",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjJvZG9yaTUtcFBIY1VyWWdHNHhsejlnb0d4Wk5SNmUzUFd1MUFSYkNUNWVNS0xKWEJvQ0dOaWhGOEUyemVfWkEteVJSeDhGNjFLYUkwSVNQTnlBM3pyN0pkUndmUWN3WXc4R1gwQldJeFVGZU9kRC16LUlzSDFQdi1TWF9fNzlSN3ladEFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-10-02-016",
+    "date": "2026-10-02",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EXCLUSIVE: Lennar’s Big New Customer Is Its Own Spinoff, Millrose - Hunterbrook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNSFRUODFvdnVhaXA0RmhnVEFhRFJJOE5YYXJqY0Z3VkZMQmxYQm4zd1FVVEJJemZ1dHFaRUUtWFdHekFEaHBtWHFKZllROEtLb0NRQ3ZYOXBSQXFYaVE?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNSFRUODFvdnVhaXA0RmhnVEFhRFJJOE5YYXJqY0Z3VkZMQmxYQm4zd1FVVEJJemZ1dHFaRUUtWFdHekFEaHBtWHFKZllROEtLb0NRQ3ZYOXBSQXFYaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-017",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Just Bet Against Berkshire Hathaway’s Favorite Homebuilder - 247wallst.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWtfQkJMSDdEMlhBMUlDVmJTR0t6NVVTeXFoMVM3T3ItcEMyNU5iX2hOSHlQQTJRay16Y1o2SHF6YlVOZXlzRkJGZmdhNlMzN0k0VjdGWGFXMWRsZ2tUTDlSWWk1SWNCWkdVdE5rSz",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZWtfQkJMSDdEMlhBMUlDVmJTR0t6NVVTeXFoMVM3T3ItcEMyNU5iX2hOSHlQQTJRay16Y1o2SHF6YlVOZXlzRkJGZmdhNlMzN0k0VjdGWGFXMWRsZ2tUTDlSWWk1SWNCWkdVdE5rSzRJem1VcG9JVnM2T3RNSk5vbEtzV09KeFlYNHlzUFJQQ3RNY2I3Z01MZDd3SXRBVUpURnp1TEI3WGlJaDZUdGJvVElfUW54a2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-018",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "housing_starts"
+    ],
+    "impact": "neutral",
+    "title": "Stay on Message: Access NAHBs Latest Housing Talking Points",
+    "summary": "The monthly update provides talking points to help members stay informed with clear and consistent messages on issues affecting the residential construction industry.  ",
+    "sources": [
+      {
+        "name": "nahb_blog",
+        "url": "https://www.nahb.org/blog/2026/10/monthly-update-october",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-019",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3 contractors tout military project wins in September",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I0WGSmK0R4U6roGy8DHf9z7eb-sfEsvZxuzWxHhvggM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX0dMUlhX",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/3-contractors-military-construction-september-2026/831968/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-020",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "negative",
+    "title": "Homebuilders Sound Alarm on US Housing Slowdown as Mortgage Rates Top 7% — KBH, LEN Warn Conditions Have ‘Deteriorated’ - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQk5Gc1ByYVcwc19FYmJDT3BYVFhfRTY0WDNMSVNWSWdMeHhzbU9EOFhIWjVEQ0JCS1ZmRFhBbmgxRUxoamVJRHB5NXJ3Z29NZGZXRDNlUmRrZ0NZYmM5REcyZUVHX3lBcm1HU0JqN2",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQk5Gc1ByYVcwc19FYmJDT3BYVFhfRTY0WDNMSVNWSWdMeHhzbU9EOFhIWjVEQ0JCS1ZmRFhBbmgxRUxoamVJRHB5NXJ3Z29NZGZXRDNlUmRrZ0NZYmM5REcyZUVHX3lBcm1HU0JqN29UQjBzNHdaVVktWTVfV2tpemp4THgzUG41cW5ZcTM0TF9qRzE2WnU1SWZlWjdLdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-021",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "View Homes CEO Gandhi rebuilds builder operating platform - HousingWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBSb05Lc244NlpldHFERGdRWXVuaTVxVE1nNWJoSkwtRXJ3WmlZOVBzU1lNSGxCS0FfTzRzZENVRlpKR05ONmZYWDU4NkEzWDdRbUpOUkRPc3UxUWgtR0RtQ2YtZ1ZQeWd1TVFMRlRha1",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSb05Lc244NlpldHFERGdRWXVuaTVxVE1nNWJoSkwtRXJ3WmlZOVBzU1lNSGxCS0FfTzRzZENVRlpKR05ONmZYWDU4NkEzWDdRbUpOUkRPc3UxUWgtR0RtQ2YtZ1ZQeWd1TVFMRlRha1l4bjVBWEE?oc=5",
         "type": "rss"
       }
     ]
@@ -879,6 +1222,120 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbmI1aFRYZENTRkJKblM2T21qOENKY3dqSENqbDQyeURKU3VRWm0ydUR2YWw4NHBEWmpkRlNTckcxNlI4MW9IM2lNX2lMYzZDZUpid1FVQ2lKTXlac1JfRUlBZzJmamRablVGZkkwMHJLN3lEWGlRdlJnby03RDgybTVoNUdYb0o0aHBQQkpVM3BFR1M3ZV9hSWd3TW5lU0xrQ2JScEloVXNoSGlGcFMwdlZ6by1PT3dDeC1oenRYT0p0bG9iTzBRWkRwWlFpSXFLakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-10-01-039",
+    "date": "2026-10-01",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nippon Steel’s Plans in U. S. Steel Investment - SteelWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ycElORzU1bkVwaTl2TzJZbFRyQUxxd1ZQTjFGeFd6bFRnNmpROWV4cTdIcF93Y21uUlNScDJmUV9oT2ZPdHRYRm1EQldfbkJ6VEEtdEJYeU1kaW9Lc1R5aldn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ycElORzU1bkVwaTl2TzJZbFRyQUxxd1ZQTjFGeFd6bFRnNmpROWV4cTdIcF93Y21uUlNScDJmUV9oT2ZPdHRYRm1EQldfbkJ6VEEtdEJYeU1kaW9Lc1R5aldn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-01-040",
+    "date": "2026-10-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar invests $1B in Sanford expansion - Carolina Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZpQUprOXBqdVVPQ0hVMHQwdUsyczBlMmlNMzRWOW5JT1c1UXQxRG84cVdvRDdnZ19RZnpCcTlRcktCakVvbFhib1JjbVlXQmdNR3ZZVF9rVm5xT3dERldXaUo3dkNPRlp2RUs4Zj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZpQUprOXBqdVVPQ0hVMHQwdUsyczBlMmlNMzRWOW5JT1c1UXQxRG84cVdvRDdnZ19RZnpCcTlRcktCakVvbFhib1JjbVlXQmdNR3ZZVF9rVm5xT3dERldXaUo3dkNPRlp2RUs4ZjVWbml3VmtfLWtONmZmaUp2NjlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-01-041",
+    "date": "2026-10-01",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain Finalises North American Waterproofing Deal - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUp4d2NfMTlPUDdZQUFDNmZvTC05aU82OWRwV1dFSDFxd1liaDNWdGU1UHpyN1lCcy10MVJXZ1NSS0ZrWko2bjBPWmNzWV9jaVNDN2hNME90a2c5blZZLW1zQWFIUVBZeVFHYzhQNU",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUp4d2NfMTlPUDdZQUFDNmZvTC05aU82OWRwV1dFSDFxd1liaDNWdGU1UHpyN1lCcy10MVJXZ1NSS0ZrWko2bjBPWmNzWV9jaVNDN2hNME90a2c5blZZLW1zQWFIUVBZeVFHYzhQNUloZFdDRFhGRndGdDFHWXhqeTljMjBaUlZJN1FMUC1hYUVhbkY3OG5vbE5YQ1l5UVRVTGI4NmZvNExDbkdIX0pZMDhRZ0h2dWVnbWNWYThrMi1VLThr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-10-01-042",
+    "date": "2026-10-01",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup Initiated at Equal-Weight by Morgan Stanley - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2tVblh6eU1tdHl0S3R4U05iQ0xHM29XckZaandrdVd5dHpOZHB1Qk5zMDVjQWJtQzl5NGoyRHNORW9nNmtnam9leU9GNHBQU0tpeVNZSWstX3ZUbW5ZdlBPZk9FbFpFWlFhUGtLQ2",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2tVblh6eU1tdHl0S3R4U05iQ0xHM29XckZaandrdVd5dHpOZHB1Qk5zMDVjQWJtQzl5NGoyRHNORW9nNmtnam9leU9GNHBQU0tpeVNZSWstX3ZUbW5ZdlBPZk9FbFpFWlFhUGtLQ2dxamtqejRfbXNsZ0wzZDFLOTJ0bndPUnFzYkxPNUdLcWJpZkZtX0Q5YW1UNGNpYWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-01-043",
+    "date": "2026-10-01",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toll Brothers, Inc. Stock 12‑Month Price Target Cut to $171.87, Implies 28% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREFrWC00ZmxJQzFuRVBsekgzS2pCN2swTWZOTVhtVHVKSmMteGhHeGVDdjBnSEdkSGo5dXptZTVJbWIyV2RrR3RKV3lwWDF3RXBkM1lpdUhCVEVXMGpKVjdQVmZzNmV0TmJVcEMwaW",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREFrWC00ZmxJQzFuRVBsekgzS2pCN2swTWZOTVhtVHVKSmMteGhHeGVDdjBnSEdkSGo5dXptZTVJbWIyV2RrR3RKV3lwWDF3RXBkM1lpdUhCVEVXMGpKVjdQVmZzNmV0TmJVcEMwaWk1VmwtUWlSZUVnZjA3RF9XZnBsR3EyUVdJRWhZWEhwZmhieTdiVWRTTVA3em9RR0Fna29LYUdmWDJ4MmFIRzZUVlRLSXZWWWlHV3NkNmxhSTFXNHFHX0NBOTd3cWtTRjhkMUVTWUZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-10-01-044",
+    "date": "2026-10-01",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Home (KBH) Options Chain - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPS2VlT2VSTXdzVGRsd1hxQlhrT3R4cHZjdHgtUHowTHdnVkpVWVphZXZmUG1ZbnNNWVNNbnBudUFTNXQ3SUV5R2VMU01sdklCVXFUQXVOT01DUGZ0QXl6ZE5UUndKamRoUWxVcXhjQ2",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS2VlT2VSTXdzVGRsd1hxQlhrT3R4cHZjdHgtUHowTHdnVkpVWVphZXZmUG1ZbnNNWVNNbnBudUFTNXQ3SUV5R2VMU01sdklCVXFUQXVOT01DUGZ0QXl6ZE5UUndKamRoUWxVcXhjQ2wxN3o5elE1bDZnOXBOZndSODFSMG5OYmxvRWlrTUJ6aGQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1706,6 +2163,103 @@
     ]
   },
   {
+    "id": "nippon_steel-2026-09-30-043",
+    "date": "2026-09-30",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Steel is raising prices by $32 per tonne due to rising costs - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQelRuNVRWeUh0bU1PRDRMNG1qRVVpME1scmFEdFd1anpIV2IxRlNYeV83QS1Dd2JHaGhnRUJNSmxidXRfanQ4ZE40emM2eFFqcHViOGl0bDFIVGFwRUtVYjNlZWlCX1pSUGhENDlRNj",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelRuNVRWeUh0bU1PRDRMNG1qRVVpME1scmFEdFd1anpIV2IxRlNYeV83QS1Dd2JHaGhnRUJNSmxidXRfanQ4ZE40emM2eFFqcHViOGl0bDFIVGFwRUtVYjNlZWlCX1pSUGhENDlRNjlpWjRHUkVtYjQySjFDUVpIeHlDR3VFWGtnY1VpYTRJdWxEdDAtQzhIeTdwOTJDNVXSAZ8BQVVfeXFMUHpUbjVUVnlIdG1NT0Q0TDRtakVVaTBNbHJhRHRXdWp6SFdiMUZTWHlfN0EtQ3diR2hoZ0VCTUpsYnV0X2p0OGRONHpjNnhRanB1YjhpdGwxSFRhcEVLVWIzZWVpQl9aUlBoRDQ5UTY5aVo0R1JFbWI0MkoxQ1FaSHh5Q0d1RVhrZ2NVaWE0SXVsRHQwLUM4SHk3cDkyQzVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-30-044",
+    "date": "2026-09-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar to Invest $1 Billion in North Carolina to Expand Cat Compact℠ Manufacturing Capacity - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU2ZwSzRmY1dpcnlZZEY4S2ViNlFTN0FkYWpxc19JZVFGaDJvcWdNODZkazc0cXpfM29WOWJWMGRaTmgtVzFDajdUQjF2Q2huUDhPRWdIc2EwVDNUREEyeXVMUFJzcXNhdk5sTExodT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU2ZwSzRmY1dpcnlZZEY4S2ViNlFTN0FkYWpxc19JZVFGaDJvcWdNODZkazc0cXpfM29WOWJWMGRaTmgtVzFDajdUQjF2Q2huUDhPRWdIc2EwVDNUREEyeXVMUFJzcXNhdk5sTExodTZKeGRIWFd2RC03WEFTTG9vaEd3OWNYeFdTaFRZREZQZG43VVRMWFpIdHBVTnMxVkljNW9lYzJ6N20weUNnbEY2VXFscWRBWGlYNENoX0g1Nnh6dTg0X1l0NHRacnQxaktvQXJiVWZORFFvc3FMZENIcE44TmhHcXE2dUk5dWJyTU9Sc2UwRGUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-045",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hundreds of new homes coming to Seattle exurb after big land sale - bizjournals.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPckpZWkM4ek9iN0Z4Mm9sY0lRY0RYVEJ2U1o5ak5vRzNoQnZneFNDNC1BQXJFZzFKMk1tQ2ZmMEZiNDQ4Y1lmdTg2bk50cnh2Skt2OVZqN1JiaTJRcHgxWTZHOUxXdm5saTNYRHhlVD",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckpZWkM4ek9iN0Z4Mm9sY0lRY0RYVEJ2U1o5ak5vRzNoQnZneFNDNC1BQXJFZzFKMk1tQ2ZmMEZiNDQ4Y1lmdTg2bk50cnh2Skt2OVZqN1JiaTJRcHgxWTZHOUxXdm5saTNYRHhlVDNtSXVNRGk2Z2g2WmRVMHEtNkQ3dzZPSmFkWTFVTDdtV2Ftb3p1S2lJTmxxWTRaQ2llbEZhZVBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-09-30-046",
+    "date": "2026-09-30",
+    "companies": [
+      "lennar",
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lennar says the homebuilding labor market is tightening again—KB Home isn't seeing it - resiclubanalytics.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGhrZ1VlQ2V2RUFEUG1zcHVEWE56YTBOTl9Sblk4Y3Q3ZlRDVDB0QmZBaWhVWkNwa0lxTm5zUDhnS20xbjRjNGVoRHJkR2Z1ZHVsYnVza2pNSWVXVmhXVHlSbjREUzBWc1lsQ3RQUm",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGhrZ1VlQ2V2RUFEUG1zcHVEWE56YTBOTl9Sblk4Y3Q3ZlRDVDB0QmZBaWhVWkNwa0lxTm5zUDhnS20xbjRjNGVoRHJkR2Z1ZHVsYnVza2pNSWVXVmhXVHlSbjREUzBWc1lsQ3RQUmxDMG5pWExoV1pPZTIyM1lvaGsyNFMyR2xMLUZMYjdObXZTQ2NTbjVaYzBDeFphQzFjM3ZMQU9RRlB2MXRGWDlaS3lqVm0tRW9qemRlZ29R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-30-047",
+    "date": "2026-09-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Homebuilder starts sales for luxury development in Bellevue - bizjournals.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNczdQeWFtdlRIT20wT0JDWUdSMmpoWWpLdktyM2w2ZHhpSTJvQWtVU3EyRFVwSnNWY1M0cDIwaGU1M1hlMGpSRE9sblFuRHNHbU1IRWRYRmxyYzVwRWFiZnowQ2gwazBwd2huS3RCWn",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczdQeWFtdlRIT20wT0JDWUdSMmpoWWpLdktyM2w2ZHhpSTJvQWtVU3EyRFVwSnNWY1M0cDIwaGU1M1hlMGpSRE9sblFuRHNHbU1IRWRYRmxyYzVwRWFiZnowQ2gwazBwd2huS3RCWnpteFdUaF9jeFk0aTRRU0E4TDJyUk1HRTVKRV9JdWc5VjMtQkZMZWtYYzZWT0o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nippon_steel-2026-09-29-001",
     "date": "2026-09-29",
     "companies": [
@@ -2450,6 +3004,100 @@
       {
         "name": "sumitomo_forestry",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aN0ZNNDB1WWxPNXo0bjZzTklLMmpTREhDVjktbDVtem5TTnlaZ3luY1dVZWU0dGJGanlxOFp5cmY4dU1NbkQ3cS1EMXpQWTVmTHhSWVcwdHIxUUlaX0RLWGVXVTROX05VMV9TRzVEZTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-29-040",
+    "date": "2026-09-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fenton-based Fabick Cat dealership to be acquired by Caterpillar - bizjournals.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHJLTktmMWMwZGd2ZXZSeWE3dnpSZTNGYkVIMjBaeG1vX1RLeHRPc3V0VnRLLV9NT2VnckI5Y19NOFczS3BCbEFFTDFTeEFQTEpzeDA5SnhmUFlGa2ZiYVBMTUQwWm9jdDJ5eGFUd2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHJLTktmMWMwZGd2ZXZSeWE3dnpSZTNGYkVIMjBaeG1vX1RLeHRPc3V0VnRLLV9NT2VnckI5Y19NOFczS3BCbEFFTDFTeEFQTEpzeDA5SnhmUFlGa2ZiYVBMTUQwWm9jdDJ5eGFUd2pOMEJ3cGQxZ1VXUzBFTUZibFFGemU1YmoxSFkxTVZfb01fTlZDRjZka3F3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-29-041",
+    "date": "2026-09-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFJEQjd5WFljZ3NFelZmT1BFMjdtWGctUF90R0tOVlgyMUlTYlI5WlQwaFFuZEZ1SzdSMG4tXy00Y0h5Zl9Qb3pmTmVsN09KQXI1cnFXTXE4WjluNEFsOWUzcjRKamgxZ3lxMzFodk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFJEQjd5WFljZ3NFelZmT1BFMjdtWGctUF90R0tOVlgyMUlTYlI5WlQwaFFuZEZ1SzdSMG4tXy00Y0h5Zl9Qb3pmTmVsN09KQXI1cnFXTXE4WjluNEFsOWUzcjRKamgxZ3lxMzFodkczV2F0T21HQ0JOcTdfQUQ0NTFYVXdaUVBTMDdZLUNIaGlWQXpKN1JQQV95UXJQRnp2alN6WDM5MllidEF0ZGVaSTJCZnNtT3pRWmswV280M1FDTUtfN2NPamNkaldRQ2U0TEpYRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-09-29-042",
+    "date": "2026-09-29",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup to build townhome community in St. Johns County - bizjournals.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWluTnpaNkFsY2hwQWRuVnJJbmxFUk9VenFtUmdyWDlDMzZINlZubEdRXzBxeGV4STJFWlJVOUVCVV9wcWpvaFY1ZkpPOW1XcHdBTVF4empIWDJyYkhUOVlicEgxVmlnM3dtM3FSVU",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWluTnpaNkFsY2hwQWRuVnJJbmxFUk9VenFtUmdyWDlDMzZINlZubEdRXzBxeGV4STJFWlJVOUVCVV9wcWpvaFY1ZkpPOW1XcHdBTVF4empIWDJyYkhUOVlicEgxVmlnM3dtM3FSVURkeDlvUmxqdUxwLVFQbm55ejhSTUFhMjY0VDUwazItRkpDRno5VllLUHFVNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-09-29-043",
+    "date": "2026-09-29",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Apex, North Carolina - nasdaq.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1IxYzVGeDdzNmNRNnBOZy1mbnVxamlsWGs5eXczbnBMYUlXTU5yZUxnNUlsX0VSOVdVbVE0TUVTZ043VjhURE5yMDRsMk1hSlNZN0lJNDAtXzBwaTMtaEZhWnd6M0xfMVA3eU9IT1",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1IxYzVGeDdzNmNRNnBOZy1mbnVxamlsWGs5eXczbnBMYUlXTU5yZUxnNUlsX0VSOVdVbVE0TUVTZ043VjhURE5yMDRsMk1hSlNZN0lJNDAtXzBwaTMtaEZhWnd6M0xfMVA3eU9IT1h3Z2lGQkdvWEtWdHVoWHprTkMzcm9Edzd4Wng0Y2RTWDY4Z0hqT3IxVFl3dEkySTlDZlRPWkhGTm5abmY1d1JMZnhfc3hhUjlRVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-09-29-044",
+    "date": "2026-09-29",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "KB Home: The housing market has weakened since June—and Texas resale sellers 'capitulate a little bit more' - resiclubanalytics.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjZhUTIzcnJ5YXo3WVpKbzZTMzJJcHBLTnJUY3RpU2gxd3I2WXZncldXX0g0ZUNuQ1phZmdFcEUyX1Jad2hfU2E0R21ZTGltSU5XX3N5OElKSzluZEhjLUZ4bWZQdV9VWGFuYWR3WU",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjZhUTIzcnJ5YXo3WVpKbzZTMzJJcHBLTnJUY3RpU2gxd3I2WXZncldXX0g0ZUNuQ1phZmdFcEUyX1Jad2hfU2E0R21ZTGltSU5XX3N5OElKSzluZEhjLUZ4bWZQdV9VWGFuYWR3WU5QVllfUmpSbXJTTExUaWRYNmNSdU9DQmcwenIyYkxmUmFHaFBvcHJVSjVTeTZVNnlkMUIxem83YWs2YTIxOE8zNkRVU3ZONkhNZEtCRGwtU1hTaG9mZ1NEVnhBSFdNQVpO?oc=5",
         "type": "rss"
       }
     ]
@@ -3363,6 +4011,42 @@
       {
         "name": "nippon_steel",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbU14TkRLNGh5b2Vqa3JmaGNIcjBhYzVRaGV1Y0hZRnQwY2lCX0NBd1E3amhaeEVsVmRESGphTjhIX0JiaGJsZlc0a19VNmdVajJwbks2cm4xd2o4TjRsS3NSVW96UXEzdTdZTDZQbEhBTEZuNUdoQktkRHFWdThBUUh1bmcwQUtqVE9zbmNXTENoN3RtNjEzcnhydVZvaU5mUXR0bU9aLU1Dcnc2QkNILUhPeVB3NDU3YmRPaUZMQ1NfZHJnV0pVS1JsWUl4Sy1vSndUMkRNUzB2bm1Gelp5V3VRT3lURGR6NDBFYWc2M1ZRY3hLVEEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-09-28-049",
+    "date": "2026-09-28",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Lennar: Capitulating resale sellers in pockets of Florida and Texas keeps pressure on entry-level homebuilders - resiclubanalytics.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnhmZzFQSTZmTXl4VW1Hai1JTExnem01SHZabTJYank3a2l0SnlyNDljQkdQeTNTSTdCOXFEb3gyQTN4d1luelcxazV3RVhyeEhfMlE2M201ck5CeXNoWDhRZ2tyRXB3TEFWVnhLV0",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnhmZzFQSTZmTXl4VW1Hai1JTExnem01SHZabTJYank3a2l0SnlyNDljQkdQeTNTSTdCOXFEb3gyQTN4d1luelcxazV3RVhyeEhfMlE2M201ck5CeXNoWDhRZ2tyRXB3TEFWVnhLV0dfMTAxc0JIbGZwSzFjbExhbnlyamhQcU5XLWhpM0I0V0RWdDBEZU1GX1A0djNrTVNGRWV6d3Z1MFBkMnlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-09-28-050",
+    "date": "2026-09-28",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "If Berkshire's $2.1 Billion Bet Is Right, You'll Probably Wish You Bought This Unloved Housing Stock. Abel and Weschler Just Bought Another 2.7 Million Shares Of Lennar. - 247wallst.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNNFRYb1VQU2EzR3FHOVdTMlpwTkdtWlMxVHVMdUVadHVta3E0QWFYeWY1SkdnNWZzdEdORlUzTDYwbjhXRTdDRUlsemYtNDBQUjdub0xnbHp0b0I3cTROWXRiSXhsdnJ5UlRGc2poVU",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNNFRYb1VQU2EzR3FHOVdTMlpwTkdtWlMxVHVMdUVadHVta3E0QWFYeWY1SkdnNWZzdEdORlUzTDYwbjhXRTdDRUlsemYtNDBQUjdub0xnbHp0b0I3cTROWXRiSXhsdnJ5UlRGc2poVUswSkM2VUh2Wm5BRUhTUzFTMkI0S0F3R2M0eTFSM18xUnQwVWRmclprakU2NGpqZjhsV2Y4T1pTeW9UajFLT2RSSnRyNXJnVzdGS1Z4aUJmQUl5SFZwbzA0V2dXNXBIS0tUT0NfSHFQQ0IzbHdrOWs1YzVoWUtRbldUcllOanc2U3R1Q0hiTXRWRjMyWGVsa1JTMzBrbFhaYWVHTFJ2RTFTQkgwRDdSWE9USUlHOU0tYXhHUnNBaEE0UlBzTUNxUXpu?oc=5",
         "type": "rss"
       }
     ]
