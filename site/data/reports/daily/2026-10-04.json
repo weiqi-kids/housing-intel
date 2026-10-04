@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:40:23.308480Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "saint_gobain-2026-10-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock gained 1.18 percent after Xypex deal - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWplYmFfUXdkeTBaQ0x5Y0R4ZThSMlhWSWQ3OE1qY21qYUlYTUctcVlWSnZGWHZreHlROU5ZQ1FydElvTHhaT1F2Sk1GY3lpZFh4bllUVU1wclgwTzNybWw2cHhockpNUkZscGgzc01FalhKajJCM2xaQ0dNZk5CM0VVOVNIU2l6M1VkY2ZIRzROQWU2LXdPTThFamlCOEZzRWthY3E1aVQwT0d0dGYtWVFBWnFUcURsS0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Monument seeks increase for use tax on construction materials - Colorado Politics",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2VSQlluNWlhZHUybTNJR3drVElHT0tOVjNOTVp0RW5ObXMweXZDU2ZvZ00yMXRCYXZFN0ppa0V3cnVTQ3F5YnBoY1NuWFdxbWJzMnVjalNGWXVIMjBvelZwVENtNWdiVVFZSjlxQjlTaVlTREtKWHRHVXFZRUdjV2hacF9HVUF2c3F3TFFNWWM5VXBzVnRCVlRzb0VjX255VVNBcC01Vnozdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pultegroup-2026-10-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PulteGroup stock trades at USD 115.73 before October 22 results - AD HOC NEWS",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdl9XUGNNcmZWcDFSbDdxdy1lbmd5UUZMYkdsYzJVVEpyc1hiWG1GUEJIRVVCV1ljY0w2RExNVFRkVXhvY2tja3o0UmZDeHhXYndzdzdxOGVwNUdGZlVsXzNSdmlyOTViVm9paHk2WDAtcXhzRVBDY1VYdks3RDF5WHlIbS1mdGdVNXVEak80U2ZueU4wLXVpN3NQek9NUzhUaVVmRXFTTk1tSHV4S2VzMGxBTE9GWF9UcUhwalU0RDNZemF1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 496,
+    "dup_title": 238,
+    "too_old": 169,
+    "gate1_blocked": 29,
+    "gate2_blocked": 31,
+    "passed": 29,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+      "Vulcan Materials Company (Holding Company) Stock 12‑Month Price Target Cut to $322.29, Implies 32% U",
+      "Vulcan Materials (VMC) Slides On Valuation Debate, Is The Stock Still Undervalued? - Simply Wall Str",
+      "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+      "Vulcan Materials stock hits 52-week low at 240.67 USD - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為聖戈班、Pulte相關動態：「Saint-Gobain stock gained 1.18 percent after Xypex deal -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Saint-Gobain stock gained 1.18 percent after Xypex deal - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Monument seeks increase for use tax on construction materials - Colorado Poli...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

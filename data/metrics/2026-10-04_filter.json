@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 29,
+  "gate2_fail": 31,
+  "passed": 29,
+  "gate2_samples": [
+    "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+    "Vulcan Materials Company (Holding Company) Stock 12‑Month Price Target Cut to $322.29, Implies 32% U",
+    "Vulcan Materials (VMC) Slides On Valuation Debate, Is The Stock Still Undervalued? - Simply Wall Str",
+    "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+    "Vulcan Materials stock hits 52-week low at 240.67 USD - Investing.com"
+  ]
+}
