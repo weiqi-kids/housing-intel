@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 32,
+  "gate2_fail": 35,
+  "passed": 45,
+  "gate2_samples": [
+    "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+    "Vulcan Materials Company (Holding Company) Stock 12‑Month Price Target Cut to $322.29, Implies 32% U",
+    "Vulcan Materials (VMC) Slides On Valuation Debate, Is The Stock Still Undervalued? - simplywall.st",
+    "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+    "Wells Fargo Adjusts Vulcan Materials Price Target to $249 From $254, Maintains Underweight Rating - "
+  ]
+}
