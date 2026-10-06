@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 30,
+  "gate2_fail": 35,
+  "passed": 42,
+  "gate2_samples": [
+    "Nippon Steel Selects Tenova for Second Consteel EAF at Hirohata - Machine Maker",
+    "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+    "Vulcan Materials Company (Holding Company) Stock 12‑Month Price Target Cut to $322.29, Implies 32% U",
+    "Vulcan Materials (VMC) Slides On Valuation Debate, Is The Stock Still Undervalued? - Simply Wall Str",
+    "Wells Fargo Adjusts Vulcan Materials Price Target to $249 From $254, Maintains Underweight Rating - "
+  ]
+}
