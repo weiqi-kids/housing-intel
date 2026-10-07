@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 35,
+  "gate2_fail": 36,
+  "passed": 44,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+    "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+    "Nippon Steel schedules second-quarter results: what it means for Nippon Steel stock - AD HOC NEWS",
+    "Nippon Steel Selects Tenova for Second Consteel EAF at Hirohata - Machine Maker"
+  ]
+}

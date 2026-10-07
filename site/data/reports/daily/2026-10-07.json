@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:03:24.949105Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-10-07-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Asia Cement reports a loss: what it means for Asia Cement stock - AD HOC NEWS",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkZTc01ZcHpHR1BRUFNVbzFJeUgyX0M1VzJPMzJQejQ5RVJjV3l1YWpPNnNNblBEOENrTmVLS1l0eGsxaDk4LXh2bnh0a29MUjJuaDJQQ3pCQm4zNzVxdDFFWnBrME9iLUtVSGYzLUFfdk9pX1d1MlFfVUpxZDg2YXNOTzc3MXZ6cmczbG1Yb2ZTTVBXTk9aMWdlRGJxeGhjWTl4R3hGUXotUmVzaHJpaFJ5emV3eDVPZVppNjVR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "kb_home-2026-10-07-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "KB Home stock reports 20 percent revenue decline in Q3 - AD HOC NEWS",
+      "companies": [
+        "kb_home"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkZhQktRZm94QWFDZF9PcWl2dnBNYTFfa1Uzb2lWYlFYTUlrR3h1THZBZkZDR29jTGZYS2ZGME1mSkdRMzVaNUxlQXVIblhRRkFsajJpXzNoM3psSVNPcXRYcy1JVENRUlVVV1lzTU80a2pfdEdLejIteUJrdHJUMTRXY2d5UFJBaDJZZXhWbjh2M2Y0SkR5OE5ydDRhVEdXN0ZxMGVPeThISnc2c1JaWHR1bw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCC stock heads toward the October 13 shareholder meeting - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTZpa3BqN21SelZDQ1lEYXRCTy1nUjdnSVZwd2NlWWtITndZcy1fcDVidlVWaHZtZWd4Rl9obnREbnBvS3RjaGktMGFGM2tsRWJNelRVaGVYWWU3U3NxWnJYZnF6WGRYTE1uc2V6aVJNSklIMEhWVU5VTzJmZFBGNnNxNVBETmxwREJtNWJVd0V2dDJsRHEwa3VNRFQ5dVMtN0twU3hsdF92bGlNb0ppSldQTGRONzA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-10-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar and CoreWeave shorten the learning loop for physical AI - SiliconANGLE",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTkzMXNMOVlpVUhaWEhzdFNfVlJxQktYM09GWktnc1RWaXp1em05dXoyaF9vTUlFdi1hdE1MSFNFZWgyRVJJUVVyT255UU40azdvcEtLTHdlUkE1R0phRU80MUg3M3owQ3Vpa1hVUnpiUXc1U0RGbFBIQ0ZDcDVkTEVSbmdyNV9lVzI0OVBBcjFhLU1Ma0FEZm9aeEg1YmpoWVJoUEpqWE11Qlk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-10-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "News Content Hub - What’s old is new again: Caterpillar can makeover your MaK - Riviera Maritime Media",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlRMXzQxNW1LeXpIOXVxMXB2WWVMRUxhQWMya1NSNkJ5T1EwNHBZY1EwSnRXYzZONzBtc3hWSmZWNEUtR3pMQ2R4TTMyOTI0X1VfdDc4TUNTTVptdnF1WjZ6NFBqSUthZUJ1THd6b05GYVpHVlVhblhxaks5bHk0X0dreTktanRWenVVc1pjWjdfanhWRDZBQXBvT3pOZU0tYVRJSEN1QVI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "asia_cement",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      },
+      {
+        "id": "kb_home",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 493,
+    "dup_title": 231,
+    "too_old": 147,
+    "gate1_blocked": 35,
+    "gate2_blocked": 36,
+    "passed": 44,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+      "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+      "Nippon Steel schedules second-quarter results: what it means for Nippon Steel stock - AD HOC NEWS",
+      "Nippon Steel Selects Tenova for Second Consteel EAF at Hirohata - Machine Maker"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CAT、Asia Cement、聖戈班相關動態：「Asia Cement reports a loss: what it means for Asia Cement...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Asia Cement reports a loss: what it means for Asia Cement stock - AD HOC NEWS（財報）",
+        "level": "red"
+      },
+      {
+        "text": "KB Home stock reports 20 percent revenue decline in Q3 - AD HOC NEWS（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
