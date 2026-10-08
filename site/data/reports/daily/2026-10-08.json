@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:11:46.601143Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TAIEX edges lower Wednesday as tech stocks weaken near 50,000 points - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyeVJnaHFmNXRLdVBFclhNMGhnWENzTklfNXg3M0Zzck52eFFwelhwdFBXcGtWbDFqc1d5TGhzVVgwbzdSam9mRzQ2dnZpVGNoeS1mVWJoYTI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Experts at Triangle Jobs Summit stress need for human skills as AI reshapes work - The Business Journals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtmRjIwX1Z3blQwOGFIdXU1Q1dEeGxGUkEyLUd2eE50V1dJa1Y0TzVBSlBXN2lzV05BVTRkcTROek5sUV91dHdtRnhsUUE1S3hESnNsendjRkZsb2NqQlpYVzktRThKOHloclRDNTdldmJPR1lfaExGVWpLR2JPTHZFRE1yaDltbjJ4ak5iUzNId1cxZjNPcUlSLXh1VmZBNnJZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Site Cuts Safety Documentation and Reporting Time by 52 Hours Per Month With Smart Safety Pro - EIN Presswire",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3hIQl9kUzVDRzBNN0FheVZZUG5RTjQ4UnM5ZGZlNktMMEExVU85UGJfZmVpaDM3R082ZW9YUGdPU1lqM3N1Wnp2Vm96YjRUQ1R0SDZxdVhkRG4wZ093Ny1oLTRiNEFrM3dEVkpsM2ZZVDBfWlRVX2RJLUV4NnB2SGEtRVpiM1BkUTZuVFRmd2J6UWNHWWY1QmF2OXkwM2ZQT2lLY2pKb0llSGlQY21fQ1RfMzB6ZW5NSzBVSmFIQTAzUU5HUzV3T3NxQWR2a2FJLVZPX21DV25UbTFmcUdDTVRERmtFRXM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-10-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Stock Drops Nearly 6% After Strong Run as Investors Dig into Backlog and Valuation - FXLeaders",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNGSU9JVVlBUDVyaXhuaGRRclNhT2Eta1VacXZqOFpuZ2dENW9yeHBFZ2s3NXpSQU1QY3hMaXNxbWltWVZQX1VJOGt6Qk1hd21QNThqQ1BTUDNROEJYRjlaTWN5alFNMUVYT0JmUlJzRHhma1h5dzZlUVd6VVNWYzR6VlVlLXZZOVY3cg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-10-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Applied Digital, Webull Corp., Super Micro Computer, Micron and Caterpillar: Why These 5 Stocks Are on Investors' Radars Today - TradingView",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRWZGdEs0UFhhUlowTVNTZEZmSG5QeDhRX09NVGxuSzhvLWtlTmE3Q2I0REg5cmxmMGVfOW9IUFAzaG04VUEyT29RTl9TRXl5cFE3cl91S0tqcmVHdElFMVZfeDJRWU91eEp1bzJ0UFIyUGNzQkdtMk5NU0pDX1pkSV9GeVQtN0UwNVU3WGZNVVF2MjBjaGVkbk5KZm5tN2RYenlPRE5DU0V3VFBmS0xhUDE4S0xSQ2RxeVJzWnZseVZaRmY0VHVreUhjRi1vMERGQV8zU2RpalZMTlQ5Qmo5TmcxQmhRT3d2WDh0SllQLTBkN3JTam5qRS1yLUNjY2FXanhpNHFHS1JjQVU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "saint_gobain",
+        "count": 4
+      },
+      {
+        "id": "pultegroup",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 493,
+    "dup_title": 237,
+    "too_old": 145,
+    "gate1_blocked": 36,
+    "gate2_blocked": 44,
+    "passed": 31,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "17.2%",
+    "gate2_samples": [
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+      "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+      "Nippon Steel schedules second-quarter results: what it means for Nippon Steel stock - AD HOC NEWS",
+      "CRH to Acquire Aggregate Operations in Denmark and Finland"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為CAT、聖戈班、Pulte相關動態：「TAIEX edges lower Wednesday as tech stocks weaken near 50...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "TAIEX edges lower Wednesday as tech stocks weaken near 50,000 points - Taiwan...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Experts at Triangle Jobs Summit stress need for human skills as AI reshapes w...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,367 @@
 [
   {
+    "id": "unknown-2026-10-08-001",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "TAIEX edges lower Wednesday as tech stocks weaken near 50,000 points - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyeVJnaHFmNXRLdVBFclhNMGhnWENzTklfNXg3M0Zzck52eFFwelhwdFBXcGtWbDFqc1d5TGhzVVgwbzdSam9mRzQ2dnZpVGNoeS1mVWJoYTI?oc=5\" target=\"_blank\">TAIEX ed",
+    "sources": [
+      {
+        "name": "taiwan_glass",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyeVJnaHFmNXRLdVBFclhNMGhnWENzTklfNXg3M0Zzck52eFFwelhwdFBXcGtWbDFqc1d5TGhzVVgwbzdSam9mRzQ2dnZpVGNoeS1mVWJoYTI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-08-002",
+    "date": "2026-10-08",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Should Resilient Infrastructure and Data Center Demand Shift Vulcan Materials’ (VMC) Risk-Reward Profile? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2VjaEVsbjh1TlVDdjNnd0lRVDY5dU9nMklXSl90aFZfNWNFekw2SHhsZTcyXzE5dThoalp1aVpKZnl3cmtobWE5UVJBaFQyUnZSZlNXZzJMSVVRZVpGcFFEcHdxeE90T0tUU0J6eV",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2VjaEVsbjh1TlVDdjNnd0lRVDY5dU9nMklXSl90aFZfNWNFekw2SHhsZTcyXzE5dThoalp1aVpKZnl3cmtobWE5UVJBaFQyUnZSZlNXZzJMSVVRZVpGcFFEcHdxeE90T0tUU0J6eVdSWlA2RVdMMTctMzkwQlFhMXluajltc2dpWHV4U1J6TVA2eTNuZU1Pcm5UbkxYTkVtTUlkVkhTZHQtSGJm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-003",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Fell Nearly 6% in a Day as Treasury Yields Hit 24-Year Highs. Here’s Why Gas Compression Demand Matters - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUZ1UWtBMnlTeVdHSndCUDdpVXllRW1GZWtCU251MnlYTk1BLWRNcjc1TnF2Q0VmeUdlemYycWk0MlBpZHpRUDRMb0hZbzRJTEVfSk5CdFRRdW5wMGhHN0prams3MXd1aUs2aU95Mi",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUZ1UWtBMnlTeVdHSndCUDdpVXllRW1GZWtCU251MnlYTk1BLWRNcjc1TnF2Q0VmeUdlemYycWk0MlBpZHpRUDRMb0hZbzRJTEVfSk5CdFRRdW5wMGhHN0prams3MXd1aUs2aU95Mi14c3kydDhnZnB4N2VkWjhkTUVxMHRmcXNybnlBQS04WFlUdnpsWmlOOHU2eXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-004",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Experts at Triangle Jobs Summit stress need for human skills as AI reshapes work - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtmRjIwX1Z3blQwOGFIdXU1Q1dEeGxGUkEyLUd2eE50V1dJa1Y0TzVBSlBXN2lzV05BVTRkcTROek5sUV91dHdtRnhsUUE1S3hESnNsendjRkZsb2NqQlpYVzktRThKOHloclRDNT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtmRjIwX1Z3blQwOGFIdXU1Q1dEeGxGUkEyLUd2eE50V1dJa1Y0TzVBSlBXN2lzV05BVTRkcTROek5sUV91dHdtRnhsUUE1S3hESnNsendjRkZsb2NqQlpYVzktRThKOHloclRDNTdldmJPR1lfaExGVWpLR2JPTHZFRE1yaDltbjJ4ak5iUzNId1cxZjNPcUlSLXh1VmZBNnJZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-005",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Site Cuts Safety Documentation and Reporting Time by 52 Hours Per Month With Smart Safety Pro - EIN Presswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3hIQl9kUzVDRzBNN0FheVZZUG5RTjQ4UnM5ZGZlNktMMEExVU85UGJfZmVpaDM3R082ZW9YUGdPU1lqM3N1Wnp2Vm96YjRUQ1R0SDZxdVhkRG4wZ093Ny1oLTRiNEFrM3dEVkpsM2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3hIQl9kUzVDRzBNN0FheVZZUG5RTjQ4UnM5ZGZlNktMMEExVU85UGJfZmVpaDM3R082ZW9YUGdPU1lqM3N1Wnp2Vm96YjRUQ1R0SDZxdVhkRG4wZ093Ny1oLTRiNEFrM3dEVkpsM2ZZVDBfWlRVX2RJLUV4NnB2SGEtRVpiM1BkUTZuVFRmd2J6UWNHWWY1QmF2OXkwM2ZQT2lLY2pKb0llSGlQY21fQ1RfMzB6ZW5NSzBVSmFIQTAzUU5HUzV3T3NxQWR2a2FJLVZPX21DV25UbTFmcUdDTVRERmtFRXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-006",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Drops Nearly 6% After Strong Run as Investors Dig into Backlog and Valuation - FXLeaders",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNGSU9JVVlBUDVyaXhuaGRRclNhT2Eta1VacXZqOFpuZ2dENW9yeHBFZ2s3NXpSQU1QY3hMaXNxbWltWVZQX1VJOGt6Qk1hd21QNThqQ1BTUDNROEJYRjlaTWN5alFNMUVYT0JmUl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNGSU9JVVlBUDVyaXhuaGRRclNhT2Eta1VacXZqOFpuZ2dENW9yeHBFZ2s3NXpSQU1QY3hMaXNxbWltWVZQX1VJOGt6Qk1hd21QNThqQ1BTUDNROEJYRjlaTWN5alFNMUVYT0JmUlJzRHhma1h5dzZlUVd6VVNWYzR6VlVlLXZZOVY3cg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-007",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Applied Digital, Webull Corp., Super Micro Computer, Micron and Caterpillar: Why These 5 Stocks Are on Investors' Radars Today - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRWZGdEs0UFhhUlowTVNTZEZmSG5QeDhRX09NVGxuSzhvLWtlTmE3Q2I0REg5cmxmMGVfOW9IUFAzaG04VUEyT29RTl9TRXl5cFE3cl91S0tqcmVHdElFMVZfeDJRWU91eEp1bzJ0UF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRWZGdEs0UFhhUlowTVNTZEZmSG5QeDhRX09NVGxuSzhvLWtlTmE3Q2I0REg5cmxmMGVfOW9IUFAzaG04VUEyT29RTl9TRXl5cFE3cl91S0tqcmVHdElFMVZfeDJRWU91eEp1bzJ0UFIyUGNzQkdtMk5NU0pDX1pkSV9GeVQtN0UwNVU3WGZNVVF2MjBjaGVkbk5KZm5tN2RYenlPRE5DU0V3VFBmS0xhUDE4S0xSQ2RxeVJzWnZseVZaRmY0VHVreUhjRi1vMERGQV8zU2RpalZMTlQ5Qmo5TmcxQmhRT3d2WDh0SllQLTBkN3JTam5qRS1yLUNjY2FXanhpNHFHS1JjQVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-008",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Launches 5 New Equipment Models - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpqSFh5SVE3a2h5Q0ptWWVRYm5pc1BIT3pyY0YzX29hZzRPdnI2cTNnSkY3dllnVGY1dkRxUTBETXRtcnRNd3UybDdvMjFCWi1iTU52aWpvUlZnX1JuTEtiR1ludW1YbmxDZzhqUH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpqSFh5SVE3a2h5Q0ptWWVRYm5pc1BIT3pyY0YzX29hZzRPdnI2cTNnSkY3dllnVGY1dkRxUTBETXRtcnRNd3UybDdvMjFCWi1iTU52aWpvUlZnX1JuTEtiR1ludW1YbmxDZzhqUHBuWWRlOHVLZG5wYnhzV1Rlc3ExVDlVNVRrQV9vVXVWYmRicEk1VmVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-009",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar Stock Forecast: $72 Billion Backlog and AI Power Demand Drive Record Growth - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSkU2S1hOV25zS0JBUm42cVJGWHU3NXZCYm0yN2t4SVFTMm9VbkUtNUh5dzd6dXU1eDE5dGF1NUNRdTQ0c1FRTDlGUUFGMU1oWjlNUmNYZ0ljb3RJejNTemp3MmQ1bUM4VU1jR3ZYWl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSkU2S1hOV25zS0JBUm42cVJGWHU3NXZCYm0yN2t4SVFTMm9VbkUtNUh5dzd6dXU1eDE5dGF1NUNRdTQ0c1FRTDlGUUFGMU1oWjlNUmNYZ0ljb3RJejNTemp3MmQ1bUM4VU1jR3ZYWlMyaDJpWVFGc215T2xKSDZLM1NOWG12d0VNeDN3RjF6ellwekItVEhSSkIxaGJHaFpwbmtIbXM4aDV0NzBDQjNudmlxUjc2NktqdXlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-08-010",
+    "date": "2026-10-08",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Discover Saint-Gobain Glass Latest Innovations at Glasstec 2026 - glassonweb.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3BkSzJHcmhqVlVEMU94NEhSOTlxR3hGZmJabWVrZjBGeTlmaFdlZWQ4akRMZjhob25sQ0RHVi1FSElnaXFKWkJoSTlWVmIzeEFTTFllU3ZxSHZncDBFN2N0ekl5TGdNWEdfRVlwdT",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3BkSzJHcmhqVlVEMU94NEhSOTlxR3hGZmJabWVrZjBGeTlmaFdlZWQ4akRMZjhob25sQ0RHVi1FSElnaXFKWkJoSTlWVmIzeEFTTFllU3ZxSHZncDBFN2N0ekl5TGdNWEdfRVlwdTJPdmt3SmRBWWNKV1hzemdRdklkMXMzVUR3RWxOa0lWd2hyMFNsM280?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-08-011",
+    "date": "2026-10-08",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Saint-Gobain : Deutsche Bank remains Neutral - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRNV0ZrSkRFVWNSc05jWE5KUW1lcUEyTWVCSWw1Vnc5VklOQThzQjYzZmhILWprTWEzVnJsVXRRR0x5bFNoT2FvVGtNTmRWOFVPdWhsY2FJVEZoNkNjUFdZRk5pUGNCWXFrSTFXSk",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamRNV0ZrSkRFVWNSc05jWE5KUW1lcUEyTWVCSWw1Vnc5VklOQThzQjYzZmhILWprTWEzVnJsVXRRR0x5bFNoT2FvVGtNTmRWOFVPdWhsY2FJVEZoNkNjUFdZRk5pUGNCWXFrSTFXSk4wZm1VcnF3T3htYWZ4ZzJ0cVprbjhuSEVETXdyN05FTjFkc2VCT0E1RDREdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-08-012",
+    "date": "2026-10-08",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain stock trades at EUR 64.86 with UBS target 0.2 percent higher - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDRvNE92WThEa1RtWXExOE9UVFBfZjl2eUlSZzFsMm5RVmVNejZqT0lPbzRpcU1aZTBub05LWmJsMkEtanQ3SExxVHlZaXNUNXhiS280QlY5dmh0M3k1Um5MQmpLcFA4SE5FOEl4Sz",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDRvNE92WThEa1RtWXExOE9UVFBfZjl2eUlSZzFsMm5RVmVNejZqT0lPbzRpcU1aZTBub05LWmJsMkEtanQ3SExxVHlZaXNUNXhiS280QlY5dmh0M3k1Um5MQmpLcFA4SE5FOEl4SzhzOE9QTGNlTU5xOHpndEc3dXcyWWh3andteVNqY2tUYlNMQ0ZFVnA3VTJzVkRRSnhsUWR6S09COU54UndMTzZTaUM5WVY1eHREcDhTNENZZ2g3Qi1sc2t2NERCd24yUDZnV0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-08-013",
+    "date": "2026-10-08",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Bank cuts target for Saint-Gobain stock to EUR 82.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmhPdnlTUGc3bV9WcUZCbVloVnVGUTJYazRGb3UxNnFzZ3JMRHJlMVpDREFWOFdDVDc1bElMWkoweHhUYmR6dnZySFRvUDZjYXhxUGhjeW9LSVIyMDNJeHpfQkw1Wm5hN2RDanNIdT",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmhPdnlTUGc3bV9WcUZCbVloVnVGUTJYazRGb3UxNnFzZ3JMRHJlMVpDREFWOFdDVDc1bElMWkoweHhUYmR6dnZySFRvUDZjYXhxUGhjeW9LSVIyMDNJeHpfQkw1Wm5hN2RDanNIdTBMZ2ZkV3lCRkMxaGZudEktZmJmclFNUXZ6WWloNXI5a0NJdmVpV3JGYWpyLXM5ajNjby1pUnR2SVQwOTNnS01nVld4LXRKRlZabXRlbEk5UmxDZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-10-08-014",
+    "date": "2026-10-08",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lennar Breaks Ground on the Residential Homes at Broadcast District, a Walkable Mixed-Use Community in Wyomissing, PA - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxORE1taFR0TG9McFU0NWFOVUw4YVJhaXNrV2FwVlVDRjVWSHJsX1hsWGVONHk2X2ZTYl9nNWktLUg3SWNXQ2xYUDlhTEMxay1VSlVfbHpld2F1MU5mc2xOdjJwd0VKZVRpRkJJNXBMdV",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORE1taFR0TG9McFU0NWFOVUw4YVJhaXNrV2FwVlVDRjVWSHJsX1hsWGVONHk2X2ZTYl9nNWktLUg3SWNXQ2xYUDlhTEMxay1VSlVfbHpld2F1MU5mc2xOdjJwd0VKZVRpRkJJNXBMdVVPbEdRTmtRWGVmaXpyUDhkTk9aWTE5bVNlTGZDUkZjMnM5anRFMEl0UXpQaVlLUTFpU0w4SllDSzFhajMzd3ZFRzNTVFR6V2tOLVJYbnBUNHVGazh6cndaVll1RjZzRkZkRWxrTFY4ZzNMMlUxRFJLY09uZ0FQYW81S1pZX3BZWEdPMzlCUmhUOVFxSHdsS2tu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-10-08-015",
+    "date": "2026-10-08",
+    "companies": [
+      "pultegroup",
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toll Brothers, PulteGroup and Owens Corning Are This Housing Analyst’s Best Bets - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3MxOE1OUE1PLWtVbHBWMkM0Z1ZlcUxwQXp0RDVVNnJTZktqM0ozRHMwZURpRV8wSm1vTzUxSFB2bHJ2TGx1aWJjMC1jV2hLVUVUVG5wSldYTXl0bVRPNWhQLVc5NGdMYkREMDZRTk",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3MxOE1OUE1PLWtVbHBWMkM0Z1ZlcUxwQXp0RDVVNnJTZktqM0ozRHMwZURpRV8wSm1vTzUxSFB2bHJ2TGx1aWJjMC1jV2hLVUVUVG5wSldYTXl0bVRPNWhQLVc5NGdMYkREMDZRTktnT3RyY2dsbVMwMzF3VERtalVvQmRXc3NF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-10-08-016",
+    "date": "2026-10-08",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PulteGroup Launches Explore by Del Webb Community in Utah's Jord - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnkyVzNURzlkT2lkRHF4bG5xcUNTWVpZWXFBN2Zoazk3UlJTRHRJUzBVaGJaMEJKVThqdDlTaEs3cndyYnk3TkV4RUxtaTJTY0lQckNPUU1zUU9rSDlwQmVJQXk1UzBpdTBjN1FZTX",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnkyVzNURzlkT2lkRHF4bG5xcUNTWVpZWXFBN2Zoazk3UlJTRHRJUzBVaGJaMEJKVThqdDlTaEs3cndyYnk3TkV4RUxtaTJTY0lQckNPUU1zUU9rSDlwQmVJQXk1UzBpdTBjN1FZTXY5b0ZIeFFRVHBkU1JFWjRTVlhWZWhfdlZwMWtQZTFFM1ZjdG9CNmJmTVowajhvZzJWbmhLYWRFNWwxaTI5Zi1reko5amhkdWNTMVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-10-08-017",
+    "date": "2026-10-08",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Citizens reiterates PulteGroup stock rating citing buyer focus By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQelRvaUFYSnlRQVJrYmQ1T0kxZ2tXUFVVek1FUnNqdXEtVlRRa2Y4NUxZeFptWFJBaVlEbHJiMllNT1hEdFZfd05vV0pjSGM1YWJkREVwZDY0RFhJRFFscExPTTAxTFZSRENwS2dVbD",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQelRvaUFYSnlRQVJrYmQ1T0kxZ2tXUFVVek1FUnNqdXEtVlRRa2Y4NUxZeFptWFJBaVlEbHJiMllNT1hEdFZfd05vV0pjSGM1YWJkREVwZDY0RFhJRFFscExPTTAxTFZSRENwS2dVbDdWWC1YUmdzY09WWm9JT01WeU5HRGJWTzByTDZ3bUZsYWVlVGQ0cVF4dFdxRmFzVERUWHFTVFRKcVEyME9YNUdaSV9JU3lyTVBnem9zNDVYZ18?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daiwa_house-2026-10-08-018",
+    "date": "2026-10-08",
+    "companies": [
+      "daiwa_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Daiwa House stock faces a leverage test as U.S. profits weaken - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEhqQlBueldmUmZGTjRUNlFmLXVaT1c2NVgxQUJpcVpJTWhnWmJhUUcxaGZYMWxMSWZsYTRYSnB3UldTOGxyZ05qTDh4YkNKYUxGd0tTZzZPT2FXY25FLTVoNUVVRk9QVnpWNkZpSG",
+    "sources": [
+      {
+        "name": "daiwa_house",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEhqQlBueldmUmZGTjRUNlFmLXVaT1c2NVgxQUJpcVpJTWhnWmJhUUcxaGZYMWxMSWZsYTRYSnB3UldTOGxyZ05qTDh4YkNKYUxGd0tTZzZPT2FXY25FLTVoNUVVRk9QVnpWNkZpSGtFWTFqd1JXYWtUa2p4a0p2aV9hYXFBdzBkamlPSnBWN2I5NW5hVGllVGZROXdlQzd3anRId3YyWWVFQkxfZUdFOWZmM3Q2VHZYLV9acQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-019",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Homebuilders Group Teams With Regional Banks to Revive Local Housing Market - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUEhwQTFOQm45NVlVVFc2QWM4dnRGQmE2N1liVVFxVW15dUlyRURwNGlsT2xDR094V3ZaUU94VF9pNkJtS29tNFRHbUlRZktGb3BjQ1EyVmRacG5yTXp6OWRfbDVHT01CSnRKR1REck",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEhwQTFOQm45NVlVVFc2QWM4dnRGQmE2N1liVVFxVW15dUlyRURwNGlsT2xDR094V3ZaUU94VF9pNkJtS29tNFRHbUlRZktGb3BjQ1EyVmRacG5yTXp6OWRfbDVHT01CSnRKR1REckJxZmtXVnIxd0JxMVV2eHNpUGxUajlNejlobzFSMU9WaWZJcjl6b1hWZXN1QmlpUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-07-001",
     "date": "2026-10-07",
     "companies": [],
@@ -344,6 +706,198 @@
       {
         "name": "google_construction",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWTNxcTBsZmtoLVlBVFFpUFdsM2h2Y29leTJTbmNTZ2dLQTJWXzlXbGtDWkxQLTIzUG1vUnJSVEZHclBjay05eGNkX1F6Q3Q2ODNDZTRscWhnOXZwcWJrNW4tblljemZPdlFnaXZ6bnVkMEw3RnFZN3lCOFlyRERXTHVTdW0zMy1YMC1HTkR0eU0yTzFzTVlQUzdPSjFyMERXREdIc0psQlplOXRDRXVxdmtJeEtPSC00Tm91blVBc2liZFZVNGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-07-019",
+    "date": "2026-10-07",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "59 North Capital Management, LP's Vulcan Materials Co(VMC) Holding History - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOS25sQ01sZjg2YjNmNDhJVzhpMFRuSHBvNThtR1FrUGNFUkFmRUxLNFU0N0h3YmVxblFZQ3RmaDg2RC1idHJ0QmxROGZvbENfNHo3M001T3FOb1I5T1dQTmhfUzFKNE1vel9vY1RsSW",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS25sQ01sZjg2YjNmNDhJVzhpMFRuSHBvNThtR1FrUGNFUkFmRUxLNFU0N0h3YmVxblFZQ3RmaDg2RC1idHJ0QmxROGZvbENfNHo3M001T3FOb1I5T1dQTmhfUzFKNE1vel9vY1RsSWFwVE1CbmxhWjFYak1GYTJQM2t0eHRhelJRcWhYeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-020",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FTC Inquiry Hits Agricultural Stocks. It Matters More for Deere Than Caterpillar. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdm9ueVBMazVlenJEbXJONmJwd2FXVDNmblBCQ2IwakpFSFItMXg4dm5jbXVIa3pFaHpIa09od2QzUlJ1aE9TVWlKRHdlWkRkZ1cydmgwLXl4UUhVWnZXZl82VXBFYVhsREk5YUZQY0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdm9ueVBMazVlenJEbXJONmJwd2FXVDNmblBCQ2IwakpFSFItMXg4dm5jbXVIa3pFaHpIa09od2QzUlJ1aE9TVWlKRHdlWkRkZ1cydmgwLXl4UUhVWnZXZl82VXBFYVhsREk5YUZQY0F1VUlzTXpBWUwtb2czX096ZTNrTmRRaGd6TlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-021",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Drops as FTC and USDA Seek Comments - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE14b2FxVURfVGpoWXVHdElCbUtaZVp4ZWtRSV8yUEMzUXJXSDVhRHN3Ql9rZlNNU1MyWHE3RlU1MHNqczdrZVdDZVEyT3Z4clBIQ3ZPRzVLdHhWdzJqbGxZcXB5b0JhTVdmcHZRcm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE14b2FxVURfVGpoWXVHdElCbUtaZVp4ZWtRSV8yUEMzUXJXSDVhRHN3Ql9rZlNNU1MyWHE3RlU1MHNqczdrZVdDZVEyT3Z4clBIQ3ZPRzVLdHhWdzJqbGxZcXB5b0JhTVdmcHZRcmVRMUNSZzVFemZMUVVZb0xndHZhNDB6MC1ocWtJQTFrNDNzUml1cXNZeXVSOGRhWjY4WE02UVZRVXlmZWhQbEdObF9fcWU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-022",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "If You Invested $100 In Caterpillar Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXlCODNiak9rSm1PZ1FwbTViOHNiRDZHdWZka2E4Qm9wWXZ3b044MXFXRzBYWTNWMW5ETks4V2VhUmN1S0Q4bXpxdTlYN0ZXMmZtZEEzTV9xeHE1SWs5MTdRVlhfNEcySU9LZ2t5Vn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXlCODNiak9rSm1PZ1FwbTViOHNiRDZHdWZka2E4Qm9wWXZ3b044MXFXRzBYWTNWMW5ETks4V2VhUmN1S0Q4bXpxdTlYN0ZXMmZtZEEzTV9xeHE1SWs5MTdRVlhfNEcySU9LZ2t5VnppQ0EyRHBKMnN3Zi1HX3lxSkxIZHA1MWpKdmtYZy1RcENwa2cyb3I5WklaaF9sSDQ5am9KdXpGTTVwMUVDd3hKTDVaV3NmUm5oMExUVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-07-023",
+    "date": "2026-10-07",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers buys two properties next to Brandon Miller’s former development site - The Real Deal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXJEZ0dvUWJVc0czYzVsMk95eWhLRGFrR3BjT3FwZnAtS3BOT0x3QWZVMUZMd0wzMmRfSTFPeVNtZ24wU3l6Mk5DUHlEZHlwRzlpUm1BU3lrNExNcThieW1mbXF4cnZUVjNxQTM2WW",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXJEZ0dvUWJVc0czYzVsMk95eWhLRGFrR3BjT3FwZnAtS3BOT0x3QWZVMUZMd0wzMmRfSTFPeVNtZ24wU3l6Mk5DUHlEZHlwRzlpUm1BU3lrNExNcThieW1mbXF4cnZUVjNxQTM2WWtieDQ4RXFETm9kNkxHUzd0VjRQaFlWd3U1NHNlZHVEYXk4NXZGcm5fUGQtTnFWTFJw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-10-07-024",
+    "date": "2026-10-07",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KBH - KB Home | News - OTC Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbHVsUGswLW1xRGsxOGFNLTZPTGFGTVBTMW9Rdkk0d1JJVnhTTjVWbzBZbEFHdE9jX0wyZENzN3VNZ1gySnBYXzF2b3ZXcmJjOXFoeDdkYXVnaXpGNmFJd29SdnpZNXMxVWFtbWVuT3",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbHVsUGswLW1xRGsxOGFNLTZPTGFGTVBTMW9Rdkk0d1JJVnhTTjVWbzBZbEFHdE9jX0wyZENzN3VNZ1gySnBYXzF2b3ZXcmJjOXFoeDdkYXVnaXpGNmFJd29SdnpZNXMxVWFtbWVuT3pWLVhIMmNodDNZSnBDMi1SNFpCM29IMWROeU80UkppdFBLWXE1c3FZbXN3WHlfdGlLSTBmaEZ5SzFiOTJJbDFlZldpS0FTRWRVTkhnS25ES1NqZnBvOG5vOFY3SE5YTjhyVlNWQVZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-10-07-025",
+    "date": "2026-10-07",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KB Home stock hits 52-week low at 44.02 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzJ5M3RINF9aZkRGaEJJVEY3SDYtNXlNaDZMWXhMQ0JrX2VyLTJGWE5fRDZsRGxzVFpXNk1wV05ycTJ5aEdQUW5CWEo4ZlhFajc0c2dmOEFNQnFpWldBTDcyVDJ1cGVJRVBqdG9xOW",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzJ5M3RINF9aZkRGaEJJVEY3SDYtNXlNaDZMWXhMQ0JrX2VyLTJGWE5fRDZsRGxzVFpXNk1wV05ycTJ5aEdQUW5CWEo4ZlhFajc0c2dmOEFNQnFpWldBTDcyVDJ1cGVJRVBqdG9xOW5VY0NGMzlpWFhDMFBzenpXODBOUWdqbnFDMHdCOUExOGhoNmptX1NELWVKOHotZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-07-026",
+    "date": "2026-10-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "XS2919470935 Bond Profile: Coupon and Redemption - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE14MTZOeWNSNzZDRmJ6SWZ4bnlBQ1dORnFhdTZYZlJYTEFHbDZHeWVMZXhwdlpJMzVSTEwwVkxmajBHZUtlNE5zanpnVUhlSjZUUFdTNG5rYmJlXzlXTDBidTBGNUVNVmMwSDN6QTljcG",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14MTZOeWNSNzZDRmJ6SWZ4bnlBQ1dORnFhdTZYZlJYTEFHbDZHeWVMZXhwdlpJMzVSTEwwVkxmajBHZUtlNE5zanpnVUhlSjZUUFdTNG5rYmJlXzlXTDBidTBGNUVNVmMwSDN6QTljcGQtMGY1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sekisui_house-2026-10-07-027",
+    "date": "2026-10-07",
+    "companies": [
+      "sekisui_house"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sekisui House stock slipped 0.03 percent on October 7, 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWhEMGtMeUVCWF9OamFBVm45WFFOcHB2Q3kzWExJRGRrYlhFMml4c3FmRy1vRTdldmZLNUxLY3VrbzZocnlhVmxqQzRRYzhHc240Z2lMZnBnbHFGVVY2cVlnLUd2RU5wMW5HYkNLRF",
+    "sources": [
+      {
+        "name": "sekisui_house",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWhEMGtMeUVCWF9OamFBVm45WFFOcHB2Q3kzWExJRGRrYlhFMml4c3FmRy1vRTdldmZLNUxLY3VrbzZocnlhVmxqQzRRYzhHc240Z2lMZnBnbHFGVVY2cVlnLUd2RU5wMW5HYkNLRFFqNGJuS3ZySVRBbWhJVFljX1IwV3RibnpDSW0xMjRZaHRqQ2ZxX1FvTFMxdmFpem1DYUpCekVMLUtfeFM0WmdPOTdoOUtaT1Vr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-07-028",
+    "date": "2026-10-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bank of America: Older Americans have taken on a bigger economic role",
+    "summary": "<p>Households headed by someone 55 or older held close to $140 trillion in net worth as of Q2 2026</p>",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
         "type": "rss"
       }
     ]
@@ -1071,6 +1625,24 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/megaprojects-grab-1-in-4-nonresidential-construction-dollars/832256/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-039",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cainz acquires building-materials supplier Sonitech to deepen construction supply chain - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjNZODduUTBwMlBLSnZwWUJaZFVzYWhObV9XdFE3LUpvQ3pMVENvU19FVVpjYkstNUhCa3h2c0xCX1kybzV2d0RPR3o1YlBES2ppZzNoM3lsSmFKdWZsc3N0RmYzb3o0cXJpWTBnbz",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjNZODduUTBwMlBLSnZwWUJaZFVzYWhObV9XdFE3LUpvQ3pMVENvU19FVVpjYkstNUhCa3h2c0xCX1kybzV2d0RPR3o1YlBES2ppZzNoM3lsSmFKdWZsc3N0RmYzb3o0cXJpWTBnbzg3Ull6a21FNC1DLTFsa1pQTGJrV29tUXpCeFFaNms3aGh6SVNGSDNRbWRMREwyYlREVEktY1lQTjhvM1NubzNJRG1JaGVTdTg2Rmw5V2NB?oc=5",
         "type": "rss"
       }
     ]
@@ -4107,6 +4679,24 @@
       {
         "name": "google_housing_market",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZi1HeGtLYmhGM1RSdFVCaThGQUZkYnZrSUxNZkNoYjdqV1VPNUg1bUg0UU1mUmEwVUY1UUdKTDJkaXJMc1JRTXZiN2RvcGFCdzZQZDQ4M0dLVGtza0t0Mk5FVHkzRkpPUGZHV0lzWWh0enQ3VVNRdm16VlpMaFdrenB0c1RMYWp0WEV2blZ1c1JhTkZaTy1lMW0yUkVDcEJhWVZQNzhWS3VKNWpINUNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-054",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sustainable Construction: Building for a Greener Tomorrow - Construction Owners",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0xCdFd1RElwWktXRnE5eFc3QV9sOGNqSnVScC13RDEtWUtwZFJobnhTdEZ3ZlVvQWNQMUl3Y0NHelpuLXR1OGgzYWJnUUQ3cG1uSmhFNEY3T08xYUV0LXFzVk1lUDFPU3FXZkdQb0",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0xCdFd1RElwWktXRnE5eFc3QV9sOGNqSnVScC13RDEtWUtwZFJobnhTdEZ3ZlVvQWNQMUl3Y0NHelpuLXR1OGgzYWJnUUQ3cG1uSmhFNEY3T08xYUV0LXFzVk1lUDFPU3FXZkdQb0tIM1N2VnVncmFlcjBaejhHazA5S0pFeWFiWm9YdjJuRnc0QmRHdzJWV0lmZ1BtLVZR?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 493,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 36,
+  "gate2_fail": 44,
+  "passed": 31,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+    "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+    "Nippon Steel schedules second-quarter results: what it means for Nippon Steel stock - AD HOC NEWS",
+    "CRH to Acquire Aggregate Operations in Denmark and Finland"
+  ]
+}
