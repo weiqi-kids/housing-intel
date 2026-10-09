@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:57:19.385781Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan_materials-2026-10-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - marketscreener.com",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREtObVhtUEJPWkF0U2d6aG8yWDIweWE0R2FxSXJrRk1rcXg5OFRLSjlXNzlnRFdMVXIxYkpqbm5fVUFzQ1V2WkV1ejJvZFFRRjZQdkZ5ZXYtNVFDWGI5YnFzT1B0eElNVW5LQXFWQjVxZWFhOUx2Y1A4TU9nSXNKVDByQnlhdGFZOFluY0s3OWVJWG1Sd1I5Sy1aTjNmcThUeVdaNllrc2hCWE1lRUs1SzR2RlJlVzNudm0xM1hBaUZCcWVDaWZ6a1FkQkE1UjFCemlwdA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-10-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Learn Why The Bull Case For Vulcan Materials Stock Could Change Following Strong Earnings - Simply Wall Street",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3NnYUtLdHI5TVpvR0p6Z2wxNVgyOGYxSkxOMmlkZUNoc3FwamZ6MmNZeVFYUjhaa1RNUkpxemstZmRQbmhMdkFmemt2bEk3bXpid2ZsUi1Bak4zRWtFaGRodTJ4RFpsbTRGbHZfX0dTUUlfWWVKSUFIN3YzSDRRVnNOejhmVm1aREhZb1FhMFBhRXVmdnJDVFcyWWY5ZG1MT1BLUEN5YkNvNzhsQUR4MDFIamdnWUFPQU1CRmdkWVYwTzdJM0ZhLUx5R1pBSFBvRmZB0gHTAUFVX3lxTE1zc2dhS0t0cjlNWm9HSnpnbDE1WDI4ZjFKTE4yaWRlQ2hzcXBqZnoyY1l5UVhSOFprVE1SSnF6ay1mZFBuaEx2QWZ6a3ZsSTdtemJ3ZmxSLUFqTjNFa0VoZGh1MnhEWmxtNEZsdl9fR1NRSV9ZZUpJQUg3djNINFFWc056OGZWbVpESFlvUWEwUGFFdWZ2ckNUVzJZZjlkbUxPUEtQQ3liQ283OGxBRHgwMUhqZ2dZQU9BTUJGZ2RZVjBPN0kzRmEtTHlHWkFIUG9GZkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Stock: The Case for Buying the Pullback - Barron's",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EQ1JJakdTbnNvR3l2SmwtR2htYWpYLXZ1UUdBTVRGTDNIQWdsQ0JRVlQ2cTh4dWhCaXhQbERYakFqdkRMaWZJVU83cFVFQUFZWlFrNTNfalNRd0ZBZXhRNXk0Q3F2eDBldmNzOC1rc2I?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-10-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Caterpillar Is Using AI To Reinvent Heavy Industry Without Replacing Workers - Forbes",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ1FaNDZtTlBBdnZmOGdaUHlwRERsVkEtcTlVcmdXeXA0a2ZPOGdGV2tBRkVJUWpnZW92RHBaX0JNd01xdW5jS0YxcHJMU3BzSnZ5US1jVEZRX3ZnNTdvZmhDR3d1UUxUZ1lxaHFEMUNScDhKaHNEeWNXaVVlajBHSFpNUVVIY0Q1c2N3endYQVZuQjlXVlVVRUNJRDEwQWsyOVgyMFhhUDJlUHZ6b3BkYkJPNkFiazNURENrQnA0WGIzX3hUUFB4QzJUaUVrQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-10-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Is the Market in a Single Stock. That’s Not a Bad Thing. - Barron's",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3l6MjlOZXliQnJVQ2xWa0FsbWJSaG9kb0YzWEJENjRMZWZxRWNUQlV0aFo2QldhUjdZbHVmSFNJRGVzZWdLaGstRVlncmNZbGQ0WHdncVBKcjV2d29tSTdSbjh6NWdyT0kyS3VGcllRRWNFU05NSWl3d0dLWUVsLQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 2
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 491,
+    "dup_title": 226,
+    "too_old": 152,
+    "gate1_blocked": 32,
+    "gate2_blocked": 41,
+    "passed": 40,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+      "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Vulcan Materials Is Maintained at Buy by UBS - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為CAT、聖戈班、Vulcan相關動態：「RBC Cuts Price Target on Vulcan Materials to $256 From $3...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Per...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Learn Why The Bull Case For Vulcan Materials Stock Could Change Following Str...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 491,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 32,
+  "gate2_fail": 41,
+  "passed": 40,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+    "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Vulcan Materials Is Maintained at Buy by UBS - Moomoo"
+  ]
+}
