@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:12:18.906713Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan_materials-2026-10-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Could Be 24% Below Fair Value After Dividend Reaffirmation - Simply Wall Street",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFpMYmhYVjZQS091bldlMFNQYmNVa1l2cUd4cnJZMWFKcmdPOW9aaTdRMlBTcGdUaTcwZjBXVjdWRV9CMHNoZWVCdTlFTEpfOEd2cV9Rd3lPbEN6dFdLcnkwa05RMkFhZEtlY3Bxck4tOXFldFNQc2JKcmRXQTJmUU9xWDRyMFFtVzZPZlZuUk1VdGxkV2haV1pqN3JhX3RVSHhJLW9rd3hWSWNDQzBjeVFmUkxuLTVyRk85M0NlQmtaU0hwclJJWjE2allEZ9IB0wFBVV95cUxNOUM5VjVQM2xNbG9jZjBUZ05pUTJVQ1I5Z3dKalBUMW5VWGFTeTJBck0ycGRkdzJyUFZta1VoN25mdklUTGN6eUZhLTlmc3J4amJXZVlzRldrZXNpRFVfblFtUVNVRXlYMlBuOU9VMDZrZWdoU3FxR0xhYmJWR3RuYktNMXJWd0RfOFpqbDA1bHFhUzNGbTNOSVExWHlXM2xGelRWdnd3cGtLLTFSTEJBZTFHWmE4Y3ZMWHRuV29yX2dPVWwyU21Sd3hQbmV4a0RMdVpj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toll_brothers-2026-10-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form DEF 14A Toll Brothers For: 10 October By Investing.com - Investing.com Australia",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUjNqMVJfd3pnT1NNeTRwZE0yTTBBZkRLOWtSMjBPYTRoWWVBaTl2WERuOHJfMW1FeFhUNl82X1M3R181QU1oUFJON1BMYUl3cnpXaXNuNEIxR1RLQ2lEUExJdEc2bHVGMi1xck9OVU5pYW1LdHBTUW93WVZfc2FKem1meURSU0k2Ukl3ZkJaaXNKUFBQY2JpdDl6TTB5dV9uZzFXaA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_horton-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "P&Z approves D.R. Horton Town Creek development - hccommunityjournal.com",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblpKQVgwV0lZMFVlNlYwdHYteGgyQ0xFTWxOVkNWbThPMUpmdFBud3hST3dUX2RVX0otams2NHN2ZnhRbTdseklLSVJ1ZndPSDYxaWI4aURFYTh3RHJvVFZRRVlZSDB1MTZUMDNncTdQXy1ScVJHRmhwTkUybnh6MnRpWEtFRE5Vb0xhSw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 498,
+    "dup_title": 239,
+    "too_old": 157,
+    "gate1_blocked": 31,
+    "gate2_blocked": 43,
+    "passed": 28,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "16.6%",
+    "gate2_samples": [
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+      "Vulcan Materials Is Maintained at Buy by UBS - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Vulcan、DR Horton、Toll Brothers相關動態：「Vulcan Materials (VMC) Could Be 24% Below Fair Value Afte...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials (VMC) Could Be 24% Below Fair Value After Dividend Reaffirma...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Form DEF 14A Toll Brothers For: 10 October By Investing.com - Investing.com A...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

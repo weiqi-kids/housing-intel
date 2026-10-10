@@ -1,0 +1,16 @@
+{
+  "total_raw": 498,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 31,
+  "gate2_fail": 43,
+  "passed": 28,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+    "Vulcan Materials Is Maintained at Buy by UBS - Moomoo"
+  ]
+}
