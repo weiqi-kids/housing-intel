@@ -1,0 +1,14 @@
+{
+  "total_raw": 64,
+  "dup_title": 30,
+  "no_date": 0,
+  "too_old": 10,
+  "gate1_fail": 20,
+  "gate2_fail": 3,
+  "passed": 1,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Punch List: Bechtel teams with Ted Danson, Hensel Phelps breaks ground on new HQ"
+  ]
+}

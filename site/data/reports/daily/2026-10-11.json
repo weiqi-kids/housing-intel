@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:40:17.478729Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 64,
+    "dup_title": 30,
+    "too_old": 10,
+    "gate1_blocked": 20,
+    "gate2_blocked": 3,
+    "passed": 1,
+    "pass_rate": "2.9%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "CRH to Acquire Aggregate Operations in Denmark and Finland",
+      "Punch List: Bechtel teams with Ted Danson, Hensel Phelps breaks ground on new HQ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-10-11 無房地產產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

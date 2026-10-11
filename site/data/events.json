@@ -58,6 +58,24 @@
     ]
   },
   {
+    "id": "unknown-2026-10-10-004",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "neutral",
+    "title": "Have mortgage rates peaked, or will we see even more chaos?",
+    "summary": "<p>The month of October still has plenty of variables that can be a problem for rates </p>",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan_materials-2026-10-09-001",
     "date": "2026-10-09",
     "companies": [
