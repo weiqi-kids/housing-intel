@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-12",
+  "total_events": 15,
+  "by_company": {
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "toll_brothers": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
