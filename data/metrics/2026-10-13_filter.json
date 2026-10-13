@@ -1,0 +1,16 @@
+{
+  "total_raw": 495,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 35,
+  "gate2_fail": 32,
+  "passed": 28,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Taiwan Cement subsidiary to go public in Europe - Taiwan News",
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "Vulcan Materials Is Maintained at Sector Perform by RBC Capital - Moomoo"
+  ]
+}

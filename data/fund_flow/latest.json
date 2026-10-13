@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-10-12T17:19:59",
+  "updated_at": "2026-10-13T15:33:24",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 592.38,
-      "daily_change_pct": -1.81,
-      "flow_5d": -322184970,
-      "flow_20d": 323346264,
+      "latest_price": 577.93,
+      "daily_change_pct": -2.21,
+      "flow_5d": -405390376,
+      "flow_20d": 229321061,
       "flow_trend": "outflow",
       "daily_flow": [
-        {
-          "date": "2026-08-31",
-          "flow": 15196192,
-          "volume": 4317100,
-          "change_pct": 0.64
-        },
         {
           "date": "2026-09-01",
           "flow": -70686091,
@@ -185,26 +179,26 @@
         },
         {
           "date": "2026-10-12",
-          "flow": -40735007,
-          "volume": 3720092,
-          "change_pct": -1.81
+          "flow": -77094150,
+          "volume": 6247500,
+          "change_pct": -2.05
+        },
+        {
+          "date": "2026-10-13",
+          "flow": -53936703,
+          "volume": 4129916,
+          "change_pct": -2.21
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 546.11,
-      "daily_change_pct": -2.38,
-      "flow_5d": -312101764,
-      "flow_20d": 274416344,
+      "latest_price": 531.31,
+      "daily_change_pct": -2.49,
+      "flow_5d": -405092288,
+      "flow_20d": 170514730,
       "flow_trend": "outflow",
       "daily_flow": [
-        {
-          "date": "2026-08-31",
-          "flow": 15104430,
-          "volume": 6241500,
-          "change_pct": 0.48
-        },
         {
           "date": "2026-09-01",
           "flow": -86371135,
@@ -375,26 +369,26 @@
         },
         {
           "date": "2026-10-12",
-          "flow": -57053292,
-          "volume": 4292949,
-          "change_pct": -2.38
+          "flow": -104384610,
+          "volume": 7174200,
+          "change_pct": -2.6
+        },
+        {
+          "date": "2026-10-13",
+          "flow": -45925162,
+          "volume": 3391814,
+          "change_pct": -2.49
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 96.55,
-      "daily_change_pct": -2.41,
-      "flow_5d": -6884759,
-      "flow_20d": 9923304,
+      "latest_price": 93.95,
+      "daily_change_pct": -2.44,
+      "flow_5d": -9188761,
+      "flow_20d": 7199242,
       "flow_trend": "outflow",
       "daily_flow": [
-        {
-          "date": "2026-08-31",
-          "flow": 486336,
-          "volume": 1013200,
-          "change_pct": 0.53
-        },
         {
           "date": "2026-09-01",
           "flow": -5953674,
@@ -565,9 +559,15 @@
         },
         {
           "date": "2026-10-12",
-          "flow": -1229510,
-          "volume": 516601,
-          "change_pct": -2.41
+          "flow": -2104000,
+          "volume": 800000,
+          "change_pct": -2.66
+        },
+        {
+          "date": "2026-10-13",
+          "flow": -1093608,
+          "volume": 465365,
+          "change_pct": -2.44
         }
       ]
     }
