@@ -1,5 +1,141 @@
 [
   {
+    "id": "unknown-2026-10-14-001",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Granite City steelworkers see hope for mill in nationwide contract talks - Belleville News-Democrat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WRjNVZ0gwS25WeEtRNHVGUWhwSVd6MG9QYmduREEyTjVYU1NXMTZUWEdxbVVvTFh3Z01fTWtrcmNpRHFLVjZ1aUJmZ2hvZF8wdW5XMEtWWHFwdUwzYlduRmFn0gFiQVVfeXFMT2o4Mk",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WRjNVZ0gwS25WeEtRNHVGUWhwSVd6MG9QYmduREEyTjVYU1NXMTZUWEdxbVVvTFh3Z01fTWtrcmNpRHFLVjZ1aUJmZ2hvZF8wdW5XMEtWWHFwdUwzYlduRmFn0gFiQVVfeXFMT2o4MkVXbUNmLUNyd0tvZ2FzdFBlSkNMRXpmeENSVGt6NVBOTTRKYjB6aEhwcmxzaXNfSF9MeW5NQ0U4OEpGWnU3RUlSWDNHQm54bUlVeERWeDltd2Q2ZXJQOUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-10-14-002",
+    "date": "2026-10-14",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Steel sues Baosteel as Baosteel stock faces patent claim - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWlZcFFDRjMyVTRmVGpFRDYyNzh2XzFiUmRUUk5FaTJJM0lsOVUyeTUzWGVYZV80RzFyQldUcXQ2SjZ1MjRVT0tKal96ZU90LXVlcV9ka2h5SGNNS0NkYkRpQ3lHZU4zWF8wYzd6bF",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWlZcFFDRjMyVTRmVGpFRDYyNzh2XzFiUmRUUk5FaTJJM0lsOVUyeTUzWGVYZV80RzFyQldUcXQ2SjZ1MjRVT0tKal96ZU90LXVlcV9ka2h5SGNNS0NkYkRpQ3lHZU4zWF8wYzd6bFQ1cHNXV2dOOE1GVU5YVmJ4OTFLYXdpTVdZWFNJN3ZkVXRtczh5YndlQXNGLWlMQk5nMGdwVkdIdHRnWEdwNkFUWWpnTzdLWlJ4RHVaS2tEUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-14-003",
+    "date": "2026-10-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar 908M For Sale (89446016) from Milton Cat [500] in Milford, MA - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbEhuRWhkMmxXYktzUEpGUkxsM2J4QTNUdUhIR3oxbEgyRl93QldWeTM1MlQ2M29KMEFUa1dYQkpVRE1yQXFvMEwwRlc2OHFxbGkzOEhFR1FOOTZnVUsxWWR6X25EYWN1YmhHeVVRaH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbEhuRWhkMmxXYktzUEpGUkxsM2J4QTNUdUhIR3oxbEgyRl93QldWeTM1MlQ2M29KMEFUa1dYQkpVRE1yQXFvMEwwRlc2OHFxbGkzOEhFR1FOOTZnVUsxWWR6X25EYWN1YmhHeVVRaHhzQmRXcS1wRldkYzg4LXdLQXlkakNRZldkVXI2Wnl5M0x3VnFnNjF0WjM4TVN0RVB4cXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-14-004",
+    "date": "2026-10-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. Maintains Dividend - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUFWb1FBbHAzd3JGZExOUWVFLTBzYmxDOVZiTXE2dHFBVGNvRXBfZ29xYUF3TUYtR0V4NmlQRXZKS09yLW1tWTNSdzF4YXZCVi1TcC1scGN6X1Mzbm9uT01yZFF3SXRxUTRpRjcyYj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUFWb1FBbHAzd3JGZExOUWVFLTBzYmxDOVZiTXE2dHFBVGNvRXBfZ29xYUF3TUYtR0V4NmlQRXZKS09yLW1tWTNSdzF4YXZCVi1TcC1scGN6X1Mzbm9uT01yZFF3SXRxUTRpRjcyYjZRWUQ2cDNOZ2hySzI4UDRyRHRWenJsV01uT29oMENWS0lYam4w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-14-005",
+    "date": "2026-10-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "2007 Caterpillar 143H VHP PLUS For Sale (89423455) from Ritchie Bros. Auctioneers [3864] in Denver, Co - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDhaRVI2OWZmQ1ZESzRDcHlLTGdGbXBWdFNRTVk2SnZTMTlEUVkyTGJ3cU05TUd6SUN1LXFGVmU2SkE0OWVHRTh5X1ZjLU40Mm02N1NBVG1wRzZmaUI2YjFKQ1ZLYngyVXprdmN4Sm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDhaRVI2OWZmQ1ZESzRDcHlLTGdGbXBWdFNRTVk2SnZTMTlEUVkyTGJ3cU05TUd6SUN1LXFGVmU2SkE0OWVHRTh5X1ZjLU40Mm02N1NBVG1wRzZmaUI2YjFKQ1ZLYngyVXprdmN4SmUxeWVkN1JNdEZEUTUtcjAxeVRYTmNXOXFwei1Ia1JkV1A1VGstcXRJV0xVZWpnLS1DWGZ2YmVHY1QzR2Roc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-14-006",
+    "date": "2026-10-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bernstein Adjusts Price Target on Caterpillar to $749 From $1,002 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDN2Q0c3QXZacXN1RFZ1TmhDLW0yczRqdTVPRllGUkE3VUE1LWdHVWI4dUp6eFAtVlVfVUdGWU1EN0tFa28wZlVESkZFQzgtNXkzeGtOLXY4SVZkN2IyLVQ1b2tsNVlqQWUyUlVzZ2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDN2Q0c3QXZacXN1RFZ1TmhDLW0yczRqdTVPRllGUkE3VUE1LWdHVWI4dUp6eFAtVlVfVUdGWU1EN0tFa28wZlVESkZFQzgtNXkzeGtOLXY4SVZkN2IyLVQ1b2tsNVlqQWUyUlVzZ2tGYTFlUVJodUIyNkVTc0xjUnVVMmwyYTZBU2pKaU00WlhRMHl3TWY3WlFvc0FvN3UwMDRWV1F3VjlmTFlhQWVzM0hXdmF5bVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-007",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Compliance without compromise: Managing product traceability in building materials manufacturing - Planning, Building & Construction Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZlRldHF0blh5Z2NPY3dGMXAzN0dVZ1JoRGNYZmIwdEI1cFBBLTd5MFQ4ZGdzY01TZGZqakcwa3NnZVVZVldCbzdiSmUtTXlrQ0RValktSDFWZGtXRlBWWXlYM3B3X3VuLUZ0SDF5LW",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZlRldHF0blh5Z2NPY3dGMXAzN0dVZ1JoRGNYZmIwdEI1cFBBLTd5MFQ4ZGdzY01TZGZqakcwa3NnZVVZVldCbzdiSmUtTXlrQ0RValktSDFWZGtXRlBWWXlYM3B3X3VuLUZ0SDF5LWd2STA3YmJDWkR6c0Y4SGR2VUhnMHBaVWFnT3FWU2FQOTZRLVZib1dCb0hMYzBPc3VtVWNZcWtrUWdNanFKMGZ3LU4wN1I3ZXZaOGdhcVVicEZHVXVmNXBLX2lNdTNPOHBWOEZFWEtKTDJWbHRaTWM1VUw3aUJjajJlRXdNeU9EbVN4bDdL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "caterpillar-2026-10-13-001",
     "date": "2026-10-13",
     "companies": [
@@ -263,6 +399,318 @@
       {
         "name": "housingwire",
         "url": "https://www.housingwire.com/articles/q3-mortgage-revenue-decline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-10-13-015",
+    "date": "2026-10-13",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement subsidiary to go public in Europe - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYjdmZXhuQUFNSFlBN2s4cTZBRlJLaC1JUHZEblctRHdEZDQ1WFpveWp1bDFzMjhxZXFRWTFFSWR2VjBBZlliekRfS3ppeGlsczlESQ?oc=5\" target=\"_blank\">Taiwan Cement",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYjdmZXhuQUFNSFlBN2s4cTZBRlJLaC1JUHZEblctRHdEZDQ1WFpveWp1bDFzMjhxZXFRWTFFSWR2VjBBZlliekRfS3ppeGlsczlESQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-13-016",
+    "date": "2026-10-13",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VULCAN ANNOUNCES THIRD QUARTER 2026 CONFERENCE CALL - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0FyekZqVkEtUGNWMmFVQUZhMjdtS29mc3pfUXhzbGFJSktra3RpbHhWV2xGQUNqSTI0R1p6MXI1VHJsZVhZZWVoMWRHYUtEdWh2aEptRlVIM0VmaF9RZzRDSFFFVjFzSmtCZXNVem",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0FyekZqVkEtUGNWMmFVQUZhMjdtS29mc3pfUXhzbGFJSktra3RpbHhWV2xGQUNqSTI0R1p6MXI1VHJsZVhZZWVoMWRHYUtEdWh2aEptRlVIM0VmaF9RZzRDSFFFVjFzSmtCZXNVem95U0NHU3lVTEVOQVM0Mm9SejVFaFdmbDRtS1pOQnA0ejE4YUpOVV9SM08tV0dyUjRaNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-13-017",
+    "date": "2026-10-13",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company Share Price - VMC, RNS News, Articles, Quotes, & Charts (NYSE:VMC) - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSy1NNkNZSW05cnJwbGpMc3Q3bDZUNXdVbGJaTHJ4OUQwUGJEN2JoVGtXaDFBMnp5TFRlNVkwWExTcVR2NWtsT1BkTTdsQXlid2JDLWoxazhTWEhZbm5TekEzeHN2cHBXcVh6UTd4N3",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uSy1NNkNZSW05cnJwbGpMc3Q3bDZUNXdVbGJaTHJ4OUQwUGJEN2JoVGtXaDFBMnp5TFRlNVkwWExTcVR2NWtsT1BkTTdsQXlid2JDLWoxazhTWEhZbm5TekEzeHN2cHBXcVh6UTd4N3ZDOURuek9fbTlnWnVHSkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-018",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Launches New 302.4 and 302.6 Mini Excavators - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLU0wc0hNQy1lblZHc3ZyNnB2OGlnWmhMUERiZGpfTWtRVEhMNk04a0FlZFhWdlJXRjgtWXhjN1lycUszYnJqU3RsWXNSRERzRjdRTEdwSVd4cXJuSXI0RUlTN0ZCUWFTcFFJWE5sRj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLU0wc0hNQy1lblZHc3ZyNnB2OGlnWmhMUERiZGpfTWtRVEhMNk04a0FlZFhWdlJXRjgtWXhjN1lycUszYnJqU3RsWXNSRERzRjdRTEdwSVd4cXJuSXI0RUlTN0ZCUWFTcFFJWE5sRjRuV0VuWm1lLXN3b3RMT1MyZWtzbk1pY3Y5TDEtQk5hN2JxLS1PM0VlX1ZGLXFoRm1RdWp0MXpkUTlVTExIVVgzU1dSTWR1RFFvUWdtTXNVZlc0S2hkRkRfZW05VFc3R0xBc3YtU0RzdmVMeWlUMEZwcDBHcHJQdmRja0JFM0FHSFc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-019",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar (CAT): A Cyclical Machine Maker Meets a Growth-Stock Valuation - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHdmLVpsNThvM1BfV3g1bkhIRThhTmUtNVFUMk84YlRHZjF1MlQtNWhqV0ZwQWJsOGtvcjh2OUNoYjl1alFYeUotMUVkbHpCckp6ZDZDV3E2dE9scklhTlpYQ2ZVdVBGUWZYUE1acT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHdmLVpsNThvM1BfV3g1bkhIRThhTmUtNVFUMk84YlRHZjF1MlQtNWhqV0ZwQWJsOGtvcjh2OUNoYjl1alFYeUotMUVkbHpCckp6ZDZDV3E2dE9scklhTlpYQ2ZVdVBGUWZYUE1acTY2anRyNjNDcU9yVl80am1sa0ZSZ2xJSWtIQTkzd3paSVJwR015WGJIWjA4d0YweGhYVUZocHZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-020",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Which Industrials Stock Do Analysts Like Better: Deere or Caterpillar? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOclA0eF84anl5c2lVdE5scVpNN1M2a0FzSWJZY1Z5ZGhud2h5MnozZVQ3d2pTaE9YMlgxTE9rdlgtMGN2c3pId0tpbFRXc01fb3JpVlhYTVhySjlQQWxoTWljb19fRDJwZDZ1VW1vem",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclA0eF84anl5c2lVdE5scVpNN1M2a0FzSWJZY1Z5ZGhud2h5MnozZVQ3d2pTaE9YMlgxTE9rdlgtMGN2c3pId0tpbFRXc01fb3JpVlhYTVhySjlQQWxoTWljb19fRDJwZDZ1VW1vem5BVGtVRVZLUTZVdEZJTkEwcVE2aHFlU2taVGNvWnBmMHBWUThldjFMNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-021",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Sinks As Inventory Alarm Bells Ring - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3FoZHR2RmcwM1hjdjB3bzJ0RElDZUdQSWNlQUdLbms3b0JZWEZHdVkxMUxQVHBQdkJlVXN3TlNKY21NT3RFblJ6cS1lVnlXV1JPdkhIcU1WbWltR2Q2bTZGMTZlMkxYVEl6VktTQV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3FoZHR2RmcwM1hjdjB3bzJ0RElDZUdQSWNlQUdLbms3b0JZWEZHdVkxMUxQVHBQdkJlVXN3TlNKY21NT3RFblJ6cS1lVnlXV1JPdkhIcU1WbWltR2Q2bTZGMTZlMkxYVEl6VktTQVpSUjJEV1NPLTZHZU5BazJua2ZiZU82aEk1dkV0b3ZCMXhLdmRpcHlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-022",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CPG innovator: Matt Fitzpatrick of Saint Gobain Helped to Build a Packaging Specification Database - Packaging World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWEtZU3BIbExPb0FKbkpQZlQwLW9fT2xtSnFMVHFuZ3k2YV9EMXFFenR0V0xvei11YWFPMi1ydEVjR2RXenhCVngwSWJ0dE16bkQ1cDIyclNGekFFdEd2SzMxekNGS3lUeGVlZnZPUE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWEtZU3BIbExPb0FKbkpQZlQwLW9fT2xtSnFMVHFuZ3k2YV9EMXFFenR0V0xvei11YWFPMi1ydEVjR2RXenhCVngwSWJ0dE16bkQ1cDIyclNGekFFdEd2SzMxekNGS3lUeGVlZnZPUEt5VS1pYndzc3ZtY0UtUmhZR0FsVEhFWnJ6U2UwQk1GVVVkVE00MS1VTi1wd0RBdEpDOFFic0QwbkFFQnBKUlpfT2tjV0h4SkdfQmFDRjROcDFfWHR4Rl9fTFliWUlTeDkzRC1nSG9iM2NxUE56d3Z6UlFiQndSYVFyRDZ4bUoyTnlJWldrTmdGbDF3RWZUbVJ1UFlVdmVnMkNKdlUycXlwMFF2YlE0MmtZc0dFU1VOeXlYUmdEdExWOVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-10-13-023",
+    "date": "2026-10-13",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "D.R. Horton tests Promise Robotics factory model for 1,250 homes - HousingWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE11QjI1X1V5a2dZRjl0aTEzVXg1MFVIUkY4emc5NVVjZXRoMnZ2SFUwX0s0cHBmRDVhVHJOMktLcUJwZlA2ZUhIS0xJWjN3ZUJkR0UtQ0swdFFNd3dXbnYteVNvVGdKRXYzbGp6OVhlVV",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11QjI1X1V5a2dZRjl0aTEzVXg1MFVIUkY4emc5NVVjZXRoMnZ2SFUwX0s0cHBmRDVhVHJOMktLcUJwZlA2ZUhIS0xJWjN3ZUJkR0UtQ0swdFFNd3dXbnYteVNvVGdKRXYzbGp6OVhlVVlEQjlHb3lHVGNsdng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-10-13-024",
+    "date": "2026-10-13",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "D.R. Horton Faces Slower Home Sales, Margin Pressure, Oppenheimer Says - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3FCbThjYnE0dFRDQlV0cktQaEJsNjIzdU1zVnhLVFl3dHBQelBXbVVNdmE4Umk4cS1ReGNRQXZPS09Yc3NpQ3Z2ZzZjSU1aRHhFbUNQbUc1SEJmX1BFSFEyMlkwdXp2WENOY3dCQX",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3FCbThjYnE0dFRDQlV0cktQaEJsNjIzdU1zVnhLVFl3dHBQelBXbVVNdmE4Umk4cS1ReGNRQXZPS09Yc3NpQ3Z2ZzZjSU1aRHhFbUNQbUc1SEJmX1BFSFEyMlkwdXp2WENOY3dCQXdwR2JvR0l2UDRyVWV3SWVBZGFIMl8tb1Ywc3k5d0Z3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-10-13-025",
+    "date": "2026-10-13",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "D.R. Horton Faces Slower Home Sales, Margin Pressure, Oppenheimer Says - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndSVWxBZ0hJY1BzN2pleUtGZmtXTlNSRE51OVQ4MmFGeDE3NUFRZlZkX0s4aUlycEFzWWQ4akF2cUt6LTFFSTV2NzFYdEtmSktBSVo1cHVJRGlyWGNzb1gzWnByTDlMc2NwVHBDUn",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndSVWxBZ0hJY1BzN2pleUtGZmtXTlNSRE51OVQ4MmFGeDE3NUFRZlZkX0s4aUlycEFzWWQ4akF2cUt6LTFFSTV2NzFYdEtmSktBSVo1cHVJRGlyWGNzb1gzWnByTDlMc2NwVHBDUnZCZ3hwRGpYXzhrdUlWdVN6NFBzcEdzaDBDbUVWdmdkSnY2ZUFRYW9aZUQ2OVFiTzZuTDlTQURfTV9yZXc0OEcwMTBHVFp0MlpTY1Jmeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-13-026",
+    "date": "2026-10-13",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces Final Opportunity for a Quick Move-In Luxury Home at Freestone Station in Marietta, Georgia - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNMzRJX25XVWtaT1p6WjRhYzZPY1dMWUtOdVVWTWRCeGpkdXVnaDNEZ21tZGFBSVNKWWZzcHpuR2tod0IxNnA5VUNUWkZCMnEwRnJ6WTFNRnU0NndzTlJ6TE10a2JRZF90NDhFcllwOH",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMzRJX25XVWtaT1p6WjRhYzZPY1dMWUtOdVVWTWRCeGpkdXVnaDNEZ21tZGFBSVNKWWZzcHpuR2tod0IxNnA5VUNUWkZCMnEwRnJ6WTFNRnU0NndzTlJ6TE10a2JRZF90NDhFcllwOHA3UDJ5ZThKY3lPVzM3dExDT0FHQmV3M2ljTlVwdU42YUhNYUQ1Zjc2aHlybUZQUzdWdV9lZnhGZnl6YTRRRzh3ZThNSl9Oam5WSkcxZ2c2MjZfVlVRQXJ5V1JBV2VfakxvWWkxaV9Vd2tJQXNxTXlfNVd1aHU3eV9oYzdJdzAzak54U0VoVmVydGd6V3BzVHF4OHFUTi1YZ0N3MmpycHJndG9LVExwaUR5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-13-027",
+    "date": "2026-10-13",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers opens luxury model home in Castro... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPckRSSFpxREZ6WGl0YzBZbGQ0T3NPX0NNQ1RSeXdVaUEyd1R5a2FpSlhvWklmelZadFdoOThlUGF3eGtRVjJuUW1GdmhPTFAyQmgwSnZMaGVSUlNaSkpxZmY3SjcxdVVodGpQSU5lZl",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckRSSFpxREZ6WGl0YzBZbGQ0T3NPX0NNQ1RSeXdVaUEyd1R5a2FpSlhvWklmelZadFdoOThlUGF3eGtRVjJuUW1GdmhPTFAyQmgwSnZMaGVSUlNaSkpxZmY3SjcxdVVodGpQSU5lZldaTnNoZkFtSDVtT2RKZjdqTHdLMGp4Ry02QWRzQlVzdzJ4NS00SjZrZmd4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-13-028",
+    "date": "2026-10-13",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "mortgage_rates",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Can Toll Brothers (NYSE:TOL) Steady Luxury Demand As Mortgage Rates Linger? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkxONWQyMWZjNVVteHplUkl3T2FfQUQtRG44eXpzdjNXS0pwS3REaGhnbE1UYXRRelV2M1cyREFoYXhzdW1IOWRUX29HRWFtaUZTRVRCbjFwZnVyeFB2Q3N2QVo0RlBPLWpucTRsal",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUkxONWQyMWZjNVVteHplUkl3T2FfQUQtRG44eXpzdjNXS0pwS3REaGhnbE1UYXRRelV2M1cyREFoYXhzdW1IOWRUX29HRWFtaUZTRVRCbjFwZnVyeFB2Q3N2QVo0RlBPLWpucTRsal9yMVNkREE1NkdQNkFCaTNwY2NzeFVpLTVJWXZQZllSN2NtMFdocXNHekRrRlM5dnY5NnlMWlVhNkRleVF2TDZNSHJESQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-13-029",
+    "date": "2026-10-13",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces Model Home Grand Opening at Toll Brothers at Flat Creek in Castroville, Texas - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOU0hIcHppVjhLaFFKTzNIR0huNXZRUVdFUUtfQS01MnBneWoxeno5TlZEWndkaTA3NS1wclhJSjFjcGRPQjVTU2g4aDdPdmNTMGxjQjlyaDlIQWNxVmFFVkZxWkU3NTJQYjRqd0lQOS",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU0hIcHppVjhLaFFKTzNIR0huNXZRUVdFUUtfQS01MnBneWoxeno5TlZEWndkaTA3NS1wclhJSjFjcGRPQjVTU2g4aDdPdmNTMGxjQjlyaDlIQWNxVmFFVkZxWkU3NTJQYjRqd0lQOS1jY0NwZ1hMS3NWamNLWW1JYklWWlExWFFmZkxncXQ2dFR0SlR0QlRsbE5vYTlDRjY3cTZZRlNHYW1sVFJkc2NZN1diY2RQYTZCVlNzN2poRFY5cmd4b0tVQThVRl9nWEVKLWlqYTQ1M3loUmhKdXkxZVZDUHlqOUlwRlZvLWpmNnJXa2EtUlBrMk1IcndKNnZNenRsMm13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-030",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "DOT moves ahead on effort to tie new construction funds to marriage, birth rates",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/St8GXMReOY1mKgeHL4YQDQUqfSM62Q453CUcQQFNjLw/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMj",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/dot-funding-construction-marriage-birth-rates/832874/",
         "type": "rss"
       }
     ]
@@ -1717,6 +2165,64 @@
       {
         "name": "kb_home",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNkp1VUotV2NiSGp6NktWQ1pZd1RlYWt6OVpMWHVoNlc0dFBrekw1YUtHR2xHSUVacjBsZ2cxTFdBaUJVX1gybFoxY0RVN3ByVEtYOUtaOW03QVlIVUJFa05DR2loZS00bnhKRmRHS0lxZzlaZWJaZkZXTXluMXAwQ1k4VlNfRGxCVC01NzZrRGRzMFVhSWtpVkRNR01kVk84OS1sSWk0Sl90ck5EX0YxWUxlejlnM2FGRm9rMUZmY25faFpWc29Sd1dfUnJpNDg4UFZ4Y1h2RngtWEZwSGo3UzhEZ2JhaDhVTXE5QkFULTRGZEFRa2lqM0N1WWpWR3ZQR3FXZmF6c0ZsVVJjVnQ0TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-09-036",
+    "date": "2026-10-09",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Celina, Texas - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkkyXy1RN29vMzNyZWxZUG5tckswamhVaXg1b2pKWndQSndnX3JLdWQwckg2bEVCNHlGUGMzUmtNdExkbHNCRUNCZ3gtVWg0Q1VVM3BtcDlrN2FMQkJvZ2R4RWpCSzF3eDJaX0tGZl",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkkyXy1RN29vMzNyZWxZUG5tckswamhVaXg1b2pKWndQSndnX3JLdWQwckg2bEVCNHlGUGMzUmtNdExkbHNCRUNCZ3gtVWg0Q1VVM3BtcDlrN2FMQkJvZ2R4RWpCSzF3eDJaX0tGZl9LbnpJNE1pZ3FjMXRfeEFueTZPQndXQXFrV01aSkY3MXVaTlBZRGxqbmtZQXAxMjJYUVh4WGl2NmJvdGdzUnZOdkl6aW1NQThzcEZycGsyaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-10-09-037",
+    "date": "2026-10-09",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB HOME OPENS CAMELLIA GLEN: NEW TOWNHOMES FROM THE $460Ks IN WI - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXotbE1DcUNjSGpuOXNlTFlMd1JzbjFPQThoeWlHR1lzaGs1TjF4RWdhaFNwcExBWi0xY3d5Y01rU2lnYWRiSGNpdUQ1V0RwM2Nub0Y4ZWRWSDU4dHpzWHBXWV81aHFkcXctWVVGTT",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXotbE1DcUNjSGpuOXNlTFlMd1JzbjFPQThoeWlHR1lzaGs1TjF4RWdhaFNwcExBWi0xY3d5Y01rU2lnYWRiSGNpdUQ1V0RwM2Nub0Y4ZWRWSDU4dHpzWHBXWV81aHFkcXctWVVGTTkxcUJRTGJlc3QyMlFhdGVUcDVQTmFweXI5M3NYMzhubUFmVER0cW1MdkdxS09Fb0d0NjZsZzVaR09IR2docURud09uTXZNZjhrYmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvr-2026-10-09-038",
+    "date": "2026-10-09",
+    "companies": [
+      "nvr"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bear of the Day: NVR, Inc. (NVR) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTBJMUVrVTFVSmdidU10Y1ZxRG5MYmxlMlE0RG5CTXBwSDJvZmRmT3h6alNsY2Z0SUdURUgzV0x6Y3lRRUxKeXhaNEc5Zzl1bnZuRzNSZGJFYjlUM1loX3BQbThIYmhHUTNtejNDbk",
+    "sources": [
+      {
+        "name": "nvr",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTBJMUVrVTFVSmdidU10Y1ZxRG5MYmxlMlE0RG5CTXBwSDJvZmRmT3h6alNsY2Z0SUdURUgzV0x6Y3lRRUxKeXhaNEc5Zzl1bnZuRzNSZGJFYjlUM1loX3BQbThIYmhHUTNtejNDbkN4R3R0RUdLQ0lPa1QxeU5IanlrUm9OZTB4c1dRblpWTzduVElPRVNydlZUYVNBSG43bnhjYkJZU2RuWkIyNlMzSw?oc=5",
         "type": "rss"
       }
     ]

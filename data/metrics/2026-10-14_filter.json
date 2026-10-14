@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 30,
+  "gate2_fail": 29,
+  "passed": 26,
+  "gate2_samples": [
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "CRH to Acquire Aggregate Operations in Denmark and Finland",
+    "Vulcan Materials Is Maintained at Sector Perform by RBC Capital - Moomoo",
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance"
+  ]
+}
