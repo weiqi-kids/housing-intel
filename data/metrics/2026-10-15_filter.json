@@ -1,0 +1,16 @@
+{
+  "total_raw": 498,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 35,
+  "gate2_fail": 29,
+  "passed": 43,
+  "gate2_samples": [
+    "Taiwan’s Tung Ho Steel increases mid-October H-beam prices by NT$500 per ton - Yieh Corp.",
+    "JPMorgan cuts target for Vulcan Materials stock to USD 300 - ad-hoc-news.de",
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+    "Caterpillar Shares Eye 30% Slump as Oil Bites, AI Rally Stalls - Bloomberg.com"
+  ]
+}

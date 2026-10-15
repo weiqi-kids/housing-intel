@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:03:48.484330Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crh-2026-10-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRH Confirms Date for Q3 2026 Results",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-10-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Inc. to Announce Third-Quarter 2026 Financial Results on October 29 - TradingView",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRS10Q2dkV2w4VXNxc3p5TWh2SThQaTM4R3poVTlXNzNfOWRYVzR4SWtxUjQ1eVJUam1SWXprUEJkZmc0c0ZZVTg3bWFvcXNIdkhpQW5qVi00ZHBOaTNLbmg1M2FRTFo5cjNJOWF6VVJpZG42anlkTDhlcWk0TTQ1UU1NVkh6X1VGWTJqU3ZYMmU2WUctU25LdFFfOHM4cXItRDdPRzFvMTZQWWxmNkZIQkFkb0M1QWp2RWVXQ2RKMk9VenVsUUoweVJ0T0dBazF2Z3l1ZnBR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar 6015 Excavator Boosts Marl Mining at Wietersdorf Cement Plant - News and Statistics - IndexBox",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHNTLVdUN1lYbExERF9xX2N4ZU8yQ25LRVhoSjh2TUxtUjM2RFlXTTFfcEhfSEhjNHhtUWNkdmpfbkVuUXRIRW0xN0Q5dkdBRHdVMnRkcGRTREpDTl9zemxOSTdQQW43OGFDQ3Z1M2dYU2dkVHVOajI3cHJGZkxwNjVCaFhkR1NWdWpnMk9pRFpUWkQ3YlhZaGwwQVo0VkQ3V2IzbjdwR2xHLVhNSmJkSWZtVXFOdUZ6YzR6OEl2RkFSM2F6NE5B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-10-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Gibraltar Industries to Sell D.S. Brown Infrastructure Business to Saint-Gobain for $208M - citybiz",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1RhR0E4ZkJRbTh5T010SnNpVGt3bmlPMzBxdVJ1azVQNDBueWh2QmNDLVVjeC1yMnpRbUtFX0lEbldiOVBaQTFzM29jOFpwRjVUN3JYYkt3Wmk2a1lrWEdOSWhJSnMtQlU5OGVDWTZfekcyTkM3ME16TWMyRi00SEpXSS12Q1hzU0h1TVkwNVRBLW9HdXQ1anR4TFFlY0ZNZjBYWWFPRkt3Vkl1Q0JjbU5XMmhMbFVkNlJiMl9uaUg2Nkxm?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-10-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain To Acquire D.S. Brown In North America - TradingView",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnBWTU5wSGtxMjZJbjlKNkFHczRITllfTjdSbzZwTTRhWUMzODQ4SnVpd2lreDNqUDQyV2pzb20yWlJlUlRrcy1PdXJ0ZWpvSGk5YTYxRzBCWmNRTl9mNmRvM3JoUXRTQ05yR1Y5LVptWTVCWkYxRnUtMV9OLW9zSVNPbVVTa2Z2WXFtQmNMUUdWVElSWUt0c1ZRbnN3cDlDT1lJUEZfdFZKVDZxVVFGVW93U2pOM1JDeGhjcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 6
+      },
+      {
+        "id": "toll_brothers",
+        "count": 3
+      },
+      {
+        "id": "kb_home",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "pultegroup",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 498,
+    "dup_title": 231,
+    "too_old": 160,
+    "gate1_blocked": 35,
+    "gate2_blocked": 29,
+    "passed": 43,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Taiwan’s Tung Ho Steel increases mid-October H-beam prices by NT$500 per ton - Yieh Corp.",
+      "JPMorgan cuts target for Vulcan Materials stock to USD 300 - ad-hoc-news.de",
+      "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+      "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+      "Caterpillar Shares Eye 30% Slump as Oil Bites, AI Rally Stalls - Bloomberg.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為聖戈班、Toll Brothers、KB Home相關動態：「CRH Confirms Date for Q3 2026 Results」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "CRH Confirms Date for Q3 2026 Results（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Caterpillar Inc. to Announce Third-Quarter 2026 Financial Results on October ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
