@@ -1,0 +1,16 @@
+{
+  "total_raw": 495,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 34,
+  "gate2_fail": 33,
+  "passed": 50,
+  "gate2_samples": [
+    "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+    "Nomura keeps its JPY 820.00 target for Nippon Steel stock - ad-hoc-news.de",
+    "Stone supplier Vulcan will release third-quarter results before markets open Oct. 29. - Stock Titan",
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "Caterpillar Stock Slid While Business Boomed. What Happens Next? - Trefis"
+  ]
+}
