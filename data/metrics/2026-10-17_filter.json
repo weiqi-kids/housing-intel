@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 34,
+  "gate2_fail": 21,
+  "passed": 32,
+  "gate2_samples": [
+    "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+    "Caterpillar Shares Eye 30% Slump as Oil Bites, AI Rally Stalls - Bloomberg.com",
+    "Caterpillar (CAT) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+    "What's Going On With Caterpillar Stock Wednesday? - Benzinga",
+    "Glasstec 2026: Saint-Gobain showcases its innovations for sustainable buildings - Saint-Gobain"
+  ]
+}
