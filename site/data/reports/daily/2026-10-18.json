@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:26:15.105282Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Shinyaku (TSE:4516) Stock Looks Fairly Valued At Current Levels - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGJKWUZwelVLVUVWUTF4bHpYVW5DUXVNb1UzSWFnVFpUbTU1THd5b2xuWWNlX1lsT1NScUtWd0FNcHhyeC1NaFE1UWdidEJtN3h6TS1RS0lMWkRhZWc3eG9mRzZUQ1RidkpMM1k2OS1YTkRHN2lVeDJaUU9OaGNhTHlhcTI1VzhEbVp4OW9RT3g2TVlWbEE4eng1bw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-10-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "JPMorgan cuts target for Vulcan Materials stock to USD 300 - ad-hoc-news.de",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVB4Sm5Mb3ZVcEpGeUNCRVpqN1BQc1dwMXRMVDl1dVQ4N1RWcjhSTXRmUTJ3T2M4U1hqUGxBOHlSeVltY1ViVEExSDNmN2Y2VEVyUkkxZXBjVElraEwwVmd6WW5BX19mdXl6RmR3d0djT3IwNzdDNVBFS1V3bG1hTnRDSVhRSUc5Mzc2MmYtbkdzUGV3MHlaYy1PelZRQ3VRUjl6VEd5WmF5bkxoSGJqNjFxYm1udjVD?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GE Vernova vs. Caterpillar: Which Has More Exposure to the AI Power Build-Out? - The Motley Fool",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVFsYlY5MXlNNGRqWnZlSkRaM0RHNW5wUUI0WGJRMEFJYTJxRUxxY0U5enJkck5GUEFDSHJua2pCd3VMM0hVSHI4MExMZzZLYklDSWhmZWlNaGxDTFduVFlOUEdoQ3c3YklJclNLeS02cWc1U0V5Y1h6Vk8wRHZIOGsyckotRTkwRkpHQ2gxUHF2bUd3N0lj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-10-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar announces $10 million workforce investment in North Carolina - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTRqYmJISHVnSFhOeWprY1ZyZG5KaFdkYThoalNsejYyWVFBX3FOMVRDdlBTaW1DMzRIRUlWZlR0MDZ6eGN5V2NBT2pLYnM3MXRFQ1REWHE5SE12LUljRGxvcXBodi00ZGdIS21JX25haEhPR2tOcWxWa3M4VXA2UWF0Y2ItTzlzUDhvWHd2Rl9INXpMbDNSWkVyTVk2M2doQkxNQjJ5X3pxX00?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-10-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Three New Trichoderma Species Uncovered in China From Caterpillar Fungi and Dragon Trees - bioengineer.org",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDFjWTdTejV6dnR5UU1PMjdVRU9TSUZoUlNCQTVleVB5VmVpOEF1bVBlc21UOVJrMzNLc2hJUTRUQXdzcC13WFYxQ3lfN0NGdXQtdW9LZ3lkOHowUkp5ekdQOEs0aHVRamRNMFBLNXgtODZ4ejR4emJLcVNUdDR6MWVWR1NmeFlPdWRzWUZsbnhEeUw5akwyWHdJaV9jUzNIdzdPbkhpNUk2OVZJMTE5aURXRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 497,
+    "dup_title": 253,
+    "too_old": 158,
+    "gate1_blocked": 32,
+    "gate2_blocked": 31,
+    "passed": 23,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+      "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+      "As it expands in Sanford, Caterpillar pledges millions to help train workers - Raleigh News & Observ",
+      "Single Gene Switch Controls Fruit Body Formation in Medicinal Caterpillar Fungus - bioengineer.org",
+      "Caterpillar (CAT) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為CAT、Vulcan、DR Horton相關動態：「Nippon Shinyaku (TSE:4516) Stock Looks Fairly Valued At C...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Shinyaku (TSE:4516) Stock Looks Fairly Valued At Current Levels - Yaho...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "JPMorgan cuts target for Vulcan Materials stock to USD 300 - ad-hoc-news.de（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
