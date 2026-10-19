@@ -1,0 +1,16 @@
+{
+  "total_raw": 496,
+  "dup_title": 251,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 34,
+  "gate2_fail": 31,
+  "passed": 22,
+  "gate2_samples": [
+    "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+    "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+    "RBC Capital Maintains Vulcan Materials(VMC.US) With Hold Rating, Cuts Target Price to $256 - Moomoo",
+    "As it expands in Sanford, Caterpillar pledges millions to help train workers - Raleigh News & Observ",
+    "Caterpillar Shares Eye 30% Slump as Oil Bites, AI Rally Stalls - Bloomberg.com"
+  ]
+}

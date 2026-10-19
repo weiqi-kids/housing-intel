@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:15:42.405749Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-19-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Homebuilder Confidence Plunges to 14-Year Low as Mortgage Rates Soar - Realtor.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mortgage_rates",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVpDVW5sRzItNlgxbUoxaVlfczlveVZQd0ZYTkVCS2RCeU5HQUxlUjBCZW9ialJkbVVxclEwcy1CNUFmZGxDU0hFcFUxVXByY05wLXNiLUhQZE9LT1BGQ1dNN2ZzMDFldnFJZ2NmbG0xZFBuQVFHd3FfaTVpMTh4OHkySDEyUXZMb3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-10-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "State Street Industrial Select Sector SPDR (XLI) Adds Caterpillar and GE on Thursday - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjFQMkV0U2Rack9wUUZuNG5Ga3VJNWtocFR3NXlPUy1zZWE0eEdZanQ1SlhGQ1ZWU3F3cDh6clQ1MExBd1FuVTFiSmRXeEJOTGRLRWp0M0d0R0FHaU5mNU94czlQRGxvZ2h2cmktWm9yc3pjWjh2SHp4aWlKMHdPd3ZJVGxDZWVBMW9lRmVNR2FGcHZvakFzTHdFdTVrNW1QcmhpQw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why is Caterpillar (NYSE:CAT) commanding fresh attention across machinery markets this week? - Kalkine Media",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMC11YXFIay1BcFhPTEl1WC04WmhtT0YzZndhRjV1cHNwQ2QwNV80VmR0OGpoa2lXbm12Q1RqLXJtSU50YkdCWl9BVy14SWppb1hCdS1XWVE2R0N3eUJSd3lNbzdPLVdTaHE1ekpJR0RmVkM4SW5OVE9wVG9maXh2bjY2VzRESWtDVVlDVE5XWFgxMV9IbWVGdDZjSnRwV080V1IyMWNjYklnaEg3TUxSQlBjOVF5TWxrbUd2cGw1R18wNkhIR1hxRGMzVlp3bjA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-10-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chandrashekar Chettiar Joins Saint-Gobain as India Region CISO - CXO Digitalpulse",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2pCWndDWVBKNHlSU0piLVdUS3ktb1h3QzRsME1NRFVKWUJ1aGx5UW1NQXRjUWRfc0ZnWVFrVFNpNW96MGZHWnF6VEUxLVhWa190YVc4bzdmT2laZno3OVhxMTNHRlNiczBVc3Q1djNiWlZMR2l1WVc1S2FZMHlEYzF2VS1CRGlSekhqM0N0Z0w0d01XeFd5UmNLYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lennar-2026-10-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berkshire Is Buying Lennar, I'm Selling Millrose - Seeking Alpha",
+      "companies": [
+        "lennar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzA1eXFVTy11V2hPNnEwQ3VKN0dUTGFrVldPQ0NHU1hPcENpYTNHRkg3dGpsVHBielZrTmtzdW9GdWRDWlRYQS1KTkRZVjJWRWdWNzRtQmFoR01yM2UwVllxME9qUWY0S2ZxMDlyT2VtWDhxZjVpV3BjOEs2SFd5d1c4ZHEzYkRsNC12SllDcTU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "pultegroup",
+        "count": 4
+      },
+      {
+        "id": "daiwa_house",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "lennar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 496,
+    "dup_title": 251,
+    "too_old": 158,
+    "gate1_blocked": 34,
+    "gate2_blocked": 31,
+    "passed": 22,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+      "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+      "RBC Capital Maintains Vulcan Materials(VMC.US) With Hold Rating, Cuts Target Price to $256 - Moomoo",
+      "As it expands in Sanford, Caterpillar pledges millions to help train workers - Raleigh News & Observ",
+      "Caterpillar Shares Eye 30% Slump as Oil Bites, AI Rally Stalls - Bloomberg.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Pulte、Daiwa House Industry、CAT相關動態：「Homebuilder Confidence Plunges to 14-Year Low as Mortgage...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Homebuilder Confidence Plunges to 14-Year Low as Mortgage Rates Soar - Realto...（房貸利率、財報）",
+        "level": "red"
+      },
+      {
+        "text": "State Street Industrial Select Sector SPDR (XLI) Adds Caterpillar and GE on T...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
