@@ -1,0 +1,16 @@
+{
+  "total_raw": 495,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 39,
+  "gate2_fail": 35,
+  "passed": 43,
+  "gate2_samples": [
+    "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+    "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+    "Lobbying Update: $410,000 of VULCAN MATERIALS COMPANY lobbying was just disclosed - Quiver Quantitat",
+    "Raymond James Adjusts Price Target on Vulcan Materials to $308 From $320 - Yahoo Finance",
+    "Barclays sets USD 340 target for Vulcan Materials stock - ad-hoc-news.de"
+  ]
+}
