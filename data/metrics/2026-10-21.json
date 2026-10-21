@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-21",
+  "total_events": 12,
+  "by_company": {
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "daiwa_house": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "mortgage_rates": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "housing_starts": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

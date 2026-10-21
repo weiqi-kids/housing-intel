@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:24:34.635820Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Home Sales Contracts Just Fell to a Record Low as Mortgage Rates Hit 7.4% - 24/7 Wall St.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mortgage_rates",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0hhUlAtd2ZiY0YtVDM0RnhoeTlvb2ZuRlpfcTJPNXd5WFNHYldpUTZIY2FKeHlXcVpEQnBWRjd2YVJDWUVWS2ljdXRBZnhHMWpGUl9lR3V5UDlaMGdUczhHQUVtZEJ4WXNKQzFFRDFhdkFpY0d5MlV0LTV0RmZCV0JzbV9adUhVMGlWWDV3Tk9ka3FSdEQ1TVdyT1NJSS15dWNQdU5UTy1ycndWdnB3alloUXA0TTA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RCS - Weir PLC - Marc Cameron to join Weir - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZURoX0psWWVZRGFFcWRQUXlMTnZGVnRXSEdaM09LUWx6Q1BhQTJGZWp6elhJbzN1RlJCTlE3WHNZY3RaWEFoNjB5S1czV2VXcndDV0ttcWFyODVyMmw5U1FvY3FQLXRhZmVLLUtRT19FLW9DTVZ2Mk1JeWllQ09mVXVfaXNhRTFTUEhRQUtkWUFhRElia0hEZUhoeWFsanJ5aHVVajJLYWRqNHlqNkxFSzdGNWo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Construction Gear and Power Gensets Keep Caterpillar (NYSE:CAT) Climbing? - Kalkine Media",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3Q3Mkh4a19MOE5GU3h1Mm5MN29UQW43Y2VuTnRwbE0yLWcyUnVzRzhTNWZpZHdhTE5uRnJ2RkdIRDhOcmtEamRRYmlZaVdOTkRyLTRqRGZOWkQ4bUFBSjRIb2lBaExzRFNlR2wyQzdwY0t0WU5VSDgtakQ0Q1AzZVh5OW9rUXF2My1WMkRLUHZrQ0k5a2F5TzdKYk1yempHZEw3M2ZQZFByZ2l5bERkNXUzUWRGNjVoOHNN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-10-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank cuts target for Saint-Gobain stock to EUR 80 - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1BGM0U3bHNpcHVZd0xtYlM0UksxRmJqd2gyNTRHS0x2SmwybFp3TmlnRkcwM2NQeWF2eWlwRWdlanN5SzA2ZVh6WGVUWlRTZFNLRS1VUFd0V090QlByR0JpUGpMeUFvT0hfV2xrRUhfallzNTdiVXhsdWl2a3VveDJ0U2o2ZnVkamlNa2NUQl9seldmUWJ1WktTcGFRTHFoUFhxcHYwWGlhUXRwZXBKNVFKQmpnUVlYQ2xhMEpn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "87 Years Later, Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon - Polygon.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVYd0VXSDBBVFJTMVBVSHY1Mm41c0VhLVh1ZXBodWk1X2RYNmQ2Y0xSa0xGQWdLcVdiZTZ6eFUzSjNrQ2dVRk9yWkdKSEw4NHNQVThzd0hXYXp4X1d2SWF5T29mdXg3S0NsYjg1RzB2U0JCSTZ3TmxhM3FNaE13Ykl1ck16dGRJOUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "housing_starts": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "pultegroup",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      },
+      {
+        "id": "daiwa_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "housing_starts",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 497,
+    "dup_title": 233,
+    "too_old": 151,
+    "gate1_blocked": 36,
+    "gate2_blocked": 35,
+    "passed": 42,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Asia Cement stock has HKD 2.42 target from one analyst - AD HOC NEWS",
+      "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+      "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+      "Nippon Steel stock gains 4.27 percent to EUR 3.77 after hours - AD HOC NEWS",
+      "Lobbying Update: $410,000 of VULCAN MATERIALS COMPANY lobbying was just disclosed - Quiver Quantitat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為聖戈班、Pulte、CAT相關動態：「Home Sales Contracts Just Fell to a Record Low as Mortgag...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Home Sales Contracts Just Fell to a Record Low as Mortgage Rates Hit 7.4% - 2...（房貸利率、財報）",
+        "level": "red"
+      },
+      {
+        "text": "RCS - Weir PLC - Marc Cameron to join Weir - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

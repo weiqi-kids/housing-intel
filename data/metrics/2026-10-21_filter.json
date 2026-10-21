@@ -1,0 +1,16 @@
+{
+  "total_raw": 497,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 36,
+  "gate2_fail": 35,
+  "passed": 42,
+  "gate2_samples": [
+    "Asia Cement stock has HKD 2.42 target from one analyst - AD HOC NEWS",
+    "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+    "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+    "Nippon Steel stock gains 4.27 percent to EUR 3.77 after hours - AD HOC NEWS",
+    "Lobbying Update: $410,000 of VULCAN MATERIALS COMPANY lobbying was just disclosed - Quiver Quantitat"
+  ]
+}
