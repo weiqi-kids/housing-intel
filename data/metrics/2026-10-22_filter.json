@@ -1,0 +1,16 @@
+{
+  "total_raw": 497,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 38,
+  "gate2_fail": 37,
+  "passed": 48,
+  "gate2_samples": [
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Asia Cement stock has HKD 2.42 target from one analyst - AD HOC NEWS",
+    "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+    "One analyst sets HKD 2.41 target for Asia Cement stock - ad-hoc-news.de",
+    "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}
