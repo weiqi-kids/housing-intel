@@ -1,0 +1,16 @@
+{
+  "total_raw": 498,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 37,
+  "gate2_fail": 37,
+  "passed": 59,
+  "gate2_samples": [
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Asia Cement stock has HKD 2.42 target from one analyst - AD HOC NEWS",
+    "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - ad-hoc-news.de",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Nippon Steel raises US mill upgrade to US$3 bil as costs climb - The Edge Malaysia"
+  ]
+}

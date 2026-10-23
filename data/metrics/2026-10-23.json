@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-23",
+  "total_events": 21,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nippon_steel": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "vulcan_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
