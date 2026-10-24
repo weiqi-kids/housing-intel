@@ -1,0 +1,16 @@
+{
+  "total_raw": 499,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 44,
+  "gate2_fail": 35,
+  "passed": 38,
+  "gate2_samples": [
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Asia Cement stock has HKD 2.42 target from one analyst - ad-hoc-news.de",
+    "Asia Cement stock was HKD 1.52 on October 16, 2026, 0.66 percent above 52-week low - AD HOC NEWS",
+    "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com"
+  ]
+}
