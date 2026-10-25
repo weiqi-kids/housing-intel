@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-25",
+  "total_events": 2,
+  "by_company": {
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:56:57.492403Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-10-25-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Asia Cement warns of RMB 300.9 million loss: what it means for Asia Cement stock - ad-hoc-news.de",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdzgwZGhvZEJ6MUZHMWpDZ1dwWUlRdGVabFBVUkd6b1NhY1hjZUhRMFZaM0Vva1V6bDJ2MDNMTVI0LUpja3E3S25OV2wzZDBPdXBrZTdyTHJSeVV0ZmJrX1BKeVVyU2ZWQ1lNcE1CSWRtNVlIUFpaMnZvNFgxVWlPaXUxV1BIU21fZWkxcFhza1lMX3llZVB0QjEtcHJzeXdUQkNDYWZvd0hNU2NEYmhJc0xKblI1RUU4R2t4eDRvNmMwMDhnSVRkZWtJcVgtNHRFSWNrRg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-10-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Compagnie de Saint-Gobain – OTC:CODGF - TradingView",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lWdlVnMlFzaDNhbVNiUnZmd3dCZWYwZVlyd09Jc1FLS0xkbnI1S3pZZGpyeUdpcVVqZHR1bDZKZTB3U2NZTzZDVmQ0ajBVa1dYa0hfdG1tZm5CaW1ySFJoa2dSYmhLLW9fNVZFWmJwRHRRQTY5aWkyY0RXbkgyWXZ5M0xha19haHQ5dmktYmlxMlBsbnNNY3UxWFV5d0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 500,
+    "dup_title": 256,
+    "too_old": 150,
+    "gate1_blocked": 43,
+    "gate2_blocked": 37,
+    "passed": 14,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Australia’s Infrastructure Challenge is One of Distance",
+      "Asia Cement stock has HKD 2.42 target from one analyst - ad-hoc-news.de",
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "Australia’s Infrastructure Challenge is One of Distance",
+      "Vulcan Materials (NYSE:VMC) Stock: Up in a Month on Falling Treasury Yields - kalkine.ca"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Asia Cement、聖戈班相關動態：「Asia Cement warns of RMB 300.9 million loss: what it mean...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Asia Cement warns of RMB 300.9 million loss: what it means for Asia Cement st...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Price to earnings forward of Compagnie de Saint-Gobain – OTC:CODGF - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

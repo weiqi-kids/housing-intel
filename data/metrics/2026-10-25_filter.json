@@ -1,0 +1,16 @@
+{
+  "total_raw": 500,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 43,
+  "gate2_fail": 37,
+  "passed": 14,
+  "gate2_samples": [
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Asia Cement stock has HKD 2.42 target from one analyst - ad-hoc-news.de",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Vulcan Materials (NYSE:VMC) Stock: Up in a Month on Falling Treasury Yields - kalkine.ca"
+  ]
+}
