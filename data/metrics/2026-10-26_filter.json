@@ -1,0 +1,16 @@
+{
+  "total_raw": 504,
+  "dup_title": 246,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 41,
+  "gate2_fail": 39,
+  "passed": 25,
+  "gate2_samples": [
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Asia Cement stock has HKD 2.42 target from one analyst - ad-hoc-news.de",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Why Are Cleveland-Cliffs (NYSE:CLF) and Vulcan Materials (NYSE:VMC) Still Climbing in a Weak Sector?"
+  ]
+}
