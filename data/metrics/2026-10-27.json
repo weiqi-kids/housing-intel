@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-27",
+  "total_events": 11,
+  "by_company": {
+    "asia_cement": {
+      "count": 2,
+      "sentiment_avg": -0.38
+    },
+    "caterpillar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sekisui_house": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": -0.09
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

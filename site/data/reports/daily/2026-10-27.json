@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:55:31.162101Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-10-27-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China's Asia Cement nine-month revenue declines on weak demand - TradingView",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWUJ6QlFuRm95bTR2ZUczZnYzRjA5dUlpT2E2WXNrV3hkQzJqbzRiYmk4dGJ3dUJHZ3R3ZEVMWEpfeTNvTHJZYnlXZHlaMDFtX3ZrZ0dpV0FyLUVzZ21iaTRpaUZySVZQNnFjMUdZRVNOLVZDcVl0aUx5YmR5UXFRY3BVTVM1XzVDbHBFYVoyNThyYk8zcVB5MTNlRnhMYnB0YVNOZzBKYk9Rd0gyZG5fbUlnRGx0aXZGdnBZa0I3blAyWU5Odlo5Yk9Wc1k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-10-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement Holdings Corporation Reports Earnings Results for the Nine Months Ended September 30, 2026 - www.marketscreener.com",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXdtd0g2aEhmalB3NnJ0WElYWEVWb2JzSlJWZVlWc09zMTBkNjdlWXZ1QVc3QVZwdHF0UWZyd0ZVOHRvZ0tCYTd0X2NaQmNUZW42TW5XaTNWQmJ2Q1dDbWpheGwzVGE3bTZrMHVvZmsyU3RjTnN0NzE0UlRUdHJXbm16ek5nOElhbFNrWGJDNF9Da203aXBxdm1MaThHS2dueWRVTFd5elpHSUxEbkllZFFGOVVCN3hRY3pOMWhzdzBIQUMwQy0wTjBYekFOcXB3SkdzcVR4bnJTY20zb2dTYjA5YUdrbm8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-10-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Caterpillar (CAT) and Comfort Systems (FIX) - The Globe and Mail",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR2lfbEJUN1JIclB4dkVjVmFCb1RzNGQwUEtmQmRpRUt4WjdEakF5RnFLMlJ5NnVMdW8wa1FILVdXbHhKNUJ5cUxEeFctanlpekhRbXU0djlrZXk2SklONWR1MFNMVVBqYkVmSXZNZ1ZQOWUtWVM4WXd6WnJlZXZ0ZVR0OWRPVlZiSnc1cFRXMkJiNUw0dHVGLTVBVzZ2bzQ0UFlTcVpUYXRsMVVtZE5Fb2Ewdk5NU1VPN0VRUnduVHFTdkpzU2ZTWnBOQnB6ekIzQ2dHMHp5ZUhsZ1JycUhhMXc2bnIxUnp5VHNDWWlRMENqc2V1eFV4OVJ5RWxIM3dDREZ6Z0VubE5kRVZBVzFrQ0YyZzgxV3hMNkRKT2VJOEdjZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dr_horton-2026-10-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Seeking Clues to D.R. Horton (DHI) Q4 Earnings? A Peek Into Wall Street Projections for Key Metrics - Yahoo Finance",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0NQZFJNYV9OWFhhZ2RCSm95ajJ6ajU4anhjQl8zaVF5d3lZN3hpTVNrV0dRY3pBZUdDdXFyZ3I0VjZzd0V6aW45aWVrdUJwREhuaERtZ2N3YlRoYXB3QlpYcURTT0MtZENZWkFMOW5DZlhveHJQWWU4RFluQUxFMDREeVlybGFfbFBDWl9HTXNNbzA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "pultegroup-2026-10-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Most-Watched Stock PulteGroup, Inc. (PHM) Worth Betting on Now? - Yahoo Finance",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdU11VUNZM2c0NzZGYXpSRUQzbldlZUtiVFZhQTMydTZkQ3EtM2JUUmZJTU05Y1AtdXF0Snk0X3RaTnB1Uy00Qi1LdlUydnV0UU1HcDNSX0g2QUtCa3J5d2ZJTlp0OGhKM3V5czZnUk90dEFtQXFFTzJOSkV0UzlwTEhRWGhCTjNSOXRhcy1ZeTQtaHRQb0pUWW9lZmdqZzQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "asia_cement",
+        "count": 2
+      },
+      {
+        "id": "sekisui_house",
+        "count": 2
+      },
+      {
+        "id": "dr_horton",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 506,
+    "dup_title": 223,
+    "too_old": 180,
+    "gate1_blocked": 41,
+    "gate2_blocked": 33,
+    "passed": 29,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Australia’s Infrastructure Challenge is One of Distance",
+      "Asia Cement stock has HKD 2.42 target from one analyst - ad-hoc-news.de",
+      "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "Australia’s Infrastructure Challenge is One of Distance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為CAT、Asia Cement、Sekisui House相關動態：「China's Asia Cement nine-month revenue declines on weak d...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China's Asia Cement nine-month revenue declines on weak demand - TradingView（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Asia Cement Holdings Corporation Reports Earnings Results for the Nine Months...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

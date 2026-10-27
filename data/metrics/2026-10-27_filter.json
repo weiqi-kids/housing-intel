@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 41,
+  "gate2_fail": 33,
+  "passed": 29,
+  "gate2_samples": [
+    "Australia’s Infrastructure Challenge is One of Distance",
+    "Asia Cement stock has HKD 2.42 target from one analyst - ad-hoc-news.de",
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Australia’s Infrastructure Challenge is One of Distance"
+  ]
+}
