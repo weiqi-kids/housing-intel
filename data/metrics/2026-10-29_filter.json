@@ -1,0 +1,16 @@
+{
+  "total_raw": 501,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 33,
+  "gate2_fail": 28,
+  "passed": 65,
+  "gate2_samples": [
+    "Nippon Steel to invest $3 billion in new US steel mill - Just Auto",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "VULCAN REPORTS THIRD QUARTER 2026 RESULTS - TradingView",
+    "Form 8K Vulcan Materials For: 29 October By Investing.com - Investing.com Canada"
+  ]
+}

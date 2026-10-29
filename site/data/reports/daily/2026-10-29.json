@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:55:55.094856Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan_materials-2026-10-29-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Vulcan Materials (VMC) Surpasses Q3 Earnings Estimates - Yahoo Finance",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFViZU9FUXMtU1h4U2lDdDdFdHB4V0ZjdUM3RDJqUm9FRXNXX19mdnZaUWhtM2pSWTZlTkJNOHhTTzdRdlBWWkM1N0ttaC00UGlYQjFVMXVjelNkN08zdG4wbnplYWJOSHNNMmpNLXdMQmhoTFhua2p2clhraW5DM0c5eV9TYWR2bUlPLXQ1M0pZaC1VcFo3d2hicm1qdTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-10-29-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Watch Caterpillar Shares Plunge on AI Jitters - Bloomberg.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSENCNHRrWm15dUhtMzZYZF92WllvNl81M1FfcTc2a1pzR2J0M1FYamYxZTJ3Q0lKUGNreVVKUGF4ZHJnV1Q1aU83TVJtWTRiNERzbEljOTZEQktwS2ZFUW04NW5ERGpZR0VRNE55NGpOdUtIR1ZBQVJ2eVVJVFd6VmpIVWJxWUtxZ1JNRlVseHJlbFph?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dr_horton-2026-10-29-049",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "D.R. Horton's Fiscal Q4 Earnings, Revenue Decline; Fiscal 2027 Outlook Issued - marketscreener.com",
+      "companies": [
+        "dr_horton"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORGpaMmxqRWtIWnlSdm1OdXhWOXJmNTdTaHRkQ05xZlp1ajVHLXFEUjd1RV9xLXJCb0ozaXg2MHdKaUhSLXk0SXdMQi13TXcxRW9ocDlkS3pjQlBuNnVIYzNIa2dBTFhqM1lveEFST0t1Xy1ueVNnQWpBR1VjaUlhZmM2dkE2TE9XaVZCemRRUHVpekFtTHFIMU9nMG95VGlrcWpzZVphUGRpQ2Y1VmpMTWdQVkpRZHBMRGZ6SlgzekFPU09TUnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-29-054",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Freddie Mac’s Q3 profit declines as higher projected mortgage rates push credit-loss provisions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mortgage_rates",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.housingwire.com/articles/freddie-mac-q3-earnings/"
+    },
+    {
+      "rank": 5,
+      "event_id": "crh-2026-10-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRH Reports Third Quarter 2026 Results",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 54,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 49,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "dr_horton",
+        "count": 17
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 16
+      },
+      {
+        "id": "caterpillar",
+        "count": 13
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 54
+      },
+      {
+        "id": "guidance",
+        "count": 7
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 501,
+    "dup_title": 203,
+    "too_old": 172,
+    "gate1_blocked": 33,
+    "gate2_blocked": 28,
+    "passed": 65,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Nippon Steel to invest $3 billion in new US steel mill - Just Auto",
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+      "VULCAN REPORTS THIRD QUARTER 2026 RESULTS - TradingView",
+      "Form 8K Vulcan Materials For: 29 October By Investing.com - Investing.com Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為DR Horton、Vulcan、CAT相關動態：「Vulcan Materials (VMC) Surpasses Q3 Earnings Estimates - ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Vulcan Materials (VMC) Surpasses Q3 Earnings Estimates - Yahoo Finance（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Watch Caterpillar Shares Plunge on AI Jitters - Bloomberg.com（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
