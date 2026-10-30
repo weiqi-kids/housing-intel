@@ -1,0 +1,16 @@
+{
+  "total_raw": 507,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 32,
+  "gate2_fail": 38,
+  "passed": 47,
+  "gate2_samples": [
+    "Nippon Steel to invest $3 billion in new US steel mill - Just Auto",
+    "Nippon Steel hopes to expand cooperation with Azerbaijan (Exclusive) - Trend News Agency",
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "BNP Paribas Adjusts Vulcan Materials Price Target to $281 From $290 - www.marketscreener.com"
+  ]
+}
