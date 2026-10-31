@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:48:41.391229Z",
+  "updated_at": "2026-10-31T14:16:35.503865Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "CRH",
       "ticker": "CRH",
       "currency": "USD",
-      "ar": 5534000000,
-      "ar_prev": 4380000000,
-      "ar_qoq": "+26%",
+      "ar": 5862000000,
+      "ar_prev": 5534000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 5103000000,
-      "inv_prev": 5058000000,
-      "inv_qoq": "+1%",
+      "inventory": 5095000000,
+      "inv_prev": 5103000000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "daiwa_house",
@@ -432,17 +432,17 @@
       "name": "Vulcan Materials",
       "ticker": "VMC",
       "currency": "USD",
-      "ar": 1100300000,
-      "ar_prev": 965600000,
-      "ar_qoq": "+14%",
+      "ar": 1112700000,
+      "ar_prev": 1100300000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 688700000,
-      "inv_prev": 695800000,
+      "inventory": 682500000,
+      "inv_prev": 688700000,
       "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
