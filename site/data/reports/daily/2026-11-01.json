@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:43:24.249729Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Yakin Kogyo (TSE:5480) Stock Can Q1 Earnings Revive Sentiment - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjVRV0NEei1uV3k3YlZ3UURBUkZsVzRnclY4TVZ5U0FxdnRLSXFGcGZMbk5wWTVoUmx1Znl6eDhxdVJUdXZ0bnRmckhEa0xmN1JmM1F1UlA2dTdxSk83WThUeFh4bVpyRmFDWWt2NzhFcjdzUVI1U1J3Sml6STJqb25QZjdIQkJEQUpuQXVFMDRHajJ0NmZV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-11-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Earnings Beat Change The Bull Case For Vulcan Materials Stock (VMC)? - Simply Wall St",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUEtQTJlcVJQN2FNWXZxNFUyMmtZQ094RV9OZkMtN1JXWXl0cEVpSnhHOXVEc2M0Y0oycU0wQ0o0S3IwNVA1bGpIZ1FOMndjME9UdzM4VnJhSk85QW00TWtoeWVWVkVvRVBnc284bG5JSmoxby1KQ2V3SDM2cng4bkk4MmZ5X0ROaTgzcm5nQzlsRHg3aHdkMVgzWHNfVWdvS1Y3OWFUU19fb04tQVpsY09YMUYyYm00QmNlVTlqZFgwWHQzWTYwMlh2MGRHd9IB0wFBVV95cUxNWmw1ZHlCTlhLcDFPUW1nTGhBVmhtdVpPdC0zaHdidVQyN0RvNmplZS1UeFhPZERJUktqUUp2UXdzVkpSa1hkM1dTLUhrWlJvWC1hMW5WZFZ1ZER5NnBuZE9rMkRHcGxHRXRIYlhJalRuNC13YTk2MThHZktCMU41bTlFWnBvSUNxNW5lNjZXc0hDa2VncWJfZXlua2t0UF9GWGc0VXRIZllqcXptcEpYWmhwRnJrM2kzajVncjIzbzJaWmRUcDVWVkxvRlhBM3hIZERB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "pultegroup-2026-11-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Are Weaker Earnings Altering The Investment Case For PulteGroup (PHM)? - Simply Wall St",
+      "companies": [
+        "pultegroup"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2JFVGNSMy1BeGpfQWNRZWQycGJ0T2ctNzhlNFJCS0FrYzVCVTJqOFhEZHdGUnJDdXdEcC1xdThHcVpBc0ZTbld1UjF5UE85b0ktMlROMmdhMUEySnB6MjZXWEk1STdRNnk5dUdHZWlUanFiOXJ1LVNmZEloZWJOaG1BTDZlRkxrSGF2SmNFU2xOYmdWZHdVZkpUbnpuaUNYaEhHLUxzYktveFllV0N1TkliZ2NYcTV6YnFDV01Ta0pGZFZfcDlXM0pIQzdmb01z0gHWAUFVX3lxTFBNbmZ1emFYVXVrRUFCV3c3NVhGRThSNmFMMGc4a213aGxiUzhTWE5jbVBqeW00V0ZpYlU2Yl9mVHl2Unp3czZmdy0yS1pDdlhPZUVfbnNVdXJWV0JrNDRqWXZjaVd3QlItMHRzYk9KNjV3QnZvaF9tWEw0MWVQUmIyczZ0dlBfbUJBTkpWMFNLQVNsNEFscEZKM2pyeWNHQ2l1dk9SVUwxMXRZSEozV0pMRHgtS2Zxa1hUSEkwQ1liNEROVWRURFV5cldvSXB5R3VqSkZBTHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toll_brothers-2026-11-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toll Brothers (TOL) Launches Crest Collection As Undervalued Narrative Holds - Yahoo Finance",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTh3NG52dTU0NU9GREdTcC01TnlnS2hIT1BXbzdra0RnTmtCMFdwWW5OVmV1Z09xUTJraG5GRVk3MGxnVHF6WWRILW1kV2prdjBRNUZVWHg3RnljNHduT1VUakNCcXNITFRWall1TEFHc280OGNpWmRCMlpISFNjWktQWXVvdHZZMkVyWE12YWg0WktrenZTMVJkWjY1UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "pultegroup",
+        "count": 1
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 498,
+    "dup_title": 250,
+    "too_old": 173,
+    "gate1_blocked": 29,
+    "gate2_blocked": 28,
+    "passed": 18,
+    "pass_rate": "7.3%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+      "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon - Seeking Alpha",
+      "Can the woolly bear caterpillar predict the upcoming winter? - NEWS10 ABC",
+      "Caterpillar’s stock is sinking. Here’s what that means for the Dow. - MarketWatch",
+      "Caterpillar posts ‘highest sales quarter ever,’ fueled by data centers - Manufacturing Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Vulcan、Pulte、Toll Brothers相關動態：「Nippon Yakin Kogyo (TSE:5480) Stock Can Q1 Earnings Reviv...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nippon Yakin Kogyo (TSE:5480) Stock Can Q1 Earnings Revive Sentiment - Yahoo ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Does Earnings Beat Change The Bull Case For Vulcan Materials Stock (VMC)? - S...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 498,
+  "dup_title": 250,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 29,
+  "gate2_fail": 28,
+  "passed": 18,
+  "gate2_samples": [
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon - Seeking Alpha",
+    "Can the woolly bear caterpillar predict the upcoming winter? - NEWS10 ABC",
+    "Caterpillar’s stock is sinking. Here’s what that means for the Dow. - MarketWatch",
+    "Caterpillar posts ‘highest sales quarter ever,’ fueled by data centers - Manufacturing Dive"
+  ]
+}

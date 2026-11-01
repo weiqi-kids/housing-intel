@@ -1,5 +1,81 @@
 [
   {
+    "id": "unknown-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nippon Yakin Kogyo (TSE:5480) Stock Can Q1 Earnings Revive Sentiment - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjVRV0NEei1uV3k3YlZ3UURBUkZsVzRnclY4TVZ5U0FxdnRLSXFGcGZMbk5wWTVoUmx1Znl6eDhxdVJUdXZ0bnRmckhEa0xmN1JmM1F1UlA2dTdxSk83WThUeFh4bVpyRmFDWWt2Nz",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjVRV0NEei1uV3k3YlZ3UURBUkZsVzRnclY4TVZ5U0FxdnRLSXFGcGZMbk5wWTVoUmx1Znl6eDhxdVJUdXZ0bnRmckhEa0xmN1JmM1F1UlA2dTdxSk83WThUeFh4bVpyRmFDWWt2NzhFcjdzUVI1U1J3Sml6STJqb25QZjdIQkJEQUpuQXVFMDRHajJ0NmZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Does Earnings Beat Change The Bull Case For Vulcan Materials Stock (VMC)? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUEtQTJlcVJQN2FNWXZxNFUyMmtZQ094RV9OZkMtN1JXWXl0cEVpSnhHOXVEc2M0Y0oycU0wQ0o0S3IwNVA1bGpIZ1FOMndjME9UdzM4VnJhSk85QW00TWtoeWVWVkVvRVBnc284bG",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUEtQTJlcVJQN2FNWXZxNFUyMmtZQ094RV9OZkMtN1JXWXl0cEVpSnhHOXVEc2M0Y0oycU0wQ0o0S3IwNVA1bGpIZ1FOMndjME9UdzM4VnJhSk85QW00TWtoeWVWVkVvRVBnc284bG5JSmoxby1KQ2V3SDM2cng4bkk4MmZ5X0ROaTgzcm5nQzlsRHg3aHdkMVgzWHNfVWdvS1Y3OWFUU19fb04tQVpsY09YMUYyYm00QmNlVTlqZFgwWHQzWTYwMlh2MGRHd9IB0wFBVV95cUxNWmw1ZHlCTlhLcDFPUW1nTGhBVmhtdVpPdC0zaHdidVQyN0RvNmplZS1UeFhPZERJUktqUUp2UXdzVkpSa1hkM1dTLUhrWlJvWC1hMW5WZFZ1ZER5NnBuZE9rMkRHcGxHRXRIYlhJalRuNC13YTk2MThHZktCMU41bTlFWnBvSUNxNW5lNjZXc0hDa2VncWJfZXlua2t0UF9GWGc0VXRIZllqcXptcEpYWmhwRnJrM2kzajVncjIzbzJaWmRUcDVWVkxvRlhBM3hIZERB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-11-01-003",
+    "date": "2026-11-01",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Are Weaker Earnings Altering The Investment Case For PulteGroup (PHM)? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2JFVGNSMy1BeGpfQWNRZWQycGJ0T2ctNzhlNFJCS0FrYzVCVTJqOFhEZHdGUnJDdXdEcC1xdThHcVpBc0ZTbld1UjF5UE85b0ktMlROMmdhMUEySnB6MjZXWEk1STdRNnk5dUdHZW",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2JFVGNSMy1BeGpfQWNRZWQycGJ0T2ctNzhlNFJCS0FrYzVCVTJqOFhEZHdGUnJDdXdEcC1xdThHcVpBc0ZTbld1UjF5UE85b0ktMlROMmdhMUEySnB6MjZXWEk1STdRNnk5dUdHZWlUanFiOXJ1LVNmZEloZWJOaG1BTDZlRkxrSGF2SmNFU2xOYmdWZHdVZkpUbnpuaUNYaEhHLUxzYktveFllV0N1TkliZ2NYcTV6YnFDV01Ta0pGZFZfcDlXM0pIQzdmb01z0gHWAUFVX3lxTFBNbmZ1emFYVXVrRUFCV3c3NVhGRThSNmFMMGc4a213aGxiUzhTWE5jbVBqeW00V0ZpYlU2Yl9mVHl2Unp3czZmdy0yS1pDdlhPZUVfbnNVdXJWV0JrNDRqWXZjaVd3QlItMHRzYk9KNjV3QnZvaF9tWEw0MWVQUmIyczZ0dlBfbUJBTkpWMFNLQVNsNEFscEZKM2pyeWNHQ2l1dk9SVUwxMXRZSEozV0pMRHgtS2Zxa1hUSEkwQ1liNEROVWRURFV5cldvSXB5R3VqSkZBTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-11-01-004",
+    "date": "2026-11-01",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toll Brothers (TOL) Launches Crest Collection As Undervalued Narrative Holds - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaTh3NG52dTU0NU9GREdTcC01TnlnS2hIT1BXbzdra0RnTmtCMFdwWW5OVmV1Z09xUTJraG5GRVk3MGxnVHF6WWRILW1kV2prdjBRNUZVWHg3RnljNHduT1VUakNCcXNITFRWall1TE",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTh3NG52dTU0NU9GREdTcC01TnlnS2hIT1BXbzdra0RnTmtCMFdwWW5OVmV1Z09xUTJraG5GRVk3MGxnVHF6WWRILW1kV2prdjBRNUZVWHg3RnljNHduT1VUakNCcXNITFRWall1TEFHc280OGNpWmRCMlpISFNjWktQWXVvdHZZMkVyWE12YWg0WktrenZTMVJkWjY1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan_materials-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [
@@ -115,6 +191,102 @@
       {
         "name": "dr_horton",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejFMeEZJZlFTZHY4MUh6Q1M2STJGbm1TaFgxT19rUVZMWFBLSk43a3psZkdnREZmZ2tpSmZaNGdYQlVIRnZsQmxuRjZ1OEkwSFZxQ3RPcmpBY0NrLVdjS2JqQTduRXVidWV5SEtlWjFLa1Z1bF93YUQydTZEZGgzQThPYkstM0NhQXVwZjR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-31-007",
+    "date": "2026-10-31",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Q3 Earnings Call Highlights - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUdNQVFWaUxud2o3NXJaQkFsbzAyVG9nVXJEdXJFUlI4QlBCb0RzOUxZNG9LUTk0aHZ5ZUlZaVRFaFFkbUI0SmxsZnFObnMwV1gxQTBtUDZmUlNtd0w2cU9WX18zX0J6b25Wa0lYdl",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUdNQVFWaUxud2o3NXJaQkFsbzAyVG9nVXJEdXJFUlI4QlBCb0RzOUxZNG9LUTk0aHZ5ZUlZaVRFaFFkbUI0SmxsZnFObnMwV1gxQTBtUDZmUlNtd0w2cU9WX18zX0J6b25Wa0lYdldSYXEwTk5sVzZVTnFxMm5yWjgwb1U2d2JPV3l3QU9vWHdnRWVncDJHQVpQcWpQVmtJUWhNRHRwRnk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-31-008",
+    "date": "2026-10-31",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Just Happened To Vulcan Stock? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTJ6YThhaUs1SzBCQWZ3RnAzcnY5WXktTUdsS3hFSkFwLWt4aXJhdEkzSVUxRjQ3UExUUDhVbjBqZ29SRjF2RmlVTEczU2xTc3NsOV8yeFFlTjhBNkx4eXItZmZjSzFORUtDeTV4bk",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTJ6YThhaUs1SzBCQWZ3RnAzcnY5WXktTUdsS3hFSkFwLWt4aXJhdEkzSVUxRjQ3UExUUDhVbjBqZ29SRjF2RmlVTEczU2xTc3NsOV8yeFFlTjhBNkx4eXItZmZjSzFORUtDeTV4bkl5ZS1qd0RvZF9sS29HalFCNlNxN21LeWJVY3ZQYld4d0VGd0k3M09CbGJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-31-009",
+    "date": "2026-10-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Stock Slides As Q3 Results Leave Tariff Questions - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBwYlpXM2FiMVFzcHJtem9USGJuVU04NGNROUJWM0t6SmkzcFdPUllPSElXYjRuaDAyY0hGcDdkN3Z3RUUtb1VOeWJ3c183X3VLNU5zYlhKcDllZVVXcTE3aVdrekNHVjBrYUpUMl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBwYlpXM2FiMVFzcHJtem9USGJuVU04NGNROUJWM0t6SmkzcFdPUllPSElXYjRuaDAyY0hGcDdkN3Z3RUUtb1VOeWJ3c183X3VLNU5zYlhKcDllZVVXcTE3aVdrekNHVjBrYUpUMlpQWl9uMElVbDFGSTdfdlNocERHZzhVMHZRVklvQ3hHYl9ZM19ZNWl1Nmt6dmg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-31-010",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "neutral",
+    "title": "A path to sub-7% mortgage rates is back on the table",
+    "summary": "<p>As rates have fallen, housing demand has stabilized the last two weeks</p>",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/sub-7-mortgage-rates-path/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-31-011",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Iranian Nanocoatings Protect and Restore Building Materials - خبرگزاری آنا",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzVOTWVIS2pubmRncEZQNTR4V28weUFyREpmaGlSYkNaV0IzV2s3MEJqSFh4a01qTDAxeVFQZVRGNFEyM3RyT2V3NklrTmF1aFpueERKZVBZTDB1MnpsaEQ2TnhlZm1wRnY1NmxfTH",
+    "sources": [
+      {
+        "name": "google_construction",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzVOTWVIS2pubmRncEZQNTR4V28weUFyREpmaGlSYkNaV0IzV2s3MEJqSFh4a01qTDAxeVFQZVRGNFEyM3RyT2V3NklrTmF1aFpueERKZVBZTDB1MnpsaEQ2TnhlZm1wRnY1NmxfTHowQVFkMGhRZHlRYnE5REJJb3lEdWtuSXpZX2JNRS1Tak96QQ?oc=5",
         "type": "rss"
       }
     ]
@@ -752,6 +924,60 @@
       {
         "name": "housingwire",
         "url": "https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-034",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sakura Development Co.,Ltd (2539.TW) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTnEwNmNsVDN5VlBuQ3JBV2cyMk5uWGttelRfSmpxcUN1X1hKWlJOdm9Ddy01dzhmYzJ5U3RLUjJYOXFYRWhHbS0zVHpNbnAwdUEyVV9fTkZ3aDBEZGlmRy1jclJMQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "huaku",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTnEwNmNsVDN5VlBuQ3JBV2cyMk5uWGttelRfSmpxcUN1X1hKWlJOdm9Ddy01dzhmYzJ5U3RLUjJYOXFYRWhHbS0zVHpNbnAwdUEyVV9fTkZ3aDBEZGlmRy1jclJMQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-10-30-035",
+    "date": "2026-10-30",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces New Luxury Home Collection Coming Soon to Toll Brothers at Mapleton near Provo, Utah - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWJnRkMzekdFWGU3M1pSSVN4V3VIMFJiTVpFWllfdDF4eU9KWE4xLWgxbzRpM2lMWWFwLUlpbXEzQWRRM2NpNHhXNjJGV2F5RXVEZ0RmV2t2SmFJNjlsZldiemtCODJvTm1sdUctRn",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWJnRkMzekdFWGU3M1pSSVN4V3VIMFJiTVpFWllfdDF4eU9KWE4xLWgxbzRpM2lMWWFwLUlpbXEzQWRRM2NpNHhXNjJGV2F5RXVEZ0RmV2t2SmFJNjlsZldiemtCODJvTm1sdUctRnpiR3dWN0steTZHb0tGckVBTXFvdFFUQkZURnk4STdOX0FhbzViUkdJMlZQTC1VcENuYmpVbF8wZk5uMkxjTUVNSkRYazVyV3dhMFE3NVJvNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-036",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q3 2026 company earnings in mortgage, real estate, homebuilding - HousingWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHVFal9yY1JFcnBWclowcUU4VmE4YVVCSG1IUUdpdVpnQUhFeGUtWDFBYndEM3VyaTZWeWdCVmZqYXBsZ1l2M2gyV2RIeldTTXZIem9kMEdxTXBsTjhnSjA2Q21TalRpd1pobzl0WV",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHVFal9yY1JFcnBWclowcUU4VmE4YVVCSG1IUUdpdVpnQUhFeGUtWDFBYndEM3VyaTZWeWdCVmZqYXBsZ1l2M2gyV2RIeldTTXZIem9kMEdxTXBsTjhnSjA2Q21TalRpd1pobzl0WVNtZnc3X3dkVm9zSzhlQjc1ZFpFMnJua3RIc0prSGxFcDVzZw?oc=5",
         "type": "rss"
       }
     ]
@@ -2453,6 +2679,107 @@
     ]
   },
   {
+    "id": "vulcan_materials-2026-10-29-087",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (NYSE:VMC) misses Q3 2026 sales expectations - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOTV3SVhFX1lBYmhpa09Cai05QkhZNkNsWG5GREpHUTdvcXU3aGxFQXc0a3RHb0p2ZzcxbnRFRDI0SlZDbEstV0M3X3NVV2paN3Y3YTZrOUZSYUtEQjBuRDk0OTI2X2VFc3M0dXAzTH",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOTV3SVhFX1lBYmhpa09Cai05QkhZNkNsWG5GREpHUTdvcXU3aGxFQXc0a3RHb0p2ZzcxbnRFRDI0SlZDbEstV0M3X3NVV2paN3Y3YTZrOUZSYUtEQjBuRDk0OTI2X2VFc3M0dXAzTHN3ZXVYSW9hcXhxRlhCQjYzUEtHRVlweTJlX1h2S3hGMFhlRmd2MkVUVEMzVTZWZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-10-29-088",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (Holdi (VMC) Q3 FY2026 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2d2c3NpRjM4Zm5wTWZzbjhabEFHa2lWV19HLXhEVmdKMWo5a1RxejBoaURuamY0d05uQTFZUnFmUkFNVWdIVmxLOVBtSlBFU0NIWTByejE4eEpha1BIZWVzNXZIc2Z3SVJDYWtEZE",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2d2c3NpRjM4Zm5wTWZzbjhabEFHa2lWV19HLXhEVmdKMWo5a1RxejBoaURuamY0d05uQTFZUnFmUkFNVWdIVmxLOVBtSlBFU0NIWTByejE4eEpha1BIZWVzNXZIc2Z3SVJDYWtEZElWY1V3YWF1QUxQc1NheVJFT09wUmRZY3FfSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-29-089",
+    "date": "2026-10-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Slumps as Modest Beat Fails to Soothe AI Jitters - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV082TVdHVmE0bDVJYzlWdkt6elBnQ2ZxYXY2RHBpNUkwSkJ3d0I2Q1lqdU5KSUdBSzJZcTFmRWtYWkZPXzlJZkJmZnBlck1iYjFneEhvdXl4c2E2YTZ5ZUluQUhjY2NaWmpKbzNFUG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV082TVdHVmE0bDVJYzlWdkt6elBnQ2ZxYXY2RHBpNUkwSkJ3d0I2Q1lqdU5KSUdBSzJZcTFmRWtYWkZPXzlJZkJmZnBlck1iYjFneEhvdXl4c2E2YTZ5ZUluQUhjY2NaWmpKbzNFUG96R1U3V1hwUGFkS2tON0QwblVYMzl5ZWhVLTB1RWZxd3JsZnl6R0V4YTU0SE1EeFdiUDl5VE5LcC16OURNbXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-29-090",
+    "date": "2026-10-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Shares Down, but Generator Order Backlog Stretches for Years - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPa2ozYTJvbnVKSGZUTGdvSFhxX0c1NFYwX2U2WF9tWUdFc2VDZ1NKcGZjVGZva1hVaDVneUVmTnFyY1haNWx5OWZHUG5SVnRJU0ZJQkt1NFczdEZVZEdpUkxEeTZuVEFERWsyX0MtZV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPa2ozYTJvbnVKSGZUTGdvSFhxX0c1NFYwX2U2WF9tWUdFc2VDZ1NKcGZjVGZva1hVaDVneUVmTnFyY1haNWx5OWZHUG5SVnRJU0ZJQkt1NFczdEZVZEdpUkxEeTZuVEFERWsyX0MtZVpBSFZKS2FpOWVNNF9ydEtKaEg5a04zQ09RZmF1THRlcmliT0RrbENOWG9YemhZRS1mUFdsQXMwSXFHNko4SkQtV1FCdEt0Nm1RWWRiVjZvT1ZDdU8xSXk5WnpyWDNaY0lKWGQ1aFh0bnVGT0kxbmQ1eGNUU3J4eVg2bW9yRXA5UXI4emhOQk94THZZOUNBdjdnWlRzNUF6YVBsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dr_horton-2026-10-29-091",
+    "date": "2026-10-29",
+    "companies": [
+      "dr_horton"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "D.R. Horton (NYSE:DHI) surprises with Q3 CY2026 sales but full-year sales guidance misses expectations significantly - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQQ1RObU92X1RQa1R6RzRKZlQ1Y0szQkZQV2tPT3J4bUw4WmhMT2hKY21BdUpRUEdHcm1WM3pRZ1dHNnA3WjVvVDVkTk4tWkFlU2dNeC1jcDVzYXRPX2oxaHpTNHdKckZraktrNXF6NE",
+    "sources": [
+      {
+        "name": "dr_horton",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQ1RObU92X1RQa1R6RzRKZlQ1Y0szQkZQV2tPT3J4bUw4WmhMT2hKY21BdUpRUEdHcm1WM3pRZ1dHNnA3WjVvVDVkTk4tWkFlU2dNeC1jcDVzYXRPX2oxaHpTNHdKckZraktrNXF6NEhQbi1JalBXdU5BUVBOVFJqcEtZSXlEMmhoMmxrU1hGR2lYS2Q2NWNnaEhMdkIwTXZqY0hySzVQWDlJTHFDb25BaThoN3Y3NHdWeTlHS3dmX1lETTMzR2tpclNwYWtTTWJsckJ4NG50UHRWZTdJQlp0ajlXR2pVc0laSncyZ0cyVVNEa2YwaHVEYVFFbVFSZHJOdXR6Tg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan_materials-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -3041,6 +3368,24 @@
       {
         "name": "toll_brothers",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2NxeUY3WVpyUHVjNnhRdGZGYVlVcndBYUo0S2N1NG9kMm9xN054Znc1UUFrRlB4Q0tDMVVsZGRYNlBRaW52WjFmZ1BvYUM5eUphX0Q2QkFzUmxrX1JlZUx6YXFYZk5wUlRWTHpmUmtjeTlGUkhYV0NRM0RRRWZhU0JrNTdwMVYyMXVaWDdiZXNtaU9zc2F5clhFYkEyTmU1aVNfRElFdlhETFBSUmZ3NUE4QUpqeFlkY0djbDUweUV2XzhaNllzeXNJZlZLOElYNDVrUWd6ZFNaRjFDNzQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-031",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thank you, Mr President: BlueScope gets a windfall from Trump’s tariffs - SMH.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3BFZ0dBaTJpSnVXQl9qNEtYVkdKc3otbDdKa0RwdlJyNEVBcmJuNXdCMjdPSFhqWm5fdlhWWU1jX2RtVnlHWHhoSkVHbXBfekhQc3RSQUNfbGFQb3NMTVA1dUlVRzlyR041U3AzeV",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3BFZ0dBaTJpSnVXQl9qNEtYVkdKc3otbDdKa0RwdlJyNEVBcmJuNXdCMjdPSFhqWm5fdlhWWU1jX2RtVnlHWHhoSkVHbXBfekhQc3RSQUNfbGFQb3NMTVA1dUlVRzlyR041U3AzeVktVVU4Q28zT1hfUDRHd0o5dDdQWm9pcFpOTm45QjRhSGt2SGJDUWs4X2JkWllSMmZrb2w1b0Z2NEZxZWJtS3QyVWhfZDJqdU1ZX2VJQ29iQkVtUUNwQ2ZNVm5B?oc=5",
         "type": "rss"
       }
     ]
