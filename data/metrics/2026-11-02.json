@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-02",
+  "total_events": 24,
+  "by_company": {
+    "taiwan_glass": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tung_ho_steel": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "vulcan_materials": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "lennar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "pultegroup": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toll_brothers": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sekisui_house": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 18,
+      "sentiment_avg": 0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

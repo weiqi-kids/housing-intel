@@ -1,0 +1,16 @@
+{
+  "total_raw": 502,
+  "dup_title": 248,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 32,
+  "gate2_fail": 25,
+  "passed": 31,
+  "gate2_samples": [
+    "Nippon Steel Trading to acquire CLN Slovakia to expand European steel processing operations - SteelO",
+    "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+    "B. Riley Adjusts Price Target on Vulcan Materials to $315 From $300, Maintains Buy Rating - marketsc",
+    "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon - Seeking Alpha",
+    "Can the woolly bear caterpillar predict the upcoming winter? - NEWS10 ABC"
+  ]
+}
