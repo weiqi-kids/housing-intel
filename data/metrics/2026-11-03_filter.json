@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 35,
+  "gate2_fail": 37,
+  "passed": 40,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+    "Asia Cement Corporation (1102.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Nippon Steel Corporation (5401.T) Seasonal returns chart - Yahoo Finance UK",
+    "Morgan Stanley Adjusts Vulcan Materials Price Target to $311 From $321 - marketscreener.com",
+    "Citigroup maintains Vulcan Materials at Buy, raises price target to $326 from $300 - TradingView"
+  ]
+}
