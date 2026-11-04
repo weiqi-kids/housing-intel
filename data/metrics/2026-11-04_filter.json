@@ -1,0 +1,16 @@
+{
+  "total_raw": 512,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 208,
+  "gate1_fail": 31,
+  "gate2_fail": 27,
+  "passed": 38,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings Corp (4OJ.MU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+    "Asia Cement Corporation (1102.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+    "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+    "Vulcan Materials Co (VMC) Senior Vice President David Clement Se - GuruFocus"
+  ]
+}
