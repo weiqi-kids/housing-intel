@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-05",
+  "total_events": 28,
+  "by_company": {
+    "nippon_steel": {
+      "count": 11,
+      "sentiment_avg": -0.05
+    },
+    "vulcan_materials": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dr_horton": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "kb_home": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "sumitomo_forestry": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 24,
+      "sentiment_avg": -0.02
+    },
+    "guidance": {
+      "count": 9,
+      "sentiment_avg": -0.06
+    },
+    "mortgage_rates": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
