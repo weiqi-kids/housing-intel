@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:03:14.933339Z",
+  "updated_at": "2026-11-06T15:39:16.772897Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "卡特彼勒",
       "ticker": "CAT",
       "currency": "USD",
-      "ar": 24032000000,
-      "ar_prev": 21890000000,
-      "ar_qoq": "+10%",
+      "ar": 24491000000,
+      "ar_prev": 24032000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 20627000000,
-      "inv_prev": 19626000000,
-      "inv_qoq": "+5%",
+      "inventory": 22214000000,
+      "inv_prev": 20627000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cathay_real_estate",
@@ -262,17 +262,17 @@
       "name": "NVR",
       "ticker": "NVR",
       "currency": "USD",
-      "ar": 49642000,
-      "ar_prev": 35423000,
-      "ar_qoq": "+40%",
+      "ar": 54560000,
+      "ar_prev": 49642000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 2235289000,
-      "inv_prev": 1938510000,
-      "inv_qoq": "+15%",
+      "inventory": 2372787000,
+      "inv_prev": 2235289000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "pultegroup",
@@ -347,17 +347,17 @@
       "name": "住友林業",
       "ticker": "1911.T",
       "currency": "JPY",
-      "ar": 214413000000,
-      "ar_prev": 202414000000,
-      "ar_qoq": "+6%",
+      "ar": 345964000000,
+      "ar_prev": 214413000000,
+      "ar_qoq": "+61%",
       "ar_period": "QoQ",
-      "inventory": 1704520000000,
-      "inv_prev": 1091659000000,
-      "inv_qoq": "+56%",
+      "inventory": 1742277000000,
+      "inv_prev": 1704520000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "taiwan_cement",

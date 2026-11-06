@@ -1,0 +1,16 @@
+{
+  "total_raw": 509,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 198,
+  "gate1_fail": 35,
+  "gate2_fail": 29,
+  "passed": 24,
+  "gate2_samples": [
+    "Asia Cement Corporation (1102.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+    "Asia Cement Co.,Ltd. (183190.KS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Asia Cement (China) Holdings Corp (4OJ.MU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+    "Nippon Steel Produces 1,000 Tonnes DRI With 100% Hydrogen - Fuel Cells Works"
+  ]
+}
