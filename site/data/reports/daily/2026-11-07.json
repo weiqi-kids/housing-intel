@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:39:26.649944Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-11-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel tests technology for producing DRI from low-grade ore - GMK Center",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm90WW50d2FpcFRzcTNpdFlZYThkM0xCRVJ1V2N0eFdEcEpFdUtPWnNZcEg3VGEtdS1yVklHTV9LTmVKVVB0M0FMRWNLUXVhVkF2aWlaeHNSa0VkUWp4NVFwN0hTRm04N0NDRDZISWNLVHpka1JfSUtCRFo2RlJIeG9Hd1E5bVdJWGVYTlRSQUNIUU5hcG1OZXZR0gGfAUFVX3lxTE5NM3UzQlVFZWhlM0JEbEk0ZkpYQi1aUGFkOHo0WHJZakI4dkFHamhIQ1hGb0lPT0tpZF9vMGF6RjdOakdLLU5KNGdMUEdqSlV1Q0lUSUxSZUtPa2RuWlpneVJuSWRBdndGTk85aFdEWUt3M09TYkV4SzBwMDdSWFJPMW5iVWV4Q09SUllYVzZTWEc1VDR0OUxSUy1GUVNRcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-11-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Hydrogen DRI Pilot Test: 300 Hours, 1,000 Tonnes at Hasaki - News and Statistics - IndexBox",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzBZWmhvVjVpaU83X3hqREREQ2FlZE9SWENSTk9ITTdTS01DX1BTS2NFVUhoZEJNTkdHQ3c2R1NwV1VfQ1hwZ2tWcjB4SG9HU0ZzQVp2NjNlYW1GTnh0cG5lS0pTVVdzTUpHWUoxRGU2WUVHY1Bjc1VTcUp3SnIwOTZqWmtaY2o4bHJFcDNadm5reTZCLS1mTnhRUi1CanRj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corrales, NM Author Introduces Young Readers to Friendship and Change - PRLeap",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVVVcmpEZnh3V0xEYjBfYnREa0ZzeGRQVnRsQ25fVElPZ0lpM05JZlJhbEl6Z2I2Rm1DSFJKTzIzUWh3dnZxa19LVVNicUNpb1RMT0Q3Si0tZ0lKSU9yXzkxS0RRWEItM05sUUpWS1pUUjBxR1pweEZidUQ1VXV4M2NJbTg4M3dqYXdjVjEwRUhHclNIZjMxaFFhdk5Bd1hab0Fr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toll_brothers-2026-11-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toll Brothers (TOL) Wins Awards And Opens Communities, Is It Still Below Fair Value? - Simply Wall St",
+      "companies": [
+        "toll_brothers"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUWY2S0ZfZ1d4RTlhU0UxTTJwX0lnbjFKTlAtTjViTnJ3VjQtWEZHbk9BSVQ1VGtkbVYwb0ZaalhmaE0tTGc2R0xUWFZ0dEd2ODFyWDdFM2RGOHpyQlRzcW9Dai0yVkJfYUVMOGJXV2hISFNWSTg4VVJHOGFva3dvck5HQ2xYVlJrckRrNVhFMEdEQ2s3NEx1clJ1cy1JRGVmSzZ6a2VXRENMTjA5TzdMaTBFOVJSeEhieVk4UUt3c2VnMG1vMVJSR0d2aGp0bjg5d1lERtIB2gFBVV95cUxNUW80S3BlNndZVmNWRENiYnZhNjdEMGtCMVp6ZlVJZG8wZEZ5MWJkYXp5RVBmemFlMXp1RGZURHRvbHB1SmRJZ0JEZER6Q2FSVE9JaHFnaHlNbHNvNWdPUC1HOVlZUENTaVIyT3hoMjdmNGNLUHNUUDB2WUU2Vkl5MXN3TUh4UFdvaW5CUG9JNnhWZWZUT0VvcXBySV9UNkJQZEx1dGRhVUljVGtWdzg2T3BiTGhmbzdYNjRSUDczUFhadkVsaW9pUjd1OFVMMG12NXNQQ2FVVndJdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vietnamese building materials required to bear energy labels from 2029 - Vietnam Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM25nUTc0MDVpU3hCODA4c29wUktRRXFYVE5NUmZmbmV4LTFwdUJMQ3VHanV0R1FJYmpodWdnRl9ERmJNWHBZV3o4MldWcXNnSm9FY21FYW81c3JiTkkzTDBOd3c0SEREbDRuNXhBTmNLVGxHX0h5Rll0bWt2NWVNV2NOOTFfMEJCNlVMTFZtUU5SWTdVRzNES0dkMlZScjg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "toll_brothers",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 509,
+    "dup_title": 229,
+    "too_old": 205,
+    "gate1_blocked": 30,
+    "gate2_blocked": 30,
+    "passed": 15,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Asia Cement Corporation (1102.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+      "Asia Cement Co.,Ltd. (183190.KS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Asia Cement (China) Holdings Corp (4OJ.MU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Nippon Steel、Toll Brothers相關動態：「Nippon Steel tests technology for producing DRI from low-...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Steel tests technology for producing DRI from low-grade ore - GMK Center（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel Hydrogen DRI Pilot Test: 300 Hours, 1,000 Tonnes at Hasaki - New...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
