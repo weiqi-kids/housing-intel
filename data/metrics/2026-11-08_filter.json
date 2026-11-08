@@ -1,0 +1,16 @@
+{
+  "total_raw": 508,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 32,
+  "gate2_fail": 28,
+  "passed": 11,
+  "gate2_samples": [
+    "Asia Cement Corporation (1102.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+    "Asia Cement (China) Holdings Corp (4OJ.MU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen - https:/"
+  ]
+}

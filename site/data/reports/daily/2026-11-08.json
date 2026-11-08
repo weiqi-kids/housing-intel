@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:45:12.895824Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan_materials-2026-11-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Soft Third Quarter Earnings Change The Bull Case For Vulcan Materials (VMC)? - Simply Wall St",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV01aM0VVMHRjUEJINzB4Ri10VTMtOVowNGhyYzB3NEt6MmFLV1hYWm4wdG14WExpNDI2bVBUVzgwb2ZSeWZQM2RFLUdWZEpVU0pXUXhTNDR1R3luTVF2WnM2NGxzejRFN0R5Qlc4RkRUeG1CeHA1NkY3MVN4b0tySlFGTFVYaEZzbTUyMjFsdUdwWlFHSk1FN1J5V1huZ082dGlBdHZvRnFNVkdUR3ZaQjFDQXJJeDQ3MWJHQzd2NXZ3Zzd4aDNSalZoUVd2UdIB0wFBVV95cUxQdVYwdU1VTnZQb041ckRDWlZGQ19BYXlIZWNUSE5jaVp6ajJCZlh6VTR4LTlSc0lmUmRRdXNBOWN6ZmtWUlc0aGpaa2dWSlhGMFk5b3N1YktkS0tVRzBYeTV5b3FPQzZLQ3IxQ0J2aEZzaExiSVZRR0hicVlNV2NLVUFQNTN5VGt6TkVlTkU1ajk2TVdmdGVMWDlKTFhrbmw4MDJBR01QRDZiM1dpY1A2bUtpWS1iQmVHbndad1hsR19ob3JvRk02M1hXTkpQSkc3ck1Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Investors Are Searching for Hope in Home Builders - WSJ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlMxbmhkclBUVmJHTmFLU2E1endoSzlKWDl6bUVHcXM2RXUtUmdpaUkyQlQzaG9wS3FCbVRERG5IVEpWaldhSXZsN3FzV3ZvVWlZdDB2OUJfaE9HcHUydkZmTXo3S2xqT1pBQ1dsZjlUcGV6YU1BUzBPbVhDaGQ2Qm0zSTF6dkxrSElCNktfdDZIZmdpa0ViNHFNYlc5dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Australian Building Materials Stocks With Pricing Power As Rates Bite - Simply Wall St",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWhUVWVDR0lFa0RBUWtjZzM2eUFQQlplczhMVm5qWk05S1NuS1RKU1NydHlHaTlMN0theXZudDctMl82cDdwS3pnY0FXOURkTkR2YUgydVR3dHBXMTFsdlQ3eEl6ckVwdWpGc2s4bW1tRjFtU0FiZDlVdUF4d2FHd0VBeGNfZ3dINl9vc1h5bHVxYnN2WXE0YmNCUFZpUS1hbHRyblAtMzUxYnJhZnRVbEs5SFVOOW1OU1dmQVhIbzFRbXU4cmlMTl93bHZKeXd2S24wSNIB2gFBVV95cUxNTU5QMUdTNEtVVUc5bm1hVXBoa29RblpYYzVOVFJtTy0wb3FxWlJpTVBhVUpPUmQxVXRhTy1EaW9SWVdYTEZtNWc4YXZrdEhpY1l2cUF5Qy1BVHoyRXotZHJIYVg0S2NoVm9IUHZWY1N6bEpxdXE5V0tkNWVmWjNKUDlqNnNiU0twN2JUeFpNT0VMbTU0NWlOTk9BNWxKQ3BlNzdhX2VQZmd1QXpzUkZmUDUxY2hsMTJxVlhTN0dpaFFKOENBMTZhclg2UzBfZ0Yyb2dhSzhiM1ZyQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 508,
+    "dup_title": 240,
+    "too_old": 197,
+    "gate1_blocked": 32,
+    "gate2_blocked": 28,
+    "passed": 11,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Asia Cement Corporation (1102.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+      "Asia Cement (China) Holdings Corp (4OJ.MU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen - https:/"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Vulcan相關動態：「Does Soft Third Quarter Earnings Change The Bull Case For...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Does Soft Third Quarter Earnings Change The Bull Case For Vulcan Materials (V...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Investors Are Searching for Hope in Home Builders - WSJ（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
