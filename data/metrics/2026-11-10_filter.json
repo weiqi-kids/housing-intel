@@ -1,0 +1,16 @@
+{
+  "total_raw": 508,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 196,
+  "gate1_fail": 33,
+  "gate2_fail": 27,
+  "passed": 43,
+  "gate2_samples": [
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement Corporation (1102.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance Australia",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen - https:/"
+  ]
+}

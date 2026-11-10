@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:45:06.849484Z",
+  "updated_at": "2026-11-10T16:03:16.271538Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "新日鐵",
       "ticker": "5401.T",
       "currency": "JPY",
-      "ar": 1830920000000,
-      "ar_prev": 1768226000000,
-      "ar_qoq": "+4%",
+      "ar": 1826351000000,
+      "ar_prev": 1830920000000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 2915392000000,
-      "inv_prev": 2776012000000,
-      "inv_qoq": "+5%",
+      "inventory": 2948162000000,
+      "inv_prev": 2915392000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "nvr",
