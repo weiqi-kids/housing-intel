@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 36,
+  "gate2_fail": 26,
+  "passed": 33,
+  "gate2_samples": [
+    "Florida is growing. Its water infrastructure needs to grow with it.",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement Co.,Ltd. (183190.KS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Florida is growing. Its water infrastructure needs to grow with it."
+  ]
+}

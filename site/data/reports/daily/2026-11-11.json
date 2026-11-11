@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:50:28.921355Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daiwa_house-2026-11-11-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Daiwa House Industry : Record H1 results drove higher full-year guidance despite softer overseas expectations - TradingView",
+      "companies": [
+        "daiwa_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPSG5hWFE4MGxaT2puMUJXaHhNMF9WNWhUVnU4QXFpRVU3ejR6Y01sSUVJRlpHd3JKSXNRNUtlT3lWUGc0VW5LeHhibGRUQWFsTWRJSE43YlkxU19veGdZMmROX2Z6bmFILVBlLWljaTgxcEROUklia2dEVENYQk85RE9OdTd3eDYtRTVpVXdscF93ekNPd09NZTd0Z09ETmNfR2RSTnIyUnlvSW5jb2lzT1JZTlpSSU9CSmFnSmVsTUxqd0x5ZW5vQ1hieW9PdUtuY2xrcC1Xa2Z5MWlaUHU3OTJGRUVtb3lLZHVnTHJRc1diTnQtZzJVTDlLRkQyckl6UE1sTjB6U2tqRGtfQnZPeXZwSlJqZTVCdGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-11-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Asia Cement posts NT$2.86 EPS for first three quarters; Far Ding Leasing swapped for Far Eastern International Leasing shares, with NT$1.7 million disposal gain recognized - BigGo Finance",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzcUxUM2JjVUdvenNvYXROQXZOaDlobDJvdnZRY2ZrbzlsSW4tSXNjR3B0VnpZLTZaMVpzdk5YRXE1UERzRmZaNHdxQkJLclJjN1Jka2c1NEpNTTFuZEZRSHJHQ2RrRWwzVFFma1VlakxYLUFrQ3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "taiwan_glass-2026-11-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan Glass Notches Third Straight Limit-Up to Lock at NT$76.70 as Glass Fiber Cloth Stocks Rally on Strong October Revenue - BigGo Finance",
+      "companies": [
+        "taiwan_glass"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04ZHE2bVJ1VlZycXJpRVgzMEhLSklSbUxuNVNieGcxOWt1Q3ZiNUdxTVBtSVdwMF85VEhodUNKc0doMEZpc2tGekl1NEppMXdXZGZlNDhHV3MtSC1kMU5aTjFNMWVrellKTk9DUlJReEIxZmpGVVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TAIEX posts sixth-largest closing gain to reclaim 44,000 points - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4OFc2WC1WOFFIQXlhUERraXM2U2NBclhJVk0wbVNtWmdPbzAxMnpzVm0yMEI3T2pxcWVENmQ4V290RDJpX0pYRVo1NlNoMUFIckNmLTRvVC0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Public sounds off on U.S. Steel’s proposed hot strip mill in Braddock - The Allegheny Front",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1RRblpvWElRTS0yLXdJaHJvMWZScUVqTjNWbW1IM2JDeVd3TXRQZUNuYVE5MTVfeGVzN0M2ajF0aHlwMWw1cmdOMzVTTUt6MWd4WGF6a2lYQ1BOZFU1REQwdnc3c0treEJpRnhxWEtUR0pfRi1qSnZLcHJnS0hOMHdMeXlibmhmbDNHd29jNjVSdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lennar",
+        "count": 3
+      },
+      {
+        "id": "daiwa_house",
+        "count": 3
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "taiwan_glass",
+        "count": 1
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 506,
+    "dup_title": 217,
+    "too_old": 194,
+    "gate1_blocked": 36,
+    "gate2_blocked": 26,
+    "passed": 33,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Florida is growing. Its water infrastructure needs to grow with it.",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement Co.,Ltd. (183190.KS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Florida is growing. Its water infrastructure needs to grow with it."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Lennar、Daiwa House Industry、Asia Cement相關動態：「Daiwa House Industry : Record H1 results drove higher ful...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Daiwa House Industry : Record H1 results drove higher full-year guidance desp...（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan's Asia Cement posts NT$2.86 EPS for first three quarters; Far Ding Lea...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

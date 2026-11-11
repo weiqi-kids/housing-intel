@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:03:16.271538Z",
+  "updated_at": "2026-11-11T15:50:22.858849Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "華固",
       "ticker": "2548.TW",
       "currency": "TWD",
-      "ar": 180287000,
-      "ar_prev": 185830000,
-      "ar_qoq": "-3%",
+      "ar": 207306000,
+      "ar_prev": 180287000,
+      "ar_qoq": "+15%",
       "ar_period": "QoQ",
-      "inventory": 41855439000,
-      "inv_prev": 38388611000,
-      "inv_qoq": "+9%",
+      "inventory": 44706033000,
+      "inv_prev": 41855439000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "huang_hsiang",
@@ -415,17 +415,17 @@
       "name": "東鋼",
       "ticker": "2006.TW",
       "currency": "TWD",
-      "ar": 3056743000,
-      "ar_prev": 3122264000,
+      "ar": 3007257000,
+      "ar_prev": 3056743000,
       "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 15493107000,
-      "inv_prev": 14833244000,
-      "inv_qoq": "+4%",
+      "inventory": 16497730000,
+      "inv_prev": 15493107000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "vulcan_materials",
