@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:50:22.858849Z",
+  "updated_at": "2026-11-12T16:32:36.885083Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -381,17 +381,17 @@
       "name": "台玻",
       "ticker": "1802.TW",
       "currency": "TWD",
-      "ar": 9466806000,
-      "ar_prev": 7636883000,
-      "ar_qoq": "+24%",
+      "ar": 11966081000,
+      "ar_prev": 9466806000,
+      "ar_qoq": "+26%",
       "ar_period": "QoQ",
-      "inventory": 11169100000,
-      "inv_prev": 11312931000,
-      "inv_qoq": "-1%",
+      "inventory": 10961903000,
+      "inv_prev": 11169100000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "toll_brothers",
