@@ -1,0 +1,16 @@
+{
+  "total_raw": 506,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 34,
+  "gate2_fail": 19,
+  "passed": 14,
+  "gate2_samples": [
+    "Solving Florida’s Water Challenge",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement (China) Holdings Corp (4OJ.SG) stock price, news, quote and history - Yahoo Finance UK",
+    "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK",
+    "Nippon Steel Corporation (5401.T) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}

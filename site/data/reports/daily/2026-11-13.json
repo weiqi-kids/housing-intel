@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:54:21.388423Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TAIEX retreats Thursday as investors take profits after recent recovery - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yYlZMeWdCOEo1WGJRZzM2VTZSaDd2Y0RHMTg1RTV3UnpoTXdlZlNzVFFDV09TTUdraS1tT0pod18tVDQ4QXhNcTJRSjlRYXhFUWcxNEFDMlg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan_materials-2026-11-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials xStock: Funding, Investors, Team and Key Events - CryptoRank",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOUEZJMHBkUDg5N2ZwUmJqT0hlempUV3dycV91V2IyV2lrZ0NBQWhYQmpIU19VQ1pERUF2aTJ4bVlXRndST0NIbG1iNmU0TjhaVlZIemJiMlVhamtyTW11NQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-11-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain shares fall 1% and run into their €76.34 resistance - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWxQUWdrTXcxZTJReWh1SmIyRzU4OVh4UGVrOW5TUlhsQldjS200WnhmM1ljRGhycWlVWXJRdVdXVWE0OEJDRUhpdTBfZnhDZzFzRmJWQWZnbGlKa1BIWXQ0OGQ4WEhZd3FfZ1dFX0JzU1ZYRmdDbUxPTUxKNkhPQlhLdndKcXZNSGlnazVpb0dKZ3BrcjJpd1MxOFhyc05xVmFMenU4ejlsV2VjQUFYTmp3U0xUMU9yYkpvdExLZG95UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-11-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analyst ratings: changes for Saint-Gobain, BNP Paribas, Sanofi... - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZW9LbjlsaDVXeVhXUHJ6c1Fqd3U3ZmdvX2lkS1NKRmFhVm9rLW5FN0lMVzQ2blN3b0NmeGtNOGlLNE95VXg2RExXSm1tS2FEdXY3MV8tNVhYd2lxZ2hkLUJCNTBJNzlrZE9yRzdjenBKZ3VMeEFvTDlvb0FkUVJsclpIaUE2YXctNGVIWU8xS2IwaGs0X09HanNVWFplSV9oNVdSWC1wYUktNjhieTJvTEhWZnZqVExGYkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "daiwa_house-2026-11-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Daiwa House Industry (TSE:1925) Lifts Outlook And Dividends On A Valuation That Still Looks Cheap - Simply Wall St",
+      "companies": [
+        "daiwa_house"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQV2NVSWVKT0RVRXFaUHlHcWJWYWQ3S2R2TS1adFF3ckZBdHBxUkFMUzIwYTVhVC12cGZjLXR0enpraDFLVXd3bi16MWxFQXhxV0YtaXpaUzhNYUxaNmFYdGE3TjJ3MlBDZU1GQnFLTGdkNm85bVdJeVRiOFVUZmdSRHk0XzZnazY2STZRbERLcFdDY3ZmZGliNUk3ZUNWaHBrNy1jXzF6cGZURzVKNi1UMU9OYWxBU3JXOC1hZXZtbU1fR0ExdHkxdFpOVG9TaVRaaGNHMlQwSnFHU3lGNnpYQm5NYzBiQUs5WHVYV0wxdE5OOHRfSWRWbXVKNGVJZDRwNHfSAYcCQVVfeXFMTnZoX0JXS0t2SzZBYllvU1FvT1FxaDRKQkRfb3VDRFpjZFd1cUMtVHVfcGhSeV9QeGZFVGlGVnhObjhSaGhaUTV1MHhINERkSEVrV1hTYXd4M3hTdFBHa01rRDJpTW5WU1F1VnlsclJwakI4aExhUHM5LXBZcFpMZHNKcjVyWTBYYTVoYXFPR1hhX2tCc3dJaHhZNmtkcEt2ckxWTXFjNjlKRUpxdlVnQXExVzZpWGxhS2pFTGpRMzlYQUM2VlhtdXpHWEhsSml0a1pkaE1BNV8tT3FDNm1EQlVuQ1ZhNF9UUGxIMV9mV1ZVa0VLaVRCN3B5YUZQX0tpdlZ4TlN2TW8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 1
+      },
+      {
+        "id": "daiwa_house",
+        "count": 1
+      },
+      {
+        "id": "sekisui_house",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 506,
+    "dup_title": 242,
+    "too_old": 197,
+    "gate1_blocked": 34,
+    "gate2_blocked": 19,
+    "passed": 14,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Solving Florida’s Water Challenge",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement (China) Holdings Corp (4OJ.SG) stock price, news, quote and history - Yahoo Finance UK",
+      "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Nippon Steel Corporation (5401.T) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為聖戈班、Vulcan、Daiwa House Industry相關動態：「TAIEX retreats Thursday as investors take profits after r...」。主要關注主題為財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TAIEX retreats Thursday as investors take profits after recent recovery - Tai...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials xStock: Funding, Investors, Team and Key Events - CryptoRank（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
