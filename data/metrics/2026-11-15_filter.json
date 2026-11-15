@@ -1,0 +1,16 @@
+{
+  "total_raw": 510,
+  "dup_title": 247,
+  "no_date": 0,
+  "too_old": 211,
+  "gate1_fail": 32,
+  "gate2_fail": 17,
+  "passed": 3,
+  "gate2_samples": [
+    "Solving Florida’s Water Challenge",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+    "Asia Cement (China) Holdings Corp (4OJ.SG) stock price, news, quote and history - Yahoo Finance UK",
+    "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
