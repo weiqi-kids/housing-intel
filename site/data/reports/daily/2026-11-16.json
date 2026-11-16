@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:53:19.586554Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-11-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASIA CEMENT: Higher investment income lifted 9M net income despite weaker cement operations - TradingView",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzRwR0RtVVBweE1BbDFUVWlQQ2c0QzJrS1R3cXNfU0JLR1pRU0tGVGtHaHcycU85Zmo5dklxS0VNNnl0RVhjZFFaMDNtNnBlWDFvbXJkeUlsTlNsT0tnOFBBYmw0cFNPbjBhbl9DRldMRlR5dFZuUnVhZEtibElmOWRMNkVhRlNicG9qV1U1ZnBZbEY2ODBhc1VtaHVxZXVLNnY5bWNCQTJXNmo4bVVGOUFPWGZpQTVlcHFWZVZQWTVSUzNOc2Rtajk1ZWxMM3RvdFhpcTNsYTFMaW9Gbk1Hb19WdFFqSFVZS21sb0pzRHlrYVo3Wl9DQ2k4Uy1jRGpSQ1hV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam - Nikkei Asia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQW5wM0dLc1hyNW82NFVRTGxxS25iZ3l4bnhkM0loWEVLQlJBTFE3aFpad0Z1bXF6M1Mxck1lcEVqMnVMcndWOXJLRGl0cGhJUFpSdmRWbnNfc3J6WGdBcEdLRjhzUEpHMmQwak5Ia3FuZkhUcDQzODlsUHVlaUpyYUhZeV8tWmR3V0Z0Um1VQ2xyb19aOTU1eXpCVFJudjRBOS1J?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-11-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart appoints Caterpillar CEO Joe Creed to its board of directors - Fashion United",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "reit_yield",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQU5YNmFwTmJ4VzZGNGJHYUJUVDh2SXNGQzVUV21zUC12TUlpc3BWajNoT29iUDhjWTJNNFRzaTFTRjlNTkFKUFd4UzVjZnpiSW5CNkpYbHNwVXJVR0pucjI2alVOYzZCdnFGT1psUGZqRHVzU29nZjB1TXlsMG5YRXVzc29rRjNDcGgxUzg3ZUotM0k3bXBvQ1lRN3U5bkNhdGhNMDBOR2tyWjcxREItSUZQYzdRNzNUeEVwTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-11-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EBay, Amazon, Caterpillar and More on CNBC’s ‘Final Trades’ - Benzinga",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclBKZlljLW5sWm0tMUhtMVJJNGw5c01VTU9fNS1RNkNPNzliY2c3ZWozWXg3S2ppbDhaeE1lUGJSRTVDbnBEd0ZHMUVRY3Ztdk1feVpDY2VVaDBvRXpnUjRJVG1MYjBSYmZUWkdZaFE3V0YwN0daN05lRXpkeV94THdGNDdxeXRFUFl0SjNNQUVfeVpXLWEyNHRTQ2hRTi1GVXByZkhQS2lMenh6dlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-11-16-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Gets Swept Up in a $4.2 Trillion Market Rout - TradingView",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1J0LWloWkNoSkZRaUpQVGN3dlBRZnFrcUVhX0dwUjZ3Zk0zS3VqVFpTMnJsQUNGN2hnakRFX0tsaXBBRVNYQ2phTEhXNExkcEgtTC03WWRRRFFSUUxyY1JfVmMyOUkzR1dkUE5pcmVuVG1LUmtpdjUyNjg0UGRvaC11MGthTGJfVU5fNzFBal9laFBqN1AwU2RwbjNDeHl6MzNtNkQ2SEFfTVlLWm5DYXkzck9uUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "reit_yield": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "housing_starts": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 9
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "reit_yield",
+        "count": 1
+      },
+      {
+        "id": "housing_starts",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 506,
+    "dup_title": 220,
+    "too_old": 212,
+    "gate1_blocked": 35,
+    "gate2_blocked": 18,
+    "passed": 21,
+    "pass_rate": "7.3%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Solving Florida’s Water Challenge",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Stock Price, News, Quote & History - Yahoo! Finan",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CAT、聖戈班、Asia Cement相關動態：「ASIA CEMENT: Higher investment income lifted 9M net incom...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ASIA CEMENT: Higher investment income lifted 9M net income despite weaker cem...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam - Nikkei ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

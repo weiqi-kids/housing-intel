@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "total_events": 18,
+  "by_company": {
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "caterpillar": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": -0.04
+    },
+    "reit_yield": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "housing_starts": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
