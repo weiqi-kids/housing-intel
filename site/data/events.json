@@ -1,5 +1,460 @@
 [
   {
+    "id": "taiwan_glass-2026-11-17-001",
+    "date": "2026-11-17",
+    "companies": [
+      "taiwan_glass"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Taiwan Glass Ind falls 9.92% in Tuesday's session - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVWWDltZ0RYczNYRE9admtMSC00QVRDcjd4MDU5dUUzUlZVYmhOY2pMRTdUeVV1ZlZHc3hyY1VDakhOYWRBNDUtb2xPTFNzZmFUakt3eUxRbDlRcXNhTXQxWXU4M0FXaFVueUUyOW",
+    "sources": [
+      {
+        "name": "taiwan_glass",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjVWWDltZ0RYczNYRE9admtMSC00QVRDcjd4MDU5dUUzUlZVYmhOY2pMRTdUeVV1ZlZHc3hyY1VDakhOYWRBNDUtb2xPTFNzZmFUakt3eUxRbDlRcXNhTXQxWXU4M0FXaFVueUUyOWtJWmV2MVNZZG9ZdVlUZW95WndWVUNRd0dMUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tung_ho_steel-2026-11-17-002",
+    "date": "2026-11-17",
+    "companies": [
+      "tung_ho_steel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Taiwan’s Tung Ho Steel raises H-beam base prices by NT$500 per ton for mid-November - Yieh Corp.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbl9hRHM5eDktZTlBcHY3MldJcE5tYmtuU0RISnNuWWs4anNBSEVkMTJnbmFlOFNRUmZyRG5Xbl9yRXhDX3ZfbGU0a1Y1SVM1aVlDcUstNkhqMHUwSGxXZ1VPejhWNDlWQWJVUE9TcH",
+    "sources": [
+      {
+        "name": "tung_ho_steel",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbl9hRHM5eDktZTlBcHY3MldJcE5tYmtuU0RISnNuWWs4anNBSEVkMTJnbmFlOFNRUmZyRG5Xbl9yRXhDX3ZfbGU0a1Y1SVM1aVlDcUstNkhqMHUwSGxXZ1VPejhWNDlWQWJVUE9TcHZaZFgzdHZHMHJKbzFyUF9TTG52WXJRZ0FFNVB4aExlZXBfYlE5U1FzUzhCX2E4cmpaSjdNNkNBNTdOc3J1U1pQVGpLYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-11-17-003",
+    "date": "2026-11-17",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Arcelormittal Nippon Steel India Exec Says Need Incentives To Maximise Iron Ore Production - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ2VoMjZZOUIwLXJ6bDJhVDFab0RuYm5zWFlydGNEdWZncUNHcElZWjhReVNiczV2R2xDLVhITVJwRmhCU2xsTVYwbnhJdGMtelhXREpSXzZyd2NJWkhWTW4wcURzdlRkMGdOTHlJVG",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ2VoMjZZOUIwLXJ6bDJhVDFab0RuYm5zWFlydGNEdWZncUNHcElZWjhReVNiczV2R2xDLVhITVJwRmhCU2xsTVYwbnhJdGMtelhXREpSXzZyd2NJWkhWTW4wcURzdlRkMGdOTHlJVG1idWQxVlJnTU1JT0t5b210eGNNUk9SWWI5NmwxUGtlOE1MZ0tRcGd2MjNLN0tFNUlHdG40cVlPWHVuUDFWbG1rS1ktZ18xOGN4aUlCMTUzbzNndmJHeEpxNFR4ak4tYnN3c0p3RndnTnlySWU0b2F3S3VZdGN2SHlBc1hYeC1CWm14UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-11-17-004",
+    "date": "2026-11-17",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 13 November - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXB0ckVZMTZoLXdLTGlVWkFoOGZiZ0lKNldzak1hY0dNOWU5bzQ2WERBYVMtNDlNX1pGaV9xdldNaGF2OXl6WThDdkxJRTNwV1o2WHhMeTF4MDZPdUdNTEdlV0RucTFEVTdLOXlNT2",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXB0ckVZMTZoLXdLTGlVWkFoOGZiZ0lKNldzak1hY0dNOWU5bzQ2WERBYVMtNDlNX1pGaV9xdldNaGF2OXl6WThDdkxJRTNwV1o2WHhMeTF4MDZPdUdNTEdlV0RucTFEVTdLOXlNT2RBRDhiNU1fRFZfS1dldzJGWVdrc0tnUG4taVNnYVNjRWFVSUVBYWFzTFVVNy1PazNVYk1GelFBeUR5MVlKaFdJR3o0WlZ1aHZ1SjdSOFVRTzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan_materials-2026-11-17-005",
+    "date": "2026-11-17",
+    "companies": [
+      "vulcan_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Director J. Thomas Hill gifts 4,539 shares of Vulcan Materials (VMC) on November 13. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3pkMnlVT3otMWJVZjkwUzNwNkMteGRlSGR3bzVfaFJjSGpScS1aRGYxdWdYUmlCRFNhNVA5SkNQVzhOejFPMzhGamFLTjl2VGpOZmd1Z1o4dVo5M0dld19hNmt4eElOSGdhQjVNSD",
+    "sources": [
+      {
+        "name": "vulcan_materials",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3pkMnlVT3otMWJVZjkwUzNwNkMteGRlSGR3bzVfaFJjSGpScS1aRGYxdWdYUmlCRFNhNVA5SkNQVzhOejFPMzhGamFLTjl2VGpOZmd1Z1o4dVo5M0dld19hNmt4eElOSGdhQjVNSDgyS01DWlVaUm5UTlBINzhiSGlMUzAwbHNjYXh2dkV6SUVGOGp4Vm1UNDN1Rlltay00dDNwQmZpOURRRTFPT0RidG5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-17-006",
+    "date": "2026-11-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Michael Burry boosts Adobe stake, exits Oracle, Caterpillar puts (ADBE:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEp5WDJWX0NCRHNpU1pqZVBzX2RpUmwxNTd0RzlkeGpFZ2dJMGZtWmFPb05xVmdYWE82UHV1bXRzYXhqUHpFUjFRZ1dPUDhBM0txUngwZHY0MFVPaGQxcDFtTmNNckhqYVZXY2I5QU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEp5WDJWX0NCRHNpU1pqZVBzX2RpUmwxNTd0RzlkeGpFZ2dJMGZtWmFPb05xVmdYWE82UHV1bXRzYXhqUHpFUjFRZ1dPUDhBM0txUngwZHY0MFVPaGQxcDFtTmNNckhqYVZXY2I5QUNpTV9uS1E4NE4tX0RPbXJpaUJtZlk2b2NrbHVfbEdLYUJGYkJkbEtnVUttSWZsWEtnYmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-17-007",
+    "date": "2026-11-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart adds Caterpillar CEO to its board - Talk Business & Politics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOek5KQzJIZDhVLVpXdmRtTzQ1R1lSeTRVU19id0REZlkxbTRPWF9JNWlXbmxUQXVJUkY1ZGE5LW40b015R29xRzZiLTZLZGNoUFpGSDNfZEVUekRBZ1pOZVJERnlPa0thcExfWjg4VF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOek5KQzJIZDhVLVpXdmRtTzQ1R1lSeTRVU19id0REZlkxbTRPWF9JNWlXbmxUQXVJUkY1ZGE5LW40b015R29xRzZiLTZLZGNoUFpGSDNfZEVUekRBZ1pOZVJERnlPa0thcExfWjg4VFNiUkREbkdPcnhkTFRTbW1SLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-17-008",
+    "date": "2026-11-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Michael Burry Just Closed the Last of His Caterpillar Puts. The Stock Is Down 46% From Its June High - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTZ1aElnamppUzFTYmEtQnVuYkFsRXhvUmJCZzVKaGc5MTRnNlByUHB1ckw1TllqZGViVHZCNUR5OHRnWkN4MVdMam9iOW8yX1ltVzVUV1V1ZFBqQ2dOWVotWlVRRERQTFJhbHlfQn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTZ1aElnamppUzFTYmEtQnVuYkFsRXhvUmJCZzVKaGc5MTRnNlByUHB1ckw1TllqZGViVHZCNUR5OHRnWkN4MVdMam9iOW8yX1ltVzVUV1V1ZFBqQ2dOWVotWlVRRERQTFJhbHlfQnd2V1dFOVVuUlVJT2s1X1VtOXpXR3ZPRGEzUTBmeW1wblhiVnpEZW9aZmctUXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-17-009",
+    "date": "2026-11-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar to make collision safety technology standard - International Rental News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHd3b2paSW1RX2pqVVlxcmdrMGxjcnR4OTdwSzVBem10amV4U1RCd05YV01MaWRJN0FxWTZvNlNRa0h2RTVUYmlTWUg2YTdPenVNWGdadTIwNjhrck5LN0VwTU1Jb2hVUFM3LUNPaj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHd3b2paSW1RX2pqVVlxcmdrMGxjcnR4OTdwSzVBem10amV4U1RCd05YV01MaWRJN0FxWTZvNlNRa0h2RTVUYmlTWUg2YTdPenVNWGdadTIwNjhrck5LN0VwTU1Jb2hVUFM3LUNPajNZMTNnUHpXQlBENGRKaHB4ZFNnejA3TkpobmRVVUxZYTdWbHlwWm9NdEw1bUNsaUJCQ3FXRTcwQ0J4cEVBb0FIeXN2Y0RhNFNl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-17-010",
+    "date": "2026-11-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Enhances Safety Standards: “Keeping Employees Safe on Busy Jobsites is a Priority” - Construction Outlook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVm1LbGZrSWdHQURrbTE0dzFTNXNkWXdDelpqMlgxTkJpczNiWHBvSlBSc3FtQ0Z2bGFyX3R5MlBDbHJ2eXBKYUJHRXI4a1hYNWVXRnZmUU5uQkp2OU5zNHpCS1JZRGhhVk1CR0JlTV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVm1LbGZrSWdHQURrbTE0dzFTNXNkWXdDelpqMlgxTkJpczNiWHBvSlBSc3FtQ0Z2bGFyX3R5MlBDbHJ2eXBKYUJHRXI4a1hYNWVXRnZmUU5uQkp2OU5zNHpCS1JZRGhhVk1CR0JlTVZwT3p1eTN0WUEyRHhHQmk1bEZ5Zl9Zd0d4LUxuWjlmUmZ4NElzOE9yYWw3V3NPUzVZRDIwYkNrc1E5QzFHdlhaRVpXYlRlY21wLVEzbl9JcHRQN0FDMVNrWHdJaVhCcmlEV2JxcUlZOXJnVVVUOGxPNF9QcmU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-11-17-011",
+    "date": "2026-11-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NH residents say they still feel effects decade after Saint-Gobain PFAS contamination discovery - WMUR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNENnejFPUG5fUjI0NEpDSXZaeV85NWh3d0dWakpDLTRSam52dkczRnZMSW9yT1FaQ0lNUnJUcy1tZHZNSzVJUXhZQkFiVHJSblRmX2sxTGxsdTJvOEJDOGdTeThSbnZjQ3pieWRISE",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNENnejFPUG5fUjI0NEpDSXZaeV85NWh3d0dWakpDLTRSam52dkczRnZMSW9yT1FaQ0lNUnJUcy1tZHZNSzVJUXhZQkFiVHJSblRmX2sxTGxsdTJvOEJDOGdTeThSbnZjQ3pieWRISE1kOWQ5aDNwQ1QxYWdweHdkZUtuWkNscG9wU2Jsc1dKTjRURWJ5UTJzN3E0WnE4WGg3Vl9GOEZTSFZ0VFRsTTRsSlNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-11-17-012",
+    "date": "2026-11-17",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain signs agreement to sell PAM Latin America, with €170M in revenue, to SNA - Idéal Investisseur",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSFZhdmQ0MjVoZ0xnaGN3ZnFJUjMzbzRqSXBoOGpVRUFmUkJxcG1GcnZ0WDRrZXJpUVY4a2pmTzNBME53ZTRTUGwtUS1SMWtxQmFGWUREU3kzazJDN1pscjMwc0czUWkzQ1ZJRW15Zi",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSFZhdmQ0MjVoZ0xnaGN3ZnFJUjMzbzRqSXBoOGpVRUFmUkJxcG1GcnZ0WDRrZXJpUVY4a2pmTzNBME53ZTRTUGwtUS1SMWtxQmFGWUREU3kzazJDN1pscjMwc0czUWkzQ1ZJRW15Zi1QUzV6aWd2cVBxTTR5T3Yydmcwa0d1NU5MRnhGb244SWJJU0gtYnRzMUJSU1RLTFlqTGE3ZUJaQW0xRm5ORjhtUzFzTGk4Y3YyMEtpWE1QbUJuZFZuMnJuRkM3aWZ5TVN3eUZOUkwyVUdjRl9S?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-11-17-013",
+    "date": "2026-11-17",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Can Lennar Stock Jump 40%? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnVhVTlFRkRZTjEzcXBxQ1lDVTZfVHJHbDdIX3hHRUdVbXNKWm1qcl9DbFBGRmFZVXlfOFdTM2tTSEtLaVB6YllOczRIU1p0XzlESjFySUNiLXlWWjJEMVJKVUVPVENlUGdHbjVMRm",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnVhVTlFRkRZTjEzcXBxQ1lDVTZfVHJHbDdIX3hHRUdVbXNKWm1qcl9DbFBGRmFZVXlfOFdTM2tTSEtLaVB6YllOczRIU1p0XzlESjFySUNiLXlWWjJEMVJKVUVPVENlUGdHbjVMRmxaN0lSdFN4QWx0SWltSTFSRWREbVBnRkJGdTNhcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-11-17-014",
+    "date": "2026-11-17",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Berkshire Hathaway Nearly Doubles Lennar Stake as Greg Abel Expands U.S. Housing Investments - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDZYd3dqemZ3ME5ra0F0aEtYbnVWZWphRHEyaTRFZWZMYU9jV1U0bnpjTjMxcmJDYUpDc2RsaWR1SWp6TFhkdHlBYS1xeE9xbmlSYUkzeTdFMUJxMnBEOHY2c3NnZWwtdE1CR25zcE",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDZYd3dqemZ3ME5ra0F0aEtYbnVWZWphRHEyaTRFZWZMYU9jV1U0bnpjTjMxcmJDYUpDc2RsaWR1SWp6TFhkdHlBYS1xeE9xbmlSYUkzeTdFMUJxMnBEOHY2c3NnZWwtdE1CR25zcEc3dFhZbmpPRTNmUWxKTzBjc1hoSWJ4ZzF4a2hFM3VnRGg3SDV4X2Z5Y0NYdHdncjA4M3RxWkZwdUVLTUk0eUtMUWtGSFhOc1lseEFzUXNKcDZXOVI2b0ktQkJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-11-17-015",
+    "date": "2026-11-17",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Greg Abel's $2B bet on Lennar faces challenges as homebuilder struggles with declining margins and sales. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnRxdl9FdTE5TkNPbWl5em5ncWhRcGRYd2F0bi1FQlZQWXQtc2g0bktUbTFYa2lNcmhuMmZtZkZHQ1B0Tm5aNlVlM0kya0VyVnNzYVJULVdxVU1BbHdMUHZ3ODAzMlBRWHFwTlRObX",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnRxdl9FdTE5TkNPbWl5em5ncWhRcGRYd2F0bi1FQlZQWXQtc2g0bktUbTFYa2lNcmhuMmZtZkZHQ1B0Tm5aNlVlM0kya0VyVnNzYVJULVdxVU1BbHdMUHZ3ODAzMlBRWHFwTlRObXd2VHJXVDloOURLRWdNcG9GWFBNeEEwalZ0TXYxRmM0aGtzeTBIeFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-11-17-016",
+    "date": "2026-11-17",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "PulteGroup Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDFYaVVHV3o4TnNWZTNXQ3NvcFg5VWQ1M2dlRmJXNDY5bVVreGV4QWNWc0VoU0RiRENZTzFIcGNuai1HeHFNN0xiS0hhNVJwcFo2c2JUa2lCZm1lekw3M042N1BxTkpGSXRna3RxVk",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDFYaVVHV3o4TnNWZTNXQ3NvcFg5VWQ1M2dlRmJXNDY5bVVreGV4QWNWc0VoU0RiRENZTzFIcGNuai1HeHFNN0xiS0hhNVJwcFo2c2JUa2lCZm1lekw3M042N1BxTkpGSXRna3RxVkxfeFNxNW9Rd0JrRTl2YUI4b0ZYeHNDMk1vOFA1ZmtxYnpXMTFLNkZMZUtaREJuQ1FPNTBBNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "pultegroup-2026-11-17-017",
+    "date": "2026-11-17",
+    "companies": [
+      "pultegroup"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Did PulteGroup's (NYSE:PHM) Aries Community Win a ULI Award? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMTB3N0tyS2k0VHktaF9fV2JCU0h5UmhjZkZSN0twcDNkVFlZVlRLU3JFQ3dycnMtUGJ0T3pWa3VVOFJNNU8zT3AwZWtnR2VkOW15aWpfOGFtYmZjZFVteC1vVUFXLXJsNGVqVHVhZn",
+    "sources": [
+      {
+        "name": "pultegroup",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMTB3N0tyS2k0VHktaF9fV2JCU0h5UmhjZkZSN0twcDNkVFlZVlRLU3JFQ3dycnMtUGJ0T3pWa3VVOFJNNU8zT3AwZWtnR2VkOW15aWpfOGFtYmZjZFVteC1vVUFXLXJsNGVqVHVhZnl3WUItM2VQSUphYm53M1l3dFoyTVI0ZU15MWkzTHE0UUpwWUp5cW84dzdFV1FSUE9ZbjNFRm9SZUdOdzVVV0VFVFctTllGdnFIOVRIc3hhX0dYRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-018",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IMBs lose $30 per loan in Q3 2026 as higher rates reverse historic trend",
+    "summary": "<p>MBA reports that production revenue fell to $11,585 per loan while expenses rose to $11,615</p>",
+    "sources": [
+      {
+        "name": "housingwire",
+        "url": "https://www.housingwire.com/articles/imbs-30-loan-loss-mba/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-019",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOREhTR1FVY1JMZW9BTDBLQWc5N2x3ckxvWllOV2V0cWFMdWNyeFMxM1RZMGJHWk93d3dFajBsZGgzTzA5ekZONzlDWm80cGtUR2JfMzY4Uko3QWU4SjM5NW1nUEh5Q1pFcGZQdWxtVG",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREhTR1FVY1JMZW9BTDBLQWc5N2x3ckxvWllOV2V0cWFMdWNyeFMxM1RZMGJHWk93d3dFajBsZGgzTzA5ekZONzlDWm80cGtUR2JfMzY4Uko3QWU4SjM5NW1nUEh5Q1pFcGZQdWxtVG5Jck05RkE1VlRmeUhFYVJGLXZDUmxQRWxXY0RwMVh6N3F4LXJ0b2lIVGZOblR6dmRkM05OellMOTloS1dnQnZnSnVNdHkwVE9Ia1HSAb8BQVVfeXFMTWNrNFZzejFUVE9GNVFGbTFVX2xyYmpCLWhsUmx2MmdLQU9PQ1NVblVjc2FDMzZYQVlhMEdXbS1EamRRWkZ3RmFXN29pRnBxNllaN1FzeTJ2c21ZekxHdzdESE9iSTVnUzhuWHRiUW1GbFYtRFh2SkFONDlDSWg4RWFhRUVta2tBeWtMYkRrVVpBS1NpeGs0Sk13Y0E5R2gtSk1PX1ltbFZzc1k3bG9ib05mWkRucWJpajQyMTlXVjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-020",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "neutral",
+    "title": "Homebuilder Confidence Hits New 14-Year Low as High Mortgage Rates and Inflation Take a Toll - Realtor.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlh4SHlPQmtVdEJ1TjgwZ0FDcmdVd21TNVVQa21XZWdZSW45Z0R3Sm5jV093RkoxZ2FIYkIteXpvdFR5MklTbXFXcXl6WnNJTGgtWFhRQk55N04tMlJiS3VqNldJd21LWWFsN1dOQU",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlh4SHlPQmtVdEJ1TjgwZ0FDcmdVd21TNVVQa21XZWdZSW45Z0R3Sm5jV093RkoxZ2FIYkIteXpvdFR5MklTbXFXcXl6WnNJTGgtWFhRQk55N04tMlJiS3VqNldJd21LWWFsN1dOQU5BMFB2Q01YOVBJcnJQUURwWDIzcklUSlBENGZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-021",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "mortgage_rates"
+    ],
+    "impact": "neutral",
+    "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxObU1aTTdQWGlnY0dIVXA3T1lrRmJKOEZsTldxTGZYdlR3VU11Y3JDTWFHMWxkVjk0c0VJWDhxNVA5OEpFOU45djF1SDFSa0prNmpDbHlkSGRhVVpRYzlSVzRzWU1yTy0zaTlyajFVRn",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObU1aTTdQWGlnY0dIVXA3T1lrRmJKOEZsTldxTGZYdlR3VU11Y3JDTWFHMWxkVjk0c0VJWDhxNVA5OEpFOU45djF1SDFSa0prNmpDbHlkSGRhVVpRYzlSVzRzWU1yTy0zaTlyajFVRndVTm5CZmJrMTQyY1FTUDcxMmJseVhkLTRWZGpHYkFxZDJFdXo2ZW82SGF1QTE2RHlCRjhXdUN1UlpKVFBVcS14a1VzSHZGejNzNWlMVDdPaDl4SEVLNVpBVzJ4TlpZNTRFb3ZUX1ZoRmtrVHJJcmZSRUxSSy1jaUdDTG01Yg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-022",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Homebuilder sentiment hits 14-year low amid poor affordability - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUZZQmFiMXRoQ2ZaY3lSaWVoakl2NWNJV3RXZ1BNM2FldGRRN2ZpOWJTcDBZNXdwdFNVbDYtQWZBWWNlbW5MQ1NTb3lETVhpTkg1V3dKcUJmM1d3U2UxaDE4dWVNUmJmLUxiQnVKQj",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUZZQmFiMXRoQ2ZaY3lSaWVoakl2NWNJV3RXZ1BNM2FldGRRN2ZpOWJTcDBZNXdwdFNVbDYtQWZBWWNlbW5MQ1NTb3lETVhpTkg1V3dKcUJmM1d3U2UxaDE4dWVNUmJmLUxiQnVKQjIxZUZoa1p6ZEw5bi1vYVN4N2xfaGkyRDhCWlZWUkhrOTRiT2U3MklOWTdDOVRPSzBHWDNmREl3VjFuSTJIRncwak5MTl96QlVzUWI4cGVpcTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-023",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US Homebuilder Confidence Falls to 14-Year Low as Nearly Half Cut Prices - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1FZFpfQzlZelVCRnpudnM1Y3NsaU9XWTVaVF94dFJUYlQ3VkVtVXBnWUg5MnFYRnZsZ3dleGVtaVVDd0QyVHhZbjh3aU1MTEdtVG9KZS1ZWHNDTmpydmRabGF3TDdNYl9nRFE3enIyTX",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FZFpfQzlZelVCRnpudnM1Y3NsaU9XWTVaVF94dFJUYlQ3VkVtVXBnWUg5MnFYRnZsZ3dleGVtaVVDd0QyVHhZbjh3aU1MTEdtVG9KZS1ZWHNDTmpydmRabGF3TDdNYl9nRFE3enIyTXowZVBqckE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-024",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US homebuilder confidence hits 14-year low as m... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWQ5bTMxdHBkVFpSVnM4b0tBVTNNQ2dPV2FWRkNXU1Atbng5MzdGWGNleVBZWmVXOWMxT21HZVZManl6bG1LMTlRU1M1Rlg2T09USks0Q0hLSnBxLUlRamhBaENka3Q4OHFaMGZMaz",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWQ5bTMxdHBkVFpSVnM4b0tBVTNNQ2dPV2FWRkNXU1Atbng5MzdGWGNleVBZWmVXOWMxT21HZVZManl6bG1LMTlRU1M1Rlg2T09USks0Q0hLSnBxLUlRamhBaENka3Q4OHFaMGZMazFRQ1NteFYyM3N0OEpXY1REbElsME1EcmplSmJySWhNdTlXVEZuVmxISkcwTUU0aHpqYm1rSmx5Z3FYNXg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "asia_cement-2026-11-16-001",
     "date": "2026-11-16",
     "companies": [
@@ -340,6 +795,372 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/scorching-hot-construction-input-prices-october/874729/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-11-16-019",
+    "date": "2026-11-16",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement's African Calcined Clay Technology Reaches Europe, Annual Capacity Seen at 1.5 Million Tons by Year-End - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ja283ZzU4WmV2a2VBZFFNOHBEb3gtUWNZSzdHbkg5SGE4XzV0eGdlWmZkOEUzRjdEU3pSb3FDMEZVazU1WjVBa1d5WkhXX3BlcEFrb2dsRzdKSUhlbzNtalk3ekJzeEpvRlpkR3lNWl",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ja283ZzU4WmV2a2VBZFFNOHBEb3gtUWNZSzdHbkg5SGE4XzV0eGdlWmZkOEUzRjdEU3pSb3FDMEZVazU1WjVBa1d5WkhXX3BlcEFrb2dsRzdKSUhlbzNtalk3ekJzeEpvRlpkR3lNWldnNG1PQ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-020",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYU",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-021",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17 - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OW",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OWdhOEU4d3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-022",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Has Changed In Caterpillar's Story? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGdOeGNDQ3I1YlBoRjBHY2ctcEVKckVwdTRLZzhYRGVtMzNUQzRqbTFtNEJaazlxR2JPb0xFQ1BHbFM4a1FEc0VsUkYyT1RhUVpzSnMySThEMUVGZmFOemdFUFFMVU0xbFU2Z0ZOaV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGdOeGNDQ3I1YlBoRjBHY2ctcEVKckVwdTRLZzhYRGVtMzNUQzRqbTFtNEJaazlxR2JPb0xFQ1BHbFM4a1FEc0VsUkYyT1RhUVpzSnMySThEMUVGZmFOemdFUFFMVU0xbFU2Z0ZOaVFFekktZVJEMnVpU1YxYUFPckY4VVdhVjhjU0RtUTNwb29PS3BOMUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-023",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart Adds Caterpillar CEO Joe Creed to Board of Directors - Progressive Grocer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOemh2QXByc3UwQkJWLXQzZzFIV2hBbl9GZGR0Nk9pTVdiX2d6LURiNmtRRWhRdk5keHpZOHh0Y0RPazVQNkZnT0VFa3ZldHNsWGxjNURBOUstTzhqcF81VGRPUzM3a0pQMk9vVERtMl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemh2QXByc3UwQkJWLXQzZzFIV2hBbl9GZGR0Nk9pTVdiX2d6LURiNmtRRWhRdk5keHpZOHh0Y0RPazVQNkZnT0VFa3ZldHNsWGxjNURBOUstTzhqcF81VGRPUzM3a0pQMk9vVERtMlRBTUcwSFY4VG1MMmRiRXVETTVESmdRdjFQeTZ4dg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-024",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Michael Burry Cashed In Caterpillar Puts After a Nearly 4x Gain Even as CAT Stock Fell 10% in Its Worst Week in 18 Months. Is Caterpillar Still Overvalued, or Did Burry Just Lock In the Easy Money? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQRzlMOWd6Y3BEaDZVeDkyWG9Jd2xuMlltLVFyRnJ1cVhsR2RDcjdSZ0FtRXNnZDloOEF3TlUyTWZpQVk0Q2xaXzBBUEhHN2l1VmVEZk1Ob0FPOE11MFMwc0E0LXpuR3VLYzY2dVBpcD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQRzlMOWd6Y3BEaDZVeDkyWG9Jd2xuMlltLVFyRnJ1cVhsR2RDcjdSZ0FtRXNnZDloOEF3TlUyTWZpQVk0Q2xaXzBBUEhHN2l1VmVEZk1Ob0FPOE11MFMwc0E0LXpuR3VLYzY2dVBpcDhnRW1iMHlLUkJ2elQxQkc1YmNQTlgtMVJ0RTZnTWZGUkIxd0x2LXhfbklHVnJEZm1taE9vVlJ3SEk4Q3lPRGlZYlRiTzI4bm5KNUxoQ3NGQ0tubmRsRUE4RjF4UGNUQzQ2bk5IdU1qTTZRY1B5UkN3X21qT2k5OHJhc0pyUU1ndUsyXzlOTDJ5QVhpWDRUVWdQZVFLRlBja2lCelV6Tl85aVlPajROUFAtSWpfM1l6N09ncVVIcnhKX1dZMF9oZFh0MDZIQXN0T3VlelNCUmV4ODcyTHdzZUM4el9hdjg4X3JodExGVVdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-025",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar makes advanced safety technology standard on construction equipment - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2JUdjFBNERic3lUMWtHajFRY0JBNlZFbHZQbHRxYzltMjdoYm50VjJ5Tjh5eFE3VWxTdTB3VGlvNWtwYmJjNU8xQlR5ODJWMTRRZl9ScnhxNVVVa0EyTWdFNjhwdjF5RG5mRm9maE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2JUdjFBNERic3lUMWtHajFRY0JBNlZFbHZQbHRxYzltMjdoYm50VjJ5Tjh5eFE3VWxTdTB3VGlvNWtwYmJjNU8xQlR5ODJWMTRRZl9ScnhxNVVVa0EyTWdFNjhwdjF5RG5mRm9maExjOXg2ODhlZjlCZGRwei0wQVRRUl9GZVlid0Z3QWFaMDdzSGNFX19nWGhOeGlLS2tVZEd6YmNlMUdEd0tfTkVEdUE4TDhUZUh6MHN0Qkd2aGU5YzFIS3dNVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-026",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart appoints Caterpillar CEO Joe Creed to Board of Directors - KNWA FOX24",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNREFfYy12WGhCYmVxb25FeVpGRnI2RnhVWW9nMjE1UWE1R2trb2JIcTZvZlhqdmpZZnFpNkg2aHpGaHdUblg3dDQwOVRuUEhVYTU5bkhMOTBUNm5RRkR2WmZLeUJDTE9taE5wU1paMV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNREFfYy12WGhCYmVxb25FeVpGRnI2RnhVWW9nMjE1UWE1R2trb2JIcTZvZlhqdmpZZnFpNkg2aHpGaHdUblg3dDQwOVRuUEhVYTU5bkhMOTBUNm5RRkR2WmZLeUJDTE9taE5wU1paMVBtSlZkNTNBSUxSWFVyZFVLVlVUYjVBbjhBVlZBckNZSVZiWXluMjRGVnJUSkRyWTdzZ0FSUlF2QkZoUGxoY3RGTdIBtgFBVV95cUxNU2g0VmJwZUV6QW9IdHFwbnpzYXFKQ2IxemQ5RGJjNS1mbGpBS3pHbzgzWXdIRkJUaG9ZdGNKZWRJU083VjQyaGdwR01sYk94Nl9xaUx1TVQwbFZiVl8wbVY0MGxuRmp2LThlY1paQkd1REZDaEZVNXZSeHhwdnlPTXlncXRMSjdiX3lrcmxhQkxET1ZwU3oyT1lOY2lLVFU4S3lwanFKV09GNjFnSU9tdzE1NzdDUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-11-16-027",
+    "date": "2026-11-16",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain Opens $250 Million-Plus Glass Mat Plant in North Carolina - Securities.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXVDUnlhMTVNdFk5T1ZpeXVFcWwwbDVMdW5kS2pPZnRCX0ZtY1NOdWFOY2NhZ0hKM3gxMzV4ODBxMll6Q2dFU0JGNE9lQ29GTDQ3LXhvRmFNUlg0R0NTZVduRHdOeGRGN1h0cVRUeG",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXVDUnlhMTVNdFk5T1ZpeXVFcWwwbDVMdW5kS2pPZnRCX0ZtY1NOdWFOY2NhZ0hKM3gxMzV4ODBxMll6Q2dFU0JGNE9lQ29GTDQ3LXhvRmFNUlg0R0NTZVduRHdOeGRGN1h0cVRUeG9JTHRmSmtPdnJTeUY1QmNKZDRDaTVCa2Z4OEg4UHJrcFU2dE1yX3RPazVJR08?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-11-16-028",
+    "date": "2026-11-16",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Saint-Gobain Begins Operations at State-of-the-Art Glass Mat Plant in Oxford, NC - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXdFZEl4a050VHpNZXJYd1hjaHFRXzF2a3pNdjhpYmJCM0wwdnpyTnY4cHVPMEtlMm94Y3IwQm91ZkNRTkZqc0lmZ2tPMEFIcEYwaV9fUUdkWThZR0toTVdxZDR1S3Zpbk50S2dOZ0",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLXdFZEl4a050VHpNZXJYd1hjaHFRXzF2a3pNdjhpYmJCM0wwdnpyTnY4cHVPMEtlMm94Y3IwQm91ZkNRTkZqc0lmZ2tPMEFIcEYwaV9fUUdkWThZR0toTVdxZDR1S3Zpbk50S2dOZ0paZHJHdnE5Y2RoRzRaVFRpN1JLMkhLVzQ5RGF1YlE4dWFLTFJBb2hVWXNXY1FCSl9uQ2hDNnlJSC0tcmxvckxVbFgtVVNpWV9fX0REUHZFeTQzVlRQQkxQRW44azlKc1RpZl9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lennar-2026-11-16-029",
+    "date": "2026-11-16",
+    "companies": [
+      "lennar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTMyWlBkeVVjYW5mWmZ0RFFmcE9KX1FJNnpxRDRnaEFpblpPS0FOQ1MyZE1hakZfRVhfTVZwX2owSUoxVGpvaUN1Q2xSUURBMWtJbzRySDRBLWZUTFMxOE5YMGVWYXd5b1hVMFpBd0",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTMyWlBkeVVjYW5mWmZ0RFFmcE9KX1FJNnpxRDRnaEFpblpPS0FOQ1MyZE1hakZfRVhfTVZwX2owSUoxVGpvaUN1Q2xSUURBMWtJbzRySDRBLWZUTFMxOE5YMGVWYXd5b1hVMFpBd09vcFRvdGtfZmREUXJjbEdoUDZLTTlBcHB6NVlHQTY2Q3ZTRXRuY3lxVFd5YjRqNnBMcHZNUnJLU0trM2h1NEltd3Zobw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-030",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Warren Buffett’s Berkshire Nearly Doubled Its Stake in One Homebuilder Last Quarter. It Now Owns 26 Million Shares - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUU5HY1NQWHB0M0Q2ZWpfczNSeEtXYm1GbWR6SXNmNWNiWHlZQ0toeENfSWZyOUlWblhhSkxONmNsZ2taZE9LeENaUm53TTFvcEZITDItV1JmR0o4QnZiYi1WQlhRdE1pSDREeVgyUl",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUU5HY1NQWHB0M0Q2ZWpfczNSeEtXYm1GbWR6SXNmNWNiWHlZQ0toeENfSWZyOUlWblhhSkxONmNsZ2taZE9LeENaUm53TTFvcEZITDItV1JmR0o4QnZiYi1WQlhRdE1pSDREeVgyUlJBNGh6cmx6YkNWdUR0Q2NPU25GSnJsX0dSZzZzYUlZN2JCVE53dHlIVlJ6ZVJnS3BlRXcxSlZIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-031",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Warren Buffett's Berkshire Nearly Doubled Its Stake in One Homebuilder Last Quarter. It Now Owns 26 Million Shares - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVzNfeU9wMjREcVRxelF6WWZEOWg5eF8xUEFoTWRDcXpocHFTbXQ3LVlEVEwwRUpZVHNXc3Mxc1J4SFlxdUY5eGtzb0x1WENDWmdQMlIzUGNBS094TTg5bUFKRXN5MGRDYVNQVmlEMF",
+    "sources": [
+      {
+        "name": "lennar",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVzNfeU9wMjREcVRxelF6WWZEOWg5eF8xUEFoTWRDcXpocHFTbXQ3LVlEVEwwRUpZVHNXc3Mxc1J4SFlxdUY5eGtzb0x1WENDWmdQMlIzUGNBS094TTg5bUFKRXN5MGRDYVNQVmlEMFdlcE9FM1JKRU4wa183ejVhSXZWR0dqeEYzMmhyQWFlMzZrR2NxNTAzeUFaSjFrSVhoU2txZnh5U0pKLVdyaExoNWoybTcyNjBOSEpKU3lXZ1ZXVy1OWFpUMmdIdFBjeUo3X01xUzJhbktKTHh0cUhVQnpHUjZRa1hDOF82Yg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-11-16-032",
+    "date": "2026-11-16",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Announces New Collection Now Open for Sale at Monterey at Lakewood Ranch in Florida - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMUxJM3FxaTBPS054bC1ZLUVFWjVLMVB0SU05NWE5TVNraDIyMGNmYTdsbVUxWXJwaDREeW9aRTFaX2I5NEhCdW1YVThOMF9XWm5lYVdQVGM4clJFRURrMnVYajNGNkxHNWtZNWxDS1",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMUxJM3FxaTBPS054bC1ZLUVFWjVLMVB0SU05NWE5TVNraDIyMGNmYTdsbVUxWXJwaDREeW9aRTFaX2I5NEhCdW1YVThOMF9XWm5lYVdQVGM4clJFRURrMnVYajNGNkxHNWtZNWxDS1ZNTTJIcGdodWhEcnVXblVCbmtEYkNySTQ4OV9MV0dvYllOSzk3bUVlQUp0YVQxZjZYVHRXeDlwM2ZXbUVOZVc5c3ROT1FYeWNHUWk5a1N2T1k4LTFUaEVraW5peWxaY2NHTHNYTGxmVHpZaTIwNzlCSWQxY2RfeG9rMW4yaVVSeGhublJWUGhsY0lRdlJPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-11-16-033",
+    "date": "2026-11-16",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers Opens Egret Collection at Monterey at Lakewood Ranch in Florida - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWFaWVRKY0J4bWVYNjVFSl9qYkxqeTlfWk8tTk1oS2lLUnB5N1ROU3U4RXZicFQ4UEc2OG1tcnVHQnBEVEZoSkNoclYyUS1PUVNESUFXbHdaYS1mUm5yUjBTRTJlNFE4WXlSV3FzSX",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWFaWVRKY0J4bWVYNjVFSl9qYkxqeTlfWk8tTk1oS2lLUnB5N1ROU3U4RXZicFQ4UEc2OG1tcnVHQnBEVEZoSkNoclYyUS1PUVNESUFXbHdaYS1mUm5yUjBTRTJlNFE4WXlSV3FzSXVfcUJtQmhuNVc2cnp6MWZmc1dnWkJPUF9VcmdKTmVVVURrZTRxaUp5TUNhem43V25pSG5fdlBET0gyb29XSnU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-11-16-034",
+    "date": "2026-11-16",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers launches luxury Egret Collection homes in Lakewood Ranch, Florida, starting at $1.3M. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1p6alVvT2JISVdkZmpXSk5kbndiTHljY2tYVmhKaDkxNnVGUVZNdUl3ZGg3cjQxMktsbnRIQ1hkQkpUdDB3MnlxY0Z4bW11STNMWVdSbUt5VUZiQU1Gb3pITmRpTkotWDZRbGdXSn",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1p6alVvT2JISVdkZmpXSk5kbndiTHljY2tYVmhKaDkxNnVGUVZNdUl3ZGg3cjQxMktsbnRIQ1hkQkpUdDB3MnlxY0Z4bW11STNMWVdSbUt5VUZiQU1Gb3pITmRpTkotWDZRbGdXSnk1WWxqOU1rdHJHMXpmTGlRR0p2bi10NVYtWG1hWHBIRHhsVW8xam84?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-11-16-035",
+    "date": "2026-11-16",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Home (KBH) Stock Moves -1.04%: What You Should Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOckVORlAxRzk4elE0UjFkMXh0OHV2WXhzVFh1OENvdXVxLVdUSHlOYjVkQ2pBclJQck9Na3dubDlfMVJodUtzSFFCQkNMZXZMSEJwYnY5ekNUQkdGME1VbW1yRFJjYjdOMmRGV01mdU",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckVORlAxRzk4elE0UjFkMXh0OHV2WXhzVFh1OENvdXVxLVdUSHlOYjVkQ2pBclJQck9Na3dubDlfMVJodUtzSFFCQkNMZXZMSEJwYnY5ekNUQkdGME1VbW1yRFJjYjdOMmRGV01mdU5yVGRwUmhJV05uWWNFUWpKQVBmMDUyZlNrT2ZDeHFjb0VhUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kb_home-2026-11-16-036",
+    "date": "2026-11-16",
+    "companies": [
+      "kb_home"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KB Home's Albert Z. Praw to Retire as Executive Vice President - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTdzelBZRkZBSjVMaWtnamJkZ2dsNzNWYU5FVnl6NXc2c1BPRkx5ajI1aHpnZWtfenVjMHFpTlNpZnZEYWhzbzNuU2xNckZaVHQ1SHQyeG5lbTU4YlFxZFY4WkRQczRtcjE5cWppT1",
+    "sources": [
+      {
+        "name": "kb_home",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTdzelBZRkZBSjVMaWtnamJkZ2dsNzNWYU5FVnl6NXc2c1BPRkx5ajI1aHpnZWtfenVjMHFpTlNpZnZEYWhzbzNuU2xNckZaVHQ1SHQyeG5lbTU4YlFxZFY4WkRQczRtcjE5cWppT1paS3lGZEFBNmJEUGpaakE4WndqNzBLVFVxZEdnbDhZRUUteGVJck1aeG1oaDZjQnBzQ2NwUWZiZ3RaU0loWC1ra1dzbWxwMjJva2VCSXJDTmo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-037",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Homebuilders say worker shortage tied to immigration enforcement could raise prices - News4JAX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNejZrWWFpWlFGMzlCcEtEcmZrVUxVaC1hc2ZIcjVncUsxZUNpS05tYTRsM0o2dDBSMEVFWGpCamFMaXNzRXhybUtHNmVLUi1kRGFfSlRjX1FRSXFvNHRMNkhmbVhES0FEUUtxdlJoRy",
+    "sources": [
+      {
+        "name": "google_housing_market",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejZrWWFpWlFGMzlCcEtEcmZrVUxVaC1hc2ZIcjVncUsxZUNpS05tYTRsM0o2dDBSMEVFWGpCamFMaXNzRXhybUtHNmVLUi1kRGFfSlRjX1FRSXFvNHRMNkhmbVhES0FEUUtxdlJoRy1sYVNxcTlRa3E4Q2lZMWRZYjVwM0twelBkQ3ZlbjY5NkplWGJzekQ5VzJBQUFhbXZBMk82NExVWWhnd0plRWhZSTlxMXh3Q1FUQkJ0NmY2dC1xeGRRZmZ5a1RTWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -866,6 +1687,26 @@
     ]
   },
   {
+    "id": "cathay_real_estate-2026-11-13-022",
+    "date": "2026-11-13",
+    "companies": [
+      "cathay_real_estate"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cathay Real Estate Development Co., Ltd. Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPakk0Nl9qbWZFQ1VOdGlXTVVNVmZMTnVMYjE0cVBlcC1NODlzcVc0S0x3cFRaaXRXOUFJdnlYcFhDcDVkWVhLUldTZmRrVEZoLVpldXBSVUdsVFJsZlJSdHdaamlqd1hkZXk4d2lROF",
+    "sources": [
+      {
+        "name": "cathay_real_estate",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPakk0Nl9qbWZFQ1VOdGlXTVVNVmZMTnVMYjE0cVBlcC1NODlzcVc0S0x3cFRaaXRXOUFJdnlYcFhDcDVkWVhLUldTZmRrVEZoLVpldXBSVUdsVFJsZlJSdHdaamlqd1hkZXk4d2lROFFqQ2YzcmFNeGlWak9oczI3WnJLQVdYU203WWRLOG9CdWMyaXdoZk4tcVE1dFdTSlZuY2F1WWNSeFp3T2FMS0lTV0xqOTU1X1R5dmMzdjJCODNxdVp3UGtqQ19rUm9ydHRFUWVLdG1KdkpJaDNBb3l4WDJCNEQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "taiwan_glass-2026-11-12-001",
     "date": "2026-11-12",
     "companies": [
@@ -1365,6 +2206,26 @@
       {
         "name": "highwealth",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTFTSDdjUC1pcjBxWm1iWEZtX25ONlA4WThPWm1Ra1R6eG1nS3dFNmNNOGJNa251WmFfXzIwZ3dZaFFRSW1ENGg1NUVtQkNoTFJjVmQ2a19uRWZ2OXB1Z3FrdHVxSkZacHpyWFJnZlFqd0ZkVUJFWExNSU50WThTTWdJS1R4ZFk4cjBlcXBrN2ZnclZfVEZ0ZEp5Qy1VczhEU3docUJmZEoxcDQwUHJKdXJwSWc2UWxtb1JLOGNZWDhNc3RscXIybw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "farglory-2026-11-12-027",
+    "date": "2026-11-12",
+    "companies": [
+      "farglory"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Farglory Land Development Says Jan-Sept Net Profit At T$3.68 Bln - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6V1F5aHhLc2Z0dEpoWmNWbW91ZWF3eGhNT3lCZ2t5SnhhNWZRcDdRdlA3SXE5dGJVTjh4bXZKZUlHTk1XMks3aEF3UUFMYXNqOGVEd3pUYWM5MndTNkkwd0YzVzhXNXAybW1yOU",
+    "sources": [
+      {
+        "name": "farglory",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYml6V1F5aHhLc2Z0dEpoWmNWbW91ZWF3eGhNT3lCZ2t5SnhhNWZRcDdRdlA3SXE5dGJVTjh4bXZKZUlHTk1XMks3aEF3UUFMYXNqOGVEd3pUYWM5MndTNkkwd0YzVzhXNXAybW1yOU1CRWRGcGhqZ1RFTnhhUWFyQWJLVlpUUUlMX2hYNkhpZ0wtNDVTZjY5NHl4X0ZuQjR1X01DTl9aZkNHdUhSb2MtZU5MRFlDOG8welpjZzhvSkwtb2Fub3RtQV85TFhad0E?oc=5",
         "type": "rss"
       }
     ]
@@ -2564,6 +3425,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0R1bnM2WXNHZGNPeTFWb0IxdGRabDh2aUhKZVhuN3AyQXM5RFV2YS1iXzlHeTE1bGRTUkRBREd6Q3AyamgzSHB6ZkY5Y0llUmNEQVJta0V0SEVzeTFFR3dwa3hBMEZjeGFybmxNR29BWlBHVVhoWko2UnRmOWFnbU1LWTBOS2F2cGVIN2NaWmVqUVpTYnAteDltS1BBSW5RX3E4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toll_brothers-2026-11-10-034",
+    "date": "2026-11-10",
+    "companies": [
+      "toll_brothers"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toll Brothers to Webcast Its Fourth Quarter 2026 Earnings Conference Call Live on December 8, 2026 at 8:30 a.m. (ET) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWlPMVQwLXYzVm1EeE14WUJaQmRrVUlXYzU1ZnlhSkdpNmsxdTBnenJONDVDVnJST3Rwb3NUQV9lTlhJdTNYc3FCRVVWemwzdi1hellqTjlFcmtBT0RMa1RnTzhHb3JRMlZBZV94N1",
+    "sources": [
+      {
+        "name": "toll_brothers",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWlPMVQwLXYzVm1EeE14WUJaQmRrVUlXYzU1ZnlhSkdpNmsxdTBnenJONDVDVnJST3Rwb3NUQV9lTlhJdTNYc3FCRVVWemwzdi1hellqTjlFcmtBT0RMa1RnTzhHb3JRMlZBZV94N1M2R2lnQTc2bzRHMWNRcVN4OTAyMWc5WEo1c2tVRnJjMFFnY3o1ck54TW8wN3BUT1U?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 509,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 195,
+  "gate1_fail": 37,
+  "gate2_fail": 18,
+  "passed": 46,
+  "gate2_samples": [
+    "Solving Florida’s Water Challenge",
+    "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Stock Price, News, Quote & History - Yahoo! Finan",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

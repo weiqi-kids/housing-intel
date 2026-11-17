@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:21:35.160014Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan_materials-2026-11-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 13 November - Investing.com Canada",
+      "companies": [
+        "vulcan_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXB0ckVZMTZoLXdLTGlVWkFoOGZiZ0lKNldzak1hY0dNOWU5bzQ2WERBYVMtNDlNX1pGaV9xdldNaGF2OXl6WThDdkxJRTNwV1o2WHhMeTF4MDZPdUdNTEdlV0RucTFEVTdLOXlNT2RBRDhiNU1fRFZfS1dldzJGWVdrc0tnUG4taVNnYVNjRWFVSUVBYWFzTFVVNy1PazNVYk1GelFBeUR5MVlKaFdJR3o0WlZ1aHZ1SjdSOFVRTzQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-11-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart adds Caterpillar CEO to its board - Talk Business & Politics",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOek5KQzJIZDhVLVpXdmRtTzQ1R1lSeTRVU19id0REZlkxbTRPWF9JNWlXbmxUQXVJUkY1ZGE5LW40b015R29xRzZiLTZLZGNoUFpGSDNfZEVUekRBZ1pOZVJERnlPa0thcExfWjg4VFNiUkREbkdPcnhkTFRTbW1SLQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-11-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Michael Burry Just Closed the Last of His Caterpillar Puts. The Stock Is Down 46% From Its June High - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTZ1aElnamppUzFTYmEtQnVuYkFsRXhvUmJCZzVKaGc5MTRnNlByUHB1ckw1TllqZGViVHZCNUR5OHRnWkN4MVdMam9iOW8yX1ltVzVUV1V1ZFBqQ2dOWVotWlVRRERQTFJhbHlfQnd2V1dFOVVuUlVJT2s1X1VtOXpXR3ZPRGEzUTBmeW1wblhiVnpEZW9aZmctUXE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-11-17-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar to make collision safety technology standard - International Rental News",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHd3b2paSW1RX2pqVVlxcmdrMGxjcnR4OTdwSzVBem10amV4U1RCd05YV01MaWRJN0FxWTZvNlNRa0h2RTVUYmlTWUg2YTdPenVNWGdadTIwNjhrck5LN0VwTU1Jb2hVUFM3LUNPajNZMTNnUHpXQlBENGRKaHB4ZFNnejA3TkpobmRVVUxZYTdWbHlwWm9NdEw1bUNsaUJCQ3FXRTcwQ0J4cEVBb0FIeXN2Y0RhNFNl?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-11-17-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NH residents say they still feel effects decade after Saint-Gobain PFAS contamination discovery - WMUR",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNENnejFPUG5fUjI0NEpDSXZaeV85NWh3d0dWakpDLTRSam52dkczRnZMSW9yT1FaQ0lNUnJUcy1tZHZNSzVJUXhZQkFiVHJSblRmX2sxTGxsdTJvOEJDOGdTeThSbnZjQ3pieWRISE1kOWQ5aDNwQ1QxYWdweHdkZUtuWkNscG9wU2Jsc1dKTjRURWJ5UTJzN3E0WnE4WGg3Vl9GOEZTSFZ0VFRsTTRsSlNn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mortgage_rates": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "lennar",
+        "count": 3
+      },
+      {
+        "id": "vulcan_materials",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      },
+      {
+        "id": "pultegroup",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "mortgage_rates",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 509,
+    "dup_title": 213,
+    "too_old": 195,
+    "gate1_blocked": 37,
+    "gate2_blocked": 18,
+    "passed": 46,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Solving Florida’s Water Challenge",
+      "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Stock Price, News, Quote & History - Yahoo! Finan",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+      "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為CAT、Lennar、Vulcan相關動態：「Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 1...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 13 November - Investi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Walmart adds Caterpillar CEO to its board - Talk Business & Politics（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
