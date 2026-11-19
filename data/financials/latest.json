@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:55:50.039139Z",
+  "updated_at": "2026-11-19T17:02:26.981553Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "遠雄",
       "ticker": "5522.TW",
       "currency": "TWD",
-      "ar": 185950000,
-      "ar_prev": 190259000,
-      "ar_qoq": "-2%",
+      "ar": 218936000,
+      "ar_prev": 185950000,
+      "ar_qoq": "+18%",
       "ar_period": "QoQ",
-      "inventory": 80864624000,
-      "inv_prev": 77607993000,
-      "inv_qoq": "+4%",
+      "inventory": 91008279000,
+      "inv_prev": 80864624000,
+      "inv_qoq": "+13%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "highwealth",

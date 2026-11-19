@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 49,
+  "gate2_fail": 19,
+  "passed": 29,
+  "gate2_samples": [
+    "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+    "Taiwan Glass Ind. Corp. (1802.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Arcelormittal Nippon Steel India Exec Says Reviewing Latest EU Duty Through Steel Body - TradingView",
+    "ArcelorMittal Nippon Steel nears full commissioning of automotive steel complex in Gujarat - Deccan ",
+    "Caterpillar's 'Best-In-Class' Construction Business Is Getting Overlooked, Analyst Says - Benzinga"
+  ]
+}
