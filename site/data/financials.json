@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T17:02:26.981553Z",
+  "updated_at": "2026-11-20T16:40:42.225266Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-08-31",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "D.R. Horton",
       "ticker": "DHI",
       "currency": "USD",
-      "ar": 421200000,
-      "ar_prev": 430400000,
-      "ar_qoq": "-2%",
+      "ar": 448500000,
+      "ar_prev": 421200000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 26686900000,
-      "inv_prev": 26303800000,
-      "inv_qoq": "+1%",
+      "inventory": 25065800000,
+      "inv_prev": 26686900000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "farglory",

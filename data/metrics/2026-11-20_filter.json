@@ -1,0 +1,16 @@
+{
+  "total_raw": 511,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 188,
+  "gate1_fail": 52,
+  "gate2_fail": 20,
+  "passed": 30,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+    "Nippon Steel sets coupons of 2.324% to 2.840% on ¥60bn of bonds to refinance debt - Tokyo Brief",
+    "Arcelormittal Nippon Steel India Exec Says Reviewing Latest EU Duty Through Steel Body - TradingView",
+    "ArcelorMittal Nippon Steel nears full commissioning of automotive steel complex in Gujarat - Deccan "
+  ]
+}
