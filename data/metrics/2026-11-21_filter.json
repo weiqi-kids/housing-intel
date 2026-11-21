@@ -1,0 +1,16 @@
+{
+  "total_raw": 511,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 38,
+  "gate2_fail": 23,
+  "passed": 33,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+    "ArcelorMittal Nippon Steel nears full commissioning of automotive steel complex in Gujarat - Deccan ",
+    "Why Is Vulcan Materials (NYSE:VMC) Trading on Heavy Volume? Here Is What We Know - kalkine.ca",
+    "Vulcan Materials Co (VMC.HA) options chain - Yahoo Finance UK",
+    "Is Caterpillar Stock Priced Right Against Its Rivals? - Yahoo Finance"
+  ]
+}
