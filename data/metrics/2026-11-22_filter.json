@@ -1,0 +1,16 @@
+{
+  "total_raw": 510,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 212,
+  "gate1_fail": 39,
+  "gate2_fail": 20,
+  "passed": 8,
+  "gate2_samples": [
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+    "ArcelorMittal Nippon Steel nears full commissioning of automotive steel complex in Gujarat - Deccan ",
+    "Caterpillar Sinks 11% in a Week to a New 52-Week Low. Is the Selling Overdone? - TIKR.com",
+    "Is Caterpillar Stock Priced Right Against Its Rivals? - Trefis",
+    "A wasp left about 80 eggs inside a caterpillar in a few seconds. Then the larvae chewed their way ou"
+  ]
+}
