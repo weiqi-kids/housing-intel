@@ -1,0 +1,16 @@
+{
+  "total_raw": 509,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 202,
+  "gate1_fail": 45,
+  "gate2_fail": 21,
+  "passed": 22,
+  "gate2_samples": [
+    "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+    "Foreign Investors Dump 140,000 Taiwan Glass Shares Over 7 Straight Sessions, Yet Stock Defies Trend ",
+    "Caterpillar Sinks 11% in a Week to a New 52-Week Low. Is the Selling Overdone? - TIKR.com",
+    "What Has Changed In Caterpillar’s Story? - Trefis"
+  ]
+}
