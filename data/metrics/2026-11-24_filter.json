@@ -1,0 +1,16 @@
+{
+  "total_raw": 504,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 45,
+  "gate2_fail": 35,
+  "passed": 31,
+  "gate2_samples": [
+    "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+    "Foreign Investors Dump 140,000 Taiwan Glass Shares Over 7 Straight Sessions, Yet Stock Defies Trend ",
+    "Caterpillar (CAT) Falls In Broad Pullback As Undervalued Narrative Stays In Focus - Yahoo Finance",
+    "Caterpillar’s AI Boom Went Bust. Why Smaller Equipment Could Spark a Comeback. - Barron's"
+  ]
+}
