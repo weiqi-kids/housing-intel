@@ -1,0 +1,16 @@
+{
+  "total_raw": 476,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 40,
+  "gate2_fail": 24,
+  "passed": 29,
+  "gate2_samples": [
+    "Taiwan Cement calls for action against low-priced cement imports - Taiwan News",
+    "Taiwan Stocks Rebound 956 Points, but Foreign Investors Still Pull NT$49.18 Billion; Taiwan Glass Hi",
+    "Foreign Investors Dump 140,000 Taiwan Glass Shares Over 7 Straight Sessions, Yet Stock Defies Trend ",
+    "Vulcan Materials Company Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "2027 Industrial Divide: Caterpillar Monetizes AI Power While Deere Chases an Ag Bottom - Yahoo Finan"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-26",
+  "date_range": {
+    "start": "2026-11-20",
+    "end": "2026-11-26"
+  },
+  "generated_at": "2026-11-26T18:06:19.119078Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "kb_home-2026-11-25-012",
+      "date": "2026-11-25",
+      "title": "Zacks Industry Outlook Highlights Toll Brothers and KB Home - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 73,
+      "last_week": 56,
+      "week_over_week_change": "+30%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "mortgage_rates": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
+    },
+    "construction_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "asia_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "vulcan_materials": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "caterpillar": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "highwealth": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "dr_horton": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lennar": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 12
+    },
+    "kindom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "pultegroup": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "kb_home": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "farglory": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 14
+    },
+    "toll_brothers": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "taiwan_cement": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cathay_real_estate": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "ruentex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "daiwa_house": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "nvr": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 146,
+        "last": 180,
+        "change_pct": -18.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-20",
+      "event_count": 40,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 5,
+      "sentiment_avg": -0.2
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 35,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-11-25",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-26",
+      "event_count": 17,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-20 ~ 2026-11-26）共 146 則事件，重點為「Zacks Industry Outlook Highlights Toll Brothers...」。Farglory Land Development情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Farglory Land Development",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Vulcan",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
