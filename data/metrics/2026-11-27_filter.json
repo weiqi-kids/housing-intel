@@ -1,0 +1,16 @@
+{
+  "total_raw": 505,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 194,
+  "gate1_fail": 33,
+  "gate2_fail": 33,
+  "passed": 30,
+  "gate2_samples": [
+    "Taiwan Cement calls for action against low-priced cement imports - Taiwan News",
+    "Taiwan Stocks Rebound 956 Points, but Foreign Investors Still Pull NT$49.18 Billion; Taiwan Glass Hi",
+    "Foreign Investors Dump 140,000 Taiwan Glass Shares Over 7 Straight Sessions, Yet Stock Defies Trend ",
+    "US-based Vulcan Materials challenges Mexico ruling over arbitration claim - marketscreener.com",
+    "Vulcan Materials Company Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance"
+  ]
+}
