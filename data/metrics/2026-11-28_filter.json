@@ -1,0 +1,16 @@
+{
+  "total_raw": 504,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 208,
+  "gate1_fail": 36,
+  "gate2_fail": 28,
+  "passed": 14,
+  "gate2_samples": [
+    "Taiwan Cement calls for action against low-priced cement imports - Taiwan News",
+    "Taiwan Stocks Rebound 956 Points, but Foreign Investors Still Pull NT$49.18 Billion; Taiwan Glass Hi",
+    "Foreign Investors Dump 140,000 Taiwan Glass Shares Over 7 Straight Sessions, Yet Stock Defies Trend ",
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside - TradingVie",
+    "Vulcan Uses Two More Companies to Sue Mexico Again, Economy Secretariat Says - Mexico Solidarity Med"
+  ]
+}
